@@ -20,7 +20,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,7 +32,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588796519550</updated>
-      <workItem from="1588796522994" duration="211000" />
+      <workItem from="1588796522994" duration="1010000" />
+      <workItem from="1588964826854" duration="172000" />
     </task>
     <servers />
   </component>
@@ -40,9 +41,9 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="782" y="346" key="SettingsEditor" timestamp="1588796733716">
+    <state x="782" y="346" key="SettingsEditor" timestamp="1588796789161">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1588796733716" />
+    <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1588796789161" />
   </component>
 </project>
