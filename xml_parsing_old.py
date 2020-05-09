@@ -9,7 +9,7 @@ Created on Fri Dec  6 16:23:34 2019
 
 #PARSING FILE XML
 import xml.sax
-from Indexing import indexWriter_creator
+from Indexing_old import indexWriter_creator
 
 class WikiHandler( xml.sax.ContentHandler ):
     def __init__(self):
