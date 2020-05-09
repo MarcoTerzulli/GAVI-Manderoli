@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)" />
+    <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
+      <change beforePath="$PROJECT_DIR$/Indexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Indexing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main_old.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +95,7 @@
       <workItem from="1588796522994" duration="1010000" />
       <workItem from="1588964826854" duration="172000" />
       <workItem from="1588965430370" duration="3537000" />
-      <workItem from="1588973037880" duration="11306000" />
+      <workItem from="1588973037880" duration="11829000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
@@ -101,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588986373660</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
+      <created>1588986688772</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588986688772</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,10 +134,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="100" y="127" width="1166" height="541" key="DiffContextDialog" timestamp="1588987146946">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="100" y="127" width="1166" height="541" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1588987146946" />
     <state x="344" y="27" width="1022" height="737" key="SettingsEditor" timestamp="1588983517914">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1588796789161" />
     <state x="344" y="27" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1588983517914" />
+    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1588986699594">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1588986699594" />
   </component>
 </project>
