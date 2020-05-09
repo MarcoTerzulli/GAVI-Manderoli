@@ -19,19 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indexing_old.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parsing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Indexing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Searching.py" beforeDir="false" afterPath="$PROJECT_DIR$/Searching_old.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml_parsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/xml_parsing_old.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml_snippet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml_snippet.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,8 +92,16 @@
       <workItem from="1588796522994" duration="1010000" />
       <workItem from="1588964826854" duration="172000" />
       <workItem from="1588965430370" duration="3537000" />
-      <workItem from="1588973037880" duration="10944000" />
+      <workItem from="1588973037880" duration="11306000" />
     </task>
+    <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
+      <created>1588986373660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588986373660</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +118,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="344" y="27" width="1022" height="737" key="SettingsEditor" timestamp="1588983517914">
