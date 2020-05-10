@@ -20,14 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Aggiunta file variabili di configurazione e modulo searching.py">
+      <change afterPath="$PROJECT_DIR$/gui_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexdir/MAIN_m68g4n1md4nyjmc7.seg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Searching_old.py" beforeDir="false" afterPath="$PROJECT_DIR$/Searching_old.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexdir/MAIN_wqxbil3y9nyetmi1.seg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/indexdir/_MAIN_1.toc" beforeDir="false" afterPath="$PROJECT_DIR$/indexdir/_MAIN_1.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/indexing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/parsing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/searching.py" beforeDir="false" afterPath="$PROJECT_DIR$/searching.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,6 +190,7 @@
       <workItem from="1589061747683" duration="29000" />
       <workItem from="1589061974081" duration="24000" />
       <workItem from="1589120814529" duration="6027000" />
+      <workItem from="1589132059398" duration="169000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>

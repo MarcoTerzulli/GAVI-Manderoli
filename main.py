@@ -4,6 +4,8 @@
 @author: riccardo
 """
 import xml.sax as sax
+
+from gui_handler import gui_form
 from parsing import WikiHandler
 from configuration import xml_file
 from searching import WikiSearcherModule
@@ -43,5 +45,7 @@ if len(results) == 0:
 else:
     for x in results[:10]:
         print(f"--Pos: {x.rank} Score:{x.score}\nTitle: {x['title']} Id: {x['identifier']}\nContent: {x['content'][:256]}")
+
+gui_form()
 # FINE DEBUG
 
