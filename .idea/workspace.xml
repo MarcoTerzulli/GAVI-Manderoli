@@ -65,7 +65,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -77,6 +77,9 @@
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -96,6 +99,9 @@
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -137,6 +143,9 @@
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/indexdir" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -176,6 +185,8 @@
       <workItem from="1588973037880" duration="12353000" />
       <workItem from="1589026880367" duration="5508000" />
       <workItem from="1589033265638" duration="4083000" />
+      <workItem from="1589121237674" duration="2013000" />
+      <workItem from="1589123267102" duration="203000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
@@ -231,6 +242,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="100" y="127" width="1166" height="541" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1588987146946" />
+    <state x="1117" y="483" key="FileChooserDialogImpl" timestamp="1589122893524">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1117" y="483" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1589122893524" />
     <state width="660" height="215" key="GridCell.Tab.0.bottom" timestamp="1589037044320">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -263,10 +278,11 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="660" height="215" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1589037044320" />
-    <state x="344" y="27" width="1022" height="737" key="SettingsEditor" timestamp="1588983517914">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="782" y="346" width="1141" height="951" key="SettingsEditor" timestamp="1589123469263">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1588796789161" />
+    <state x="187" y="0" width="1141" height="951" key="SettingsEditor/0.0.1328.956@0.0.1328.956" timestamp="1589122020267" />
+    <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1589123469263" />
     <state x="344" y="27" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1588983517914" />
     <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1588987244261">
       <screen x="0" y="27" width="1366" height="741" />
