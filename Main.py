@@ -5,6 +5,7 @@
 """
 import xml.sax as sax
 from Parsing import WikiHandler
+from indexdir.gui_handler import *
 
 xml_file = "xml_snippet.xml"
 
@@ -28,3 +29,6 @@ parser.setContentHandler(my_handler)
 
 # Avvio il parsing del file selezionato
 parser.parse(xml_file)
+
+#avvio form gui
+gui_form_test()
