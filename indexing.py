@@ -15,7 +15,7 @@ from configuration import index_dir
 def create_index_writer():
 
     # Creazione dello schema dei documenti da indicizzare
-    schema: Schema = Schema(title=TEXT(stored=True), identifier=ID(stored=True), content=TEXT(stored=True))
+    schema: Schema = Schema(title=TEXT(stored=True), identifier=ID(stored=True, unique=True), content=TEXT(stored=True))
 
     # Verifica dell'esistenza della cartella dell'indice
     if not path.exists(index_dir):

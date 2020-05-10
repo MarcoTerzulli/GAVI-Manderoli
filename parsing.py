@@ -97,9 +97,9 @@ class WikiHandler(sax.handler.ContentHandler):
                 self.__idx_writer.add_document(title=self.__title, identifier=self.__id, content=self.__text)
 
                 # SEZIONE DI DEBUG
-                print(self.__title)
-                print(self.__id)
-                print(self.__text)
+                #print(self.__title)
+                #print(self.__id)
+                #print(self.__text)
                 # FINE SEZIONE DI DEBUG
 
                 # Resetto le variabili

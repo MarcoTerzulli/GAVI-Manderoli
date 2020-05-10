@@ -15,7 +15,7 @@ class searcher_module():
         
         self.index = open_dir("indexdir")
         
-        self.searcher = self.index.searcher()
+        self.searcher = self.index.__searcher()
         #print(list(self.searcher.lexicon("content")))
         self.parser = QueryParser("content", schema=self.index.schema)
     
