@@ -5,8 +5,8 @@
 """
 import xml.sax as sax
 from parsing import WikiHandler
+from configuration import xml_file
 
-xml_file = "xml_snippet.xml"
 
 #Verifico che main.py sia stato invocato come main del nostro programma
 
