@@ -4,11 +4,11 @@
 @author: riccardo
 """
 import xml.sax as sax
-from Parsing import WikiHandler
+from parsing import WikiHandler
 
 xml_file = "xml_snippet.xml"
 
-#Verifico che Main.py sia stato invocato come main del nostro programma
+#Verifico che main.py sia stato invocato come main del nostro programma
 
 try:
     assert __name__ == "__main__"

@@ -8,11 +8,11 @@ from whoosh.index import create_in
 from whoosh.fields import TEXT, ID, Schema
 from os import mkdir
 from os import path
+from configuration import index_dir
 
-index_dir = "indexdir"
 
 
-def index_writer_creator():
+def create_index_writer():
 
     # Creazione dello schema dei documenti da indicizzare
     schema: Schema = Schema(title=TEXT(stored=True), identifier=ID(stored=True), content=TEXT(stored=True))

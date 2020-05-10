@@ -19,15 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py) + commenti">
-      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/indexdir/MAIN_WRITELOCK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/indexdir/_MAIN_1.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xml_file_explor_DEBUG.py" afterDir="false" />
+    <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Ulteriore pythonizzazione del codice, aggiunta controlli, aggiunta nuovo main, aggiunto file eseguibile (indipendente) per la visualizzazione di sezioni del dump wikipedia (marcato con DEBUG)">
+      <change afterPath="$PROJECT_DIR$/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/searching.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Indexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Indexing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Parsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Parsing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml_snippet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml_snippet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexdir/_MAIN_1.toc" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,52 +63,14 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Main">
-    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GAVI-Manderoli" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Parsing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GAVI-Manderoli" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Parsing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.main">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,10 +93,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GAVI-Manderoli" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parsing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GAVI-Manderoli" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parsing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="xml_file_explor_DEBUG" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/indexdir" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -154,8 +158,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Main" />
-        <item itemvalue="Python.Parsing" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.parsing" />
         <item itemvalue="Python.xml_file_explor_DEBUG" />
       </list>
     </recent_temporary>
@@ -176,6 +180,15 @@
       <workItem from="1588973037880" duration="12353000" />
       <workItem from="1589026880367" duration="5508000" />
       <workItem from="1589033265638" duration="4083000" />
+      <workItem from="1589038307042" duration="397000" />
+      <workItem from="1589051161296" duration="329000" />
+      <workItem from="1589051539848" duration="72000" />
+      <workItem from="1589051659815" duration="120000" />
+      <workItem from="1589053434623" duration="868000" />
+      <workItem from="1589061168290" duration="21000" />
+      <workItem from="1589061747683" duration="29000" />
+      <workItem from="1589061974081" duration="24000" />
+      <workItem from="1589120814529" duration="2937000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
@@ -231,51 +244,51 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="100" y="127" width="1166" height="541" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1588987146946" />
-    <state width="660" height="215" key="GridCell.Tab.0.bottom" timestamp="1589037044320">
+    <state width="1320" height="215" key="GridCell.Tab.0.bottom" timestamp="1589038703982">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="660" height="215" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1589037044320" />
-    <state width="660" height="215" key="GridCell.Tab.0.center" timestamp="1589037044320">
+    <state width="1320" height="215" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1589038703982" />
+    <state width="1320" height="215" key="GridCell.Tab.0.center" timestamp="1589038703982">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="660" height="215" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1589037044320" />
-    <state width="660" height="215" key="GridCell.Tab.0.left" timestamp="1589037044319">
+    <state width="1320" height="215" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1589038703982" />
+    <state width="1320" height="215" key="GridCell.Tab.0.left" timestamp="1589038703982">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="660" height="215" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1589037044319" />
-    <state width="660" height="215" key="GridCell.Tab.0.right" timestamp="1589037044320">
+    <state width="1320" height="215" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1589038703982" />
+    <state width="1320" height="215" key="GridCell.Tab.0.right" timestamp="1589038703982">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="660" height="215" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1589037044320" />
-    <state width="660" height="215" key="GridCell.Tab.1.bottom" timestamp="1589037044320">
+    <state width="1320" height="215" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1589038703982" />
+    <state width="1320" height="215" key="GridCell.Tab.1.bottom" timestamp="1589038703983">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="660" height="215" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1589037044320" />
-    <state width="660" height="215" key="GridCell.Tab.1.center" timestamp="1589037044320">
+    <state width="1320" height="215" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1589038703983" />
+    <state width="1320" height="215" key="GridCell.Tab.1.center" timestamp="1589038703983">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="660" height="215" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1589037044320" />
-    <state width="660" height="215" key="GridCell.Tab.1.left" timestamp="1589037044320">
+    <state width="1320" height="215" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1589038703983" />
+    <state width="1320" height="215" key="GridCell.Tab.1.left" timestamp="1589038703983">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="660" height="215" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1589037044320" />
-    <state width="660" height="215" key="GridCell.Tab.1.right" timestamp="1589037044320">
+    <state width="1320" height="215" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1589038703983" />
+    <state width="1320" height="215" key="GridCell.Tab.1.right" timestamp="1589038703983">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="660" height="215" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1589037044320" />
-    <state x="344" y="27" width="1022" height="737" key="SettingsEditor" timestamp="1588983517914">
+    <state width="1320" height="215" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1589038703983" />
+    <state x="344" y="27" width="1022" height="737" key="SettingsEditor" timestamp="1589061793509">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1588796789161" />
-    <state x="344" y="27" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1588983517914" />
+    <state x="344" y="27" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1589061793509" />
     <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1588987244261">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1588987244261" />
-    <state x="458" y="311" width="440" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589026897840">
+    <state x="458" y="311" width="440" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589061991528">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="458" y="311" width="440" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1589026897840" />
+    <state x="458" y="311" width="440" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1589061991528" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -289,6 +302,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/GAVI_Manderoli$Main.coverage" NAME="Main Coverage Results" MODIFIED="1589037026779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GAVI_Manderoli$Main.coverage" NAME="Main Coverage Results" MODIFIED="1589038410695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

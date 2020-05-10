@@ -5,7 +5,7 @@
 """
 
 import xml.sax as sax
-from Indexing import index_writer_creator
+from indexing import create_index_writer
 from sys import exit
 
 
@@ -42,7 +42,7 @@ class WikiHandler(sax.handler.ContentHandler):
         Con l'inizio del documento xml viene creato l'indice che conterrà
         le pagine Wikipedia che ne verranno estratte
         """
-        self.__idx_writer = index_writer_creator()
+        self.__idx_writer = create_index_writer()
         print("INDEX OPENED")
 
     def endDocument(self):
@@ -55,10 +55,7 @@ class WikiHandler(sax.handler.ContentHandler):
 
     def startElement(self, tag, attributes):
 
-        if tag in self.__target_tags:
-            self.__skip = False
-        else:
-            self.__skip = True
+        self.__skip = False if tag in self.__target_tags else True
 
         # Non ci interessa il contenuto del tag "redirect" (vuoto),
         # ma ci interessa il suo attributo (titolo pagina destinazione redirect)
