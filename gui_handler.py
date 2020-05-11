@@ -63,16 +63,17 @@ class GuiHandler:
     def __button_search_click(self):
         # TO-DO roba per azionare la query e generare un output
         query_text = self.__entry_query.get()
-        query_results: Results = self.__searcher.commit_query(query_text)
+        if len(query_text) > 0:
+            query_results: Results = self.__searcher.commit_query(query_text)
 
-        # DEBUG
-        if len(query_results) == 0:
-            print("NESSUN RISULTATO")
-        else:
-            for x in query_results[:10]:
-                print(
-                    f"--Pos: {x.rank} Score:{x.score}\nTitle: {x['title']} Id: {x['identifier']}\n"
-                    f"Content: {x['content'][:256]}")
+            # DEBUG
+            if len(query_results) == 0:
+                print("NESSUN RISULTATO")
+            else:
+                for x in query_results[:10]:
+                    print(
+                        f"--Pos: {x.rank} Score:{x.score}\nTitle: {x['title']} Id: {x['identifier']}\n"
+                        f"Content: {x['content'][:256]}")
 
         # FINE DEBUG
 
