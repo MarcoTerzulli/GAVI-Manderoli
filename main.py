@@ -40,8 +40,9 @@ parser.parse(xml_file)
 
 indexer = WikiIndexerModule()
 indexer.write_index(xml_file)
+searcher = WikiSearcherModule()
 
-gui = GuiHandler()
+gui = GuiHandler(searcher)
 gui.gui_loader()
 
 

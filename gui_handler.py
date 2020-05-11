@@ -1,14 +1,9 @@
 from tkinter import *
-
-# from tkinter.ttk import *
 from whoosh.searching import Results
 
-from searching import WikiSearcherModule
-
-
 class GuiHandler:
-    def __init__(self):
-        self.__searcher = WikiSearcherModule()
+    def __init__(self, searcher):
+        self.__searcher = searcher
         self.__gui_initializer()
 
     def __gui_initializer(self):
