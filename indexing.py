@@ -18,7 +18,9 @@ from configuration import index_dir
 
 
 class WikiIndexerModule:
-
+    """
+    Modulo di gestione del parsing e dell'indicizzazione
+    """
     def __init__(self):
         # Creo il parser SAX
         self.__parser = sax.make_parser()
@@ -51,6 +53,9 @@ def index_writer_init():
 
 
 class WikiHandler(sax.handler.ContentHandler):
+    """
+    Modulo di gestione del parsing per sax
+    """
 
     def __init__(self):
         """

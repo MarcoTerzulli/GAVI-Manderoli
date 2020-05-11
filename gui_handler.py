@@ -2,6 +2,7 @@ from tkinter import *
 #from tkinter.ttk import *
 
 def gui_form():
+
     # dichiarazione colori
     color_background="#ffffff"
     color_status_bar="#f5f5f5"
