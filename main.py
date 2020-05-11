@@ -3,22 +3,27 @@
 """
 @author: riccardo
 """
-import xml.sax as sax
 
-from gui_handler import gui_form
-from parsing import WikiHandler
+
+from indexing import WikiIndexerModule
 from configuration import xml_file
 from searching import WikiSearcherModule
+from gui_handler import gui_form
 
+"""
+import xml.sax as sax
+from parsing import WikiHandler
+from configuration import xml_file
+"""
 
-#Verifico che main.py sia stato invocato come main del nostro programma
+# Verifico che main.py sia stato invocato come main del nostro programma
 
 try:
     assert __name__ == "__main__"
 except AssertionError:
     raise EnvironmentError
 
-
+"""
 # Creo il parser SAX
 parser = sax.make_parser()
 # Ne disattivo i namespace
@@ -31,6 +36,11 @@ parser.setContentHandler(my_handler)
 
 # Avvio il parsing del file selezionato
 parser.parse(xml_file)
+"""
+
+indexer = WikiIndexerModule()
+
+indexer.write_index(xml_file)
 
 # Creo un instanza dell'oggetto searcher creato appositamente sul nostro indice
 searcher = WikiSearcherModule()
@@ -44,8 +54,9 @@ if len(results) == 0:
     print("NESSUN RISULTATO")
 else:
     for x in results[:10]:
-        print(f"--Pos: {x.rank} Score:{x.score}\nTitle: {x['title']} Id: {x['identifier']}\nContent: {x['content'][:256]}")
+        print(
+            f"--Pos: {x.rank} Score:{x.score}\nTitle: {x['title']} Id: {x['identifier']}\n"
+            f"Content: {x['content'][:256]}")
 
 gui_form()
 # FINE DEBUG
-
