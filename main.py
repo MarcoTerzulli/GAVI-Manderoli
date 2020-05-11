@@ -8,7 +8,7 @@
 from indexing import WikiIndexerModule
 from configuration import xml_file
 from searching import WikiSearcherModule
-from gui_handler import gui_form
+from gui_handler import GuiHandler
 
 """
 import xml.sax as sax
@@ -39,24 +39,14 @@ parser.parse(xml_file)
 """
 
 indexer = WikiIndexerModule()
-
 indexer.write_index(xml_file)
 
+gui = GuiHandler()
+gui.gui_loader()
+
+
 # Creo un instanza dell'oggetto searcher creato appositamente sul nostro indice
-searcher = WikiSearcherModule()
+#searcher = WikiSearcherModule()
+#query_text = u'afghanistan'
+#results = searcher.commit_query(query_text)
 
-query_txt = u'afghanistan'
-
-results = searcher.commit_query(query_txt)
-
-# DEBUG
-if len(results) == 0:
-    print("NESSUN RISULTATO")
-else:
-    for x in results[:10]:
-        print(
-            f"--Pos: {x.rank} Score:{x.score}\nTitle: {x['title']} Id: {x['identifier']}\n"
-            f"Content: {x['content'][:256]}")
-
-gui_form()
-# FINE DEBUG
