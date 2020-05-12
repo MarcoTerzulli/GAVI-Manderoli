@@ -33,7 +33,7 @@ class GuiHandler:
 
         self.__button_search = Button(master=self.__frame_top_query_input,
                                       text="Search",
-                                      command=self._search_event())
+                                      command=self._search_event)
 
         self.__entry_query.pack(side="left")
         self.__button_search.pack(side="left", padx=5)
