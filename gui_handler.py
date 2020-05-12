@@ -44,16 +44,39 @@ class GuiHandler:
         # ************************************************************************
         # ******************************* CENTER *********************************
         # ************************************************************************
-        #self.__frame_center_query_result = Frame(bg=self.__color_background)
-        self.__frame_center_query_result = ScrollableFrame(self.__window, self.__color_background)
+        #self.__frame_center_query_result = ScrollableFrame(self.__window, self.__color_background)
+        self.__frame_center_query_result = ScrollableFrame(self.__window, "#008000")
 
         # DEBUG INIZIO
-        for i in range(50):
-            Label(
-                self.__frame_center_query_result.scrollable_frame,
-                text="Sample scrolling label",
-                bg=self.__color_background).pack()
-        # DEBUG FINE
+        for i in range(20):
+            Label(self.__frame_center_query_result.scrollable_frame, text="Sample scrolling label", anchor=NW).pack()
+
+        debug_auto = False
+        if (debug_auto):
+            query_text = "afghanistan"
+            if len(query_text) > 0:
+                query_results: Results = self.__searcher.commit_query(query_text)
+
+                # DEBUG
+                if len(query_results) == 0:
+                    print("DEBUG: nessun risultato")
+                    Label(
+                        self.__frame_center_query_result.scrollable_frame,
+                        text="Nessun risultato",
+                        bg=self.__color_background).pack()
+                else:
+                    for x in query_results[:10]:
+                        #print(
+                        #    f"--Pos: {x.rank} Score:{x.score}\nTitle: {x['title']} Id: {x['identifier']}\n"
+                        #    f"Content: {x['content'][:256]}")
+
+                        print(
+                            f"--Pos: {x.rank} Score:{x.score}\nTitle: {x['title']}")
+                    for res in query_results[:10]:
+                        Label(
+                            self.__frame_center_query_result.scrollable_frame,
+                            text=f"--Pos: {res.rank}     Score: {res.score}\nTitle: {res['title']}",
+                            bg=self.__color_background).pack(side=TOP)
 
         self.__frame_center_query_result.pack(
             fill=BOTH,
@@ -86,12 +109,21 @@ class GuiHandler:
 
             # DEBUG
             if len(query_results) == 0:
-                print("NESSUN RISULTATO")
+                print("DEBUG: nessun risultato")
+                Label(
+                    self.__frame_center_query_result.scrollable_frame,
+                    text="Nessun risultato",
+                    bg=self.__color_background).pack()
             else:
                 for x in query_results[:10]:
                     print(
                         f"--Pos: {x.rank} Score:{x.score}\nTitle: {x['title']} Id: {x['identifier']}\n"
                         f"Content: {x['content'][:256]}")
+                for res in query_results[:10]:
+                    Label(
+                        self.__frame_center_query_result.scrollable_frame,
+                        text=f"{res['title']}",
+                        bg=self.__color_background).pack()
 
         # FINE DEBUG
 
