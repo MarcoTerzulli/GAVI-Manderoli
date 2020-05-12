@@ -1,6 +1,7 @@
 from tkinter import *
 from whoosh.searching import Results
 
+
 class GuiHandler:
     def __init__(self, searcher):
         self.__searcher = searcher
@@ -28,10 +29,12 @@ class GuiHandler:
             master=self.__frame_top_query_input,
             width=50
         )
+        self.__entry_query.bind('<Return>', self._search_event)
+
         self.__button_search = Button(
             master=self.__frame_top_query_input,
             text="Search",
-            command=self._button_search_click
+            command=self._search_event()
         )
 
         self.__entry_query.pack(side="left")
@@ -40,11 +43,10 @@ class GuiHandler:
             padx=5
         )
 
-
         # ************************************************************************
         # ******************************* CENTER *********************************
         # ************************************************************************
-        #self.__frame_center_query_result = ScrollableFrame(self.__window, self.__color_background)
+        # self.__frame_center_query_result = ScrollableFrame(self.__window, self.__color_background)
         self.__frame_center_query_result = ScrollableFrame(self.__window, "#008000")
 
         # DEBUG INIZIO
@@ -52,7 +54,7 @@ class GuiHandler:
             Label(self.__frame_center_query_result.scrollable_frame, text="Sample scrolling label", anchor=NW).pack()
 
         debug_auto = False
-        if (debug_auto):
+        if debug_auto:
             query_text = "afghanistan"
             if len(query_text) > 0:
                 query_results: Results = self.__searcher.commit_query(query_text)
@@ -66,9 +68,9 @@ class GuiHandler:
                         bg=self.__color_background).pack()
                 else:
                     for x in query_results[:10]:
-                        #print(
-                        #    f"--Pos: {x.rank} Score:{x.score}\nTitle: {x['title']} Id: {x['identifier']}\n"
-                        #    f"Content: {x['content'][:256]}")
+                        # print(
+                        #     f"--Pos: {x.rank} Score:{x.score}\nTitle: {x['title']} Id: {x['identifier']}\n"
+                        #     f"Content: {x['content'][:256]}")
 
                         print(
                             f"--Pos: {x.rank} Score:{x.score}\nTitle: {x['title']}")
@@ -82,9 +84,6 @@ class GuiHandler:
             fill=BOTH,
             expand=True
         )
-
-
-
 
         # ************************************************************************
         # ******************************* BOTTOM *********************************
@@ -101,19 +100,16 @@ class GuiHandler:
         )
         self.__label_credits.pack(side="right")
 
-    def _button_search_click(self):
+    def _search_event(self, event=None):
         # TO-DO roba per azionare la query e generare un output
         query_text = self.__entry_query.get()
         if len(query_text) > 0:
             query_results: Results = self.__searcher.commit_query(query_text)
 
             # DEBUG
+            print(f"\nResults for: {query_text}\n")
             if len(query_results) == 0:
-                print("DEBUG: nessun risultato")
-                Label(
-                    self.__frame_center_query_result.scrollable_frame,
-                    text="Nessun risultato",
-                    bg=self.__color_background).pack()
+                print("NESSUN RISULTATO")
             else:
                 for x in query_results[:10]:
                     print(
@@ -124,6 +120,7 @@ class GuiHandler:
                         self.__frame_center_query_result.scrollable_frame,
                         text=f"{res['title']}",
                         bg=self.__color_background).pack()
+            print("\n==========================================================")
 
         # FINE DEBUG
 
@@ -156,9 +153,3 @@ class ScrollableFrame(Frame):
 
     def _on_mousewheel(self, event):
         self.canvas.yview_scroll(int(-1*(event.delta/120)), "units")
-
-
-
-
-
-

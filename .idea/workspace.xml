@@ -20,6 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Migliorata la riutilizzabilità di &quot;indexing.py&quot; + aggiunti controlli e gestione errori">
+      <change beforePath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gui_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui_handler.py" afterDir="false" />
     </list>
@@ -189,7 +191,7 @@
       <workItem from="1589132967094" duration="615000" />
       <workItem from="1589151819173" duration="5871000" />
       <workItem from="1589315165951" duration="3067000" />
-      <workItem from="1589318626494" duration="5776000" />
+      <workItem from="1589318626494" duration="3648000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
@@ -315,6 +317,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1589126842785" />
+    <state x="132" y="86" width="1092" height="629" key="MergeDialog" timestamp="1589324862866">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="132" y="86" width="1092" height="629" key="MergeDialog/0.27.1366.741@0.27.1366.741" timestamp="1589324862866" />
     <state x="344" y="27" width="1022" height="737" key="SettingsEditor" timestamp="1589125597568">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -324,10 +330,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1589314498329" />
-    <state x="458" y="311" width="440" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589061991528">
+    <state x="458" y="311" width="450" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589324659788">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="458" y="311" width="440" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1589061991528" />
+    <state x="458" y="311" width="450" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1589324659788" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1589312860218">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
