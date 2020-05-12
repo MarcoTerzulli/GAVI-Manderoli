@@ -1,12 +1,38 @@
 from tkinter import *
 from whoosh.searching import Results
 
+class ScrollableFrame(Frame):
+    def __init__(self, container, background, *args, **kwargs):
+        super().__init__(container, *args, **kwargs)
+
+        self.canvas = Canvas(self, bg=background)
+
+        scrollbar = Scrollbar(self, orient="vertical", command=self.canvas.yview)
+        self.scrollable_frame = Frame(self.canvas)
+        self.scrollable_frame.bind(
+            "<Configure>",
+            lambda e: self.canvas.configure(
+                scrollregion=self.canvas.bbox("all")
+            )
+        )
+
+        self.canvas.create_window((0, 0), window=self.scrollable_frame, anchor="nw")
+        self.canvas.configure(yscrollcommand=scrollbar.set)
+
+        self.canvas.bind_all("<MouseWheel>", self._on_mousewheel)
+
+        self.canvas.pack(side="left", fill="both", expand=True)
+        scrollbar.pack(side="right", fill="y")
+
+    def _on_mousewheel(self, event):
+        self.canvas.yview_scroll(int(-1*(event.delta/120)), "units")
+
 class GuiHandler:
     def __init__(self, searcher):
         self.__searcher = searcher
-        self.__gui_initializer()
+        self._gui_initializer()
 
-    def __gui_initializer(self):
+    def _gui_initializer(self):
         # dichiarazione colori
         self.__color_background = "#ffffff"
         self.__color_status_bar = "#f5f5f5"
@@ -31,7 +57,7 @@ class GuiHandler:
         self.__button_search = Button(
             master=self.__frame_top_query_input,
             text="Search",
-            command=self.__button_search_click
+            command=self._button_search_click
         )
 
         self.__entry_query.pack(side="left")
@@ -39,6 +65,29 @@ class GuiHandler:
             side="left",
             padx=5
         )
+
+
+        # ************************************************************************
+        # ******************************* CENTER *********************************
+        # ************************************************************************
+        #self.__frame_center_query_result = Frame(bg=self.__color_background)
+        self.__frame_center_query_result = ScrollableFrame(self.__window, self.__color_background)
+
+        # DEBUG INIZIO
+        for i in range(50):
+            Label(
+                self.__frame_center_query_result.scrollable_frame,
+                text="Sample scrolling label",
+                bg=self.__color_background).pack()
+        # DEBUG FINE
+
+        self.__frame_center_query_result.pack(
+            fill=BOTH,
+            expand=True
+        )
+
+
+
 
         # ************************************************************************
         # ******************************* BOTTOM *********************************
@@ -55,7 +104,7 @@ class GuiHandler:
         )
         self.__label_credits.pack(side="right")
 
-    def __button_search_click(self):
+    def _button_search_click(self):
         # TO-DO roba per azionare la query e generare un output
         query_text = self.__entry_query.get()
         if len(query_text) > 0:
@@ -74,7 +123,6 @@ class GuiHandler:
 
     def gui_loader(self):
         self.__window.mainloop()
-
 
 
 
