@@ -4,7 +4,7 @@
 @author: riccardo
 """
 
-from whoosh.index import open_dir
+from whoosh.index import EmptyIndexError, open_dir
 from whoosh.qparser import QueryParser
 from whoosh.searching import Results
 
@@ -16,7 +16,12 @@ class WikiSearcherModule:
     def __init__(self):
 
         # Apro l'indice precedentemente creato all'interno della cartella indicata
-        self.__index = open_dir(index_dir)
+        try:
+            self.__index = open_dir(index_dir)
+        except (NameError, EmptyIndexError):
+            print("Warning: trying to open index's directory using the default directory name")
+            self.__index = open_dir("Wiki_index")
+
         # Ottengo un oggetto searcher dall'indice appena aperto
         self.__searcher = self.__index.searcher()
         # Ottento un oggetto in grado che parsi le quary fornitegli e le indirizzi al campo "content" del nostro schema

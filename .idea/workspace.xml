@@ -19,21 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Creato WikiIndexerModule (interfaccia di alto livello che gestisce la creazione dell'indice: parsing,scrittura), uniti i moduli parsing.py e indexing.py (ora esiste solo indexing.py), spero si capisca, mi sto addormentando :'(">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/indexdir/MAIN_wf2c3puajzqpx0vs.seg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Migliorata la riutilizzabilità di &quot;indexing.py&quot; + aggiunti controlli e gestione errori">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexdir/MAIN_1vu7y4ezump70bxa.seg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexdir/MAIN_5aav9l0rbgv30u68.seg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexdir/MAIN_98mxw9cnf4zylbs4.seg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexdir/MAIN_bzx96atoy9nlkuh9.seg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexdir/MAIN_mgklpw1g08y7ce1e.seg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexdir/MAIN_t2jip9bceh9fwivq.seg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexdir/MAIN_y00i7psa24kazy4v.seg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexdir/_MAIN_1.toc" beforeDir="false" afterPath="$PROJECT_DIR$/indexdir/_MAIN_1.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexdir/MAIN_WRITELOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexdir/MAIN_onhb2skd4eemhuq6.seg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexdir/_MAIN_1.toc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/indexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/indexing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searching.py" beforeDir="false" afterPath="$PROJECT_DIR$/searching.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,6 +194,7 @@
       <workItem from="1589132059398" duration="169000" />
       <workItem from="1589132967094" duration="615000" />
       <workItem from="1589151819173" duration="5871000" />
+      <workItem from="1589315165951" duration="3067000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
@@ -250,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589157278844</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Migliorata la riutilizzabilità di &quot;indexing.py&quot; + aggiunti controlli e gestione errori">
+      <created>1589314494686</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589314494686</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,7 +276,8 @@
     <MESSAGE value="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py) + commenti" />
     <MESSAGE value="Aggiunta file variabili di configurazione e modulo searching.py" />
     <MESSAGE value="Creato WikiIndexerModule (interfaccia di alto livello che gestisce la creazione dell'indice: parsing,scrittura), uniti i moduli parsing.py e indexing.py (ora esiste solo indexing.py), spero si capisca, mi sto addormentando :'(" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creato WikiIndexerModule (interfaccia di alto livello che gestisce la creazione dell'indice: parsing,scrittura), uniti i moduli parsing.py e indexing.py (ora esiste solo indexing.py), spero si capisca, mi sto addormentando :'(" />
+    <MESSAGE value="Migliorata la riutilizzabilità di &quot;indexing.py&quot; + aggiunti controlli e gestione errori" />
+    <option name="LAST_COMMIT_MESSAGE" value="Migliorata la riutilizzabilità di &quot;indexing.py&quot; + aggiunti controlli e gestione errori" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="198" width="716" height="406" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589034629711">
@@ -322,10 +325,10 @@
     </state>
     <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1588796789161" />
     <state x="344" y="27" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1589125597568" />
-    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1589125729521">
+    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1589314498329">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1589125729521" />
+    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1589314498329" />
     <state x="458" y="311" width="440" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589061991528">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

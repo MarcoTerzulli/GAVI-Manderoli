@@ -3,51 +3,28 @@
 """
 @author: riccardo
 """
-
+from whoosh.index import EmptyIndexError
 
 from indexing import WikiIndexerModule
 from configuration import xml_file
 from searching import WikiSearcherModule
 from gui_handler import GuiHandler
 
-"""
-import xml.sax as sax
-from parsing import WikiHandler
-from configuration import xml_file
-"""
 
 # Verifico che main.py sia stato invocato come main del nostro programma
-
 try:
     assert __name__ == "__main__"
 except AssertionError:
     raise EnvironmentError
 
-"""
-# Creo il parser SAX
-parser = sax.make_parser()
-# Ne disattivo i namespace
-parser.setFeature(sax.handler.feature_namespaces, 0)
-
-# Creo un istanza dell'handler custom che abbiamo definito per parsare il dump di Wikipedia
-my_handler = WikiHandler()
-# Imposto l'handler creato come ContentHandler del nostro parser
-parser.setContentHandler(my_handler)
-
-# Avvio il parsing del file selezionato
-parser.parse(xml_file)
-"""
-
-indexer = WikiIndexerModule()
-indexer.write_index(xml_file)
-searcher = WikiSearcherModule()
+# Provo a generare un WikiSearcherModule sull'indice, se l'indice non esiste lo creo e ripeto l'operazione
+try:
+    searcher = WikiSearcherModule()
+except EmptyIndexError:
+    print("Warning: creating new index")
+    indexer = WikiIndexerModule()
+    indexer.write_index(xml_file)
+    searcher = WikiSearcherModule()
 
 gui = GuiHandler(searcher)
 gui.gui_loader()
-
-
-# Creo un instanza dell'oggetto searcher creato appositamente sul nostro indice
-#searcher = WikiSearcherModule()
-#query_text = u'afghanistan'
-#results = searcher.commit_query(query_text)
-

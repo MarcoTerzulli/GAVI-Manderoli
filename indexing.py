@@ -36,7 +36,7 @@ class WikiIndexerModule:
         self.__parser.parse(xml_file)
 
 
-def index_writer_init(idx_dir):
+def index_writer_init(idx_dir="Wiki_index"):
     """
     Funzione che inizializza un indice nella cartella indicata come parametro (str) e ne restituisce il writer
     :param idx_dir:
@@ -46,6 +46,11 @@ def index_writer_init(idx_dir):
         assert type(idx_dir) is str
     except AssertionError:
         raise TypeError
+
+    try:
+        assert idx_dir != ""
+    except AssertionError:
+        raise ValueError
 
     # Creazione dello schema dei documenti da indicizzare
     schema: Schema = Schema(title=TEXT(stored=True), identifier=ID(stored=True, unique=True), content=TEXT(stored=True))
@@ -100,13 +105,10 @@ class WikiHandler(sax.handler.ContentHandler):
         """
         try:
             idx_dir = index_dir
-        except NameError:
-            idx_dir = "indexdir"
-
-        try:
             self.__idx_writer = index_writer_init(idx_dir)
-        except TypeError:
-            print("ERROR: the name of the index's directory must be a string")
+        except (NameError, TypeError, ValueError):
+            print("Warning: creating index's directory using the default directory name")
+            self.__idx_writer = index_writer_init()
 
         print("INDEX OPENED")
 
@@ -174,9 +176,9 @@ class WikiHandler(sax.handler.ContentHandler):
 
             except AssertionError:
                 print(f"ERROR: the article has missing data\n"
-                          f"{self.__title}\n"
-                          f"{self.__id}\n"
-                          f"{self.__text}")
+                      f"{self.__title}\n"
+                      f"{self.__id}\n"
+                      f"{self.__text}")
                 # exit() # Da decidere se sia da considerare un "FATAL ERROR" o meno
 
         # Ogni volta che "esco" da un elemento ne elimino il tag dalla posizione attuale
