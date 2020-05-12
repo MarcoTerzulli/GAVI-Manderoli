@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Migliorata la riutilizzabilità di &quot;indexing.py&quot; + aggiunti controlli e gestione errori">
-      <change beforePath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gui_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui_handler.py" afterDir="false" />
     </list>
@@ -249,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589314494686</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Migliorata la riutilizzabilità di &quot;indexing.py&quot; + aggiunti controlli e gestione errori">
+      <created>1589325214413</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589325214413</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,14 +331,14 @@
     </state>
     <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1588796789161" />
     <state x="344" y="27" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1589125597568" />
-    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1589314498329">
+    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1589325237669">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1589314498329" />
-    <state x="458" y="311" width="450" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589324659788">
+    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1589325237669" />
+    <state x="458" y="311" width="450" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589326166729">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="458" y="311" width="450" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1589324659788" />
+    <state x="458" y="311" width="450" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1589326166729" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1589312860218">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
