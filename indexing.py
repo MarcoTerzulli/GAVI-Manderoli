@@ -36,17 +36,27 @@ class WikiIndexerModule:
         self.__parser.parse(xml_file)
 
 
-def index_writer_init():
+def index_writer_init(idx_dir):
+    """
+    Funzione che inizializza un indice nella cartella indicata come parametro (str) e ne restituisce il writer
+    :param idx_dir:
+    :return:
+    """
+    try:
+        assert type(idx_dir) is str
+    except AssertionError:
+        raise TypeError
+
     # Creazione dello schema dei documenti da indicizzare
     schema: Schema = Schema(title=TEXT(stored=True), identifier=ID(stored=True, unique=True), content=TEXT(stored=True))
 
     # Verifica dell'esistenza della cartella dell'indice
-    if not path.exists(index_dir):
+    if not path.exists(idx_dir):
         # In caso la cartella non esista viene creata
-        mkdir(index_dir)
+        mkdir(idx_dir)
 
     # Creazione dell'indice all'interno della cartella designata
-    index = create_in(index_dir, schema)
+    index = create_in(idx_dir, schema)
 
     # La funzione restituisce un oggetto in grado di inserire (scrivere) documenti all'interno dell'indice
     return index.writer()
@@ -64,7 +74,7 @@ class WikiHandler(sax.handler.ContentHandler):
         e che si troverà nell'ultima poszione
         """
         sax.handler.ContentHandler.__init__(self)
-        self.__current_element = []     # Posizione elemento attuale
+        self.__current_element = []     # Posizione dell' elemento attuale nel documento
         self.__title = None             # Titolo della pagina Wikipedia
         self.__id = None                # Identificatore numerico della pagina Wikipedia
         self.__redirect = None          # Titolo della pagina di destinazione del redirect
@@ -88,7 +98,16 @@ class WikiHandler(sax.handler.ContentHandler):
         Con l'inizio del documento xml viene creato l'indice che conterrà
         le pagine Wikipedia che ne verranno estratte
         """
-        self.__idx_writer = index_writer_init()
+        try:
+            idx_dir = index_dir
+        except NameError:
+            idx_dir = "indexdir"
+
+        try:
+            self.__idx_writer = index_writer_init(idx_dir)
+        except TypeError:
+            print("ERROR: the name of the index's directory must be a string")
+
         print("INDEX OPENED")
 
     def endDocument(self):
@@ -143,9 +162,9 @@ class WikiHandler(sax.handler.ContentHandler):
                 self.__idx_writer.add_document(title=self.__title, identifier=self.__id, content=self.__text)
 
                 # SEZIONE DI DEBUG
-                #print(self.__title)
-                #print(self.__id)
-                #print(self.__text)
+                # print(self.__title)
+                # print(self.__id)
+                # print(self.__text)
                 # FINE SEZIONE DI DEBUG
 
                 # Resetto le variabili
@@ -154,10 +173,10 @@ class WikiHandler(sax.handler.ContentHandler):
                 self.__text = ""
 
             except AssertionError:
-                print(f"ERRORE: L'articolo che si è tentato di inserire ha dei dati mancanti\n"
-                      f"{self.__title}\n"
-                      f"{self.__id}\n"
-                      f"{self.__text}")
+                print(f"ERROR: the article has missing data\n"
+                          f"{self.__title}\n"
+                          f"{self.__id}\n"
+                          f"{self.__text}")
                 # exit() # Da decidere se sia da considerare un "FATAL ERROR" o meno
 
         # Ogni volta che "esco" da un elemento ne elimino il tag dalla posizione attuale
@@ -165,5 +184,5 @@ class WikiHandler(sax.handler.ContentHandler):
             assert tag == self.__current_element[-1]  # Controllo che i tag siano stati aperti e chiusi correttamente
             self.__current_element.pop()
         except AssertionError:
-            print(f"ERRORE: il tag/elemento {self.__current_element[-1]} è stato aperto e mai richiuso {tag}")
+            print(f"ERROR: the tag/element {self.__current_element[-1]} has been opened but never closed")
             exit(-1)
