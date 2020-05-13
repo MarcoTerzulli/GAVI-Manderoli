@@ -146,7 +146,7 @@ class WikiHandler(sax.handler.ContentHandler):
 
         # Non ci interessa il contenuto del tag "redirect" (vuoto), ma ci interessa il suo attributo
         # (titolo pagina destinazione redirect), motivo per cui dobbiamo acquisire il dato in "startElement"
-        if tag == "redirect":
+        if tag == "redirect" and self.__is_relevant is True:
             self.__redirect = attributes["title"]
 
         # Appendiamo il tag che è stato aperto alla lista in modo da avere
@@ -159,6 +159,8 @@ class WikiHandler(sax.handler.ContentHandler):
             if self.__relevant_pages is None or content in self.__relevant_pages:
                 self.__title = content
                 self.__is_relevant = True
+            else:
+                self.__is_relevant = False
 
         if self.__skip is False and self.__is_relevant is True:
             # Verifico che il tag "id" sia quello della pagina e non di un utente
@@ -174,29 +176,8 @@ class WikiHandler(sax.handler.ContentHandler):
         # inserisco i dati raccolti nell'indice (diventano un nuovo documento)
         if tag == "page" and self.__is_relevant is True:
             try:
-                # Verifico che i valori dell'articolo siano stati effettivamente parsati e raccolti
-                assert self.__title is not None
-                assert self.__id is not None
-                assert self.__text != ""
-
-                url_title = self.__title if self.__redirect is None else self.__redirect
-
-                relative_url = "".join([c if c != " " else "_" for c in url_title])
-                absolute_url = "http://en.wikipedia.org/wiki/"+relative_url
-
-                self.__idx_writer.add_document(title=self.__title,
-                                               identifier=self.__id,
-                                               url=absolute_url,
-                                               content=self.__text)
-
-                # SEZIONE DI DEBUG
-                # print(self.__title)
-                # print(self.__id)
-                # print(absolute_url)
-                # print(self.__text)
-                # FINE SEZIONE DI DEBUG
-
-            except AssertionError:
+                self.__add_page_to_index()
+            except ValueError:
                 print(f"ERROR: the article has missing data\n"
                       f"{self.__title}\n"
                       f"{self.__id}\n"
@@ -216,3 +197,25 @@ class WikiHandler(sax.handler.ContentHandler):
         except AssertionError:
             print(f"ERROR: the tag/element {self.__current_element[-1]} has been opened but never closed")
             exit(-1)
+
+    def __add_page_to_index(self):
+        # Verifico che i valori dell'articolo siano stati effettivamente parsati e raccolti
+        try:
+            assert self.__title is not None
+            assert self.__id is not None
+            assert self.__text != ""
+        except AssertionError:
+            raise ValueError
+
+        # Determino su quale titolo costruire l'url
+        url_title = self.__title if self.__redirect is None else self.__redirect
+
+        # Creo l'url relativo alla sezione "wiki" del dominio di "en.wiki.org" da cui risalgo all'url assoluto
+        relative_url = "".join([c if c != " " else "_" for c in url_title])
+        absolute_url = "http://en.wikipedia.org/wiki/" + relative_url
+
+        # Inserisco la pagina nell'indice
+        self.__idx_writer.add_document(title=self.__title,
+                                       identifier=self.__id,
+                                       url=absolute_url,
+                                       content=self.__text)
