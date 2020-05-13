@@ -17,7 +17,7 @@ class GuiHandler:
         self.__window = Tk()
         self.__window.title("WikiSearch")
         self.__window.geometry("600x400")
-        self.__window.minsize("400","200")
+        self.__window.minsize("400", "200")
         self.__window.configure(bg=self.__color_background)
 
         # ************************************************************************
@@ -36,9 +36,7 @@ class GuiHandler:
         #label_logo.pack(side=TOP)
 
         # creazione campi e bottoni per l'immissione delle query
-        self.__entry_query = Entry(master=self.__frame_top_query_input,
-                                   width=50)
-
+        self.__entry_query = Entry(master=self.__frame_top_query_input, width=50)
         self.__entry_query.bind('<Return>', self._search_event)
 
         self.__button_search = Button(master=self.__frame_top_query_input,
@@ -74,7 +72,11 @@ class GuiHandler:
                                      text="Developed by Mescoli and Terzulli",
                                      bg=self.__color_status_bar)
         self.__label_credits.pack(side="right")
-        self.__lable_dict = dict()
+
+        # dizionario usato nella gestione degli eventi click sui risultati
+        # chiave: label corrispondente al singolo risultato
+        # valore: titolo del risultato (servirà per generare l'url della pagina da aprire nel browser)
+        self.__label_dict = dict()
 
     def _search_event(self, event=None):
         query_text = self.__entry_query.get()
@@ -82,36 +84,57 @@ class GuiHandler:
         if len(query_text) > 0:
             # pulizia frame e dizionario label
             self.__frame_center_query_result = self.__frame_scrolled.display_widget(Frame)
-            self.__lable_dict = dict()
+            self.__label_dict = dict()
 
+            # elaborazione query
             query_results: Results = self.__searcher.commit_query(query_text)
-            # DEBUG
-            print(f"\nResults for: {query_text}\n")
 
+            # caricamento dei risultati nella gui
             if len(query_results) == 0:
-                print("NESSUN RISULTATO")
-                Label(self.__frame_center_query_result,
-                     text=f"La ricerca di - {query_text} - non ha prodotto risultati.",
-                     bg=self.__color_background).pack(anchor="w")
+                self._add_label_result(article_title=res['title'],
+                                       father_frame=self.__frame_center_query_result,
+                                       text=f"La ricerca di - {query_text} - non ha prodotto risultati.",
+                                       bg=self.__color_background,
+                                       justify=LEFT)
             else:
-                #for x in query_results[:10]:
-                 #   print(f"--Pos: {x.rank} Score:{x.score}\n"
-                  #        f"Title: {x['title']} Id: {x['identifier']}\n"
-                   #       f"Content: {x['content'][:256]}")
-
                 for res in query_results[:10]:
-                    label_result = Label(self.__frame_center_query_result,
-                          text=f"{res['title']}    | Score: {res.score}\nDescrizione fdsdsdfsfsfddffffsfsd",
-                          bg=self.__color_background,
-                          justify=LEFT
-                          )
-                    label_result.bind("<Button-1>", self._label_result_on_click)
-                    label_result.pack(anchor="w")
-                    # memorizzo il riferimento tra titolo e lable corrispondente, per facilitare la gestione dell'evento click
-                    self.__lable_dict[label_result] = res['title']
+                    label_text = f"{res['title']}    | Score: {res.score}\nDescrizione fdsdsdfsfsfddffffsfsd"
 
-            print("\n==========================================================")
-        # FINE DEBUG
+                    self._add_label_result(article_title=res['title'],
+                                           father_frame=self.__frame_center_query_result,
+                                           text=label_text,
+                                           bg=self.__color_background,
+                                           justify=LEFT)
+
+            # DEBUG
+            debug = False
+            if(debug):
+                print(f"\nResults for: {query_text}\n")
+
+                if len(query_results) == 0:
+                    print("NESSUN RISULTATO")
+                    self._add_label_result(article_title=res['title'],
+                                           father_frame=self.__frame_center_query_result,
+                                           text=f"La ricerca di - {query_text} - non ha prodotto risultati.",
+                                           bg=self.__color_background,
+                                           justify=LEFT)
+                else:
+                    for x in query_results[:10]:
+                        print(f"--Pos: {x.rank} Score:{x.score}\n"
+                              f"Title: {x['title']} Id: {x['identifier']}\n"
+                              f"Content: {x['content'][:256]}")
+
+                    for res in query_results[:10]:
+                        label_text = f"{res['title']}    | Score: {res.score}\nDescrizione fdsdsdfsfsfddffffsfsd"
+
+                        self._add_label_result(article_title=res['title'],
+                                               father_frame=self.__frame_center_query_result,
+                                               text=label_text,
+                                               bg=self.__color_background,
+                                               justify=LEFT)
+
+                print("\n==========================================================")
+            # FINE DEBUG
 
     def gui_loader(self):
         self.__window.mainloop()
@@ -123,7 +146,14 @@ class GuiHandler:
         return "https://en.wikipedia.org/wiki/" + title
 
     def _label_result_on_click(self, event):
-        title = self.__lable_dict[event.widget]
+        title = self.__label_dict[event.widget]
         self._url_open(self._url_generator(title))
         print(f"DEBUG: click su {title}")
 
+    def _add_label_result(self, article_title, father_frame, *args, **kwargs):
+        label_result = Label(father_frame, *args, **kwargs)
+        label_result.bind("<Button-1>", self._label_result_on_click)
+        label_result.pack(anchor="w")
+
+        # memorizzo il "riferimento" lable ed il titolo corrispondente, per la gestione dell'evento click
+        self.__label_dict[label_result] = article_title
