@@ -20,8 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Migliorata la riutilizzabilità di &quot;indexing.py&quot; + aggiunti controlli e gestione errori">
+      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_o5ec9cjmnvhz62m2.seg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_xml_test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml_set.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui_handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wiki_index/_MAIN_1.toc" beforeDir="false" afterPath="$PROJECT_DIR$/Wiki_index/_MAIN_1.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml_test.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,6 +197,8 @@
       <workItem from="1589327732883" duration="180000" />
       <workItem from="1589327920450" duration="1308000" />
       <workItem from="1589329293658" duration="351000" />
+      <workItem from="1589329693969" duration="352000" />
+      <workItem from="1589330061261" duration="212000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
