@@ -17,6 +17,7 @@ class GuiHandler:
         self.__window = Tk()
         self.__window.title("WikiSearch")
         self.__window.geometry("600x400")
+        self.__window.minsize("400","200")
         self.__window.configure(bg=self.__color_background)
 
         # ************************************************************************
@@ -110,7 +111,6 @@ class GuiHandler:
                     self.__lable_dict[label_result] = res['title']
 
             print("\n==========================================================")
-
         # FINE DEBUG
 
     def gui_loader(self):
