@@ -9,7 +9,7 @@ from indexing import WikiIndexerModule
 from configuration import xml_file
 from searching import WikiSearcherModule
 from gui_handler import GuiHandler
-
+from bz2 import BZ2File
 
 # Verifico che main.py sia stato invocato come main del nostro programma
 try:
@@ -23,8 +23,13 @@ try:
 except EmptyIndexError:
     print("Warning: creating new index")
     indexer = WikiIndexerModule()
-    indexer.write_index(xml_file)
+    if xml_file.find(".bz2") != -1:
+        with BZ2File(xml_file) as bz2_xml_file:
+            indexer.write_index(bz2_xml_file)
+    else:
+        indexer.write_index(xml_file)
     searcher = WikiSearcherModule()
+
 
 gui = GuiHandler(searcher)
 gui.gui_loader()
