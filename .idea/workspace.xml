@@ -20,13 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Migliorata la riutilizzabilità di &quot;indexing.py&quot; + aggiunti controlli e gestione errori">
-      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_oz4wpvw7ox31207g.seg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wiki_index/MAIN_2wl2j4n6uz3p2oy7.seg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wiki_index/MAIN_o5ec9cjmnvhz62m2.seg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wiki_index/_MAIN_1.toc" beforeDir="false" afterPath="$PROJECT_DIR$/Wiki_index/_MAIN_1.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gui_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui_handler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wikipedia_logo.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +93,9 @@
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -210,6 +208,7 @@
       <workItem from="1589367391310" duration="68000" />
       <workItem from="1589375830694" duration="323000" />
       <workItem from="1589376194277" duration="203000" />
+      <workItem from="1589376577810" duration="170000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>

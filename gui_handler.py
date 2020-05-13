@@ -143,6 +143,8 @@ class GuiHandler:
     def _add_label_result(self, father_frame, article_title=None, *args, **kwargs):
         label_result = Label(father_frame, *args, **kwargs)
 
+        # controllo che si tratti di un risultato della query (il messaggio "nessun risultato" non ha bisogno di un
+        # link)
         if article_title is not None:
             label_result.bind("<Button-1>", self._label_result_on_click)
             # memorizzo il "riferimento" lable ed il titolo corrispondente, per la gestione dell'evento click
