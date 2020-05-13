@@ -55,7 +55,6 @@ def index_writer_init(idx_dir="Wiki_index"):
     # Creazione dello schema dei documenti da indicizzare
     schema: Schema = Schema(title=TEXT(stored=True),
                             identifier=ID(stored=True, unique=True),
-                            url=TEXT(stored=True),
                             content=TEXT(stored=True))
 
     # Verifica dell'esistenza della cartella dell'indice
@@ -207,15 +206,7 @@ class WikiHandler(sax.handler.ContentHandler):
         except AssertionError:
             raise ValueError
 
-        # Determino su quale titolo costruire l'url
-        url_title = self.__title if self.__redirect is None else self.__redirect
-
-        # Creo l'url relativo alla sezione "wiki" del dominio di "en.wiki.org" da cui risalgo all'url assoluto
-        relative_url = "".join([c if c != " " else "_" for c in url_title])
-        absolute_url = "http://en.wikipedia.org/wiki/" + relative_url
-
         # Inserisco la pagina nell'indice
         self.__idx_writer.add_document(title=self.__title,
                                        identifier=self.__id,
-                                       url=absolute_url,
                                        content=self.__text)

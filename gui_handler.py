@@ -129,11 +129,14 @@ class GuiHandler:
     def gui_loader(self):
         self.__window.mainloop()
 
-    def _url_open(self, url):
+    @staticmethod
+    def _url_open(url):
         webbrowser.open(url, new=2)
 
-    def _url_generator(self, title):
-        return "https://en.wikipedia.org/wiki/" + title
+    @staticmethod
+    def _url_generator(title):
+        relative_url = "".join([c if c != " " else "_" for c in title])
+        return "https://en.wikipedia.org/wiki/" + relative_url
 
     def _label_result_on_click(self, event):
         title = self.__label_dict[event.widget]
