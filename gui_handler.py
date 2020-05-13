@@ -2,7 +2,6 @@ from tkinter import *
 from whoosh.searching import Results
 from tkscrolledframe import ScrolledFrame
 import webbrowser
-import re
 
 class GuiHandler:
     def __init__(self, searcher):
@@ -28,12 +27,6 @@ class GuiHandler:
         self.__frame_top_query_input = Frame(bg=self.__color_background)
         self.__frame_top_query_input.pack(side=TOP)
 
-        # logo
-        logo = "wikipedia_logo.jpg"
-        logo_small = "wikipedia_logo_small.jpg"
-        #img_logo = ImageTk.PhotoImage(Image.open(logo_small))
-        #label_logo = Label(self.__frame_top_query_input, image=img_logo)
-        #label_logo.pack(side=TOP)
 
         # creazione campi e bottoni per l'immissione delle query
         self.__entry_query = Entry(master=self.__frame_top_query_input, width=50)
@@ -45,7 +38,6 @@ class GuiHandler:
 
         self.__entry_query.pack(side="left")
         self.__button_search.pack(side="left", padx=5)
-
 
         # ************************************************************************
         # ******************************* CENTER *********************************
@@ -91,8 +83,7 @@ class GuiHandler:
 
             # caricamento dei risultati nella gui
             if len(query_results) == 0:
-                self._add_label_result(article_title=res['title'],
-                                       father_frame=self.__frame_center_query_result,
+                self._add_label_result(father_frame=self.__frame_center_query_result,
                                        text=f"La ricerca di - {query_text} - non ha prodotto risultati.",
                                        bg=self.__color_background,
                                        justify=LEFT)
@@ -113,8 +104,7 @@ class GuiHandler:
 
                 if len(query_results) == 0:
                     print("NESSUN RISULTATO")
-                    self._add_label_result(article_title=res['title'],
-                                           father_frame=self.__frame_center_query_result,
+                    self._add_label_result(father_frame=self.__frame_center_query_result,
                                            text=f"La ricerca di - {query_text} - non ha prodotto risultati.",
                                            bg=self.__color_background,
                                            justify=LEFT)
@@ -150,10 +140,12 @@ class GuiHandler:
         self._url_open(self._url_generator(title))
         print(f"DEBUG: click su {title}")
 
-    def _add_label_result(self, article_title, father_frame, *args, **kwargs):
+    def _add_label_result(self, father_frame, article_title=None, *args, **kwargs):
         label_result = Label(father_frame, *args, **kwargs)
-        label_result.bind("<Button-1>", self._label_result_on_click)
-        label_result.pack(anchor="w")
 
-        # memorizzo il "riferimento" lable ed il titolo corrispondente, per la gestione dell'evento click
-        self.__label_dict[label_result] = article_title
+        if article_title is not None:
+            label_result.bind("<Button-1>", self._label_result_on_click)
+            # memorizzo il "riferimento" lable ed il titolo corrispondente, per la gestione dell'evento click
+            self.__label_dict[label_result] = article_title
+
+        label_result.pack(anchor="w")
