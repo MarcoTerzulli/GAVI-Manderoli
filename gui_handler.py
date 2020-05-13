@@ -75,6 +75,9 @@ class GuiHandler:
 
             if len(query_results) == 0:
                 print("NESSUN RISULTATO")
+                Label(self.__frame_center_query_result,
+                     text=f"La ricerca di - {query_text} - non ha prodotto risultati.",
+                     bg=self.__color_background).pack(anchor="w")
             else:
                 for x in query_results[:10]:
                     print(f"--Pos: {x.rank} Score:{x.score}\n"
@@ -84,7 +87,7 @@ class GuiHandler:
                 for res in query_results[:10]:
                     Label(self.__frame_center_query_result,
                           text=f"{res['title']}    | Score: {res.score}",
-                          bg=self.__color_background).pack()
+                          bg=self.__color_background).pack(anchor="w")
 
             print("\n==========================================================")
 
