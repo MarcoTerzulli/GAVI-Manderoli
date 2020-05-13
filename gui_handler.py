@@ -10,7 +10,7 @@ class GuiHandler:
 
     def _gui_initializer(self):
         # dichiarazione colori
-        self.__color_background = "#f0f0f0" #"#ffffff"
+        self.__color_background = "#f0f0f0" # "#ffffff"
         self.__color_status_bar = "#f5f5f5"
 
         self.__window = Tk()

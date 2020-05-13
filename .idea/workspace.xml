@@ -20,8 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Migliorata la riutilizzabilità di &quot;indexing.py&quot; + aggiunti controlli e gestione errori">
+      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_92ahxnweos45fkv7.seg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wiki_index/MAIN_oz4wpvw7ox31207g.seg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wiki_index/_MAIN_1.toc" beforeDir="false" afterPath="$PROJECT_DIR$/Wiki_index/_MAIN_1.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gui_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui_handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/indexing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +66,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -93,9 +100,6 @@
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -309,66 +313,77 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="100" y="127" width="1166" height="541" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1588987146946" />
-    <state width="1320" height="215" key="GridCell.Tab.0.bottom" timestamp="1589126842783">
+    <state width="1320" height="215" key="GridCell.Tab.0.bottom" timestamp="1589385545608">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="215" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1589126842783" />
-    <state width="1320" height="215" key="GridCell.Tab.0.center" timestamp="1589126842782">
+    <state width="1320" height="215" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1589385545608" />
+    <state width="1320" height="215" key="GridCell.Tab.0.center" timestamp="1589385545608">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="215" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1589126842782" />
-    <state width="1320" height="215" key="GridCell.Tab.0.left" timestamp="1589126842781">
+    <state width="1320" height="215" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1589385545608" />
+    <state width="1320" height="215" key="GridCell.Tab.0.left" timestamp="1589385545608">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="215" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1589126842781" />
-    <state width="1320" height="215" key="GridCell.Tab.0.right" timestamp="1589126842782">
+    <state width="1320" height="215" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1589385545608" />
+    <state width="1320" height="215" key="GridCell.Tab.0.right" timestamp="1589385545608">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="215" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1589126842782" />
-    <state width="1320" height="215" key="GridCell.Tab.1.bottom" timestamp="1589126842785">
+    <state width="1320" height="215" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1589385545608" />
+    <state width="1320" height="215" key="GridCell.Tab.1.bottom" timestamp="1589385545609">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="215" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1589126842785" />
-    <state width="1320" height="215" key="GridCell.Tab.1.center" timestamp="1589126842784">
+    <state width="1320" height="215" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1589385545609" />
+    <state width="1320" height="215" key="GridCell.Tab.1.center" timestamp="1589385545608">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="215" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1589126842784" />
-    <state width="1320" height="215" key="GridCell.Tab.1.left" timestamp="1589126842784">
+    <state width="1320" height="215" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1589385545608" />
+    <state width="1320" height="215" key="GridCell.Tab.1.left" timestamp="1589385545608">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="215" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1589126842784" />
-    <state width="1320" height="215" key="GridCell.Tab.1.right" timestamp="1589126842785">
+    <state width="1320" height="215" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1589385545608" />
+    <state width="1320" height="215" key="GridCell.Tab.1.right" timestamp="1589385545608">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="215" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1589126842785" />
+    <state width="1320" height="215" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1589385545608" />
     <state x="132" y="86" width="1092" height="629" key="MergeDialog" timestamp="1589324862866">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="132" y="86" width="1092" height="629" key="MergeDialog/0.27.1366.741@0.27.1366.741" timestamp="1589324862866" />
-    <state x="344" y="27" width="1022" height="737" key="SettingsEditor" timestamp="1589125597568">
+    <state x="344" y="27" width="1022" height="737" key="SettingsEditor" timestamp="1589379048462">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1588796789161" />
-    <state x="344" y="27" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1589125597568" />
+    <state x="344" y="27" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1589379048462" />
     <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1589325237669">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1589325237669" />
-    <state x="458" y="311" width="450" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589326166729">
+    <state x="458" y="311" width="450" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589376849789">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="458" y="311" width="450" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1589326166729" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1589312860218">
+    <state x="458" y="311" width="450" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1589376849789" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1589381731785">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1589312860218" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1589381731785" />
     <state x="408" y="287" width="540" height="227" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1589125637120">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="408" y="287" width="540" height="227" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1366.741@0.27.1366.741" timestamp="1589125637120" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/indexing.py</url>
+          <line>186</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GAVI_Manderoli$Main.coverage" NAME="Main Coverage Results" MODIFIED="1589038410695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GAVI_Manderoli$main.coverage" NAME="main Coverage Results" MODIFIED="1589126703793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GAVI_Manderoli$main.coverage" NAME="main Coverage Results" MODIFIED="1589385560682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

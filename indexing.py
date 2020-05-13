@@ -14,7 +14,7 @@ from whoosh.index import create_in
 
 import xml.sax as sax
 
-from configuration import index_dir
+from configuration import index_dir, relevant_pages
 
 
 class WikiIndexerModule:
@@ -53,7 +53,10 @@ def index_writer_init(idx_dir="Wiki_index"):
         raise ValueError
 
     # Creazione dello schema dei documenti da indicizzare
-    schema: Schema = Schema(title=TEXT(stored=True), identifier=ID(stored=True, unique=True), content=TEXT(stored=True))
+    schema: Schema = Schema(title=TEXT(stored=True),
+                            identifier=ID(stored=True, unique=True),
+                            url=TEXT(stored=True),
+                            content=TEXT(stored=True))
 
     # Verifica dell'esistenza della cartella dell'indice
     if not path.exists(idx_dir):
@@ -89,14 +92,31 @@ class WikiHandler(sax.handler.ContentHandler):
         self.__idx_writer = None
 
         # Set di tag di cui si intende elaborare il testo contenuto
-        self.__target_tags = {"title", "ns", "id", "text"}
+        self.__target_tags = {"title", "id", "text"}
 
-        # Flag che indica se la pagina corrente è un articolo (ns = 0)
-        self.__is_article = False
+        # Definisco il set di titoli delle pagine che si ritengono rilevanti (quelle che si intende indicizzare)
+        self.__relevant_pages = self.__get_relevant_pages__()
+
+        # Flag che indica se la pagina corrente è tra quelle indicate come rilevanti
+        self.__is_relevant = False
 
         # Flag che indica se saltare l'elaborazione dell'elemento corrente
         # True se non è un elemento target
         self.__skip = False
+
+    @staticmethod
+    def __get_relevant_pages__():
+        """
+        Metodo statico che restituisce il set di titoli di pagine ritenute rilevanti tra quelle presenti nel file xml,
+        nel caso il set sia vuoto o non sia stato definito restituisce None
+        """
+        try:
+            assert type(relevant_pages) is set
+            assert len(relevant_pages) > 0
+
+            return relevant_pages
+        except (NameError, AssertionError):
+            return None
 
     def startDocument(self):
         """
@@ -124,8 +144,8 @@ class WikiHandler(sax.handler.ContentHandler):
 
         self.__skip = False if tag in self.__target_tags else True
 
-        # Non ci interessa il contenuto del tag "redirect" (vuoto),
-        # ma ci interessa il suo attributo (titolo pagina destinazione redirect)
+        # Non ci interessa il contenuto del tag "redirect" (vuoto), ma ci interessa il suo attributo
+        # (titolo pagina destinazione redirect), motivo per cui dobbiamo acquisire il dato in "startElement"
         if tag == "redirect":
             self.__redirect = attributes["title"]
 
@@ -135,16 +155,14 @@ class WikiHandler(sax.handler.ContentHandler):
 
     def characters(self, content):
 
-        if self.__skip is False:
-            if self.__current_element[-1] == "title":
+        if self.__current_element[-1] == "title":
+            if self.__relevant_pages is None or content in self.__relevant_pages:
                 self.__title = content
+                self.__is_relevant = True
 
-            elif self.__current_element[-1] == "ns":
-                # la pagine è un articolo solo se ns == 0
-                self.__is_article = (int(content) == 0)
-
+        if self.__skip is False and self.__is_relevant is True:
             # Verifico che il tag "id" sia quello della pagina e non di un utente
-            elif self.__current_element[-1] == "id" and self.__current_element[-2] == "page":
+            if self.__current_element[-1] == "id" and self.__current_element[-2] == "page":
                 self.__id = content
 
             elif self.__current_element[-1] == "text":
@@ -154,25 +172,29 @@ class WikiHandler(sax.handler.ContentHandler):
     def endElement(self, tag):
         # Se il tag dell'elemento che si chiude è "page" e la pagina è un articolo
         # inserisco i dati raccolti nell'indice (diventano un nuovo documento)
-        if tag == "page" and self.__is_article is True:
+        if tag == "page" and self.__is_relevant is True:
             try:
                 # Verifico che i valori dell'articolo siano stati effettivamente parsati e raccolti
                 assert self.__title is not None
                 assert self.__id is not None
                 assert self.__text != ""
 
-                self.__idx_writer.add_document(title=self.__title, identifier=self.__id, content=self.__text)
+                url_title = self.__title if self.__redirect is None else self.__redirect
+
+                relative_url = "".join([c if c != " " else "_" for c in url_title])
+                absolute_url = "http://en.wikipedia.org/wiki/"+relative_url
+
+                self.__idx_writer.add_document(title=self.__title,
+                                               identifier=self.__id,
+                                               url=absolute_url,
+                                               content=self.__text)
 
                 # SEZIONE DI DEBUG
                 # print(self.__title)
                 # print(self.__id)
+                # print(absolute_url)
                 # print(self.__text)
                 # FINE SEZIONE DI DEBUG
-
-                # Resetto le variabili
-                self.__title = None
-                self.__id = None
-                self.__text = ""
 
             except AssertionError:
                 print(f"ERROR: the article has missing data\n"
@@ -180,6 +202,12 @@ class WikiHandler(sax.handler.ContentHandler):
                       f"{self.__id}\n"
                       f"{self.__text}")
                 # exit() # Da decidere se sia da considerare un "FATAL ERROR" o meno
+            finally:
+                # Resetto le variabili
+                self.__title = None
+                self.__id = None
+                self.__redirect = None
+                self.__text = ""
 
         # Ogni volta che "esco" da un elemento ne elimino il tag dalla posizione attuale
         try:
