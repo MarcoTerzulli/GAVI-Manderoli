@@ -1,5 +1,6 @@
 from tkinter import *
 from whoosh.searching import Results
+from tkscrolledframe import ScrolledFrame
 
 
 class GuiHandler:
@@ -9,7 +10,7 @@ class GuiHandler:
 
     def _gui_initializer(self):
         # dichiarazione colori
-        self.__color_background = "#ffffff"
+        self.__color_background = "#f5f5f5" #"#ffffff"
         self.__color_status_bar = "#f5f5f5"
 
         self.__window = Tk()
@@ -41,41 +42,16 @@ class GuiHandler:
         # ************************************************************************
         # ******************************* CENTER *********************************
         # ************************************************************************
-        # self.__frame_center_query_result = ScrollableFrame(self.__window, self.__color_background)
+        self.__frame_scrolled = ScrolledFrame(self.__window)
+        self.__frame_scrolled.bind_arrow_keys(self.__window)
+        self.__frame_scrolled.bind_scroll_wheel(self.__window)
 
-        self.__frame_center_query_result = ScrollableFrame(self.__window, "#008000")
+        self.__frame_center_query_result = self.__frame_scrolled.display_widget(Frame)
 
-        # DEBUG INIZIO
-        for i in range(20):
-            Label(self.__frame_center_query_result.scrollable_frame, text="Sample scrolling label", anchor=NW).pack()
-
-        debug_auto = False
-        if debug_auto:
-            query_text = "afghanistan"
-            if len(query_text) > 0:
-                query_results: Results = self.__searcher.commit_query(query_text)
-
-                # DEBUG
-                if len(query_results) == 0:
-                    print("DEBUG: nessun risultato")
-                    Label(self.__frame_center_query_result.scrollable_frame,
-                          text="Nessun risultato",
-                          bg=self.__color_background).pack()
-                else:
-                    for x in query_results[:10]:
-                        # print(
-                        #     f"--Pos: {x.rank} Score:{x.score}\nTitle: {x['title']} Id: {x['identifier']}\n"
-                        #     f"Content: {x['content'][:256]}")
-
-                        print(
-                            f"--Pos: {x.rank} Score:{x.score}\nTitle: {x['title']}")
-                    for res in query_results[:10]:
-                        Label(self.__frame_center_query_result.scrollable_frame,
-                              text=f"--Pos: {res.rank}     Score: {res.score}\nTitle: {res['title']}",
-                              bg=self.__color_background).pack(side=TOP)
-
-        self.__frame_center_query_result.pack(fill=BOTH,
-                                              expand=True)
+        self.__frame_scrolled.pack(
+            fill=BOTH,
+            expand=True
+        )
 
         # ************************************************************************
         # ******************************* BOTTOM *********************************
@@ -106,8 +82,8 @@ class GuiHandler:
                           f"Content: {x['content'][:256]}")
 
                 for res in query_results[:10]:
-                    Label(self.__frame_center_query_result.scrollable_frame,
-                          text=f"{res['title']}",
+                    Label(self.__frame_center_query_result,
+                          text=f"{res['title']}    | Score: {res.score}",
                           bg=self.__color_background).pack()
 
             print("\n==========================================================")
@@ -117,25 +93,3 @@ class GuiHandler:
     def gui_loader(self):
         self.__window.mainloop()
 
-
-class ScrollableFrame(Frame):
-    def __init__(self, container, background, *args, **kwargs):
-        super().__init__(container, *args, **kwargs)
-
-        self.canvas = Canvas(self, bg=background)
-
-        scrollbar = Scrollbar(self, orient="vertical", command=self.canvas.yview)
-        self.scrollable_frame = Frame(self.canvas)
-        self.scrollable_frame.bind("<Configure>",
-                                   lambda e: self.canvas.configure(scrollregion=self.canvas.bbox("all")))
-
-        self.canvas.create_window((0, 0), window=self.scrollable_frame, anchor="nw")
-        self.canvas.configure(yscrollcommand=scrollbar.set)
-
-        self.canvas.bind_all("<MouseWheel>", self._on_mousewheel)
-
-        self.canvas.pack(side="left", fill="both", expand=True)
-        scrollbar.pack(side="right", fill="y")
-
-    def _on_mousewheel(self, event):
-        self.canvas.yview_scroll(int(-1*(event.delta/120)), "units")
