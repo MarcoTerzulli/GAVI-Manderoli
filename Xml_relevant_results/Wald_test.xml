@@ -1,0 +1,158 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Wald test</title>
+    <ns>0</ns>
+    <id>1600352</id>
+    <revision>
+      <id>931328024</id>
+      <parentid>916844112</parentid>
+      <timestamp>2019-12-18T08:10:57Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Bluelinking 1 books for [[WP:V|verifiability]].) #IABot (v2.1alpha3</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="15695" xml:space="preserve">In [[statistics]], the '''Wald test''' (named after [[Abraham Wald]]) assesses [[Constraint (mathematics)|constraints]] on [[statistical parameter]]s based on the weighted distance between the [[Parameter estimate|unrestricted estimate]] and its hypothesized value under the [[null hypothesis]], where the weight is the [[Precision (statistics)|precision]] of the estimate.&lt;ref&gt;{{cite book |first=Ludwig |last=Fahrmeir |first2=Thomas |last2=Kneib |first3=Stefan |last3=Lang |first4=Brian |last4=Marx |title=Regression : Models, Methods and Applications |location=Berlin |publisher=Springer |year=2013 |isbn=978-3-642-34332-2 |page=663 }}&lt;/ref&gt;&lt;ref&gt;{{cite book |first=Michael D. |last=Ward |authorlink=Michael D. Ward |first2=John S. |last2=Ahlquist |title=Maximum Likelihood for Social Science : Strategies for Analysis |publisher= [[Cambridge University Press]] |year=2018 |isbn=978-1-316-63682-4 |page=36 |mode=cs1 |url=https://books.google.com/books?id=iqRyDwAAQBAJ&amp;pg=PA36 }}&lt;/ref&gt; Intuitively, the larger this weighted distance, the less likely it is that the constraint is true. While the [[Sampling distribution|finite sample distribution]]s of Wald tests are generally unknown,&lt;ref&gt;{{cite book |first=Vance |last=Martin |first2=Stan |last2=Hurn |first3=David |last3=Harris |title=Econometric Modelling with Time Series: Specification, Estimation and Testing |location= |publisher=Cambridge University Press |year=2013 |isbn=978-0-521-13981-6 |page=138 |url=https://books.google.com/books?id=I_W4UCYJhrAC&amp;pg=PA138 }}&lt;/ref&gt; it has an asymptotic [[chi-squared distribution|χ&lt;sup&gt;2&lt;/sup&gt;-distribution]] under the null hypothesis, a fact that can be used to determine [[statistical significance]].&lt;ref&gt;{{cite book |first=Russell |last=Davidson |first2=James G. |last2=MacKinnon |chapter=The Method of Maximum Likelihood : Fundamental Concepts and Notation |title=Estimation and Inference in Econometrics |location=New York |publisher=Oxford University Press |year=1993 |isbn=0-19-506011-3 |page=89 }}&lt;/ref&gt;  
+
+Together with the [[Lagrange multiplier test|Lagrange multiplier]] and the [[likelihood-ratio test]], the Wald test is one of three classical approaches to [[hypothesis testing]]. An advantage of the Wald test over the other two is that it only requires the estimation of the unrestricted model, which lowers the [[computational complexity|computational burden]] as compared to the likelihood-ratio test. However, a major disadvantage is that (in finite samples) it is not invariant to changes in the representation of the null hypothesis; in other words, algebraically equivalent [[Expression (mathematics)|expressions]] of non-linear parameter restriction can lead to different values of the test statistic.&lt;ref name="GregoryVeall1985"&gt;{{cite journal |first=Allan W. |last=Gregory |first2=Michael R. |last2=Veall |title=Formulating Wald Tests of Nonlinear Restrictions |journal=[[Econometrica]] |volume=53 |issue=6 |year=1985 |pages=1465–1468 |jstor=1913221 |url=https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1791&amp;context=economicsresrpt }}&lt;/ref&gt;&lt;ref&gt;{{cite journal |first=P. C. B. |authorlink=Peter C. B. Phillips |last=Phillips |first2=Joon Y. |last2=Park |title=On the Formulation of Wald Tests of Nonlinear Restrictions |journal=[[Econometrica]] |volume=56 |issue=5 |year=1988 |pages=1065–1083 |jstor=1911359 }}&lt;/ref&gt; That is because the Wald statistic is derived from a [[Taylor series|Taylor expansion]],&lt;ref&gt;{{cite book |last=Hayashi |first=Fumio |authorlink=Fumio Hayashi |title=Econometrics |location=Princeton |publisher=Princeton University Press |year=2000 |url=https://books.google.com/books?id=QyIW8WUIyzcC&amp;pg=PA489 |isbn=1-4008-2383-8 |pages=489–491 }},&lt;/ref&gt; and different ways of writing equivalent nonlinear expressions lead to nontrivial differences in the corresponding Taylor coefficients.&lt;ref&gt;{{cite journal |first=Francine |last=Lafontaine |first2=Kenneth J. |last2=White |title=Obtaining Any Wald Statistic You Want |journal=[[Economics Letters]] |volume=21 |issue=1 |year=1986 |pages=35–40 |doi=10.1016/0165-1765(86)90117-5 }}&lt;/ref&gt; Another aberration, known as the Hauck–Donner effect, can occur in [[binomial regression|binomial models]] when the estimated (unconstrained) parameter is close to the [[Boundary (topology)|boundary]] of the [[parameter space]]—for instance a fitted probability being extremely close to zero or one—which results in the Wald test no longer [[Monotonic function|monotonically increasing]] in the distance between the unconstrained and constraint parameter.&lt;ref&gt;{{cite journal |first=Walter W., Jr. |last=Hauck |first2=Allan |last2=Donner |title=Wald's Test as Applied to Hypotheses in Logit Analysis |journal=[[Journal of the American Statistical Association]] |volume=72 |year=1977 |issue=360a |pages=851–853 |doi=10.1080/01621459.1977.10479969 }}&lt;/ref&gt;
+
+== Mathematical details ==
+Under the Wald test, the estimated &lt;math&gt;\hat{\theta}&lt;/math&gt; that was found as the [[Maximum likelihood estimation|maximizing argument]] of the unconstrained [[likelihood function]] is compared with a hypothesized value &lt;math&gt;\theta_0&lt;/math&gt;. In particular, the squared difference &lt;math&gt;\hat{\theta} - \theta_0&lt;/math&gt; is weighted by the curvature of the log-likelihood function.
+
+===Test on a single parameter===
+If the hypothesis involves only a single parameter restriction, then the Wald statistic takes the following form:
+:&lt;math&gt;
+W = \frac{ ( \widehat{ \theta}-\theta_0 )^2 }{\operatorname{var}(\hat \theta )}
+&lt;/math&gt;
+which under the null hypothesis follows an asymptotic χ&lt;sup&gt;2&lt;/sup&gt;-distribution with one degree of freedom. The square root of the single-restriction Wald statistic can be understood as a (pseudo) [[T-statistic|''t''-ratio]] that is, however, not actually [[Student's t-distribution|''t''-distributed]] except for the special case of linear regression.&lt;ref&gt;{{cite book |first=A. Colin |last=Cameron |authorlink=A. Colin Cameron |first2=Pravin K. |last2=Trivedi |title=Microeconometrics : Methods and Applications |location=New York |publisher=Cambridge University Press |year=2005 |page=137 |isbn=0-521-84805-9 |url=https://books.google.com/books?id=Zf0gCwxC9ocC&amp;pg=PA137 }}&lt;/ref&gt; Instead, it follows an asymptotic [[standard normal distribution|''z'' distribution]].&lt;ref&gt;{{cite book |first=Russell |last=Davidson |first2=James G. |last2=MacKinnon |chapter=The Method of Maximum Likelihood : Fundamental Concepts and Notation |title=Estimation and Inference in Econometrics |location=New York |publisher=Oxford University Press |year=1993 |isbn=0-19-506011-3 |page=89 }}&lt;/ref&gt;
+
+:&lt;math&gt;\sqrt{W} = \frac{\widehat{\theta}-\theta_0}{\operatorname{se}(\hat\theta)}&lt;/math&gt;
+
+where &lt;math&gt;\operatorname{se}(\widehat\theta)&lt;/math&gt; is the [[standard error]] of the maximum likelihood estimate (MLE), the square root of the variance. There are several ways to [[Consistent estimator|consistently estimate]] the [[variance matrix]] which in finite samples leads to alternative estimates of standard errors and associated test statistics and [[p-value|''p''-values]].&lt;ref&gt;{{cite book |first=Vance |last=Martin |first2=Stan |last2=Hurn |first3=David |last3=Harris |title=Econometric Modelling with Time Series : Specification, Estimation and Testing |location=New York |publisher=Cambridge University Press |year=2013 |isbn=978-0-521-13981-6 |page=129 |url=https://books.google.com/books?id=I_W4UCYJhrAC&amp;pg=PA129 }}&lt;/ref&gt;
+
+===Test(s) on multiple parameters===
+
+The Wald test can be used to test a single hypothesis on multiple parameters, as well as to test jointly multiple hypotheses on single/multiple parameters. Let &lt;math&gt; \hat{\theta}_n&lt;/math&gt; be our sample estimator of P parameters (i.e., &lt;math&gt; \hat{\theta}_n&lt;/math&gt; is a P &lt;math&gt; \times &lt;/math&gt; 1 vector), which is supposed to follow asymptotically a normal distribution with [[covariance matrix]] V, &lt;math&gt; \sqrt{n}(\hat{\theta}_n-\theta)\xrightarrow{\mathcal{D}} N(0, V) &lt;/math&gt;.
+The test of Q hypotheses on the P parameters is expressed with a Q &lt;math&gt; \times &lt;/math&gt; P matrix R:
+
+: &lt;math&gt; H_0: R\theta=r&lt;/math&gt;
+: &lt;math&gt; H_1: R\theta\neq r&lt;/math&gt;
+
+The test statistic is:
+:&lt;math&gt;(R\hat{\theta}_n-r)^{'}[R(\hat{V}_n/n)R^{'}]^{-1}(R\hat{\theta}_n-r) \quad \xrightarrow{\mathcal{D}}\quad \chi^2_Q&lt;/math&gt;
+
+where &lt;math&gt;\hat{V}_n&lt;/math&gt; is an estimator of the covariance matrix.&lt;ref&gt;{{cite book |last=Harrell |first=Frank E., Jr. |year=2001 |title=Regression modeling strategies |publisher=Springer-Verlag |location=New York |isbn=0387952322 |chapter=Section 9.3.1 }}&lt;/ref&gt;
+
+{{hidden begin|toggle=left|title=Proof}}
+Suppose &lt;math&gt; \sqrt{n}(\hat{\theta}_n-\theta)\xrightarrow{\mathcal{D}} N(0, V) &lt;/math&gt;. Then, by [[Slutsky's theorem]] and by the properties of the [[Multivariate normal distribution#Affine transformation|normal distribution]], multiplying by R has distribution:
+
+:&lt;math&gt; R\sqrt{n}(\hat{\theta}_n-\theta) =\sqrt{n}(R\hat{\theta}_n-r)\xrightarrow{\mathcal{D}} N(0, RVR^{'})&lt;/math&gt;
+
+Recalling that a quadratic form of normal distribution has a [[Chi-squared distribution]]:
+:&lt;math&gt; \sqrt{n}(R\hat{\theta}_n-r)^{'}[RVR^{'}]^{-1}\sqrt{n}(R\hat{\theta}_n-r) \xrightarrow{\mathcal{D}} \chi^2_Q&lt;/math&gt;
+
+Rearranging n finally gives:
+:&lt;math&gt;(R\hat{\theta}_n-r)^{'}[R(V/n)R^{'}]^{-1}(R\hat{\theta}_n-r) \quad \xrightarrow{\mathcal{D}}\quad \chi^2_Q&lt;/math&gt;
+
+What if the covariance matrix is not known a-priori and needs to be estimated from the data? If we have a [[consistent estimator]] &lt;math&gt;\hat{V}_n \sim  \Chi^2_{n-P}&lt;/math&gt; of &lt;math&gt;V&lt;/math&gt;, then by the independence of the covariance estimator and equation above, we have:
+
+:&lt;math&gt;(R\hat{\theta}_n-r)^{'}[R(\hat{V}_n/n)R^{'}]^{-1}(R\hat{\theta}_n-r) \quad \xrightarrow{\mathcal{D}}\quad F(Q,n-P)&lt;/math&gt;
+
+{{hidden end}}
+
+===Nonlinear hypothesis===
+In the standard form, the Wald test is used to test linear hypotheses that can be represented by a single matrix R. If one wishes to test a non-linear hypothesis of the form:
+
+: &lt;math&gt; H_0: c(\theta)=0&lt;/math&gt;
+: &lt;math&gt; H_1: c(\theta)\neq 0&lt;/math&gt;
+
+The test statistic becomes:
+
+:&lt;math&gt;c \left (\hat{\theta}_n \right )' \left [c' \left (\hat{\theta}_n \right ) \left (\hat{V}_n/n \right )c' \left (\hat{\theta}_n \right )' \right ]^{-1}c \left (\hat{\theta}_n \right ) \quad \xrightarrow{\mathcal{D}}\quad \chi^2_Q&lt;/math&gt;
+
+where &lt;math&gt;c'(\hat{\theta}_n)&lt;/math&gt; is the [[derivative]] of c evaluated at the sample estimator. This result is obtained using the [[delta method]], which uses a first order approximation of the variance.
+
+====Non-invariance to re-parameterisations====
+The fact that one uses an approximation of the variance has the drawback that the Wald statistic is not-invariant to a non-linear transformation/reparametrisation of the hypothesis: it can give different answers to the same question, depending on how the question is phrased.&lt;ref&gt;{{cite journal |last=Fears |first=Thomas R. |last2=Benichou |first2=Jacques |last3=Gail |first3=Mitchell H. |year=1996 |title=A reminder of the fallibility of the Wald statistic |journal=[[The American Statistician]] |volume=50 |issue=3 |pages=226–227 |doi=10.1080/00031305.1996.10474384 }}&lt;/ref&gt;&lt;ref name="GregoryVeall1985" /&gt; For example, asking whether ''R''&amp;nbsp;=&amp;nbsp;1 is the same as asking whether log&amp;nbsp;''R''&amp;nbsp;=&amp;nbsp;0; but the Wald statistic for ''R''&amp;nbsp;=&amp;nbsp;1 is not the same as the Wald statistic for log&amp;nbsp;''R''&amp;nbsp;=&amp;nbsp;0 (because there is in general no neat relationship between the standard errors of ''R'' and log&amp;nbsp;''R'', so it needs to be approximated).&lt;ref&gt;{{cite journal |first=Frank |last=Critchley |first2=Paul |last2=Marriott |first3=Mark |last3=Salmon |title=On the Differential Geometry of the Wald Test with Nonlinear Restrictions |journal=[[Econometrica]] |volume=64 |issue=5 |year=1996 |pages=1213–1222 |jstor=2171963 }}&lt;/ref&gt;
+
+== Alternatives to the Wald test ==
+There exist several alternatives to the Wald test, namely the [[likelihood-ratio test]] and the [[Score test|Lagrange multiplier test]] (also known as the score test). [[Robert F. Engle]] showed that these three tests, the Wald test, the [[likelihood-ratio test]] and the [[Score test|Lagrange multiplier test]]  are [[Asymptotic distribution|asymptotically equivalent]].&lt;ref&gt;{{cite book |title=Handbook of Econometrics |last=Engle |first=Robert F. |editor=Intriligator, M. D. |editor2=Griliches, Z. |publisher=Elsevier |year=1983 |volume=II |pages=796–801 |chapter=Wald, Likelihood Ratio, and Lagrange Multiplier Tests in Econometrics |isbn=978-0-444-86185-6 }}&lt;/ref&gt; Although they are asymptotically equivalent, in finite samples, they could disagree enough to lead to different conclusions.
+
+There are several reasons to prefer the likelihood ratio test or the Lagrange multiplier to the Wald test:&lt;ref&gt;{{cite book |last=Harrell |first=Frank E., Jr. |year=2001 |title=Regression modeling strategies |publisher=Springer-Verlag |location=New York |isbn=0387952322 |chapter=Section 9.3.3 }}&lt;/ref&gt;&lt;ref&gt;{{cite book |last=Collett |first=David |title=Modelling Survival Data in Medical Research |location=London |year=1994 |publisher=Chapman &amp; Hall |isbn=0412448807 }}&lt;/ref&gt;&lt;ref&gt;{{cite book |last=Pawitan |first=Yudi |year=2001 |title=In All Likelihood |location=New York |publisher=Oxford University Press |isbn=0198507658 }}&lt;/ref&gt;
+
+* Non-invariance: As argued above, the Wald test is not invariant to a reparametrization, while the  Likelihood ratio tests will give exactly the same answer whether we work with ''R'', log&amp;nbsp;''R'' or any other [[monotonic]] transformation of&amp;nbsp;''R''.&lt;ref name="GregoryVeall1985" /&gt;
+* The other reason is that the Wald test uses two approximations (that we know the standard error, and that the distribution is [[Chi-squared distribution|χ&lt;sup&gt;2&lt;/sup&gt;]]), whereas the likelihood ratio test uses one approximation (that the distribution is χ&lt;sup&gt;2&lt;/sup&gt;).{{cn|date=April 2019}}
+* The Wald test requires an estimate under the alternative hypothesis, corresponding to the "full" model. In some cases, the model is simpler under the zero hypothesis, so that one might prefer to use the [[score test]] (also called Lagrange Multiplier test), which has the advantage that it can be formulated in situations where the variability is difficult to estimate; e.g. the [[Cochran–Mantel–Haenzel test]] is a score test.&lt;ref&gt;{{cite book |last=Agresti |first=Alan |year=2002 |title=Categorical Data Analysis |publisher=Wiley |page=232 |isbn=0471360937 |edition=2nd }}&lt;/ref&gt;
+
+== See also ==
+
+* [[Chow test]]
+* [[Sequential probability ratio test]]
+* [[Sup-Wald test]]
+* [[Student's t-test]]
+* [[Welch's t-test|Welch's ''t''-test]]
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+* {{cite book |last=Greene |first=William H. |authorlink=William Greene (economist) |title=Econometric Analysis |location=Boston |publisher=Pearson |edition=Seventh international |year=2012 |isbn=978-0-273-75356-8 |pages=155–161 }}
+* {{cite book |last=Kmenta |first=Jan |authorlink=Jan Kmenta |title=Elements of Econometrics |location=New York |publisher=Macmillan |year=1986 |edition=Second |isbn=0-02-365070-2 |pages=[https://archive.org/details/elementsofeconom0003kmen/page/492 492–493] |url-access=registration |url=https://archive.org/details/elementsofeconom0003kmen/page/492 }}
+* {{cite book |last=Thomas |first=R. L. |chapter= |pages=73–77 |title=Introductory Econometrics: Theory and Application |location=London |publisher=Longman |year=1993 |edition=Second |isbn=0-582-07378-2 }}
+
+== External links ==
+* [http://jeff560.tripod.com/w.html Wald test] on the [http://jeff560.tripod.com/mathword.html Earliest known uses of some of the words of mathematics]
+
+{{Statistics|inference}}
+
+{{DEFAULTSORT:Wald Test}}
+[[Category:Statistical tests]]</text>
+      <sha1>e0ze3dp1sd6q0qc38m8atfbymsv4g86</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,518 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Omnibus test</title>
+    <ns>0</ns>
+    <id>7013774</id>
+    <revision>
+      <id>953917036</id>
+      <parentid>953916911</parentid>
+      <timestamp>2020-04-29T18:42:58Z</timestamp>
+      <contributor>
+        <username>Kripta</username>
+        <id>29188196</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="45667" xml:space="preserve">{{Warning|Citation needed (no reference list)|heading=Warning}}'''Omnibus tests''' are a kind of [[statistical test]]. They test whether the explained variance in a set of data is [[Statistical significance|significantly]] greater than the unexplained [[variance]], overall. One example is the [[F-test]] in the [[analysis of variance]]. There can be legitimate significant effects within a model even if the omnibus test is not significant. For instance, in a model with two independent variables, if only one variable exerts a significant effect on the dependent variable and the other does not, then the omnibus test may be non-significant. This fact does not affect the conclusions that may be drawn from the one significant variable. In order to test effects within an omnibus test, researchers often use [[Contrast (statistics)|contrasts]].
+
+In addition, Omnibus test as a general name refers to an overall or a global test. Other names include [[F-test]] or [[Chi-squared test]].
+
+Omnibus test as a statistical test is implemented on an overall hypothesis that tends to find general significance between parameters' variance, while examining parameters of the same type, such as:
+Hypotheses regarding equality vs. inequality between k expectancies μ&lt;sub&gt;1&lt;/sub&gt;=μ&lt;sub&gt;2&lt;/sub&gt;=...=μ&lt;sub&gt;k&lt;/sub&gt;{{pad|1em}} vs. at least one pair {{pad|1em}}μ&lt;sub&gt;j&lt;/sub&gt;≠μ&lt;sub&gt;j'&lt;/sub&gt; {{pad|1em}}, where j,j'=1,...,k and j≠j', in Analysis Of Variance(ANOVA); 
+or regarding equality between k standard deviations{{pad|1em}} σ&lt;sub&gt;1&lt;/sub&gt;= σ&lt;sub&gt;2&lt;/sub&gt;=....= σ &lt;sub&gt;k&lt;/sub&gt; {{pad|1em}} vs. at least one pair {{pad|1em}} σ&lt;sub&gt;j&lt;/sub&gt;≠ σ&lt;sub&gt;j'&lt;/sub&gt; {{pad|1em}} in testing equality of variances in ANOVA; 
+or regarding coefficients{{pad|1em}} β&lt;sub&gt;1&lt;/sub&gt;= β&lt;sub&gt;2&lt;/sub&gt;=....= β&lt;sub&gt;k&lt;/sub&gt; {{pad|1em}} vs. at least one pair β&lt;sub&gt;j&lt;/sub&gt;≠β&lt;sub&gt;j'&lt;/sub&gt;{{pad|1em}} in [[Multiple linear regression]] or in [[Logistic regression]].
+
+Usually, it tests more than two parameters of the same type and its role is to find general significance of at least one of the parameters involved.
+
+Omnibus tests commonly refers to either one of those statistical tests:
+
+* ANOVA F test to test significance between all factor means and/or between their variances equality in Analysis of Variance procedure ;
+* The omnibus multivariate F Test in ANOVA with repeated measures ;
+* F test for equality/inequality of the regression coefficients in Multiple Regression;
+* Chi-Square test for exploring significance differences between blocks of independent explanatory variables or their coefficients in a logistic regression.
+
+Those omnibus tests are usually conducted whenever one tends to test an overall hypothesis on a quadratic statistic (like [[Partition of sums of squares|sum of squares]] or variance or covariance) or rational quadratic statistic (like the ANOVA overall F test in Analysis of Variance or F Test in [[Analysis of covariance]] or the F Test in Linear Regression, or Chi-Square in Logistic Regression).
+
+While significance is founded on the omnibus test, it doesn't specify exactly where the difference is occurred, meaning, it doesn't bring specification on which parameter is significantly different from the other, but it statistically determine that there is a difference, so at least two of the tested parameters are statistically different. 
+If significance was met, none of those tests will tell specifically which mean differs from the others (in ANOVA), which coefficient differs from the others (in Regression) etc.
+
+==Omnibus Tests in One Way Analysis of Variance==
+The F-test in ANOVA is an example of an omnibus test, which tests the overall significance of the model. A significant F test means that among the tested means, at least two of the means are significantly different, but this result doesn't specify exactly which means are different one from the other. Actually, testing means' differences is done by the quadratic rational F statistic ( F=MSB/MSW). In order to determine which mean differs from another mean or which contrast of means are significantly different, Post Hoc tests (Multiple Comparison tests) or planned tests should be conducted after obtaining a significant omnibus F test. It may be considered to use the simple [[Bonferroni correction]] or another suitable correction.
+Another omnibus test we can find in ANOVA is the F test for testing one of the ANOVA assumptions: the equality of variance between groups.
+In One-Way ANOVA, for example, the hypotheses tested by omnibus F test are:
+
+H0: μ&lt;sub&gt;1&lt;/sub&gt;=μ&lt;sub&gt;2&lt;/sub&gt;=....= μ&lt;sub&gt;k&lt;/sub&gt;
+
+H1: at least one pair μ&lt;sub&gt;j&lt;/sub&gt;≠μ&lt;sub&gt;j'&lt;/sub&gt;
+
+These hypotheses examine model fit of the most common model: y&lt;sub&gt;ij&lt;/sub&gt; = μ&lt;sub&gt;j&lt;/sub&gt; + ε&lt;sub&gt;ij&lt;/sub&gt;, 
+where y&lt;sub&gt;ij&lt;/sub&gt; is the dependent variable, μ&lt;sub&gt;j&lt;/sub&gt; is the j-th independent variable's expectancy, which usually is referred to as "group expectancy" or "factor expectancy"; and ε&lt;sub&gt;ij&lt;/sub&gt; are the errors results on using the model.
+
+The F statistics of the omnibus test is:
+&lt;math&gt; F = \tfrac{{\displaystyle \sum_{j=1}^k n_j\left(\bar y_j- \bar y\right)^2}/{(k-1)}} {{\displaystyle {\sum_{j=1}^{k}} {\sum_{i=1}^{n_j}} \left(y_{ij}- \bar y_j\right)^2}/{(n-k)}}&lt;/math&gt;
+Where, &lt;math&gt;\bar y&lt;/math&gt; is the overall sample mean, &lt;math&gt;\bar y_j&lt;/math&gt; is the group j sample mean, k is the number of groups and n&lt;sub&gt;j&lt;/sub&gt; is sample size of group j.
+
+The F statistic is distributed F&lt;sub&gt;(k-1,n-k),(α)&lt;/sub&gt; under assumption of null hypothesis and normality assumption. 
+F test is considered robust in some situations, even when the normality assumption isn't met.
+
+===Model Assumptions in One-Way ANOVA===
+
+* Random sampling.
+* Normal or approximately normal distribution of in each group.
+* Equal variances between groups. 
+
+If the assumption of equality of variances is not met, Tamhane's test is preferred. When this assumption is satisfied we can choose amongst several tests. Although the LSD (Fisher's Least Significant Difference) is a very strong test in detecting pairs of means differences, it is applied only when the F test is significant, and it is mostly less preferable since its method fails in protecting low error rate. Bonferroni test is a good choice due to its correction suggested by his method. This correction states that if n independent tests are to be applied then the α in each test should be equal to α /n. Tukey's method is also preferable by many statisticians because it controls the overall error rate. (More information on this issue can be found in any ANOVA book, such as Douglas C. Montgomery's Design and Analysis of Experiments).
+On small sample sizes, when the assumption of [[Normal distribution|normality]] isn't met, a Nonparametric Analysis of Variance can be made by Kruskal-Wallis test, that is another omnibus test example ( see following example ). 
+An alternative option is to use bootstrap methods to assess whether the group means are different. [[Bootstrapping (statistics)|Bootstrap]] methods do not have any specific distributional assumptions and may be an appropriate tool to use like using re-sampling, which is one of the simplest bootstrap methods. You can extend the idea to the case of multiple groups and estimate [[p-value]]s.
+
+===Example===
+A cellular survey on customers' time-wait was reviewed on 1,963 different customers during 7 days on each one of 20 in-sequential weeks. Assuming none of the customers called twice and none of them have customer relations among each other, One Way ANOVA was run on [[SPSS]] to find significant differences between the days time-wait:
+
+====ANOVA====
+
+====Dependent Variable: time Minutes to Respond ====
+
+{| class="wikitable"
+|-
+! Source !! Sum of Squares!! df !! Mean Square !! F !! Sig. 
+|-
+| Between Groups || {{pad|1em}} 12823.921 || {{pad|1em}} 6 || {{pad|1em}}2137.320 || 158.266 || .000
+|-
+| Within Groups || {{pad|1em}} 26414.958 || 1956 || {{pad|2em}}13.505 || || 
+|-
+| Total || {{pad|1em}}39238.879 || 1962 || || || 
+|}
+
+The omnibus F ANOVA test results above indicate significant differences between the days time-wait (P-Value =0.000 &lt; 0.05, α =0.05).
+
+The other omnibus tested was the assumption of Equality of Variances, tested by the Levene F test:
+
+====''Test of Homogeneity of Variances''====
+
+====Dependent Variable: time Minutes to Respond====
+
+{| class="wikitable"
+! Levene Statistic !! df1 !! df2 !! Sig. 
+|-
+| {{pad|8em}} 36.192 || 6 || 1956 || .000 
+ 
+|}
+
+The results suggest that the equality of variances assumption can't be made. In that case Tamhane's test can be made on Post Hoc comparisons.
+
+===Some important remarks and considerations===
+A significant omnibus F test in ANOVA procedure, is an in advance requirement before conducting the Post Hoc comparison, otherwise those comparisons are not required. If the omnibus test fails to find significant differences between all means, it means that no difference has been found between any combinations of the tested means. In such, it protects family-wise Type I error, which may be increased if overlooking the omnibus test. 
+Some debates have occurred about the efficiency of the omnibus F Test in ANOVA.
+
+In a paper Review of Educational Research (66(3), 269-306) which reviewed by Greg Hancock, those problems are discussed:
+
+William B. Ware (1997) claims that the omnibus test significance is required depending on the [[Post-hoc analysis|Post Hoc test]] is conducted or planned: "... Tukey's HSD and Scheffé's procedure are one-step procedures and can be done without the omnibus F having to be significant. They are "a posteriori" tests, but in this case, "a posteriori" means "without prior knowledge", as in "without specific hypotheses." On the other hand, Fisher's Least Significant Difference test is a two-step procedure. It should not be done without the omnibus F-statistic being significant."
+
+William B. Ware (1997) argued that there are a number of problems associated with the requirement of an omnibus test rejection prior to conducting multiple comparisons. Hancock agrees with that approach and sees the omnibus requirement in ANOVA in performing planned tests an unnecessary test and potentially detrimental, hurdle unless it is related to Fisher's LSD, which is a viable option for k=3 groups.
+
+Other reason for relating to the omnibus test significance when it is concerned to protect family-wise [[Type I and type II errors|Type I error]].
+
+This publication "Review of Educational Research" discusses four problems in the omnibus F test requirement:
+
+''First'', in a well planned study, the researcher's questions involve specific contrasts of group means' while the omnibus test, addresses each question only tangentially and it is rather used to facilitate control over the rate of Type I error.
+
+''Secondly'', this issue of control is related to the second point: the belief that an omnibus test offers protection is not completely accurate. When the complete null hypothesis is true, weak family-wise Type I error control is facilitated by the omnibus test; but, when the complete null is false and partial nulls exist, the F-test does not maintain strong control over the family-wise error rate.
+
+A ''third'' point, which Games (1971) demonstrated in his study, is that the F-test may not be completely consistent with the results of a pairwise comparison approach. Consider, for example, a researcher who is instructed to conduct Tukey's test only if an alpha-level F-test rejects the complete null. It is possible for the complete null to be rejected but for the widest ranging means not to differ significantly. This is an example of what has been referred to as '''non-consonance/dissonance''' (Gabriel, 1969) or incompatibility (Lehmann, 1957). On the other hand, the complete null may be retained while the null associated with the widest ranging means would have been rejected had the decision structure allowed it to be tested. This has been referred to by Gabriel (1969) as '''incoherence'''. One wonders if, in fact, a practitioner in this situation would simply conduct the MCP contrary to the omnibus test's recommendation.
+
+The ''fourth'' argument against the traditional implementation of an initial omnibus F-test stems from the fact that its well-intentioned but unnecessary protection contributes to a decrease in power. The first test in a pairwise MCP, such as that of the most disparate means in Tukey's test, is a form of omnibus test all by itself, controlling the family-wise error rate at the α-level in the weak sense. Requiring a preliminary omnibus F-test amount to forcing a researcher to negotiate two hurdles to proclaim the most disparate means significantly different, a task that the range test accomplished at an acceptable α -level all by itself. If these two tests were perfectly redundant, the results of both would be identical to the omnibus test; probabilistically speaking, the joint probability of rejecting both would be α when the complete null hypothesis was true. However, the two tests are not completely redundant; as a result the joint probability of their rejection is less than α. The F-protection therefore imposes unnecessary conservatism (see Bernhardson, 1975, for a simulation of this conservatism). For this reason, and those listed before, we agree with Games' (1971) statement regarding the traditional implementation of a preliminary omnibus F-test: There seems to be little point in applying the overall F test prior to running c contrasts by procedures that set [the family-wise error rate] α .... If the c contrasts express the experimental interest directly, they are justified whether the overall F is significant or not and (family-wise error rate) is still controlled.
+
+==Omnibus Tests in Multiple Regression==
+In Multiple Regression the omnibus test is an ANOVA F test on all the coefficients, that is equivalent to the multiple correlations R Square F test.
+The omnibus F test is an overall test that examines model fit, thus failure to reject the null hypothesis implies that the suggested linear model is not significantly suitable to the data.
+In other words, none of the independent variables has explored as significant in explaining the dependent variable variation.
+These hypotheses examine model fit of the most common model: 
+y&lt;sub&gt;i&lt;/sub&gt;=β&lt;sub&gt;0&lt;/sub&gt; + β&lt;sub&gt;1&lt;/sub&gt; x&lt;sub&gt;i1&lt;/sub&gt; + ... +β&lt;sub&gt;k&lt;/sub&gt; x&lt;sub&gt;ik&lt;/sub&gt; + ε&lt;sub&gt;ij&lt;/sub&gt;
+
+estimated by E(y&lt;sub&gt;i&lt;/sub&gt;|x&lt;sub&gt;i1&lt;/sub&gt;....x&lt;sub&gt;ik&lt;/sub&gt;)=β&lt;sub&gt;0&lt;/sub&gt;+β&lt;sub&gt;1&lt;/sub&gt;x&lt;sub&gt;i1&lt;/sub&gt;+...+β&lt;sub&gt;k&lt;/sub&gt;x&lt;sub&gt;ik&lt;/sub&gt;
+,where E(y&lt;sub&gt;i&lt;/sub&gt;|x&lt;sub&gt;i1&lt;/sub&gt;....x&lt;sub&gt;ik&lt;/sub&gt;) is the dependant variable explanatory for the i-th observation, x&lt;sub&gt;ij&lt;/sub&gt; is the j-th independent (explanatory) variable, β&lt;sub&gt;j&lt;/sub&gt; is the j-th coefficient of x&lt;sub&gt;ij&lt;/sub&gt; and indicates its influence on the dependant variable y upon its partial correlation with y.
+The F statistics of the omnibus test is: 
+&lt;math&gt; F = \frac{{\displaystyle \sum_{i=1}^n \left(\widehat {y_i}-\bar {y}\right)^2}/{k}} {{\displaystyle {\sum_{j=1}^{k}} {\sum_{i=1}^{n_j}} \left(y_{ij}-\widehat {y_i}\right)^2}/{(n-k-1)}}&lt;/math&gt;
+ 
+Whereas, ȳ is the overall sample mean for y&lt;sub&gt;i&lt;/sub&gt;, ŷ&lt;sub&gt;i&lt;/sub&gt; is the regression estimated mean for specific set of k independent (explanatory) variables and n is the sample size.
+
+The F statistic is distributed F&lt;sub&gt; (k,n-k-1),(α)&lt;/sub&gt; under assuming of null hypothesis and normality assumption.
+
+===Model Assumptions in Multiple Linear Regression===
+* Random sampling.
+* Normal or approximately normal distribution of the errors e&lt;sub&gt;ij&lt;/sub&gt;.
+* The errors e&lt;sub&gt;ij&lt;/sub&gt; explanatory equals zero&gt;, E(e&lt;sub&gt;ij&lt;/sub&gt;)=0.
+* Equal variances of the errors e&lt;sub&gt;ij&lt;/sub&gt;. Which it's omnibus F test ( like Levene F test).
+* No Multi-collinearity between explanatory/predictor variables' meaning: cov(x&lt;sub&gt;i&lt;/sub&gt;,x&lt;sub&gt;j&lt;/sub&gt;)=0 where is i≠j, for any i or j.
+
+===The omnibus F test regarding the hypotheses over the coefficients===
+H&lt;sub&gt;0&lt;/sub&gt;: β&lt;sub&gt;1&lt;/sub&gt;= β&lt;sub&gt;2&lt;/sub&gt;=....= β&lt;sub&gt;k&lt;/sub&gt; = 0
+
+H&lt;sub&gt;1&lt;/sub&gt;: at least one β&lt;sub&gt;j &lt;/sub&gt;≠ 0
+
+The omnibus test examines whether there are any regression coefficients that are significantly non-zero, except for the coefficient β0. The β0 coefficient goes with the constant predictor and is usually not of interest. 
+The null hypothesis is generally thought to be false and is easily rejected with a reasonable amount of data, but in contrary to ANOVA it is important to do the test anyway. When the null hypothesis cannot be rejected, this means the data are completely worthless. The model that has the constant regression function fits as well as the regression model, which means that no further analysis need be done.
+In many statistical researches the omnibus is usually significant, although part or most of the independent variables has no significance influence on the dependant variable. So the omnibus is useful only to imply whether the model fits or not, but it doesn't offers the corrected recommended model which can be fitted to the data. 
+The omnibus test comes to be significant mostly if at least one of the independent variables is significant. Which means that any other variable may enter the model, under the model assumption of non-colinearity between independent variables, while the omnibus test still show significance, that is: the suggested model is fitted to the data. So significance of the omnibus F test (shown on ANOVA table) followed by model selection, which part of it is related to selection of significant independent variable which contribute to the dependant variable variation.
+
+===Example 1- The Omnibus F Test on SPSS===
+An insurance company intends to predict "Average cost of claims" (variable name "claimamt") by three independent variables (Predictors): "Number of claims" (variable name "nclaims"), "Policyholder age" (variable name holderage), "Vehicle age" (variable name vehicleage).
+Linear Regression procedure has been run on the data, as follows:
+The omnibus F test in the ANOVA table implies that the model involved these three predictors can fit for predicting "Average cost of claims", since the null hypothesis is rejected (P-Value=0.000 &lt; 0.01, α=0.01). 
+This rejection of the omnibus test implies that ''at least one'' of the coefficients of the predictors in the model have found to be non-zero. The multiple- R-Square reported on the Model Summary table is 0.362, which means that the three predictors can explain 36.2% from the "Average cost of claims" variation.
+
+====ANOVA&lt;sup&gt;b&lt;/sup&gt;====
+
+{| class="wikitable"
+|-
+! Source !! Sum of Squares!! df !! Mean Square !! F !! Sig. 
+|-
+| Regression || {{pad|2em}}605407.143 || {{pad|1em}}3 || {{pad|1em}}201802.381{{pad|1em}}|| 22.527 || .000&lt;sup&gt;a&lt;/sup&gt;
+|-
+| Residual || {{pad|1em}} 1066019.508{{pad|1em}} || 119 || {{pad|2em}}8958.147{{pad|1em}}|| || 
+|-
+| Total || {{pad|1em}} 1671426.650 || 122 || || || 
+|}
+
+a. Predictors: (Constant), nclaims Number of claims, holderage Policyholder age, vehicleage Vehicle age
+
+b. Dependent Variable: claimant Average cost of claims
+
+==== Model Summary ====
+
+{| class="wikitable"
+! Model !! R !! R Square !! Adjusted R Square !! Std. Error of the Estimate 
+|-
+| {{pad|3em}}1 ||{{pad|1em}}.602&lt;sup&gt;a&lt;/sup&gt;{{pad|1em}}||{{pad|1em}}.362||{{pad|3em}}.346||{{pad|3em}}94.647
+|}
+
+a. Predictors: (Constant), nclaims Number of claims, holderage Policyholder age, vehicleage Vehicle age
+
+However, only the predictors: "Vehicle age" and "Number of claims" has statistical influence and prediction on the "Average cost of claims" as shown on the following "Coefficients table", whereas "Policyholder age" is not significant as a predictor (P-Value=0.116&gt;0.05). That means that a model without this predictor may be suitable.
+
+====Coefficients &lt;sup&gt;a&lt;/sup&gt; ====
+
+{| class="wikitable"
+|-
+! Model !! !! Unstandardized Coefficients !! Standardized Coefficients !! t !! Sig. 
+|-
+! 1 !! !! {{pad|1em}}B {{pad|3em}}Std. Error !! Beta !! !! 
+|-
+| || (Constant) || {{pad|2em}}447.668 {{pad|2em}}29.647 || || 15.100 || .000
+|-
+| || vehicleage Vehicle age || {{pad|2em}}-67.877{{pad|2em}} 9.366 || {{pad|4em}}-.644 || -7.247 || .000
+|-
+| || holderage Policyholder age ||{{pad|2em}} -6.624 {{pad|2em}} 4.184 || {{pad|4em}} -.128 || -1.583 || .116
+|-
+| || nclaims Number of claims || {{pad|2em}} -.274{{pad|3em}}.119 || {{pad|4em}} -.217 || -2.30 || .023
+|}
+
+a. Dependent Variable: claimant Average cost of claims
+
+
+===Example 2- The multiple Linear Regression Omnibus F Test on R===
+
+The following R output illustrates the linear regression and model fit of two predictors: x1 and x2. The last line describes the omnibus F test for model fit. The interpretation is that the null hypothesis is rejected (P = 0.02692&lt;0.05, α=0.05). So Either β1 or β2 appears to be non-zero (or perhaps both). Note that the conclusion from Coefficients: table is that only β1 is significant (P-Value shown on Pr(&gt;|t|) column is 4.37e-05 &lt;&lt; 0.001). Thus one step test, like omnibus F test for model fitting is not sufficient to determine model fit for those predictors.
+
+====Coefficients ====
+
+{{pad|7em}} Estimate {{pad|2em}} Std. Error {{pad|2.5em}} t value {{pad|2.5em}} Pr(&gt;|t|)
+
+(Intercept) {{pad|2em}} -0.7451 {{pad|3em}} .7319 {{pad|3.5em}}.-1.018{{pad|3.5em}} 0.343
+
+X1 {{pad|5.5em}} 0.6186 {{pad|3em}} 0.7500 {{pad|3.5em}} 0.825 {{pad|3em}} 4.37e-05 ***
+
+x2 {{pad|5.5em}} 0.0126 {{pad|3em}} 0.1373 {{pad|3.5em}} 0.092 {{pad|3em}} 0.929
+
+Residual standard error: 1.157 on 7 degrees of freedom
+
+Multiple R-Squared: 0.644, Adjusted R-squared: 0.5423
+
+'''F-statistic: 6.332 on 2 and 7 DF, p-value: 0.02692'''
+
+==Omnibus Tests in Logistic Regression==
+In statistics, logistic regression is a type of regression analysis used for predicting the outcome of a categorical dependant variable (with a limited number of categories) or dichotomic dependant variable based on one or more predictor variables. The probabilities describing the possible outcome of a single trial are modeled, as a function of explanatory ( independent ) variables, using a logistic function or multinomial distribution.
+Logistic regression measures the relationship between a categorical or dichotomic dependent variable and usually a continuous independent variable (or several), by converting the dependent variable to probability scores. 
+The probabilities can be retrieved using the logistic function or the multinomial distribution, while those probabilities, like in probability theory, takes on values between zero and one:
+
+&lt;small&gt;&lt;math&gt; P(y_i)= \frac{e^{\beta_0+\beta_1 x_{i1}+\cdot+\beta_k x_{ik}}}{1+e^{\beta_0+\beta_1 x_{i1}+\cdot+\beta_k x_{ik}}} =\frac{1}{1+e^{-(\beta_0+\beta_1 x_{i1}+\cdot+\beta_k x_{ik})}} &lt;/math&gt;&lt;/small&gt;
+
+So the model tested can be defined by:
+
+&lt;small&gt;&lt;math&gt;f(y_i)=ln \frac {P(y_i)}{1-P(y_i)}=\beta_0+\beta_1 x_{i1}+\cdot+\beta_k x_{ik} &lt;/math&gt;&lt;/small&gt;
+
+,whereas y&lt;sub&gt;i&lt;/sub&gt; is the category of the dependant variable for the i-th observation and x&lt;sub&gt;ij&lt;/sub&gt; is the j independent variable (j=1,2,...k) for that observation, β&lt;sub&gt;j&lt;/sub&gt; is the j-th coefficient of x&lt;sub&gt;ij&lt;/sub&gt; and indicates its influence on and expected from the fitted model .
+
+Note: independent variables in logistic regression can also be continuous.
+
+===The omnibus test relates to the hypotheses===
+H&lt;sub&gt;0&lt;/sub&gt;: β&lt;sub&gt;1&lt;/sub&gt;= β&lt;sub&gt;2&lt;/sub&gt;=....= β&lt;sub&gt;k&lt;/sub&gt; = 0
+
+H&lt;sub&gt;1&lt;/sub&gt;: at least one β&lt;sub&gt;j&lt;/sub&gt; ≠ 0
+
+===Model fitting: Maximum likelihood method===
+The omnibus test, among the other parts of the logistic regression procedure, is a likelihood-ratio test based on the maximum likelihood method. Unlike the Linear Regression procedure in which estimation of the regression coefficients can be derived from least square procedure or by minimizing the sum of squared residuals as in maximum likelihood method, in logistic regression there is no such an analytical solution or a set of equations from which one can derive a solution to estimate the regression coefficients. So logistic regression uses the maximum likelihood procedure to estimate the coefficients that maximize the likelihood of the regression coefficients given the predictors and criterion.[6] The maximum likelihood solution is an iterative process that begins with a tentative solution, revises it slightly to see if it can be improved, and repeats this process until improvement is minute, at which point the model is said to have converged.[6]. Applying the procedure in conditioned on convergence ( see also in the following "remarks and other considerations ").
+
+In general, regarding simple hypotheses on parameter θ ( for example):{{pad|1em}}H&lt;sub&gt;0&lt;/sub&gt;: θ=θ&lt;sub&gt;0&lt;/sub&gt;{{pad|1em}}vs.{{pad|1em}}H&lt;sub&gt;1&lt;/sub&gt;: θ=θ&lt;sub&gt;1&lt;/sub&gt;{{pad|1em}},the likelihood ratio test statistic can be referred as: 
+&lt;math&gt;\lambda(y_i)= \frac {L(y_i|\theta_0)}{L(y_i|\theta_1)}&lt;/math&gt;
+
+,where L(y&lt;sub&gt;i&lt;/sub&gt;|θ) is the likelihood function, which refers to the specific θ.
+
+The numerator corresponds to the maximum likelihood of an observed outcome under the null hypothesis. The denominator corresponds to the maximum likelihood of an observed outcome varying parameters over the whole parameter space. The numerator of this ratio is less than the denominator. 
+The likelihood ratio hence is between 0 and 1.
+
+Lower values of the likelihood ratio mean that the observed result was much less likely to occur under the null hypothesis as compared to the alternative. Higher values of the statistic mean that the observed outcome was more than or equally likely or nearly as likely to occur under the null hypothesis as compared to the alternative, and the null hypothesis cannot be rejected.
+
+The likelihood ratio test provides the following decision rule:
+
+If{{pad|1em}} &lt;small&gt;&lt;math&gt;\lambda(y_i)&gt;C&lt;/math&gt;&lt;/small&gt; {{pad|1em}} do not reject H&lt;sub&gt;0&lt;/sub&gt;,
+
+otherwise
+
+If {{pad|1em}} &lt;small&gt;&lt;math&gt;\lambda(y_i)&lt;C&lt;/math&gt;&lt;/small&gt; {{pad|1em}} reject H&lt;sub&gt;0&lt;/sub&gt;
+
+and also reject H&lt;sub&gt;0&lt;/sub&gt; with probability {{pad|1em}} q {{pad|1em}} if {{pad|1em}}&lt;math&gt;\lambda(y_i)=C&lt;/math&gt;,
+
+whereas the critical values {{pad|1em}} c, q {{pad|1em}} are usually chosen to obtain a specified significance level α, through the relation: &lt;small&gt;&lt;math&gt;q\cdot(P(\lambda(y_i)=C|H_0)+(P(\lambda(y_i)&lt;C|H_0)&lt;/math&gt;&lt;/small&gt;.
+
+Thus, the likelihood-ratio test rejects the null hypothesis if the value of this statistic is too small. How small is too small depends on the significance level of the test, i.e., on what probability of Type I error is considered tolerable
+The Neyman-Pearson lemma &lt;sup&gt;[8]&lt;/sup&gt; states that this likelihood ratio test is the most powerful among all level-α tests for this problem.
+
+===Test's Statistic and Distribution: Wilks' theorem===
+First we define the test statistic as the deviate &lt;small&gt;&lt;math&gt; D=-2ln\lambda(y_i)&lt;/math&gt;&lt;/small&gt; which indicates testing the ratio:
+
+&lt;small&gt;&lt;math&gt; D=-2ln\lambda(y_i)=-2ln\frac{likelihood\ under\ fitted\ model\ if\ null\ hypothesis\ is\ true}{likelihood\ under\ saturated\ model\ }&lt;/math&gt;&lt;/small&gt;
+ 
+While the saturated model is a model with a theoretically perfect fit. Given that deviance is a measure of the difference between a given model and the saturated model, smaller values indicate better fit as the fitted model deviates less from the saturated model. When assessed upon a chi-square distribution, non-significant chi-square values indicate very little unexplained variance and thus, good model fit. Conversely, a significant chi-square value indicates that a significant amount of the variance is unexplained. 
+Two measures of deviance D are particularly important in logistic regression: null deviance and model deviance. The null deviance represents the difference between a model with only the intercept and no predictors and the saturated model. And, the model deviance represents the difference between a model with at least one predictor and the saturated model.[3] In this respect, the null model provides a baseline upon which to compare predictor models. Therefore, to assess the contribution of a predictor or set of predictors, one can subtract the model deviance from the null deviance and assess the difference on a chi-square distribution with one degree of freedom. If the model deviance is significantly smaller than the null deviance then one can conclude that the predictor or set of predictors significantly improved model fit. This is analogous to the F-test used in linear regression analysis to assess the significance of prediction. 
+In most cases, the exact distribution of the likelihood ratio corresponding to specific hypotheses is very difficult to determine. A convenient result, attributed to Samuel S. Wilks, says that as the sample size n approaches the test statistic has asymptotically distribution with degrees of freedom equal to the difference in dimensionality of and parameters the β coefficients as mentioned before on the omnibus test. e.g., if n is large enough and if the fitted model assuming the null hypothesis consist of 3 predictors and the saturated ( full ) model consist of 5 predictors, the Wilks' statistic is approximately distributed ( with 2 degrees of freedom). This means that we can retrieve the critical value C from the chi squared with 2 degrees of freedom under a specific significance level.
+
+===Remarks and other considerations===
+# In some instances the model may not reach convergence. When a model does not converge this indicates that the coefficients are not reliable as the model never reached a final solution. Lack of convergence may result from a number of problems: having a large ratio of predictors to cases, multi-collinearity, sparseness, or complete separation. Although not a precise number, as a rule of thumb, logistic regression models require a minimum of 10 cases per variable. Having a large proportion of variables to cases results in an overly conservative Wald statistic (discussed below) and can lead to non convergence.
+# Multi-collinearity refers to unacceptably high correlations between predictors. As multi-collinearity increases, coefficients remain unbiased but standard errors increase and the likelihood of model convergence decreases. To detect multi-collinearity amongst the predictors, one can conduct a linear regression analysis with the predictors of interest for the sole purpose of examining the tolerance statistic used to assess whether multi-collinearity is unacceptably high.
+# Sparseness in the data refers to having a large proportion of empty cells (cells with zero counts). Zero cell counts are particularly problematic with categorical predictors. With continuous predictors, the model can infer values for the zero cell counts, but this is not the case with categorical predictors. The reason the model will not converge with zero cell counts for categorical predictors is because the natural logarithm of zero is an undefined value, so final solutions to the model cannot be reached. To remedy this problem, researchers may collapse categories in a theoretically meaningful way or may consider adding a constant to all cells.[6] Another numerical problem that may lead to a lack of convergence is complete separation, which refers to the instance in which the predictors perfectly predict the criterion - all cases are accurately classified. In such instances, one should reexamine the data, as there is likely some kind of error.
+# Wald statistic is defined by, where is the sample estimation of and is the standard error of . Alternatively, when assessing the contribution of individual predictors in a given model, one may examine the significance of the Wald statistic. The Wald statistic, analogous to the t-test in linear regression, is used to assess the significance of coefficients. The Wald statistic is the ratio of the square of the regression coefficient to the square of the standard error of the coefficient and is asymptotically distributed as a chi-square distribution. Although several statistical packages (e.g., SPSS, SAS) report the Wald statistic to assess the contribution of individual predictors, the Wald statistic has some limitations. First, When the regression coefficient is large, the standard error of the regression coefficient also tends to be large increasing the probability of Type-II error. Secondly, the Wald statistic also tends to be biased when data are sparse.
+# Model Fit involving categorical predictors may be achieved by using log-linear modeling.
+
+===Example 1 of Logistic Regression &lt;sup&gt;[3]&lt;/sup&gt;===
+
+Spector and Mazzeo examined the effect of a teaching method known as PSI on the performance of students in a course, intermediate macro economics. The question was whether students exposed to the method scored higher on exams in the class. They collected data from students in two classes, one in which PSI was used and another in which a traditional teaching method was employed. For each of 32 students, they gathered data on
+
+====Independent Variables====
+
+• GPA-Grade point average before taking the class. 
+• TUCE-the score on an exam given at the beginning of the term to test entering knowledge of the material. 
+• PSI- a dummy variable indicating the teaching method used (1 = used Psi, 0 = other method).
+
+====Dependent Variable====
+
+• GRADE — coded 1 if the final grade was an A, 0 if the final grade was a B or C.
+
+The particular interest in the research was whether PSI had a significant effect on GRADE. 
+TUCE and GPA are included as control variables.
+
+Statistical analysis using logistic regression of Grade on GPA, Tuce and Psi was conducted in SPSS using Stepwise Logistic Regression.
+
+In the output, the "block" line relates to Chi-Square test on the set of independent variables that are tested and included in the model fitting. The "step" line relates to Chi-Square test on the step level while variables included in the model step by step. Note that in the output a step chi-square, is the same as the block chi-square since they both are testing the same hypothesis that the tested variables enter on this step are non-zero. If you were doing [[stepwise regression]], however, the results would be different. Using forward stepwise selection, researchers divided the variables into two blocks (see METHOD on the syntax following below).
+ 
+LOGISTIC REGRESSION VAR=grade
+
+/METHOD=fstep psi / fstep gpa tuce
+
+/CRITERIA PIN(.50) POUT(.10) ITERATE(20) CUT(.5).
+
+The default PIN value is .05, was changed by the researchers to .5 so the insignificant TUCE would make it in. In the first block, psi alone gets entered, so the block and step Chi Test relates to the hypothesis H0: βPSI = 0. 
+Results of the omnibus Chi-Square tests implies that PSI is significant for predicting that GRADE is more likely to be a final grade of A.
+
+=====Block 1: Method = Forward Stepwise (Conditional)&lt;sup&gt;[6]&lt;/sup&gt;=====
+
+=====Omnibus Tests of Model Coefficients=====
+{| class="wikitable"
+|-
+! !! Chi-Square!! df !! Sig.
+|-
+| step1 {{pad|1em}} Step{{pad|1em}} || {{pad|1em}} 5.842 || 1 || .016 
+|-
+| {{pad|4em}} Block{{pad|1em}} || {{pad|1em}} 5.842 || 1 || .016
+|-
+|{{pad|4em}} Model{{pad|1em}} || {{pad|1em}} 5.842|| 1 || .016 
+|}
+ 
+Then, in the next block, the forward selection procedure causes GPA to get entered first, then TUCE (see METHOD command on the syntax before).
+
+=====Block 2: Method = Forward Stepwise (Conditional)=====
+
+=====Omnibus Tests of Model Coefficients=====
+{| class="wikitable"
+|-
+! !! Chi-Square!! df !! Sig.
+|-
+| Step1 {{pad|1em}} Step{{pad|1em}} || {{pad|1em}} 9.088 || {{pad|1em}} 1 {{pad|1em}}|| {{pad|1em}} .003 {{pad|1em}} 
+|-
+| {{pad|4em}} Block{{pad|1em}} || {{pad|1em}} 9.088 {{pad|1em}} || {{pad|1em}}1 {{pad|1em}} || {{pad|1em}} .003 {{pad|1em}}
+|-
+|{{pad|4em}} Model{{pad|1em}} || {{pad|1em}} 14.930 {{pad|1em}} || {{pad|1em}} 2 {{pad|1em}} || {{pad|1em}} .001 {{pad|1em}}
+|-
+| || || || 
+|-
+| Step2 {{pad|1em}} Step{{pad|1em}} || {{pad|1em}} .474 {{pad|1em}} || {{pad|1em}} 1 {{pad|1em}} || {{pad|1em}} .491 {{pad|1em}} 
+|-
+| {{pad|4em}} Block{{pad|1em}} || {{pad|1em}} 9.562 {{pad|1em}}|| {{pad|1em}} 2 {{pad|1em}} || {{pad|1em}} .008 {{pad|1em}}
+|-
+|{{pad|4em}} Model{{pad|1em}} || {{pad|1em}} 15.404 {{pad|1em}} || {{pad|1em}} 3 {{pad|1em}} || {{pad|1em}} .002 {{pad|1em}}
+|}
+
+The first step on block2 indicates that GPA is significant (P-Value=0.003&lt;0.05, α=0.05)
+
+So, looking at the final entries on step2 in block2,
+
+* The step chi-square, .474, tells you whether the effect of the variable that was entered in the final step, TUCE, significantly differs from zero. It is the equivalent of an incremental F test of the parameter, i.e. it tests H0: βTUCE = 0.
+* The block chi-square, 9.562, tests whether either or both of the variables included in this block (GPA and TUCE) have effects that differ from zero. This is the equivalent of an incremental F test, i.e. it tests H&lt;sub&gt;0&lt;/sub&gt;: β&lt;sub&gt;GPA&lt;/sub&gt; = β&lt;sub&gt;TUCE&lt;/sub&gt; = 0.
+* The model chi-square, 15.404, tells you whether any of the three Independent Variabls has significant effects. It is the equivalent of a global F test, i.e. it tests H&lt;sub&gt;0&lt;/sub&gt;: β&lt;sub&gt;GPA&lt;/sub&gt; = β&lt;sub&gt;TUCE&lt;/sub&gt; = β&lt;sub&gt;PSI&lt;/sub&gt; = 0.
+
+Tests of Individual Parameters shown on the "variables in the equation table", which Wald test (W=(b/sb)2, where b is β estimation and sb is its standard error estimation ) that is testing whether any individual parameter equals zero . You can, if you want, do an incremental LR chi-square test. That, in fact, is the best way to do it, since the Wald test referred to next is biased under certain situations. 
+When parameters are tested separately, by controlling the other parameters, we see that the effects of GPA and PSI are statistically significant, but the effect of TUCE is not. Both have Exp(β) greater than 1, implying that the probability to get "A" grade is greater than getting other grade depends upon the teaching method PSI and a former grade average GPA.
+
+=====Variables in the Equation=====
+{| class="wikitable"
+|-
+! !! B !! S.E. !! Wald !! df !! Sig. !! Exp(B)
+|-
+|Step1&lt;sup&gt;a&lt;/sup&gt;{{pad|2em}} GPA{{pad|1em}} || {{pad|2em}} 2.826 {{pad|1em}}|| {{pad|1em}} 1.263{{pad|1em}}|| {{pad|1em}} 5.007 {{pad|1em}}|| {{pad|1em}} 1 {{pad|1em}}||{{pad|1em}} .025{{pad|1em}} ||{{pad|1em}} 16.872 {{pad|1em}} 
+|-
+|{{pad|5em}} TUCE {{pad|1em}} || {{pad|2em}} 0.095{{pad|1em}} || {{pad|1em}} .142{{pad|1em}} || {{pad|1em}} .452|| {{pad|1em}} 1 || {{pad|1em}} .502 {{pad|1em}}|| {{pad|2em}}1.100{{pad|2em}}
+|-
+|{{pad|5em}} PSI {{pad|1em}} || {{pad|2em}} 2.378 {{pad|1em}} || {{pad|1em}} 1.064{{pad|1em}} || {{pad|1em}} 4.992 || {{pad|1em}} 1 || {{pad|1em}} .025 {{pad|1em}}|| {{pad|1em}} 10.786 {{pad|1em}}
+|-
+|{{pad|5em}} Constant {{pad|1em}} || {{pad|1em}} -13.019 {{pad|1em}}|| {{pad|1em}} 4.930{{pad|1em}} || {{pad|1em}} 6.972 || {{pad|1em}} 1 || {{pad|1em}} .008 {{pad|1em}}|| {{pad|2em}} .000 {{pad|1em}}
+|}
+
+a. Variable(s) entered on step 1: PSI
+
+===Example 2 of Logistic Regression&lt;sup&gt;[7]&lt;/sup&gt;===
+
+Research subject: "The Effects of Employment, Education, Rehabilitation and Seriousness of Offense on Re-Arrest" [8]. 
+A social worker in a criminal justice probation agency, tends to examine whether some of the factors are leading to re-arrest of those managed by your agency over the past five years who were convicted and then released. 
+The data consist of 1,000 clients with the following variables:
+
+====Dependent Variable (coded as a dummy variable)====
+
+• Re-arrested vs. not re-arrested (0 = not re-arrested; 1 = re-arrested) – categorical, nominal
+
+====Independent Variables (coded as a dummy variables)====
+
+* Whether or not the client was adjudicated for a second criminal offense (1= adjudicated,0=not).
+* Seriousness of first offense (1=felony vs. 0=misdemeanor) -categorical, nominal
+* High school graduate vs. not (0 = not graduated; 1 = graduated) - categorical, nominal
+* Whether or not client completed a rehabilitation program after the first offense,0 = no rehab completed; 1 = rehab completed)-categorical, nominal
+* Employment status after first offense (0 = not employed; 1 = employed)
+
+Note: Continuous independent variables were not measured on this scenario.
+
+The null hypothesis for the overall model fit: The overall model does not predict re-arrest. OR, the independent variables as a group are not related to being re-arrested. (And For the Independent variables: any of the separate independent variables is not related to the likelihood of re-arrest).
+
+The alternative hypothesis for the overall model fit: The overall model predicts the likelihood of re-arrest. (The meaning respectively independent variables: having committed a felony (vs. a misdemeanor), not completing high school, not completing a rehab program, and being unemployed are related to the likelihood of being re-arrested).
+
+Logistic regression was applied to the data on SPSS, since the Dependent variable is Categorical (dichotomous) and the researcher examine the odd ratio of potentially being re-arrested vs. not expected to be re-arrested.
+
+====Omnibus Tests of Model Coefficients====
+
+{| class="wikitable"
+|-
+! !! Chi-Square!! df !! Sig.
+|-
+| Step1 {{pad|1em}} Step{{pad|1em}} || {{pad|1em}} 41.155 || 4 || .000 
+|-
+| {{pad|4em}} Block{{pad|1em}} || {{pad|1em}} 41.155 || 4 || .000
+|-
+|{{pad|4em}} Model{{pad|1em}} || {{pad|1em}} 41.155 || 4 || .000 
+ 
+|}
+
+The table above shows the Omnibus Test of Model Coefficients based on Chi-Square test, that implies that the overall model is predictive of re-arrest (we're concerned about row three—"Model"): (4 degrees of freedom) = 41.15, p &lt; .001, and the null can be rejected. Testing the null that the Model, or the group of independent variables that are taken together, does not predict the likelihood of being re-arrested. This result means that the model of expecting re-arrestment is more suitable to the data.
+
+====Variables in the Equation====
+
+{| class="wikitable"
+|-
+! !! B !! S.E. !! Wald !! df !! Sig. !! Exp(B)
+|-
+|Step1{{pad|2em}} felony {{pad|1em}} || {{pad|1em}} 0.283 {{pad|1em}} || {{pad|1em}} 0.142 {{pad|1em}} || {{pad|1em}} 3.997 {{pad|1em}} || {{pad|1em}} 1 {{pad|1em}} || {{pad|1em}} 0.046 {{pad|1em}} || {{pad|1em}} 1.327 {{pad|1em}} 
+|-
+| {{pad|5em}} high school {{pad|1em}} || {{pad|1em}} 0.023 {{pad|1em}} || {{pad|1em}} 0.138 {{pad|1em}} || {{pad|1em}} 0.028 || {{pad|1em}} 1 {{pad|1em}} || {{pad|1em}} 0.867 {{pad|1em}}|| {{pad|1em}} 1.023 {{pad|1em}}
+|-
+| {{pad|5em}} rehab {{pad|1em}} || {{pad|1em}} -0.679 {{pad|1em}} || {{pad|1em}} 0.142 {{pad|1em}} || {{pad|1em}} 22.725 || {{pad|1em}} 1 || {{pad|1em}} 0.000 {{pad|1em}}|| {{pad|1em}} 0.507 {{pad|1em}}
+|-
+| {{pad|5em}} employ {{pad|1em}} || {{pad|1em}} -0.513 {{pad|1em}}|| {{pad|1em}} 0.142 {{pad|1em}} || {{pad|1em}} 13.031 || {{pad|1em}} 1 || {{pad|1em}} .000 {{pad|1em}}|| {{pad|1em}} .599 {{pad|1em}}
+|-
+| {{pad|5em}} Constant {{pad|1em}} || {{pad|1em}} 1.035 {{pad|1em}}|| {{pad|1em}} 0.154 {{pad|1em}} || {{pad|1em}} 45.381 || {{pad|1em}} 1 || {{pad|1em}} .000 {{pad|1em}}|| {{pad|1em}} 2.816 {{pad|1em}}
+|}
+
+As shown on the "Variables in the Equation" table below, we can also reject the null that the B coefficients for having committed a felony, completing a rehab program, and being employed are equal to zero—they are statistically significant and predictive of re-arrest. Education level, however, was not found to be predictive of re-arrest. Controlling for other variables, having committed a felony for the first offense increases the odds of being re-arrested by 33% (p = .046), compared to having committed a misdemeanor. Completing a rehab program and being employed after the first offense decreases the odds or re-arrest, each by more than 50% (p &lt; .001).
+The last column, Exp(B) (taking the B value by calculating the inverse natural log of B) indicates odds ratio: the probability of an event occurring, divided by the probability of the event not occurring. An Exp(B) value over 1.0 signifies that the independent variable increases the odds of the dependent variable occurring. An Exp(B) under 1.0 signifies that the independent variable decreases the odds of the dependent variable occurring, depending on the decoding that mentioned on the variables details before.
+A negative B coefficient will result in an Exp(B) less than 1.0, and a positive B coefficient will result in an Exp(B) greater than 1.0. The statistical significance of each B is tested by the Wald Chi-Square—testing the null that the B coefficient = 0 (the alternate hypothesis is that it does not = 0). p-values lower than alpha are significant, leading to rejection of the null. Here, only the independent variables felony, rehab, employment, are significant ( P-Value&lt;0.05. Examining the odds ratio of being re-arrested vs. not re-arrested, means to examine the odds ratio for comparison of two groups (re-arrested = 1 in the numerator, and re-arrested = 0 in the denominator) for the felony group, compared to the baseline misdemeanor group. Exp(B)=1.327 for "felony" can indicates that having committed a felony vs. misdemeanor increases the odds of re-arrest by 33%. For "rehab" we can say that having completed rehab reduces the likelihood (or odds) of being re-arrested by almost 51%.
+
+{{refbegin}}
+
+==See also==
+* [[Logistic regression#Introduction]]
+* [[Likelihood-ratio test]]
+* [[Neyman–Pearson lemma]]
+
+==References==
+* http://www.math.yorku.ca/Who/Faculty/Monette/Ed-stat/0525.html
+* http://www.stat.umn.edu/geyer/aster/short/examp/reg.html
+* http://www.nd.edu/~rwilliam/xsoc63993/
+* http://www.sjsu.edu/people/edward.cohen/courses/c2/s1/Week_15_handout.pdf
+
+{{refend}}
+
+[[Category:Statistical tests]]
+[[Category:Statistical hypothesis testing]]</text>
+      <sha1>kc4n3bvkz8vqagq3pql3vrx2ulbp6rw</sha1>
+    </revision>
+  </page>
+</mediawiki>

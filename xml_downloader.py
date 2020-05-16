@@ -42,3 +42,5 @@ def xml_download(xml_dir="Xml_relevant_results"):
         time_total_m = int(time_diff_s / 60)
         time_total_s = time_diff_s - time_total_m * 60
         print(f"DOWNLOAD COMPLETED IN {time_total_m}M AND {time_total_s}S\n")
+
+xml_download()

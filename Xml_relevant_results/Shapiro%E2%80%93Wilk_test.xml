@@ -1,0 +1,127 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Shapiro–Wilk test</title>
+    <ns>0</ns>
+    <id>2690983</id>
+    <revision>
+      <id>947281906</id>
+      <parentid>937883819</parentid>
+      <timestamp>2020-03-25T11:39:34Z</timestamp>
+      <contributor>
+        <ip>141.226.209.114</ip>
+      </contributor>
+      <comment>/* Theory */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6713" xml:space="preserve">The '''Shapiro–Wilk test''' is a [[Normality test|test of normality]] in frequentist [[statistics]]. It was published in 1965 by [[Samuel Sanford Shapiro]] and [[Martin Wilk]].&lt;ref name="Shapiro–Wilk" /&gt;
+
+==Theory==
+The Shapiro–Wilk test tests the [[null hypothesis]] that a [[statistical sample|sample]] ''x''&lt;sub&gt;1&lt;/sub&gt;, ..., ''x''&lt;sub&gt;''n''&lt;/sub&gt; came from a [[normal distribution|normally distributed]] population. The [[test statistic]] is
+
+:&lt;math&gt;W = {\left(\sum_{i=1}^n a_i x_{(i)}\right)^2 \over \sum_{i=1}^n (x_i-\overline{x})^2},&lt;/math&gt;
+
+where
+
+* &lt;math&gt;x_{(i)}&lt;/math&gt; (with parentheses enclosing the subscript index ''i''; not to be confused with &lt;math&gt;x_i&lt;/math&gt;) is the ''i''th [[order statistic]], i.e., the ''i''th-smallest number in the sample;
+* &lt;math&gt;\overline{x} = \left( x_1 + \cdots + x_n \right) / n&lt;/math&gt; is the sample mean.
+
+The coefficients &lt;math&gt;a_i&lt;/math&gt; are given by:&lt;ref name="Shapiro–Wilk"&gt;{{cite journal
+ |last=Shapiro |first=S. S.
+ |last2=Wilk |first2=M. B. |authorlink2=Martin Wilk
+ |year=1965
+ |title=An analysis of variance test for normality (complete samples)
+ |journal=[[Biometrika]]
+ |volume=52 |issue=3–4 |pages=591–611
+ |doi=10.1093/biomet/52.3-4.591 |jstor=2333709 | mr = 205384
+}} p.&amp;nbsp;593&lt;/ref&gt;
+:&lt;math&gt;(a_1,\dots,a_n) = {m^{\mathsf{T}} V^{-1} \over C},&lt;/math&gt;
+where ''C'' is a [[vector norm]]:&lt;ref name="mit"&gt;[https://math.mit.edu/~rmd/465/shapiro.pdf]&lt;/ref&gt;
+:&lt;math&gt;C = \| V^{-1} m \| = (m^{\mathsf{T}} V^{-1}V^{-1}m)^{1/2}&lt;/math&gt;
+and the vector ''m'',
+:&lt;math&gt;m = (m_1,\dots,m_n)^{\mathsf{T}}\,&lt;/math&gt;
+is made of the [[expected value]]s of the [[order statistic]]s of [[independent and identically distributed random variables]] sampled from the standard normal distribution; finally, &lt;math&gt;V&lt;/math&gt; is the [[covariance matrix]] of those normal order statistics.&lt;ref&gt;[https://apps.dtic.mil/dtic/tr/fulltext/u2/a053857.pdf]&lt;/ref&gt;
+
+There is no name for the distribution of &lt;math&gt;W&lt;/math&gt;. The cutoff values for the statistics are calculated through Monte-Carlo simulations.&lt;ref name="mit"/&gt;
+
+==Interpretation==
+The [[Statistical hypothesis testing|null-hypothesis]] of this test is that the population is normally distributed. Thus, if the [[p-value|''p'' value]] is less than the chosen [[alpha level]], then the null hypothesis is rejected and there is evidence that the data tested are not normally distributed. On the other hand, if the ''p'' value is greater than the chosen alpha level, then the null hypothesis that the data came from a normally distributed population can not be rejected (e.g., for an alpha level of .05, a data set with a ''p'' value of less than .05 rejects the null hypothesis that the data are from a normally distributed population).&lt;ref&gt;{{cite web |url= http://www.jmp.com/support/notes/35/406.html | title=How do I interpret the Shapiro–Wilk test for normality?
+|first= |last= |work=JMP |year=2004 |accessdate=March 24, 2012}}&lt;/ref&gt; 
+
+Like most [[statistical_significance|statistical significance tests]], if the sample size is sufficiently large this test may detect even trivial departures from the null hypothesis (i.e., although there may be some [[Statistical_significance#Effect_size|statistically significant effect]], it may be too small to be of any practical significance); thus, additional investigation of the ''effect size'' is typically advisable, e.g., a [[Q–Q plot]] in this case.&lt;ref&gt;{{cite book|last=Field|first=Andy|title=Discovering statistics using SPSS |year=2009|publisher=SAGE Publications|location=Los Angeles [i.e. Thousand Oaks, Calif.]|isbn=978-1-84787-906-6|page=143|edition=3rd}}&lt;/ref&gt;
+
+==Power analysis==
+[[Monte Carlo method|Monte Carlo simulation]] has found that Shapiro–Wilk has the best [[Statistical power|power]] for a given [[Statistical significance|significance]], followed closely by [[Anderson–Darling test|Anderson–Darling]] when comparing the Shapiro–Wilk, [[Kolmogorov–Smirnov test|Kolmogorov–Smirnov]], [[Lilliefors test|Lilliefors]] and Anderson–Darling tests.&lt;ref&gt;{{cite journal|last=Razali|first=Nornadiah|author2=Wah, Yap Bee |title=Power comparisons of Shapiro–Wilk, Kolmogorov–Smirnov, Lilliefors and Anderson–Darling tests|journal=Journal of Statistical Modeling and Analytics|year=2011|volume=2|issue=1|pages=21–33|url=https://www.researchgate.net/publication/267205556|accessdate=30 March 2017}}&lt;/ref&gt;
+
+==Approximation==
+Royston proposed an alternative method of calculating the coefficients vector by providing an algorithm for calculating values, which extended the sample size to 2,000.&lt;ref&gt;{{cite journal|last=Royston|first=Patrick|title=Approximating the Shapiro–Wilk ''W''-test for non-normality|journal=Statistics and Computing|date=September 1992|volume=2|issue=3|pages=117–119|doi=10.1007/BF01891203}}&lt;/ref&gt; This technique is used in several software packages including Stata,&lt;ref&gt;{{cite journal|last=Royston|first=Patrick|title=Shapiro–Wilk and Shapiro–Francia Tests|journal=Stata Technical Bulletin, StataCorp LP|volume=1|issue=3}}&lt;/ref&gt;&lt;ref&gt;[https://www.stata.com/manuals15/rswilk.pdf Shapiro–Wilk and Shapiro–Francia tests for normality]&lt;/ref&gt; SPSS and SAS.&lt;ref&gt;{{cite journal|last=Park|first=Hun Myoung|title=Univariate Analysis and Normality Test Using SAS, Stata, and SPSS|journal=[working paper]|date=2002–2008|url=http://rt.uits.iu.edu/visualization/analytics/docs/normality-docs/normality.pdf|accessdate=26 February 2014}}&lt;/ref&gt; Rahman and Govidarajulu extended the sample size further up to 5,000.&lt;ref&gt;{{cite journal|last=Rahman und Govidarajulu|title=A modification of the test of Shapiro and Wilk for normality|journal=Journal of Applied Statistics|date=1997|volume=24|issue=2|pages=219–236|doi=10.1080/02664769723828}}&lt;/ref&gt;
+
+==See also==
+* [[Anderson–Darling test]]
+* [[Cramér–von Mises criterion]]
+* [[D'Agostino's K-squared test]]
+* [[Kolmogorov–Smirnov test]]
+* [[Lilliefors test]]
+* [[Normal probability plot]]
+* [[Shapiro–Francia test]]
+
+==References==
+&lt;references/&gt;
+
+==External links==
+* [http://www.real-statistics.com/tests-normality-and-symmetry/statistical-tests-normality-symmetry/shapiro-wilk-test/ Worked example using Excel]
+* [http://lib.stat.cmu.edu/apstat/R94 Algorithm AS R94 (Shapiro Wilk) FORTRAN code]
+* [http://cran.us.r-project.org/doc/manuals/R-intro.html#Examining-the-distribution-of-a-set-of-data Exploratory analysis using the Shapiro–Wilk normality test in R]
+* [http://www.real-statistics.com/tests-normality-and-symmetry/statistical-tests-normality-symmetry/shapiro-wilk-expanded-test/ Real Statistics Using Excel: the Shapiro-Wilk Expanded Test] 
+
+{{Statistics}}
+
+{{DEFAULTSORT:Shapiro-Wilk Test}}
+[[Category:Statistical tests]]
+[[Category:Normality tests]]</text>
+      <sha1>29jp49lc8xo3jpu1opqojnuoh4g1hh3</sha1>
+    </revision>
+  </page>
+</mediawiki>

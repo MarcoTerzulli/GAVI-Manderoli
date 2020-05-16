@@ -1,0 +1,108 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Misuse of p-values</title>
+    <ns>0</ns>
+    <id>49498411</id>
+    <revision>
+      <id>955146562</id>
+      <parentid>955146227</parentid>
+      <timestamp>2020-05-06T05:46:33Z</timestamp>
+      <contributor>
+        <username>Upisaida</username>
+        <id>4788901</id>
+      </contributor>
+      <comment>/* Clarifications about p-values */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11116" xml:space="preserve">{{DISPLAYTITLE:Misuse of ''p''-values}}
+'''Misuse of ''p''-values''' is common in [[scientific research]] and [[scientific education]]. [[p-value|''p''-values]] are often used or interpreted incorrectly; the American Statistical Association states that ''p''-values can indicate how incompatible the data are with a specified statistical model.&lt;ref name="asa2016"/&gt; From a [[Foundations of statistics#Hypothesis testing|Neyman–Pearson hypothesis testing approach]] to statistical inferences, the data obtained by comparing the ''p''-value to a significance level will yield one of two results: either the [[null hypothesis]] is rejected (which however does not prove that the null hypothesis is ''false''), or the null hypothesis ''cannot'' be rejected at that significance level (which however does not prove that the null hypothesis is ''true''). From a [[Foundations of statistics#Significance testing|Fisherian statistical testing approach]] to statistical inferences, a low ''p''-value means ''either'' that the null hypothesis is true and a highly improbable event has occurred ''or'' that the null hypothesis is false.
+
+==Clarifications about ''p''-values==
+The following list clarifies some issues that are commonly misunderstood regarding ''p''-values:
+&lt;ref name="asa2016"&gt;{{cite journal |vauthors=Wasserstein RL, Lazar NA |year=2016 |title=The ASA's statement on ''p''-values: context, process, and purpose |journal=[[The American Statistician]] |volume=70 |issue=2 |pages=129–133 |doi=10.1080/00031305.2016.1154108|url=https://www.stat.berkeley.edu/~aldous/Real_World/ASA_statement.pdf }}&lt;/ref&gt;&lt;ref name="Sterne2001"&gt;{{Cite journal |vauthors=Sterne JA, Smith GD |year=2001 |title=Sifting the evidence–what's wrong with significance tests? |journal=[[BMJ]] |volume=322 |issue=7280 |pages=226–231 |doi=10.1136/bmj.322.7280.226 |pmid=11159626 |pmc=1119478}}&lt;/ref&gt;&lt;ref name="Schervish1996"&gt;{{cite journal |vauthors=Schervish MJ |year=1996 |title=''P'' values: What they are and what they are not |journal=[[The American Statistician]] |volume=50 |issue=3 |pages=203–206 |doi=10.2307/2684655 |jstor=2684655 }}&lt;/ref&gt;
+
+#'''The ''p''-value is ''not'' the probability that the null hypothesis is true, or the probability that the alternative hypothesis is false.'''&lt;ref name="asa2016"/&gt; A ''p''-value can indicate the degree of compatibility between a dataset and a particular hypothetical explanation (such as a null hypothesis). Specifically, the ''p''-value can be taken as the prior probability of obtaining an effect that is at least as extreme as the observed effect, given that the null hypothesis is true. This  should not be confused with the posterior probability that the null hypothesis is true given the observed effect (see [[prosecutor's fallacy]]). In fact, [[Frequentist probability|frequentist statistics]] does not attach probabilities to hypotheses.
+#'''The ''p''-value is ''not'' the probability that the observed effects were produced by random chance alone.'''&lt;ref name="asa2016"/&gt; The ''p''-value is computed under the assumption that a certain model, usually the null hypothesis, is true. This means that the ''p''-value is a statement about the relation of the data to that hypothesis.&lt;ref name="asa2016"/&gt;
+#'''The 0.05 significance level is merely a convention.'''&lt;ref name="Sterne2001"/&gt; The 0.05 significance level (alpha level) is often used as the boundary between a statistically significant and a statistically non-significant ''p''-value. However, this does not imply that there is generally a scientific reason to consider results on opposite sides of any threshold as qualitatively different.&lt;ref name="Sterne2001"/&gt;&lt;ref name="Amrhein2017"&gt;{{cite journal|last1=Amrhein|first1=Valentin|last2=Korner-Nievergelt|first2=Fränzi|last3=Roth|first3=Tobias|title=The earth is flat (p &gt; 0.05): significance thresholds and the crisis of unreplicable research|journal=PeerJ|date=2017|volume=5|page=e3544|doi=10.7717/peerj.3544|pmid=28698825|pmc=5502092}}&lt;/ref&gt;
+#'''The ''p''-value does not indicate the size or importance of the observed effect.'''&lt;ref name="asa2016"/&gt; A small ''p''-value can be observed for an effect that is not meaningful or important. In fact, the larger the sample size, the smaller the minimum effect needed to produce a statistically significant ''p''-value (see [[effect size]]). Visualizing effect sizes is a critical component of a data-analysis method called [[estimation statistics]].
+
+==Representing probabilities of hypotheses==
+A frequentist approach rejects the validity of representing probabilities of hypotheses: hypotheses are true or false, not something that can be represented with a probability.&lt;ref&gt;{{Cite book |doi = 10.1007/978-94-007-1131-0_12|chapter = Frequentist Approach: Modelling and Simulation in Statistics and Probability Teaching|title = Teaching Statistics in School Mathematics-Challenges for Teaching and Teacher Education|volume = 14|pages = 85–95|series = New ICMI Study Series|year = 2011|last1 = Chaput|first1 = Brigitte|last2 = Girard|first2 = Jean-Claude|last3 = Henry|first3 = Michel|isbn = 978-94-007-1130-3}}&lt;/ref&gt;
+
+[[Bayesian statistics]] actively models the likelihood of hypotheses. The ''p''-value does not in itself allow reasoning about the probabilities of hypotheses, which requires multiple hypotheses or a range of hypotheses, with a [[prior distribution]] of likelihoods between them, in which case Bayesian statistics could be used. There, one uses a [[likelihood function]] for all possible values of the prior instead of the ''p''-value for a single null hypothesis. The ''p''-value describes a property of data when compared to a specific null hypothesis; it is not a property of the hypothesis itself. For the same reason, ''p''-values do not give the probability that the data were produced by random chance alone.&lt;ref name="asa2016"/&gt;
+
+==Multiple comparisons problem==
+{{main|Multiple comparisons problem}}
+{{See also|P-hacking|Post hoc analysis|Type I error}}
+The multiple comparisons problem occurs when one considers a set of [[statistical inference]]s simultaneously&lt;ref&gt;{{cite book |vauthors=Miller RG |year=1981 |title=Simultaneous Statistical Inference |edition=2nd |publisher=[[Springer Verlag]] |location=New York |isbn=978-0-387-90548-8}}&lt;/ref&gt; or infers a subset of parameters selected based on the observed values.&lt;ref&gt;{{cite journal |vauthors=Benjamini Y |year=2010 |title=Simultaneous and selective inference: Current successes and future challenges |journal=[[Biometrical Journal]] |volume=52 |issue=6 |pages=708–721 |doi=10.1002/bimj.200900299 |pmid=21154895}}&lt;/ref&gt; It is also known as the [[look-elsewhere effect]]. Errors in inference, including [[confidence interval]]s that fail to include their corresponding population parameters or [[hypothesis test]]s that incorrectly reject the [[null hypothesis]], are more likely to occur when one considers the set as a whole. Several statistical techniques have been developed to prevent this from happening, allowing significance levels for single and multiple comparisons to be directly compared. These techniques generally require a higher significance threshold for individual comparisons, so as to compensate for the number of inferences being made.{{citation needed|date=July 2016}}
+
+The [[webcomic]] ''[[xkcd]]'' satirized misunderstandings of ''p''-values by portraying scientists investigating the claim that eating [[jellybeans]] caused [[acne]].&lt;ref&gt;{{cite web |vauthors=Munroe R |date=6 April 2011 |title=Significant |url=https://xkcd.com/882/ |website=[[xkcd]] |accessdate=2016-02-22}}&lt;/ref&gt;&lt;ref name="DC"&gt;{{cite journal |vauthors=Colquhoun D |year=2014 |title=An investigation of the false discovery rate and the misinterpretation of ''p''-values |journal=[[Royal Society Open Science]] |volume=1 |issue=3 |pages=140216 |doi=10.1098/rsos.140216|pmid=26064558 |pmc=4448847 |bibcode=2014RSOS....140216C |arxiv=1407.5296 }}&lt;/ref&gt;&lt;ref name=StatsDoneWrong&gt;{{cite book |vauthors=Reinhart A|year=2015 |title=Statistics Done Wrong: The Woefully Complete Guide |url=https://books.google.com/?id=FFCIBwAAQBAJ&amp;pg=PA48&amp;lpg=PA48 |publisher=[[No Starch Press]] |pages=47–48 |isbn=978-1-59327-620-1}}&lt;/ref&gt;&lt;ref name=Minitab&gt;{{cite web |vauthors=Barsalou M |date=2 June 2014 |title=Hypothesis testing and p values |url=http://blog.minitab.com/blog/statistics-in-the-field/hypothesis-testing-and-p-values |website=[[Minitab]] blog |accessdate=2016-02-22}}&lt;/ref&gt; After failing to find a significant (''p'' &lt; 0.05) correlation between eating jellybeans and acne, the scientists investigate 20 different colors of jellybeans individually, without adjusting for multiple comparisons. They find one color (green) nominally associated with acne (''p'' &lt; 0.05). The results are then reported by a newspaper as indicating that green jellybeans are linked to acne at a 95% confidence level—as if green were the only color tested. In fact, if 20 independent tests are conducted at the 0.05 significance level and all null hypotheses are true, there is a 64.2% chance of obtaining at least one false positive and the [[expected number]] of false positives is 1 (i.e. 0.05 × 20).
+
+In general, the [[family-wise error rate]] (FWER)&amp;mdash;the probability of obtaining at least one false positive&amp;mdash;increases with the number of tests performed. The FWER when all null hypotheses are true for ''m'' independent tests, each conducted at significance level &amp;alpha;, is:&lt;ref name=StatsDoneWrong/&gt;
+:&lt;math&gt;\text{FWER}=1 - (1-\alpha)^m&lt;/math&gt;
+
+== See also ==
+* [[Estimation statistics]]
+* [[Replication crisis]]
+* [[Metascience]]
+* [[Misuse of statistics]]
+* [[Statcheck]]
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+*{{cite journal |last1=Ioannidis |first1=John P. A. |title=What Have We (Not) Learnt from Millions of Scientific Papers with P Values? |journal=The American Statistician |date=29 March 2019 |volume=73 |issue=sup1 |pages=20–25 |doi=10.1080/00031305.2018.1447512 |issn=0003-1305|doi-access=free }} What Have We (Not) Learnt from Millions of Scientific Papers with P Values?
+*{{cite journal |vauthors=Moran JL, Solomon PJ |year=2004 |title=A farewell to P-values? |url=https://www.cicm.org.au/CICM_Media/CICMSite/CICM-Website/Resources/Publications/CCR%20Journal/Previous%20Editions/June%202004/11_2004_Jun_Point-of-view.pdf |journal=[[Critical Care and Resuscitation]] |volume=6 |issue=2 |pages=130–137 |pmid=16566700}}
+*{{cite journal |vauthors=Lew MJ |year=2012 |title=Bad statistical practice in pharmacology (and other basic biomedical disciplines): you probably don't know ''P'' |journal=[[British Journal of Pharmacology]] |volume=166 |issue=5 |pages=1559–1567 |doi=10.1111/j.1476-5381.2012.01931.x |pmid=22394284 |pmc=3419900}}
+*{{cite journal|vauthors=Nuzzo R|year=2014|title=STATISTICAL ERRORS: P values, the 'gold standard' of statistical validity, are not as reliable as many scientists assume|journal=[[Nature (journal)|Nature]]|volume=506|issue=7487|pages=150–152|doi=10.1038/506150a|pmid=24522584|doi-access=free}}
+
+[[Category:Statistical hypothesis testing]]
+[[Category:Probability fallacies]]</text>
+      <sha1>iyls8zh1qhwvc8etmuubtaswomedn6l</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,109 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>DNA origami</title>
+    <ns>0</ns>
+    <id>4415615</id>
+    <revision>
+      <id>951085961</id>
+      <parentid>933756156</parentid>
+      <timestamp>2020-04-15T11:58:51Z</timestamp>
+      <contributor>
+        <username>OAbot</username>
+        <id>28481209</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="14353" xml:space="preserve">[[File:DNA Origami.png|thumbnail|DNA origami object from viral DNA visualized by [[electron tomography]].&lt;ref&gt;{{Cite journal|last=Bai|first=Xiao-chen|last2=Martin|first2=Thomas G.|authorlink3=Sjors Scheres|last3=Scheres|first3=Sjors H. W.|last4=Dietz|first4=Hendrik|date=2012-12-04|title=Cryo-EM structure of a 3D DNA-origami object|journal=Proceedings of the National Academy of Sciences|language=en|volume=109|issue=49|pages=20012–20017|doi=10.1073/pnas.1215713109|issn=0027-8424|pmid=23169645|pmc=3523823}}&lt;/ref&gt; The map is at the top and atomic model of the DNA colored below. (Deposited in [[EM Data Bank|EMDB]] [http://www.pdbe.org/emd-2210 EMD-2210]) ]]
+
+'''DNA origami''' is the nanoscale folding of [[DNA]] to create non-arbitrary two- and three-dimensional shapes at the [[nanoscale]]. The specificity of the interactions between [[Complementarity (molecular biology)|complementary base pairs]] make DNA a useful construction material, through design of its base sequences.&lt;ref&gt;{{cite journal |author1=Zadegan, R.M. |author2=Norton, M.L |title=Structural DNA Nanotechnology: From Design to Applications |journal=Int. J. Mol. Sci. |year=2012 |volume=13 |issue=6 |pages=7149–7162 |doi = 10.3390/ijms13067149|pmid=22837684 |pmc=3397516}}&lt;/ref&gt; DNA is a well-understood material that is suitable for creating scaffolds that hold other molecules in place or to create structures all on its own.
+
+DNA origami was the cover story of ''[[Nature (journal)|Nature]]'' on March 16, 2006.&lt;ref&gt;[http://www.nature.com/nature/journal/v440/n7082/index.html#Editorial ''Nature, Volume 440 (7082) March 16, 2006'']&lt;/ref&gt; Since then, DNA origami has progressed past an art form and has found a number of applications from drug delivery systems to uses as circuitry in plasmonic devices; however, most applications remain in a concept or testing phase.&lt;ref&gt;{{Cite journal |doi = 10.1038/464158a|pmid = 20220817|title = Bioengineering: What to make with DNA origami|journal = Nature|volume = 464|issue = 7286|pages = 158–159|year = 2010|last1 = Sanderson|first1 = Katharine|doi-access = free}}&lt;/ref&gt;
+
+== Overview ==
+The idea of using DNA as a construction material was first introduced in the early 1980s by [[Nadrian Seeman]].&lt;ref name="nar.oxfordjournals.org"&gt;{{Cite journal|last=Seeman|first=Nadrian C.|date=1982-11-21|title=Nucleic acid junctions and lattices|journal=Journal of Theoretical Biology|volume=99|issue=2|pages=237–247|doi=10.1016/0022-5193(82)90002-9|pmid=6188926}}&lt;/ref&gt; The current method of DNA origami was developed by [[Paul Rothemund]] at the [[California Institute of Technology]].&lt;ref name="rothemund"&gt;{{cite journal |last=Rothemund |first=Paul W. K. |authorlink=Paul W. K. Rothemund |year=2006 |month= |title=Folding DNA to create nanoscale shapes and patterns  |journal=[[Nature (journal)|Nature]] |volume=440 |issue= 7082|pages=297–302 |issn=0028-0836 |pmid=16541064|doi=10.1038/nature04586|url=https://authors.library.caltech.edu/22244/2/nature04586-s1.pdf |bibcode=2006Natur.440..297R }}&lt;/ref&gt; The process involves the folding of a long single strand of [[virus|viral]] [[DNA]] (typically the 7,249 bp genomic DNA of [[M13 bacteriophage]]) aided by multiple smaller "staple" strands. These shorter strands bind the longer in various places, resulting in the formation of a pre-defined two- or three-dimensional shape.&lt;ref&gt;{{Cite journal|last=Douglas|first=Shawn M.|last2=Dietz|first2=Hendrik|last3=Liedl|first3=Tim|last4=Högberg|first4=Björn|last5=Graf|first5=Franziska|last6=Shih|first6=William M.|date=May 2009|title=Self-assembly of DNA into nanoscale three-dimensional shapes|journal=Nature|language=En|volume=459|issue=7245|pages=414–418|doi=10.1038/nature08016|issn=0028-0836|pmc=2688462|pmid=19458720|bibcode=2009Natur.459..414D}}&lt;/ref&gt; Examples include a [[smiley|smiley face]] and a coarse map of China and the Americas, along with many three-dimensional structures such as cubes.&lt;ref name=lin&gt;{{cite journal |doi=10.1002/cphc.200600260 |pmid=16832805 |title=DNA Tile Based Self-Assembly: Building Complex Nanoarchitectures |year=2006 |last1=Lin |first1=Chenxiang |last2=Liu |first2=Yan |last3=Rinker |first3=Sherri |last4=Yan |first4=Hao |journal=ChemPhysChem |volume=7 |issue=8 |pages=1641–7}}&lt;/ref&gt;
+
+To produce a desired shape, images are drawn with a [[raster fill]] of a single long DNA [[molecule]]. This design is then fed into a computer program that calculates the placement of individual staple strands. Each staple binds to a specific region of the DNA template, and thus due to [[Watson-Crick base pair]]ing, the necessary sequences of all staple strands are known and displayed. The DNA is mixed, then heated and cooled. As the DNA cools, the various staples pull the long strand into the desired shape. Designs are directly observable via several methods, including [[Electron Microscopy|electron microscopy]], [[atomic force microscopy]], or [[fluorescence microscopy]] when DNA is coupled to fluorescent materials.&lt;ref name="rothemund"/&gt;
+
+Bottom-up [[self-assembly]] methods are considered promising alternatives that offer cheap, parallel synthesis of nanostructures under relatively mild conditions.
+
+Since the creation of this method, software was developed to assist the process using CAD software. This allows researchers to use a computer to determine the way to create the correct staples needed to form a certain shape. One such software called caDNAno is an open source software for creating such structures from DNA. The use of software has not only increased the ease of the process but has also drastically reduced the errors made by manual calculations.&lt;ref&gt;{{Cite journal|last=Douglas|first=Shawn M.|last2=Marblestone|first2=Adam H.|last3=Teerapittayanon|first3=Surat|last4=Vazquez|first4=Alejandro|last5=Church|first5=George M.|last6=Shih|first6=William M.|date=2009-08-01|title=Rapid prototyping of 3D DNA-origami shapes with caDNAno|journal=Nucleic Acids Research|language=en|volume=37|issue=15|pages=5001–5006|doi=10.1093/nar/gkp436|issn=0305-1048|pmc=2731887|pmid=19531737}}&lt;/ref&gt;&lt;ref name="nar.oxfordjournals.org"/&gt;
+
+== Applications ==
+
+Many potential applications have been suggested in literature, including enzyme immobilization, drug delivery systems, and nanotechnological self-assembly of materials. Though DNA is not the natural choice for building active structures for nanorobotic applications, due to its lack of structural and catalytic versatility, several papers have examined the possibility of molecular walkers on origami and switches for algorithmic computing.&lt;ref name="lin"/&gt;&lt;ref&gt;[http://news.bbc.co.uk/2/hi/technology/8204906.stm ''DNA 'organises itself' on silicon''],''BBC News'', August 17, 2009&lt;/ref&gt;  The following paragraphs list some of the reported applications conducted in the laboratories with clinical potential.
+
+Researchers at the [[Harvard University]] [[Wyss Institute for Biologically Inspired Engineering|Wyss Institute]] reported the self-assembling and self-destructing drug delivery vessels using the DNA origami in the lab tests.  The DNA nanorobot they created is an open DNA tube with a hinge on one side which can be clasped shut.  The drug filled DNA tube is held shut by a DNA [[aptamer]], configured to identify and seek certain diseased related protein.  Once the origami nanobots get to the infected cells, the aptamers break apart and release the drug.  The first disease model the researchers used was [[leukemia]] and [[lymphoma]].&lt;ref&gt;{{cite web|url=http://www.fiercedrugdelivery.com/story/dna-origami-could-allow-autonomous-delivery/2012-05-15|title=DNA origami could allow for 'autonomous' delivery|author=Garde, Damian|publisher=fiercedrugdelivery.com|date=May 15, 2012|accessdate=May 25, 2012}}&lt;/ref&gt;
+
+Researchers in the [[National Center for Nanoscience and Technology]] in [[Beijing]] and [[Arizona State University]] reported a DNA origami delivery vehicle for [[Doxorubicin]], a well-known anti-cancer drug.   The drug was non-covalently attached to DNA origami nanostructures through intercalation and a high drug load was achieved.  The DNA-Doxorubicin complex was taken up by human breast adenocarcinoma cancer cells ([[MCF-7]]) via cellular internalization with much higher efficiency than doxorubicin in free form.  The enhancement of cell killing activity was observed not only in regular [[MCF-7]], more importantly, also in doxorubicin-resistant cells.  The scientists theorized that the doxorubicin-loaded DNA origami inhibits [[lysosome|lysosomal]] acidification, resulting in cellular redistribution of the drug to action sites, thus increasing the [[cytotoxicity]] against the tumor cells.&lt;ref&gt;{{cite web|url=https://www.newscientist.com/article/mg21528785.400-folded-dna-becomes-trojan-horse-to-attack-cancer.html|title=Folded DNA becomes Trojan horse to attack cancer|publisher=New Scientist|date=18 August 2012|accessdate=22 August 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|last1=Jiang|first1=Qiao|last2=Song|first2=Chen|last3=Nangreave|first3=Jeanette|last4=Liu|first4=Xiaowei|last5=Lin|first5=Lin|last6=Qiu|first6=Dengli|last7=Wang|first7=Zhen-Gang|last8=Zou|first8=Guozhang|last9=Liang|first9=Xingjie|last10=Yan|first10=Hao|last11=Ding|first11=Baoquan|title=DNA Origami as a Carrier for Circumvention of Drug Resistance|journal=[[Journal of the American Chemical Society]]|volume=134|issue=32|pages=13396–13403|year=2012|doi=10.1021/ja304263n|pmid=22803823}}&lt;/ref&gt;
+
+In a study conducted by a group of scientists from [[INANO|iNANO center]] and [[CDNA Center]] at [[Aarhus University|Aarhus university]], researchers were able to construct a small multi-switchable 3D DNA Box Origami. The proposed nanoparticle was characterized by [[Atomic force microscopy|AFM]], [[Transmission electron microscopy|TEM]] and [[Förster resonance energy transfer|FRET]]. The constructed box was shown to have a unique reclosing mechanism, which enabled it to repeatedly open and close in response to a unique set of DNA or RNA keys. The authors proposed that this "DNA device can potentially be used for a broad range of applications such as controlling the function of single molecules, controlled drug delivery, and molecular computing.".&lt;ref&gt;{{cite journal|last1=M. Zadegan|first1=Reza|last2=et  |first2=al.|title=Construction of a 4 Zeptoliters Switchable 3D DNA Box Origami|journal=[[ACS Nano]]|volume=6|issue=11|pages=10050–10053|year=2012|doi=10.1021/nn303767b|pmid=23030709}}&lt;/ref&gt;
+
+Nanorobots made of DNA origami demonstrated computing capacities and completed pre-programmed task inside the living organism was reported by a team of bioengineers at Wyss Institute at Harvard University and Institute of Nanotechnology and Advanced Materials at [[Bar-Ilan University]].  As a proof of concept, the team injected various kinds of nanobots (the curled DNA encasing molecules with [[fluorescent]] markers) into live cockroaches.  By tracking the markers inside the cockroaches, the team found the accuracy of delivery of the molecules (released by the uncurled DNA) in target cells, the interactions among the nanobots and the control are equivalent to a computer system.  The complexity of the logic operations, the decisions and actions, increases with the increased number of nanobots.  The team estimated that the computing power in the cockroach can be scaled up to that of an 8-bit computer.&lt;ref&gt;{{cite journal|url=https://www.newscientist.com/article/dn25376-dna-nanobots-deliver-drugs-in-living-cockroaches.html#.U5YktZBOVEb|title=DNA nanobots deliver drugs in living cockroaches|author=Spickernell, Sarah|journal=New Scientist|volume=222|issue=2964|pages=11|date=8 April 2014|accessdate=9 June 2014|bibcode=2014NewSc.222...11S|doi=10.1016/S0262-4079(14)60709-0}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|last1=Amir|first1=Y|last2=Ben-Ishay|first2=E|last3=Levner|first3=D|last4=Ittah|first4=S|last5=Abu-Horowitz|first5=A|last6=Bachelet|first6=I|title=Universal computing by DNA origami robots in a living animal|journal=Nature Nanotechnology|volume=9|pages=353–357|year=2014|doi=10.1038/nnano.2014.58|pmid=24705510|pmc=4012984|issue=5|bibcode=2014NatNa...9..353A}}&lt;/ref&gt;
+
+DNA is folded into an [[octahedron]] and coated with a single bilayer of [[phospholipid]], mimicking the envelope of a [[virus]] particle.  The DNA nanoparticles, each at about the size of a virion, are able to remain in circulation for hours after injected into mice.  It also elicits much lower immune response than the uncoated particles.  It presents a potential use in drug delivery, reported by researchers in Wyss Institute at Harvard University.&lt;ref&gt;{{cite web|url=http://www.fiercedrugdelivery.com/story/dna-nanocages-act-viruses-bypass-immune-system-deliver-drugs/2014-04-22|title=DNA nanocages that act like viruses bypass the immune system to deliver drugs|author=Gibney, Michael|publisher=fiercedrugdelivery.com|date=23 April 2014|accessdate=19 June 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|last1=Perrault|first1=S|last2=Shih|first2=W|title=Virus-Inspired Membrane Encapsulation of DNA Nanostructures To Achieve ''In Vivo'' Stability|journal=ACS Nano|volume=8|issue=5|pages=5132–5140|year=2014|doi=10.1021/nn5011914|pmid=24694301|pmc=4046785}}&lt;/ref&gt;
+
+==Similar approaches==
+
+The idea of using [[protein design]] to accomplish the same goals as DNA origami has surfaced as well. Researchers at the National Institute of Chemistry in Slovenia are working on using [[rational design]] of [[protein folding]] to create structures much like those seen with DNA origami. The main focus of current research in protein folding design is in the drug delivery field, using antibodies attached to proteins as a way to create a targeted vehicle.&lt;ref&gt;{{cite journal|last1=Peplow|first1=Mark|title=Protein gets in on DNA's origami act|journal=Nature|date=28 April 2013|doi=10.1038/nature.2013.12882|url=http://www.nature.com/news/protein-gets-in-on-dna-s-origami-act-1.12882}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |last1=Zadegan |first1=Reza M. |last2=Norton |first2=Michael L.  |title=Structural DNA Nanotechnology: From Design to Applications |journal=Int. J. Mol. Sci.  |date=June 2012 |pages=7149–7162 |volume=13 |issue=6 |doi=10.3390/ijms13067149 |pmid=22837684 |pmc=3397516}}&lt;/ref&gt;
+
+== See also ==
+
+* [[RNA origami]]
+* [[DNA nanotechnology]]
+* [[Molecular self-assembly]]
+* [[Folding@home]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:DNA nanotechnology]]</text>
+      <sha1>mef9xwciv8jj74g0vg8xp0mgr91rfgh</sha1>
+    </revision>
+  </page>
+</mediawiki>

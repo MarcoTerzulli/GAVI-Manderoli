@@ -1,0 +1,223 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Adam Steltzner</title>
+    <ns>0</ns>
+    <id>36645467</id>
+    <revision>
+      <id>950407331</id>
+      <parentid>948946805</parentid>
+      <timestamp>2020-04-11T23:00:11Z</timestamp>
+      <contributor>
+        <username>OAbot</username>
+        <id>28481209</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24358" xml:space="preserve">{{short description|American aerospace engineer}}
+{{Infobox scientist
+| name              = Adam Steltzner
+| image             = Adam Steltzner - Seven Minutes of Terror - June 2012 01m01s HD.png
+| image_size        = 250px
+| alt               = 
+| caption           = Image from NASA video ''Seven Minutes of Terror'' (June 2012)&lt;ref name="nasa-7mins"/&gt;
+| birth_name        = Adam Diedrich Steltzner
+| birth_date        = {{Birth year and age|1963}}&lt;ref name="palca"/&gt;
+| birth_place       = [[Alameda County, California]]
+| death_date        = &lt;!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) --&gt;
+| death_place       = 
+| resting_place             = 
+| resting_place_coordinates = &lt;!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} --&gt;
+| residence         = 
+| citizenship       = 
+| nationality       = American
+| fields            = 
+| workplaces        = [[NASA]] [[Jet Propulsion Laboratory]] &lt;br/&gt; [[University of Wisconsin–Madison]] &lt;br/&gt; [[University of California, Davis]] &lt;br/&gt; [[California Institute of Technology]]
+| alma_mater        = [[University of Wisconsin–Madison]]
+| thesis_title      = Input force estimation, inverse structural systems and the inverse structural filter
+| thesis_url        = http://search.proquest.com/docview/304536848
+| thesis_year       = 1999
+| doctoral_advisor  = Daniel C. Kammer&lt;ref name="steltznerphd"/&gt;&lt;ref name="mir"/&gt;
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Mars Pathfinder]] &lt;br/&gt; [[Mars Exploration Rover]]s &lt;br/&gt; [[Mars Science Laboratory]]&lt;ref name="msl1"/&gt;&lt;ref name="msl2"/&gt;
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| signature         = &lt;!--(filename only)--&gt;
+| signature_alt     = 
+| website           = {{URL|http://www.adamsteltzner.com/}} 
+| footnotes         = 
+| spouse            = 
+}}
+
+'''Adam Diedrich Steltzner''' (born 1963)&lt;ref name="palca"/&gt; is an [[United States|American]] [[NASA]] engineer who works for the [[Jet Propulsion Laboratory]] (JPL). He worked on several flight projects including [[Galileo (spacecraft)|Galileo]], [[Cassini–Huygens|Cassini]], [[Mars Pathfinder]], [[Mars Exploration Rover]]s (MER). He was the lead engineer of the [[Mars Science Laboratory]]{{'s}} [[Mars Science Laboratory#Entry, descent and landing (EDL)|EDL phase]] (Entry, Descent and Landing),&lt;ref name="msl1"/&gt;&lt;ref name="msl2"/&gt; and helped design, build and test the [[Mars Science Laboratory#Sky crane landing|sky crane landing system]].&lt;ref name="palca"/&gt;&lt;ref name="leopold"/&gt;
+
+The media has portrayed Steltzner as a "rock and roll" engineer.&lt;ref name="bosch"/&gt; [[NPR]]'s ''Morning Edition'' said "he has pierced ears, wears snakeskin boots and sports an Elvis haircut,"&lt;ref name="palca"/&gt; while the ''EE Times'' called him "a bit of a hipster" and a "new breed of engineer" who is media savvy.&lt;ref name="leopold"/&gt;&lt;ref name="nature20121220"/&gt;
+
+==Personal life==
+Steltzner, born 1963,&lt;ref name="palca"/&gt; is a native of the [[San Francisco Bay Area]]&lt;ref name="leopold"/&gt; and came from a family that was financially well off,&lt;ref name="muirhead"/&gt; his father being the heir to the [[A. Schilling &amp; Company|Schilling]] spice fortune.&lt;ref name="bilger"/&gt; He struggled in classes in high school, earned a failing grade in geometry, and was told by his father he would never amount to anything but a ditch digger.&lt;ref name="palca"/&gt; "I was sort of studying sex, drugs and rock and roll in high school," says Steltzner.&lt;ref name="palca"/&gt; After high school he played bass and drums in [[new wave music|new wave]] bands.&lt;ref name="muirhead"/&gt; He studied jazz at [[Berklee College of Music]] in Boston, for less than a year.&lt;ref name="muirhead"/&gt; As ''The New Yorker'' put it, "He was a college dropout and small-town playboy (he briefly dated the model [[Carré Otis]]), an assistant manager at an organic market and an occasional grower of [[cannabis (drug)|weed]]. He had few skills and fewer prospects."&lt;ref name="bilger"/&gt; Around 1984, while driving home from music gigs at night, he noticed how the position of the constellation [[Orion (constellation)|Orion]] was in a different place than before. This fascinated him, so he decided to take an astronomy class at [[College of Marin]], but he was required to complete a class in physics first, and it was there he had a revelation: nature could be understood and predicted. As Steltzner put it, "I had found religion."&lt;ref name="muirhead"/&gt; By 1985 he quit music and devoted himself full-time to the challenge of school.&lt;ref name="palca"/&gt;&lt;ref name="muirhead"/&gt; His education included [[Tamalpais High School]] (1981)&lt;ref name="marin20120806"/&gt;&lt;ref name="marin20120816"/&gt; and [[College of Marin]] {{cn span|text=(1985-1987)|date=August 2012}}; a [[Bachelor of Science]] degree in [[mechanical engineering]] at [[University of California, Davis]] (1990); a [[Master of Science]] degree in [[applied mechanics]] at [[California Institute of Technology]] (1991); and a [[PhD]] in [[applied mechanics|engineering mechanics]] at [[University of Wisconsin–Madison]] (1999).&lt;ref name="steltznerphd"/&gt;&lt;ref name="tale"/&gt;&lt;ref name="marssociety"/&gt;
+
+Steltzner is married with three children; his wife once worked at JPL as well. His second daughter was born three weeks after the Mars landing in 2012.&lt;ref name="bilger"/&gt;
+
+Steltzner published an autobiographical book in 2016 titled ''The Right Kind of Crazy: A True Story of Teamwork, Leadership, and High-Stakes Innovation'',&lt;ref&gt;{{cite book |title=The Right Kind of Crazy: A True Story of Teamwork, Leadership, and High-Stakes Innovation |publisher=Portfolio |first=Adam |last=Steltzner |date=2016 |isbn=978-1-59184-692-5}}&lt;/ref&gt; a memoir of his time at the Jet Propulsion Laboratory and the building of the Mars Science Laboratory. In October 2016, he was admitted into the [[National Academy of Engineering]].&lt;ref name="nasa20160209"&gt;{{cite web |url=http://www.jpl.nasa.gov/news/news.php?feature=5031 |title=Mars Landing Pioneer Elected to National Academy of Engineering |publisher=NASA |first=Jane |last=Platt |date=9 February 2016 |accessdate=11 December 2016}}&lt;/ref&gt; Steltzner speaks publicly on the topics of leadership, innovation, team building, and the power of curiosity and exploration.&lt;ref name="keppler"&gt;{{cite web |url=http://www.kepplerspeakers.com/speakers/?speaker=Adam+Steltzner |title=Adam Steltzner |publisher=Keppler Speakers |accessdate=11 December 2016}}&lt;/ref&gt;
+
+[[File:Adam Steltzner at MSL Briefing (201208020005HQ).jpg|thumb|upright|left|Steltzner demonstrates the ''Curiosity'' sky crane landing system]]
+
+==Career==
+Steltzner is employed at NASA's [[Jet Propulsion Laboratory]] where he has worked for about ten years designing, testing and building the [[Mars Science Laboratory#Sky crane landing|sky crane landing system]] for the [[Curiosity (rover)|''Curiosity'' rover]].&lt;ref name="leopold"/&gt; Steltzner was phase lead and development manager for EDL (Entry, Descent and Landing) of the lander, which successfully landed on Mars on August 5, 2012.&lt;ref name="tale"/&gt; The sky crane is an entirely new technology system, Steltzner said of it "When people look at it...it looks crazy. That's a very natural thing. Sometimes when we look at it, it looks crazy. It is the result of reasoned, engineering thought. But it still looks crazy."&lt;ref name="nasa-challenges"/&gt; The sky crane allows for a precise landing ellipse opening up many areas of Mars for exploration that were previously inaccessible due to uneven terrain.&lt;ref name="PIA14839"/&gt;
+
+[[File:Adam Steltzner 2013 UCD 11.jpg|thumb|upright|right|Adam Steltzner speaking at [[UC Davis]], May 2013]]
+
+Steltzner joined JPL in 1991, in the Spacecraft Structures and Dynamics group.&lt;ref name="tale"/&gt; He worked on several flight projects including the [[Shuttle–Mir Program]],&lt;ref name="mir"/&gt; [[Galileo (spacecraft)|Galileo]], [[Cassini–Huygens|Cassini]], [[Mars Pathfinder]], [[Mars Exploration Rover]]s (MER)&lt;ref name="squyers2005"/&gt; and [[Mars Science Laboratory]] as well as several mission proposals, pre-Phase A projects and technology development efforts.&lt;ref name="tale"/&gt; Initially employed as a structures and mechanics personnel, he gravitated towards landing events and Mars Entry, Descent and Landing (EDL) systems.&lt;ref name="tale"/&gt; He was the landing systems engineer on the cancelled comet mission [[Champollion (spacecraft)|Champollion]] and the mechanical systems lead for EDL on MER.&lt;ref name="tale"/&gt; When asked what he would like to do next, Steltzner says, "I'd like to see a Mars sample return. I'd like to land on the surface of Europa – the most likely place in the solar system for life. And third, I'd like to float a boat on the methane lakes of Titan."&lt;ref name="nasasci20120921"/&gt;
+
+As of 2017, Steltzner is the chief engineer of the [[Mars 2020]] project, which will launch a [[Curiosity (rover)|''Curiosity'']]-class rover to Mars in 2020.&lt;ref name="nasa20160209" /&gt; The mission will take Martian surface samples and rock cores for potential return to Earth by a later mission.
+
+==Media appearances==
+[[File:Curiosity Rover Begins Mars Mission August 6 2012 - Adam Steltzner speech.webm|thumb|right|Adam Steltzner speech given on the successful landing of Mars curiosity, August 6, 2012 (2m25s). [https://www.youtube.com/watch?v=FVzfDZlEwaU Full video].]]
+Steltzner is often profiled by the press in [[human interest story|human interest stories]]&lt;ref name="palca2"/&gt; with a focus on a "rock and roll" engineer image; for example he was called "the face of the 2012 Mars Science Laboratory mission" by the ''[[EE Times]]'', who also called him "a bit of a hipster";&lt;ref name="leopold"/&gt; he was interviewed on [[NPR|National Public Radio]] which noted his "Elvis haircut",&lt;ref name="palca"/&gt; and profiled again on NPR in a piece called "Red Planet, Green Thumb: How A NASA Scientist Engineers His Garden".&lt;ref name="npr20120804"/&gt; Steltzner also participated on the [[NPR]] radio quiz program ''[[Wait Wait... Don't Tell Me!]]'' in 2012.&lt;ref&gt;[https://www.npr.org/templates/story/story.php?storyId=199102676 Wait Wait...Don't Tell Me!] from [[National Public Radio|NPR]]&lt;/ref&gt; He has been profiled similarly in other sources.&lt;ref name="bosch"/&gt;&lt;ref name="science20120803"/&gt;&lt;ref name="npr20120811"/&gt; A chapter-length biography of Steltzner in the book ''Going to Mars'' (2004) is titled "Elvis Lives" after the rock and roll star who Steltzner supposedly resembles,&lt;ref name="muirhead"/&gt; which ''Esquire'' said "calls back to NASA's halcyon days in the late 1950s and early 1960s".&lt;ref name="esquire20120807"/&gt;
+
+He was among the scientists and engineers featured on the ''[[Nova (American TV series)|NOVA]]'' episode "Mars Dead or Alive" (2004), which chronicled the process that ultimately delivered the rovers Spirit and Opportunity to Mars.&lt;ref name="nova20040104"/&gt; The episode was nominated for an Emmy in 2004. He also appeared in the ''NOVA'' episodes "Welcome to Mars" (2005) and "The Great Math Mystery" (2015), ''[[Roadtrip Nation]]'' (2014), and other TV documentaries including ''Countdown to Mars'' (2003), ''Bouncing to Mars'' (2003), ''Spirit of Exploration'' (2005), ''What Went Right'' (2006), ''Mars Rising'' episodes "Journey to the Red Planet" and "Seven Minutes of Terror" (2007), and ''[[Horizon (BBC TV series)|Horizon]]'' episodes "Mission to Mars: A Horizon Special" (2012) and "Man on Mars: Mission to the Red Planet" (2014). Steltzner appeared on the news program ''[[Studio B with Shepard Smith]]'' on August 6, 2012.&lt;ref name="isbn"/&gt;
+
+==Awards and honors==
+{{expand list|date=August 2014}}
+*2005 [[ASME Leonardo Da Vinci Award]] by the [[American Society of Mechanical Engineers]]&lt;ref&gt;{{cite web |url=https://www.asme.org/about-asme/get-involved/honors-awards/unit-awards/leonardo-da-vinci-award |title=Leonardo Da Vinci Award |publisher=ASME |accessdate=October 10, 2018}}&lt;/ref&gt;
+*2012 ''[[Nature (journal)|Nature]]'' named Steltzner one of 10 most important scientists of the year&lt;ref name="nature20121220" /&gt;&lt;ref&gt;{{cite news |url=http://www.space.com/18973-mars-rover-curiosity-steltzner-nature.html |title=Mars Rover Landing Guru Makes 'Best of 2012' List |work=[[Space.com]] |first=Mike |last=Wall |date=December 19, 2012 |accessdate=August 12, 2014}}&lt;/ref&gt;
+*2012 World Technology Award in Ethics given by the International Society for Ethics and Information Technology&lt;ref&gt;{{cite web |url=http://inseit.net/news/7 |title=Anthony Beavers: 2012 World Technology Award in Ethics |publisher=International Society for Ethics and Information Technology |date=July 18, 2014 |accessdate=August 12, 2014}}&lt;/ref&gt;
+*2013 ''[[Smithsonian (magazine)|Smithsonian]]'' magazine's American Ingenuity Award in the Technology category&lt;ref&gt;{{cite journal |url=http://www.smithsonianmag.com/innovation/the-brilliance-behind-the-plan-to-land-curiosity-on-mars-180947633/?all |title=The Brilliance Behind the Plan to Land Curiosity on Mars |journal=[[Smithsonian (magazine)|Smithsonian]] |first=Jennifer |last=Ouellette |date=December 2013 |accessdate=December 5, 2013}}&lt;/ref&gt;
+*2013 Space Pioneer Award for Science and Engineering presented by the [[National Space Society]] to the Mars Science Laboratory Entry, Descent, and Landing (EDL) team&lt;ref&gt;{{cite web |url=http://www.nss.org/awards/2013.html |title=2013 National Space Society Awards |publisher=[[National Space Society]] |accessdate=August 12, 2014}}&lt;/ref&gt;
+*2014 [[Yvonne C. Brill Lectureship]] of the [[American Institute of Aeronautics and Astronautics]] (AIAA)&lt;ref&gt;{{cite web |url=http://www.aiaa.org/SecondaryTwoColumn.aspx?id=24633 |title=Dr. Adam Steltzner Awarded Inaugural Yvonne C. Brill Lectureship |publisher=[[American Institute of Aeronautics and Astronautics]] |first=Duane |last=Hyland |date=August 11, 2014 |accessdate=August 12, 2014}}&lt;/ref&gt;
+*2014 Astronautics Engineer Award given by the [[National Space Club]] as part of the Goddard Memorial Dinner Awards&lt;ref&gt;{{cite press release |url=http://spaceref.com/news/viewpr.html?pid=42443 |title=National Space Club Announces 2014 Goddard Memorial Dinner Award Recipients |publisher=[[National Space Club]] |via=SpaceRef.com |date=February 4, 2014 |accessdate=August 12, 2014}}&lt;/ref&gt;
+*2016 Inducted into the [[National Academy of Engineering]]&lt;ref name="nasa20160209" /&gt;
+
+==See also==
+*[[Bobak Ferdowsi]]
+*[[Anita Sengupta]]
+
+==References==
+{{Reflist|30em|refs=
+&lt;ref name="nasa-7mins"&gt;{{cite web |url=http://www.jpl.nasa.gov/video/index.php?id=1090 |title=Curiosity's Seven Minutes of Terror |work=NASA.gov |date=June 22, 2012 |accessdate=August 6, 2012}}&lt;/ref&gt;
+
+&lt;ref name="palca"&gt;{{cite news |url=https://www.npr.org/2012/08/03/157597270/crazy-smart-when-a-rocker-designs-a-mars-lander |title=Crazy Smart: When A Rocker Designs A Mars Lander |first=Joe |last=Palca |work=[[NPR]] |date=August 3, 2012 |accessdate=August 5, 2012}} See also [http://www.wbur.org/npr/157597270/crazy-smart-when-a-rocker-designs-a-mars-lander transcript] of audio portion.&lt;/ref&gt;
+
+&lt;ref name="steltznerphd"&gt;{{cite thesis |degree=PhD |first=Adam |last=Steltzner |title=Input force estimation, inverse structural systems and the inverse structural filter |publisher=University of Wisconsin–Madison |date=1999 |id={{ProQuest|304536848}} }}&lt;/ref&gt;
+
+&lt;ref name="mir"&gt;{{Cite journal |title=Structural Identification of Mir Using Inverse System Dynamics and Mir/Shuttle Docking Data |journal=Journal of Vibration and Acoustics |first1=D. C. |last1=Kammer |first2=A. D. |last2=Steltzner |volume=123 |issue=2 |page=230 |date=2001 |doi=10.1115/1.1355030}}&lt;/ref&gt;
+
+&lt;ref name="msl1"&gt;{{Cite conference |title=Mars Science Laboratory Entry, Descent, and Landing System |conference=2006 IEEE Aerospace Conference |location=Big Sky, Montana |first1=A. |last1=Steltzner |first2=D. |last2=Kipp |first3=A. |last3=Chen |date=2006 |doi=10.1109/AERO.2006.1655796 |isbn=0-7803-9545-X|display-authors=etal}}&lt;/ref&gt;
+
+&lt;ref name="msl2"&gt;{{Cite conference |title=Mars Science Laboratory Entry, Descent, and Landing System Overview |conference=2008 IEEE Aerospace Conference |location=Big Sky, Montana |first1=R. |last1=Prakash |first2=P. D. |last2=Burkhart |first3=A. |last3=Chen |pages=1–18 |date=March 1–8, 2008 |doi=10.1109/AERO.2008.4526283 |isbn=978-1-4244-1487-1|display-authors=etal|url=https://zenodo.org/record/1263746 }}&lt;/ref&gt;
+
+&lt;ref name="leopold"&gt;{{cite news |url=http://www.eetimes.com/electronics-news/4391685/Adam-Stelzner--NASA-s-hipster-rocket-engineer |title=Adam Steltzner, NASA's hipster rocket engineer |work=[[EE Times]] |first=George |last=Leopold |date=August 3, 2012 |accessdate=August 5, 2012}}&lt;/ref&gt;
+
+&lt;ref name="bosch"&gt;{{cite news |url=http://www.slate.com/blogs/future_tense/2012/08/06/bobak_ferdowsi_adam_steltzner_nasa_s_mars_rover_curiosity_team_includes_a_mohawk_guy_.html |title=Forget the Nerdy Image: Mars Rover Curiosity Team Includes 'Mohawk Guy' and Former Rock 'n' Roller |work=[[Slate (magazine)|Slate]] |first=Torie |last=Bosch |date=August 6, 2012 |accessdate=August 6, 2012}}&lt;/ref&gt;
+
+&lt;ref name="nature20121220"&gt;{{Cite journal |title=366 days: ''Nature''{{'}}s 10 {{ndash}} Adam Steltzner: Our man on Mars |journal=[[Nature (journal)|Nature]] |first=Eric |last=Hand |volume=492 |issue=7429 |pages=335–343 |date=December 20, 2012 |doi=10.1038/492335a |pmid=23257862|bibcode = 2012Natur.492..335. |doi-access=free }}&lt;/ref&gt;
+
+&lt;ref name="muirhead"&gt;{{cite book |url=https://books.google.com/books?id=_jUZe2UUCdUC&amp;pg=PA169 |title=Going to Mars: The Stories of the People Behind NASA's Mars Missions Past, Present, and Future |publisher=Pocket Books |location=New York City |first1=Brian |last1=Muirhead |first2=Judith |last2=Reeves-Stevens |first3=Garfield |last3=Reeves-Stevens |pages=169–172 |date=2004 |isbn=0671027964}}&lt;/ref&gt;
+
+&lt;ref name="bilger"&gt;{{cite news |url=http://www.newyorker.com/reporting/2013/04/22/130422fa_fact_bilger?currentPage=all |title=The Martian Chroniclers |work=[[The New Yorker]] |first=Burkhard |last=Bilger |date=April 22, 2013 |accessdate=April 15, 2013}}&lt;/ref&gt;
+
+&lt;ref name="marin20120806"&gt;{{cite news |url=http://www.marinij.com/millvalley/ci_21248354/tamalpais-high-school-graduate-has-hand-mars-rover |title=Tamalpais High School graduate has hand in Mars rover landing |work=[[Marin Independent Journal]] |first1=Lisa |last1=Krieger |first2=Mark |last2=Prado |date=August 6, 2012 |archiveurl=https://web.archive.org/web/20120808204908/http://www.marinij.com/millvalley/ci_21248354/tamalpais-high-school-graduate-has-hand-mars-rover |archivedate=August 8, 2012}}&lt;/ref&gt;
+
+&lt;ref name="marin20120816"&gt;{{cite news |url=http://www.marinij.com/millvalley/ci_21330320/tam-grad-involved-mars-mission-gains-attention-part |title=Tam grad involved in Mars mission gains attention as part of new geek chic: mohawks are in, pocket protectors out |first1=Seth |last1=Borenstein |first2=Alicia |last2=Chang |work=Associated Press via [[Marin Independent Journal]] |date=August 16, 2012 |accessdate=19 August 2012}}&lt;/ref&gt;
+
+&lt;ref name="tale"&gt;{{cite web |url=http://ses.gsfc.nasa.gov/ses_data_2009/091110_Steltzner_Abstract.htm |title=Systems Engineering Seminar: System Engineering Challenges of the Mars Science Laboratory Entry, Descent and Landing (EDL) System; A tale in three acts |work=NASA.gov |publisher=Jet Propulsion Laboratory |date=November 10, 2009 |accessdate=August 6, 2012}}&lt;/ref&gt;
+
+&lt;ref name="marssociety"&gt;{{cite web|url=http://www.marssociety.org/home/press/announcements/mslentrydescentlandingupdateatmarssocietyconvention |archive-url=https://archive.is/20130415091201/http://www.marssociety.org/home/press/announcements/mslentrydescentlandingupdateatmarssocietyconvention |url-status=dead |archive-date=April 15, 2013 |title=MSL Entry, Descent &amp; Landing Update at Mars Society Convention |publisher=[[Mars Society]] |date=June 12, 2012 |accessdate=August 14, 2012 }}&lt;/ref&gt;
+
+&lt;ref name="nasa-challenges"&gt;{{cite web |url=http://mars.jpl.nasa.gov/multimedia/videos/movies/curiosity20120622/curiosity20120622.pdf |title=The Challenges of Getting to Mars: Curiosity's Seven Minutes of Terror |work=NASA.gov |date=June 22, 2012 |accessdate=June 22, 2012}}&lt;/ref&gt;
+
+&lt;ref name="PIA14839"&gt;{{cite web |url=http://photojournal.jpl.nasa.gov/catalog/PIA14839 |title=PIA14839: Curiosity's Sky Crane Maneuver, Artist's Concept |work=NASA.gov |publisher=Jet Propulsion Laboratory |date=October 3, 2011}}&lt;/ref&gt;
+
+&lt;ref name="squyers2005"&gt;{{cite book |url=https://archive.org/details/rovingmarsspirit00squy |url-access=registration |title=Roving Mars: Spirit, Opportunity, and the Exploration of the Red Planet |publisher=Hyperion |location=New York City |first=Steven W. |last=Squyres |pages=[https://archive.org/details/rovingmarsspirit00squy/page/128 128]–138 |date=2005 |isbn=1401301495}}&lt;/ref&gt;
+
+&lt;ref name="nasasci20120921"&gt;{{cite web |url=https://science.nasa.gov/science-news/science-at-nasa/2012/21sep_curiositymatters/ |title=Why Curiosity Matters |work=NASA.gov |first=Dauna D. |last=Coulter |date=September 21, 2012 |accessdate=May 2, 2013}}&lt;/ref&gt;
+
+&lt;ref name="palca2"&gt;{{cite news |url=https://www.npr.org/2012/08/10/158515499/so-you-landed-on-mars-now-what |title=So You Landed On Mars. Now What? |work=[[NPR]] |first=Joe |last=Palca |date=August 10, 2012 |accessdate=August 12, 2012}}&lt;/ref&gt;
+
+&lt;ref name="npr20120804"&gt;{{cite news |url=https://www.npr.org/blogs/thesalt/2012/08/04/158085790/red-planet-green-thumb-how-a-nasa-scientist-engineers-his-garden |title=Red Planet, Green Thumb: How A NASA Scientist Engineers His Garden |work=[[NPR]] |first=Rebecca |last=Davis |date=August 4, 2012 |accessdate=August 6, 2012}}&lt;/ref&gt;
+
+&lt;ref name="science20120803"&gt;{{cite journal |url=http://blogs.sciencemag.org/sciencecareers/2012/08/good-rockin-ton.html |title=Good Rockin' (Maybe) Monday |journal=[[Science (journal)|Science]] |first=Beryl |last=Benderly |date=August 3, 2012 |accessdate=August 6, 2012}}&lt;/ref&gt;
+
+&lt;ref name="npr20120811"&gt;{{cite web |url=https://www.npr.org/2012/08/11/158560487/not-my-job-we-quiz-nasa-engineers-on-mars-candy |title=Not My Job: We Quiz NASA Engineers On Mars Candy |work=[[NPR]] |date=August 11, 2012 |accessdate=August 14, 2012}}&lt;/ref&gt;
+
+&lt;ref name="esquire20120807"&gt;{{cite news |url=http://www.esquire.com/blogs/mens-fashion/adam-steltzner-hair-2012 |title=The NASA-Guy Style We Can Actually Endorse |work=[[Esquire (magazine)|Esquire]] |first=Matthew |last=Bell |date=August 7, 2012 |accessdate=August 25, 2012}}&lt;/ref&gt;
+
+&lt;ref name="nova20040104"&gt;{{cite episode|url=https://www.pbs.org/wgbh/nova/mars/program.html |title=Mars Dead or Alive |series=Nova |serieslink=Nova (American TV series) |season=31 |number=9 |date=January 4, 2004 |transcript=Transcript |transcripturl=https://web.archive.org/web/20040416133338/http://www.pbs.org/wgbh/nova/transcripts/3101_mars.html |url-status=dead |archiveurl=https://web.archive.org/web/20070108184607/http://www.pbs.org/wgbh/nova/mars/program.html |archivedate=January 8, 2007 }}&lt;/ref&gt;
+
+&lt;ref name="isbn"&gt;{{IMDb name|1581679}}&lt;/ref&gt;}}
+
+==External links==
+{{Wikiquote}}
+{{commons category|Adam Steltzner}}
+*[http://www.adamsteltzner.com/ Adam Steltzner official website]
+*[https://gizmodo.com/5933049/talk-to-the-man-who-led-curiosity-to-the-surface-of-mars-adam-steltzner Talk to the Man Who Led Curiosity to the Surface of Mars: Adam Steltzner], ''[[Gizmodo]]'', video interview 5m12s, August 14, 2012.
+*[https://www.youtube.com/watch?v=YYPXqSN6OOk What's It's Like to Land on Mars], ''NASA.gov'', video 4m06s. Steltzner narrates the ''Curiosity'' landing.
+*[https://www.youtube.com/watch?v=Ki_Af_o9Q9s 7 Minutes of Terror: The Challenges of Getting to Mars], ''[[YouTube]].com'', video 5m08s. Steltzner, among others, describes the engineering challenges of the ''Curiosity'' landing.
+*[https://twitter.com/steltzner Adam Steltzner] at [[Twitter]]
+*[https://www.facebook.com/adamsteltzner Adam Steltzner] at [[Facebook]]
+
+{{DEFAULTSORT:Steltzner, Adam}}
+[[Category:1963 births]]
+[[Category:Living people]]
+[[Category:NASA people]]
+[[Category:University of California, Davis alumni]]
+[[Category:Tamalpais High School alumni]]
+[[Category:College of Marin alumni]]
+[[Category:California Institute of Technology alumni]]
+[[Category:University of Wisconsin–Madison alumni]]
+[[Category:American people of German descent]]
+[[Category:People from the San Francisco Bay Area]]
+[[Category:Articles containing video clips]]</text>
+      <sha1>49mi7b0jrtiuq6xcz8ru3ilnjm1otdg</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,98 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Template:Non-free manual reduce</title>
+    <ns>10</ns>
+    <id>52814960</id>
+    <revision>
+      <id>931943095</id>
+      <parentid>899884418</parentid>
+      <timestamp>2019-12-22T10:29:31Z</timestamp>
+      <contributor>
+        <username>SD0001</username>
+        <id>21552604</id>
+      </contributor>
+      <comment>add |name=</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4073" xml:space="preserve">{{SAFESUBST:&lt;noinclude /&gt;#invoke:Unsubst||$B=
+{{imbox
+| type = content
+| name = Non-free manual reduce
+| image =
+| imageright =
+| style =
+| textstyle =
+| text = This [[Wikipedia:Non-free content|non-free]] media file should be '''replaced with a reduced version''' to comply with Wikipedia's [[WP:NFCC|non-free content policy]] and United States copyright law. '''An editor requests a manual reduction.''' According to Wikipedia's policy for non-free content, the amount of copyrighted work used under fair use should be as little as possible. In particular, non-free media on Wikipedia should not be usable as substitutes for the original work. {{#switch:{{if empty|{{lc:{{{type|}}}}}|{{#ifeq:{{Str rightc|{{lc:{{PAGENAME}}}}|4}}|.svg|svg}}|image}}
+
+|audio= A full copy of a song, or high bit-rate sample
+|video= An extended portion of copyrighted audio visual work
+|screen= A high resolution screen capture
+|poster= A high resolution poster
+|money= A high resolution capture/scan of currency
+|svg= A vector image displayed at excessive nominal size or number of vectors
+|A high-resolution non-free image
+}} is questionable fair use and may be deleted per Wikipedia's [[Wikipedia:Copyrights|copyright policy]].
+
+{{#switch:{{if empty|{{lc:{{{type|}}}}}|{{#ifeq:{{Str rightc|{{lc:{{PAGENAME}}}}|4}}|.svg|svg}}|image}}
+|audio= A sample can be taken from an audio file using an [[:Category:Audio editors|audio editing program]].
+Such tools can also be used to reduce the bit-rate such that the sample quality does not compete with commercially available versions of the work.
+|screen= A reduced resolution, smaller sized screen capture or contextually relevant section of the image may be obtained in an [[:Category:Raster graphics editors|image editing program]] or by saving and re-uploading a suitably sized [[Wikipedia:Picture tutorial#Thumbnails|thumbnail]].
+|video= A relevant single frame or contextually valid subsection may be obtained in a suitable video
+editor.
+|poster= A reduced resolution, smaller sized poster may be reduced in an [[:Category:Raster graphics editors|image editing program]] or by saving and re-uploading a suitably sized [[Wikipedia:Picture tutorial#Thumbnails|thumbnail]].
+|money= A reduced resolution, smaller sized screen capture or contextually relevant section of the image may be obtained in an [[:Category:Raster graphics editors|image editing program]] or by saving and re-uploading a suitably sized [[Wikipedia:Picture tutorial#Thumbnails|thumbnail]]. It is strongly advised to visually deface the notes as 'specimen' or 'void' at the same time to discourage the use of such images for counterfeiting purposes.
+|svg= The SVG can be configured a smaller size by changing the ''nominal'' size data using an appropriate vector image editor such as [[Inkscape]]. A bot may have reduced the nominal size already, to prevent the software automatically displaying an image of over 100,000 pixels, to be in line with the non-free content [[WP:Image resolution|guideline]]. In such a case, an editor has added this template to indicate that this image is too high resolution with respect to the number of vectors, and needs proper image editing to conform to the low resolution requirement of non-free images.
+|#default=The size of an image may be reduced manually in an [[:Category:Raster graphics editors|image editing program]] or by saving and re-uploading a suitably sized [[Wikipedia:Picture tutorial#Thumbnails|thumbnail]].}}
+'''Once a reduced version of this file has been &lt;span class="plainlinks"&gt;[{{fullurl:Special:Upload|wpDestFile={{urlencode:{{PAGENAME}}}}}} uploaded]&lt;/span&gt;:''' Please replace this template with {{tls|orfurrev}} (through source edit) or {{tlp|Orphaned non-free revisions|2=date={{Date}}}} (through VisualEditor or Twinkle).
+}}&lt;includeonly&gt;{{file other|{{Non-free media}}{{{category|[[Category:Wikipedia non-free file size reduction requests for manual processing|{{PAGENAME}}]]}}}}}&lt;/includeonly&gt;
+}}&lt;noinclude&gt;
+{{documentation}}
+&lt;!-- Add categories and inter-wikis to the /doc subpage, not here! --&gt;
+&lt;/noinclude&gt;</text>
+      <sha1>sa098dodszbujo8xc78grxp540bipma</sha1>
+    </revision>
+  </page>
+</mediawiki>

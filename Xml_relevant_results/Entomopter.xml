@@ -1,0 +1,121 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Entomopter</title>
+    <ns>0</ns>
+    <id>3736763</id>
+    <revision>
+      <id>915054242</id>
+      <parentid>834213081</parentid>
+      <timestamp>2019-09-10T23:19:02Z</timestamp>
+      <contributor>
+        <username>Jarble</username>
+        <id>7226930</id>
+      </contributor>
+      <minor/>
+      <comment>linking</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9734" xml:space="preserve">[[Image:Yellow SLA Entomopter.jpg|thumb|300px|right|Terrestrial Entomopter model.]]
+
+An '''Entomopter''' is an aircraft that flies using the wing-flapping aerodynamics of an insect. The word is derived from ''entomo'' (meaning insect: as in [[entomology]]) + ''pteron'' (meaning wing). Entomopters are type of [[ornithopter]], which is the broader term for any device intended to fly by flapping wings.
+
+==Terrestrial entomopter==
+The terrestrial Entomopter is a multimode (flying/crawling) insect-like [[robot]] developed by Prof. [[Robert C. Michelson]] and his design team from the [[Georgia Tech Research Institute]] (GTRI), [[University of Cambridge]], ETS Labs and others.&lt;ref&gt;Michelson, R.C., ''The Entomopter,'' Neurotechnology for Biomimetic Robots, {{ISBN|0-262-01193-X}}, The MIT Press, September 2002, pp.&amp;nbsp;481 – 509, (chapter author).&lt;/ref&gt; 
+
+The Earth-bound entomopter has a 15 to 18&amp;nbsp;cm wing span. A twin set of wings situated fore and aft of the RCM provide balanced resonant flapping to create not only lift and thrust, but full vehicle control. Wing flapping occurs a 35&amp;nbsp;Hz constant rate. This [[bio-inspired robotics|biologically inspired]] aerial robot is classified as a [[micro air vehicle]] (MAV) because of its size. Mission payloads are around 10&amp;nbsp;grams with a full gross takeoff weight (GTOW) of 50&amp;nbsp;grams. Intended use is for covert indoor reconnaissance or operation in confined human-inaccessible spaces.
+
+===Power source===
+The Entomopter is propelled by a pair of flapping wings driven by a [[Reciprocating Chemical Muscle]] (RCM) which is capable of generating autonomic wing beating from a chemical energy source without an ignition source, [[combustion]], or atmospheric [[oxygen]]. Through direct conversion, the RCM also provides small amounts of electricity for onboard systems and further provides differential lift enhancement on the wings through circulation control ([[Coanda effect]]) to achieve pitch, roll, yaw, and heave to effect steered flight.
+
+In addition, the RCM propulsion system is [[wikt:anaerobic|anaerobic]], which would allow it to function without [[oxidizer]]s, for example, in the [[carbon dioxide]] Mars atmosphere.
+
+The Entomopter performs obstacle avoidance and [[Altimeter|altimetry]] through the use of a frequency modulated continuous wave (FMCW) acoustic transmission created from the waste gas product from fuel decomposition within the RCM. This waste gas is also used for [[Fluid bearing|gas bearings]] (dry lubrication) of all moving parts as well as the circulation controlled "blowing" of the wings for stability control and navigation.
+
+==Mars entomopter==
+[[File:Mars entomopter.jpg|thumb|Visualization of entomopter flying on Mars (NASA)]]
+
+Flight in the [[atmosphere of Mars]] is difficult. Aerial Mars rovers using a conventional fixed wing would have to fly at over 250&amp;nbsp;mph just to stay aloft in the rarefied Mars atmosphere. This makes landing on the rocky surface almost impossible, thereby precluding sample inspection/gathering. Also, the high speed flight means that dwell time on any particular area will be difficult—a negative feature that is compounded by the fact that turns in the thin atmosphere will require enormous radii. An entomopter, on the other hand, can achieve abnormally high lift with rapidly flapping wings (in part due to the "leading edge vortex" phenomenon), and therefore allows the fuselage to move slowly in relation to the ground.&lt;ref name="abstract" /&gt;&lt;ref name="VonKarmen"&gt;Michelson, R.C., Naqvi, M.A., ''Extraterrestrial Flight (Entomopter-based Mars Surveyor),'' von Karman Institute for Fluid Dynamics RTO/AVT Lecture Series on Low Reynolds Number Aerodynamics on Aircraft Including Applications in Emerging UAV Technology, Brussels Belgium, 24–28 November 2003&lt;/ref&gt;
+
+An entomopter team led by Anthony Colozza of the Ohio Aerospace Institute&lt;ref&gt;Space Daily, "[http://www.spacedaily.com/reports/Natures_Flight_System_Could_Be_Key_To_Exploring_Mars.html Nature's Flight System Could Be Key To Exploring Mars]," Dec 3, 2001 (accessed May 5, 2011)&lt;/ref&gt; received [[NASA Institute for Advanced Concepts | NASA Institute for Advanced Concepts (NIAC)]] funding to study an entomopter concept for a potential future robotic Mars missions.&lt;ref name="abstract" /&gt;
+They note that the [[Reynolds number]] for flight on Mars is equivalent to that found at over 100,000&amp;nbsp;feet (30 km) on Earth. Nothing currently flies with any regularity at this altitude. However, the Reynolds number regime for the tiny entomopter operating in Earth’s atmosphere is equivalent to a larger version (one-meter wing span) operating in the rarefied Mars atmosphere. In addition, the surface [[gravity of Mars]] is only 37% that of Earth, so an entomopter-based Mars Flyer would benefit by proportionately reduced weight, even at its increased size on Mars.&lt;ref name="VonKarmen" /&gt;&lt;ref name="abstract"&gt;Anthony Colozza, ''Planetary Exploration Using Biomimetics – An Entomopter for Flight on Mars'', Phase I  ([http://www.niac.usra.edu/files/studies/abstracts/448Colozza.pdf abstract]), NASA Institute for Advanced Concepts, 2000.  See: [http://www.niac.usra.edu/studies/448Colozza.html Phase I study], [http://www.niac.usra.edu/studies/522Colozza.html Phase II study].  Retrieved April 4, 2018.&lt;/ref&gt;  An Entomopter-based Mars Flyer holds promise of not only flying slowly over the Martian landscape, but also of serving as a multimode vehicle which could land, take samples, recharge, or communicate, and then take off to continue the survey mission.&lt;ref name="NIAC"&gt;Colozza, A., Michelson, R.C., ''et al.'', ''Planetary Exploration Using Biomimetics – An Entomopter for Flight on Mars,'' [http://angel-strike.com/entomopter/NIAC_Final_Report_10-31-02.pdf Phase II Final Report] , NASA Institute for Advanced Concepts Project NAS5-98051, October 2002.  [http://www.niac.usra.edu/files/studies/abstracts/448Colozza.pdf abstract]&lt;/ref&gt; It even has the potential of returning to its launch point for refueling, downloading of data, or transferring of samples. 
+
+More recently, a new NIAC project, "Marsbee," was awarded to continue study of the concept of insect-like flight on Mars.&lt;ref&gt;Chang-kwon Kang, ''[https://www.nasa.gov/directorates/spacetech/niac/2018_Phase_I_Phase_II/Marsbee_Swarm_of_Flapping_Wing_Flyers_for_Enhanced_Mars_Exploration  Marsbee - Swarm of Flapping Wing Flyers for Enhanced Mars Exploration],'' NASA Innovative Advanced Concepts, March 30, 2018. Retrieved April 4, 2018.&lt;/ref&gt;
+
+==Funding and international recognition==
+The Entomopter project received initial internal research and development (IRAD) funding from the [[Georgia Institute of Technology]] beginning in 1996, and follow-on funding from the Defense Advanced Research Projects Agency [[DARPA]], the [[Air Force Research Laboratory]] (AFRL) and the NASA Institute for Advanced Concepts.&lt;ref name="abstract" /&gt; For endeavors related to the Entomopter, [[Robert C. Michelson|Prof. Michelson]] is the recipient of the ''2001 Pirelli Award for the diffusion of scientific culture'' given by an international Jury for the “best multimedia project coming from any educational institution in the world.” He was also awarded the first ''Top Pirelli Prize'' (€25,000) for the work deemed best from an international field of over 1000 considered.
+
+==Patents==
+# U.S. Patent No. 6,082,671, July 4, 2000, “Entomopter and Method for Using Same”
+# U.S. Patent No. 6,446,909, September 10, 2002, “Reciprocating Chemical Muscle (RCM) and Method for Using Same”
+
+==See also==
+* [[Insect flight]]
+* [[Ornithopter]]
+
+==References==
+{{reflist}}
+
+==Selected reports and publications==
+# Michelson, R.C., ''Novel Approaches to Miniature Flight Platforms,'' Proceedings of the Institute of Mechanical Engineers, Vol. 218 Part G: Journal of Aerospace Engineering, Special Issue Paper 2004, pp.&amp;nbsp;363–373
+# Michelson, R.C., Naqvi, M.A., ''Beyond Biologically-Inspired Insect Flight,'' [[von Karman Institute for Fluid Dynamics]] RTO/AVT Lecture Series on Low Reynolds Number Aerodynamics on Aircraft Including Applications in Emerging UAV Technology, Brussels Belgium, 24–28 November 2003
+# Colozza, A., Michelson, R.C., ''et al.'', ''Planetary Exploration Using Biomimetics – An Entomopter for Flight on Mars,'' Phase II Final Report, [[NASA Institute for Advanced Concepts]] Project NAS5-98051, October 2002
+# Michelson, R.C., ''Scaling of Biologically Inspired Aerial Robots,'' 5th International Workshop on Similarity Methods, Institut für Statik und Dynamik der Luft und Raumfahrtkonstruktionen, Universität Stuttgart, 4–5 November 2002, pp.&amp;nbsp;71 – 78
+# Michelson, R.C., ''Neurotechnology for Biomimetic Robots'', {{ISBN|0-262-01193-X}}, The MIT Press, September 2002, pp.&amp;nbsp;481 – 509, (chapter author).
+
+==External links==
+* [http://angel-strike.com/entomopter/EntomopterProject.html Official Entomopter web site] - The biologically inspired aerial robot conceived and developed by Prof. Michelson for terrestrial intelligence and planetary surveying applications. (Retrieved 26 August 2008)
+* [http://angel-strike.com/entomopter/EntomopterMarsSurveyor.mov Animation of Entomopter flight on Mars] - Movie script by [[Robert C. Michelson]], animated and rendered by Dan Maas. (Retrieved 26 August 2008)
+* [http://angel-strike.com/rcmbio/RCM/MICHELSON.bio.html Online biosketch for Robert C. Michelson] - Has many external links to Michelson's related work the Entomopter and with aerial robotics in general. (Retrieved 26 August 2008)
+
+[[Category:Robots of the United States]]
+[[Category:Ornithopters]]
+[[Category:2000s robots]]
+[[Category:Georgia Tech Research Institute]]
+[[Category:Micro air vehicles]]</text>
+      <sha1>2qq0b6hk4s8ekyqgf9i82mzweybeobn</sha1>
+    </revision>
+  </page>
+</mediawiki>

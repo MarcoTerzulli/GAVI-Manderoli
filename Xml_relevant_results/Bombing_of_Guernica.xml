@@ -1,0 +1,373 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bombing of Guernica</title>
+    <ns>0</ns>
+    <id>731923</id>
+    <revision>
+      <id>954500342</id>
+      <parentid>954498874</parentid>
+      <timestamp>2020-05-02T19:04:18Z</timestamp>
+      <contributor>
+        <username>Modernist</username>
+        <id>1653549</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/2601:484:C281:4BA0:1496:6098:B204:8D4A|2601:484:C281:4BA0:1496:6098:B204:8D4A]] ([[User talk:2601:484:C281:4BA0:1496:6098:B204:8D4A|talk]]) to last version by Denniss</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="61983" xml:space="preserve">{{short description|Attack by military aircraft during the Spanish Civil War}}
+{{Use dmy dates|date=August 2019}}
+{{operational plan
+| name        = Operation Rügen
+| partof      = the [[Spanish Civil War]]
+| image       = [[File:Bundesarchiv Bild 183-H25224, Guernica, Ruinen.jpg|300px]]
+| caption     = Ruins of Guernica (1937)
+| scope       =
+| type        = [[Aerial bombing of cities|Aerial bombing]]
+| location    = [[Guernica (town)|Guernica]], Basque Country, Spain
+| coordinates ={{coord| 43|18|50|N |2|40|42|W|scale:10000|display=title}}
+| map_type    = Spain Basque Country
+| map_size    = 300
+| map_caption = Location of Guernica within the Basque Autonomous Community
+| map_label   = Guernica
+| planned     =
+| planned_by  = National Defense Junta
+| objective   =
+| target      =
+| date        = {{start date and age|df=yes|1937|04|26}}
+| time        =
+| time-begin  = 16:30
+| time-end    = 19:30
+| timezone    = [[Central European Time|CET]]
+| executed_by = {{flag|Nationalist Spain}}
+* {{flagicon|Nazi Germany}} [[Condor Legion]]
+* {{flagicon|Kingdom of Italy}} [[Aviazione Legionaria|Legionary Air Force]]
+| outcome     =
+| casualties  =
+| fatalities  = ~150–1,650 (estimates vary)
+| injuries    =
+}}
+{{Campaignbox Spanish Civil War}}
+
+The '''bombing of Guernica''' (26 April 1937) was an [[Aerial bombing of cities|aerial bombing]] of the [[Basque Country (greater region)|Basque]] town of [[Guernica]] (''Gernika'' in [[Basque language|Basque]]) during the [[Spanish Civil War]].  It was carried out, at the behest of [[Francisco Franco]]'s rebel [[Nationalist faction (Spanish Civil War)|Nationalist faction]], by its allies, the [[Nazi Germany|Nazi German]] [[Luftwaffe]]'s [[Condor Legion]] and the [[Kingdom of Italy|Fascist Italian]] [[Aviazione Legionaria]], under the code name 'Operation Rügen'. The operation opened the way to Franco's capture of [[Bilbao]] and his victory in northern Spain.
+
+The attack gained controversy because it involved the bombing of civilians by a military air force. Seen as a [[war crime]] by some historians,  and argued as a legitimate attack by others,&lt;ref&gt;Corum 1997, pp. 198–199.&lt;/ref&gt; it was one of the first aerial bombings to capture global attention. The number of victims is still disputed; the Basque government reported 1,654 people killed at the time, while local historians identified 126 victims&lt;ref name="deia.com"&gt;{{in lang|es}} [https://archive.is/20120723171603/http://www.deia.com/2011/04/27/opinion/editorial/verdades-sobre-gernika "Verdades sobre Gernika"] ''[[Deia (newspaper)|Deia]]''. Retrieved 17 September 2013.&lt;/ref&gt; (later revised by the authors of the study to 153).&lt;ref name="euskonews1"&gt;{{in lang|es}} [http://www.euskonews.com/0621zbk/elkar_es.html "Los gernikarras hemos recibido desde niños por transmisión oral lo que fue el bombardeo"] Euskonews. Retrieved 17 September 2013.&lt;/ref&gt; A British source used by the [[Air War College]] claims 400 civilians died.&lt;ref name="Air 1998"&gt;[[Corum, James S.]] (1998) "Inflated by Air. Common perceptions of civilian casualties from bombing". [[Air War College]].&lt;/ref&gt;&lt;ref name="news.bbc.co.uk"&gt;[http://news.bbc.co.uk/2/hi/europe/6583639.stm "The legacy of Guernica"] BBC. Retrieved 17 September 2013.&lt;/ref&gt; Soviet archives claim 800 deaths on 1 May 1937, but this number may not include victims who later died of their injuries in hospitals or whose bodies were discovered buried in the rubble.&lt;ref&gt;Abrosov, Sergei. ''V nebe Ispanii, 1936–1939 gody''. Moscow 2003.{{ISBN|978-5-699-25288-6}}&lt;/ref&gt;
+
+The bombing is the subject of the anti-war painting ''[[Guernica (Picasso)|Guernica]]'' by [[Pablo Picasso]], which was commissioned by the [[Spanish Republic]]. It was also depicted in a [[woodcut]] by the German artist [[Heinz Kiwitz]],&lt;ref&gt;Siegfried Gnichwitz, [http://kiwitz.hjs-kunst.com/Kiwitz_Folder.pdf "Heinz Kiwitz: gekämpft · vertrieben · verschollen"] (PDF) Stiftung Brennender Dornbusch. Folder from an exhibition in honor of the 100th anniversary of Kiwitz' birth. Liebfrauenkirche, Duisburg (7 November – 5 December 2010), pp.&amp;nbsp;4–5. Retrieved 10 February 2012 {{in lang|de}}&lt;/ref&gt; who was later killed fighting in the [[International Brigades]],&lt;ref&gt;Thomas Becker, [https://www.derwesten.de/staedte/duisburg/willkommen-im-club-id1427424.html "Willkommen im Club"] {{webarchive|url=https://web.archive.org/web/20160304083022/http://www.derwesten.de/staedte/duisburg/willkommen-im-club-id1427424.html |date=4 March 2016 }} ''Der Westen'' (7 October 2008). Retrieved 11 February 2012 {{in lang|de}}&lt;/ref&gt; and by [[Rene Magritte]] in the painting ''Le Drapeau Noir''.&lt;ref&gt;[https://www.nationalgalleries.org/art-and-artists/691/le-drapeau-noir-black-flag National Galleries of Scotland – Le Drapeau Noir]&lt;/ref&gt; The bombing shocked and inspired many other artists, including [[Guernica (sculpture)|a sculpture]] by [[René Iché]], one of the first electroacoustic music pieces by [[Patrick Ascione]], musical compositions by [[Octavio Vazquez]] (''Gernika'' Piano Trio) and [[René-Louis Baron]], and poems by [[Paul Eluard]] (''Victory of Guernica''), and [[Uys Krige]] (''Nag van die Fascistiese Bomwerpers'') (English translation from the Afrikaans: ''Night of the Fascist Bombers''). There is also a short film from 1950 by [[Alain Resnais]] titled ''[[Guernica (1950 film)|Guernica]]''.
+
+==Guernica==
+Guernica (Gernika in [[Basque language|Basque]]; officially Gernika-Lumo), in the Basque province of [[Biscay]], and 30&amp;nbsp;kilometres east of [[Bilbao]], has long been a centre of great significance to the [[Basque people]]. Its [[Gernikako Arbola]] ("the tree of Gernika" in Basque) is an oak tree that symbolizes traditional freedoms for the Biscayan people and, by extension, for the Basque people as a whole. Not only was Guernica considered the identity of Basque, but it was also considered the spiritual capital of Basque people.&lt;ref name="spartacus.schoolnet.co.uk"&gt;Peter, McMillan. (27 April 1937). Guernica, Spartacus Educational. http://www.spartacus.schoolnet.co.uk/SPguernica.ht{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; Guernica has always been celebrated as the home of Basque liberties.&lt;ref name="Thomas, Hugh 1961"&gt;Thomas, Hugh. (1961). ''The Spanish Civil War''. London: [[Eyre &amp; Spottiswoode]]&lt;/ref&gt; Guernica was also the location of the Spanish weapons manufacturer [[Astra-Unceta y Cía]], which had been a supplier of firearms to the Spanish military and police forces since 1912. At the time of the bombing, the population of Guernica was 7,000 people,&lt;ref&gt;Vilar, Pierre (1977). ''[https://books.google.com/books?id=1R304lcSa4kC&amp;pg=PA354 Guernica Guernica]''. University of California Press. p. 354. {{ISBN|0520028309}}&lt;/ref&gt; and the battlefront was 30&amp;nbsp;kilometres away.&lt;ref&gt;Davues, Hywel (2011) ''[https://books.google.com/books?id=QG6uBwAAQBAJ&amp;pg=PT59 Fleeing Franco: How Wales gave shelter to refugee children from the Basque country during the Spanish Civil War]''. University of Wales Press. {{ISBN|1783162856}}.&lt;/ref&gt;&lt;ref&gt;van Hensbergen, Gijs (2013). ''[https://books.google.com/books?id=7MbJ7bzsbo8C&amp;pg=PA36 Guernica: The Biography of a Twentieth-Century Icon]''. A&amp;C Black. p. 36. {{ISBN|1408841487}}.&lt;/ref&gt;
+
+===Military situation===
+[[File:Frente del Norte - Spanish Civil War (March-Sept 1937).svg|thumb|350px|1937 advance of Nationalist troops in Northern Spain]]
+Advances by [[Spanish Nationalists|Nationalist]] troops led by [[Generalísimo]] [[Francisco Franco]] had eaten into the territory controlled by the [[Second Spanish Republic|Republican Government]]. The [[Basque Government]], an autonomous regional administrative body formed by [[Basque nationalism|Basque nationalists]], sought to defend [[Biscay]] and parts of [[Guipuzcoa]] with its own light [[Basque Army]]. At the time of the raid, Guernica represented a focal strategic point for the Republican forces. It stood between the Nationalists and capture of [[Bilbao]]. Bilbao was seen as key to bringing the war to a conclusion in the north of Spain. Guernica also was the path of retreat for the Republicans from the northeast of Biscay.
+
+Prior to the Condor Legion raid, the town had not been directly involved in the fighting, although Republican forces were in the area; 23 battalions of Basque army troops were at the front east of Guernica. The town also housed two Basque army battalions, although it had no static air defenses, and it was thought that no air cover could be expected due to recent losses of the [[Republican Air Force]].&lt;ref&gt;Although on 27 April two Republican fighters were reported shot down by Condor Legion [[Messerschmitt Bf 109]] conducting follow-up raids against traffic around Guernica.&lt;/ref&gt;
+
+===Market day===
+Monday 26 April was market day; there were more than 10,000 people in the former Basque capital.&lt;ref&gt;Casanova, Julian. (2010) ''The Spanish Republic and Civil War''&lt;/ref&gt; Generally speaking, a market day would have attracted people from the surrounding areas to Guernica to conduct business. Market days consisted of local farmers bringing in their crops to sell to the village people. They would bring the crops of the week's labour to the main square, which is where the market was held.&lt;ref name="Thomas, Hugh 1961"/&gt;
+
+There is a historical debate over whether a market was being held that particular Monday as, prior to the bombing, the Basque government had ordered a general halt to markets to prevent congestion of roads, and restricted large meetings. It is accepted by most historians that Monday "...would have been a market day".&lt;ref&gt;See (Larrazabal 2005)&lt;/ref&gt;
+
+==Luftwaffe doctrine, 1933–1942==
+[[James Corum]] states that a prevalent view about the ''Luftwaffe'' and its ''Blitzkrieg'' operations was that it had a doctrine of [[terror bombing]], in which civilians were deliberately targeted in order to break the will or aid the collapse of an enemy. After the bombing of Guernica in 1937, [[Bombing of Wieluń|Wieluń]] and [[Bombing of Warsaw|Warsaw]] in 1939, and [[Rotterdam Blitz|Rotterdam]] in 1940, it was commonly assumed that terror bombing was a part of ''Luftwaffe'' doctrine. During the interwar period the ''Luftwaffe'' leadership officially rejected the concept of terror bombing, and confined the air arms use to battlefield support of [[interdiction]] operations.
+
+{{quote|The vital industries and transportation centres that would be targeted for shutdown were valid military targets. It could be claimed civilians were not to be targeted directly, but the breakdown of production would affect their morale and will to fight. German legal scholars of the 1930s carefully worked out guidelines for what type of bombing was permissible under international law. While direct attacks against civilians were ruled out as "terror bombing", the concept of attacking vital war industries-and probable heavy civilian casualties and breakdown of civilian morale-was ruled as acceptable.&lt;ref&gt;James Corum 1997, p. 240&lt;/ref&gt;}}
+
+General [[Walther Wever (general)|Walther Wever]] compiled a doctrine known as ''The Conduct of the Aerial War'' in 1935. In this document, which the ''Luftwaffe'' adopted, the ''Luftwaffe'' rejected [[Giulio Douhet]]'s theory of terror bombing. Terror bombing was deemed to be "counter-productive", increasing rather than destroying the enemy's will to resist.&lt;ref&gt;Corum 1997, pp. 143–144.&lt;/ref&gt; Such bombing campaigns were regarded as diversion from the ''Luftwaffe's'' main operations, destruction of the enemy armed forces.&lt;ref&gt;Corum 1997, pp. 146.&lt;/ref&gt;
+
+==The raid==
+[[File:Luftwaffe 1kg Incendiary Bomb.jpg|right|thumb|A Luftwaffe 1&amp;nbsp;kg incendiary bomb dated 1936]]
+The Condor Legion was entirely under the command of the Nationalist forces. The order to perform the raid was transmitted to the commanding officer of the Condor Legion, [[Oberstleutnant]] [[Wolfram Freiherr von Richthofen]], from the Spanish Nationalist Command.&lt;ref&gt;Telegram for the CO of Legion Condor, sent by HQ at Salamanca, in: Maier: Guernica 26 April 1937. Die deutsche Intervention in Spanien und der "Fall Guernica", Freiburg 1977, Appendix 6.&lt;/ref&gt;
+
+===Mission planning===
+While questions are often raised over the intent of the raid, the diaries of the planner and commander of the mission made public in the 1970s indicate that an attack on Guernica represented part of a wider Nationalist advance in the area and was also designed to support Franco's forces already in place.&lt;ref&gt;A nationalist force of twenty five battalions.&lt;/ref&gt;
+
+Richthofen, understanding the strategic importance of the town in the advance on Bilbao and restricting Republican retreat, ordered an attack against the roads and bridge in the Renteria suburb. Destruction of the bridge was considered the primary objective since the raid was to operate in conjunction with Nationalist troop movements against Republicans around Marquina. Secondary objectives were restriction of Republican traffic/equipment movements and the prevention of bridge repair via the creation of rubble around the bridge.
+
+On 22 March 1937 Franco started to put his plan into action, starting with his air chief, General Kindelan. The German army would first take the Guadalajara front. Italians then would be restructured at Palencia. From there two new divisions were formed. General Emilio Mola would start the campaign against the north (Asturias, Santander and Biscay). All Nationalist equipment was sent to the north front to support Mola. The main reason to attack first from the north was the suspicion that a decisive victory could be won there quickly. Mola wanted to make this fight quick; he let the Basque people know that if they wanted to surrender he would spare their lives and homes. On 31 March Mola's threat was put into action and the fighting began in [[Durango, Biscay|Durango]].&lt;ref name="Thomas, Hugh 1961"/&gt;
+
+Condor Legion persuaded Franco to send troops to go north and to be led by General Emilio Mola. 31 March 1937, Mola attacked Biscay province, including the bombing of Durango by the Condor Legion. Republicans put up a tough fight against the German troops, but eventually were forced back. Many refugees fled to Guernica for safety, about a thousand people turned to Guernica. On 25 April, Mola sent a warning to Franco saying that he was planning a heavy strike against Guernica.&lt;ref&gt;Zentner, Joe. The Destruction of a Basque Town served as a Model for Terror Bombing and Inspired an Anti-War Masterpiece. Military History, 08897328, June 97, Vol. 14, Issue 2&lt;/ref&gt;
+
+To meet these objectives, two [[Heinkel He 111]]s, one [[Dornier Do 17]], eighteen [[Junkers Ju 52|Ju 52 ''Behelfsbomber'']], and three Italian [[Savoia-Marchetti SM.79]] of the ([[Corpo Truppe Volontarie]]) were assigned for the mission. These were armed with {{convert|250|kg|abbr=on}} medium high-explosive bombs, {{convert|50|kg|abbr=on}} light explosive bombs and {{convert|1|kg|abbr=on}} [[Incendiary device|incendiaries]]&lt;ref&gt;Richthofen supposedly did have [[Junkers Ju 87|Ju 87 A1]] (Stuka) at his disposal as these aircraft from some sources indicating that first pre-serial Ju 87A came to Spain in November 1936, serving in the experimental VJ/88 unit. Regular deliveries began arriving in Spain in December 1937, although this is disputed.&lt;/ref&gt; The [[Ammunition|ordnance]] load for the 24 bombers was {{convert|22|t}} in total. A follow up to the bombing raid was also planned for the next day involving [[Messerschmitt Bf 109]] raids in the area. The order was noted on 26 April by Richthofen as:
+
+&lt;blockquote&gt;Starting at once: A/88 and [[Jagdgruppe 88|J/88]] for free fighter bomber mission on the streets near Marquina-Guernica-Guerriciaz. K/88 (after Returning from Guerriciaz), VB/88 and Italians for the streets and the bridge (including suburb) east of Guernica. There we have to close the traffic, if we finally want a decision against personnel and materiel of the enemy. Vigon agrees to move his troops for blocking all streets south of Guernica. If this succeeds, we will have trapped the enemy around Marquina.&lt;ref&gt;Diary entries and outlining of the action as detailed by Richthofen's records here [http://forum.axishistory.com/viewtopic.php?t=108063].&lt;/ref&gt;&lt;/blockquote&gt;
+
+===First five waves of raid===
+The first wave arrived over Guernica around 16:30. A [[Dornier Do 17#Spanish Civil War|Dornier Do 17]], coming from the south, dropped approximately twelve {{convert|50|kg|abbr=on}} bombs.
+
+The three Italian SM.79s had taken off from [[Soria]] at 15:30 with orders to "bomb the road and bridge to the east of Guernica, in order to block the enemy retreat" during the second wave. Their orders explicitly stated not to bomb the town itself.&lt;ref name="buber.net"&gt;{{cite web| title= Guernica, Demolished |url =http://www.buber.net/Basque/History/guernica-ix.html
+| accessdate =2 December 2008 }}&lt;/ref&gt; During a single 60-second pass over the town, from north to south, the SM.79s dropped thirty-six {{convert|50|kg|abbr=on}} light explosive bombs. [[César Vidal Manzanares|César Vidal]] says that at this point, the damage to the town was "relatively limited... confined to a few buildings", including the church of San Juan and headquarters of the ''[[Izquierda Republicana]]'' ("Republican Left") political party.
+
+The next three waves of the first attack then occurred, ending around 18:00. The third wave consisted of a Heinkel He 111 escorted by five [[Regia Aeronautica]] [[Fiat CR.32]] fighters led by [[Captain (land)|Capitano]] Corrado Ricci. The fourth and fifth waves were carried out by German twin-engined planes. Vidal notes:
+
+&lt;blockquote&gt;If the aerial attacks had stopped at that moment, for a town that until then had maintained its distance from the convulsions of war, it would have been a totally disproportionate and insufferable punishment. However, the biggest operation was yet to come.&lt;ref name="buber.net"/&gt;
+&lt;/blockquote&gt;
+
+===Subsequent raids===
+Earlier, around noon that day, the Junkers Ju 52s of the Condor Legion had carried out a mission around Gerrikaraiz. Following this they landed to re-arm and then took off to complete the raid on Guernica. The attack would run from north to south, coming from the [[Bay of Biscay]] and up the course of the [[Urdaibai|Urdaibai estuary]].
+
+The 1st and 2nd Squadrons of the Condor Legion took off at about 16:30, with the 3rd Squadron taking off from [[Burgos]] a few minutes later. They were escorted from [[Vitoria-Gasteiz|Vitoria-Gazteiz]] by a squadron of Fiat fighters and Messerschmitt Bf 109Bs of [[Günther Lützow]]'s 2. ''[[Organization of the Luftwaffe (1933–1945)#Staffel|Staffel]]'' (2nd Squadron) of [[Jagdgruppe 88]] (J/88), for a total of twenty-nine planes. Lützow himself did not participate in the attack, he was on home leave from 8–29 April 1937.&lt;ref&gt;Braatz 2005, pp. 151, 155.&lt;/ref&gt;
+
+From 18:30 to 18:45, each of the three bomber squadrons attacked in a formation of three Ju 52s abreast—an attack front of about {{convert|150|m|abbr=on}}. &lt;!--what did they hit?--&gt;At the same time, and continuing for around 15 minutes after the bombing wave, the Bf 109Bs and [[Heinkel He 51]] biplanes{{Citation needed|date=March 2007}} strafed the roads leading out of town, adding to civilian casualties.
+
+===Outcome===
+The bombing shattered the city's defenders' will to resist, allowing the rebel Nationalists to overrun it. This indirectly supported Douhet's theory, which predicted this result. The rebels faced little resistance and took complete control of the town by 29 April. The attacks destroyed the majority of Guernica. Three-quarters of the city's buildings were reported completely destroyed, and most others sustained damage. Among infrastructure spared were the arms factories ''Unceta and Company'' and ''Talleres de Guernica'' along with the Assembly House ''Casa de Juntas'' and the [[Gernikako Arbola]]. Since the Luftwaffe was then operating on Wever's theory of bombing as a military action, the mission was considered a failure as a result. However, the rubble and [[Civil disorder|chaos]] that the raid created severely restricted the movement of Republican forces.
+
+Since his appointment on the northern front, the Soviet aviation advisor Arjénoukhine had insistently called for air reinforcements, motivating his demands by high losses inflicted by nationalist aviation over Republican troops as well as civilian population.
+&lt;ref&gt;His OOB for April 1937, the 22nd established only 3 I-15 (with overhauled engines), 2 "letov", 4 Bre XIX, 3 "gourdou", 1 "koolhoven".
+19 Soviet exhausted pilots and ground crews were still operating since previous November.&lt;/ref&gt;
+On 8, 9 May I-15 and 6 R-Zet were sent by air from central Spain through [[Toulouse]], in France. Planes were immediately immobilized by non-intervention committee, and later sent back unarmed to central Spain.
+
+==Casualties==
+The number of civilian fatalities is now set at between 170 and 300 people. Until the 1980s it had been generally accepted that the number of deaths had been over 1,700, but these numbers are now known to have been exaggerated.&lt;ref name="The legacy of Guernica"&gt;[http://news.bbc.co.uk/1/hi/world/europe/6583639.stm "The legacy of Guernica"] article on [[BBC]] website, 27 April 2007&lt;/ref&gt; Historians now agree that the number of deaths was under 300.&lt;ref&gt;J. Salas Larrazabal. Guerra Aerea. Madrid. 1998–2003, 4 volumes&lt;/ref&gt;&lt;ref&gt;J. Salas Larrazabal. Guernica. Madrid. 1987&lt;/ref&gt;&lt;ref&gt;K.A. Maier. Guernica, 26-4-37. Madrid. 1976&lt;/ref&gt;&lt;ref name="ReferenceB"&gt;Stanley G. Payne. Por que la Republica perdió la Guerra?. Madrid.2010&lt;/ref&gt;&lt;ref name="ReferenceC"&gt;Antony Beevor. The Spanish Civil War. London. 1982&lt;/ref&gt;&lt;ref&gt;[[Javier Tusell]]. Historia de Espana en el siglo XX. 2, la crisis de los anos treinta: Republica y Guerra Civil. Madrid 2007&lt;/ref&gt;&lt;ref&gt;Helen Graham. The Spanish Republic at War. Cambridge. 2002&lt;/ref&gt;&lt;ref&gt;Edward Malefakis. La Guerra Civil Española. Madrid. (2006)&lt;/ref&gt;&lt;ref&gt;Hugh Thomas. The Spanish Civil War. 1961, 5th Revised edition, 2011&lt;/ref&gt;&lt;ref&gt;Raymond Carr. Spain, a history. Oxford. 2001&lt;/ref&gt;&lt;ref&gt;[[Santos Juliá]]. Víctimas de la Guerra Civil. Barcelona. 2004&lt;/ref&gt;&lt;ref&gt;Julio Aróstegui. La Guerra Civil española. Dalon. 2004&lt;/ref&gt;&lt;ref&gt;[[Julio Gil Pecharromán]]. Historia de la Segunda República española (1931–1936). Madrid. 2002&lt;/ref&gt;&lt;ref&gt;Paul Preston. The Destruction of Guernica. Harperpress. 2012&lt;/ref&gt;&lt;ref&gt;Angel Vinas.  El fallido intento de exonerar al alto mando franquista. La agónica metodología de un general de división en el Ejército del Aire. in Herbert R. Southworth La destrucción de Guernica. Periodismo, diplomacia, propaganda e historia. Comares. 2013&lt;/ref&gt;
+
+An early study by Gernikazarra Historia Taldea estimated the number of victims to be 126,&lt;ref name="deia.com"/&gt; later revised to 153, and is still considered by the organisation to be provisional.&lt;ref name="euskonews1"/&gt; Those incomplete data roughly correspond to the mortuary records of the town that survived, and do not include the 592 deaths registered in Bilbao's hospital. Raúl Arias Ramos in his book ''La Legión Cóndor en la Guerra Civil'' states that there were 250 dead. The study by Joan Villarroya and J.M. Sole i Sabate in their book ''España en Llamas. La Guerra Civil desde el Aire'' states that there were 300 dead.&lt;ref&gt;"El Bombardeo de Guernica", ''El Mundo'', volume 12 (October 2005)&lt;/ref&gt; These studies, cited by historians such as [[Stanley Payne]] and [[Antony Beevor]] as well as media such as the [[BBC]] and ''[[El Mundo (Spain)|El Mundo]]'', provide the currently recognized death toll in those numbers.&lt;ref name="ReferenceB"/&gt;&lt;ref name="ReferenceC"/&gt;&lt;ref&gt;{{Cite news | url=http://news.bbc.co.uk/1/hi/world/europe/6583639.stm | title=The legacy of Guernica| date=26 April 2007}}&lt;/ref&gt;
+
+After Nationalist forces led by General [[Emilio Mola]]'s forces took the town three days later, the Nationalist side claimed that no effort to establish an accurate number had been made by the opposite side. The Basque government, in the confused aftermath of the raids, reported 1,654 dead and 889 wounded. It roughly agrees with the testimony of British journalist [[George Steer]], correspondent of ''The Times'', which estimated that 800 to 3,000 of 5,000 people perished in Guernica. These figures were adopted over the years by some commentators.&lt;ref&gt;Gérard Brey, [http://www.sbhac.net/Republica/TextosIm/Guernica/Guernica.htm La destrucción de Guernica] {{webarchive |url=https://web.archive.org/web/20060907234228/http://www.sbhac.net/Republica/TextosIm/Guernica/Guernica.htm |date=7 September 2006 }}, ''Tiempo de Historia'' nº 29, April 1977, accessed online 14 September 2006. This appears to be a review of Herbert R. Southworth, ''La destrucción de Guernica'', (Ruedo Ibérico, Paris, 1975).&lt;/ref&gt; These figures are represented in a majority of the literature from that period and up to the 1970s.
+
+The Nationalist junta gave a patently false description of the events (claiming that the destruction had been caused by Republicans burning the town as they fled) and seems to have made no effort to establish an accurate number.&lt;ref&gt;Preston, Paul. ''Franco. A biography.'' Fontana Press. London. 1995. p.245&lt;/ref&gt; At an extreme low, the Francoist newspaper ''[[Arriba (newspaper)|Arriba]]'' claimed, on 30 January 1970, that there had only been twelve deaths.
+
+===Bombs to casualty ratio===
+Issues with the originally released figures were raised following an appraisal of large scale bombing raids during the [[Second World War]]. A comparison of the Guernica figures with the figures of dead resulting from air attacks on major European cities during the Second World War exposed an anomaly. [[James Corum]] uses the figure of forty tons of bombs dropped on Guernica, and calculates that if the figure of 1654 dead is accepted as accurate then the raid caused 41 fatalities per ton of bombs. By way of comparison the [[Bombing of Dresden in World War II|Dresden air raid]] during February 1945 which saw 3,431&amp;nbsp;tons of bombs dropped on the city caused fewer deaths per ton of bombs: 7.2–10.2 fatalities per ton of bombs dropped. Corum, who ascribes the discrepancy between the high death toll reported at Guernica and in other cases such as Rotterdam to propaganda, goes on to say that for Guernica:
+&lt;blockquote&gt;...a realistic estimate on the high side of bombing effectiveness (7–12 fatalities per ton of bombs) would yield a figure of perhaps 300–400 fatalities in Guernica. This is certainly a bloody enough event, but reporting that a small town was bombed with a few hundred killed would not have had the same effect as reporting that a city was bombed with almost 1,700 dead".&lt;ref name="Air 1998"/&gt;&lt;/blockquote&gt;
+
+===Material damages===
+
+The numbers regarding the level of material destruction of the city still vary depending on the author and on what type of damages are being taken into account. [[Salas Larrazábal]] Estimated that the bombs destroyed 14% of the local buildings. Cástor Uriarte (1970) estimated a total of 74% of the buildings were destroyed, mainly due to the fire that could not be extinguished until the next day.&lt;ref&gt;{{Cite web | url=http://mismentirasfavoritasdiego.blogspot.ca/2015/04/guernica-fue-incendiada-por-los-rojos.html |title = Mis Mentiras Favoritas: Guernica fue incendiada por los rojos|year = 2015}}&lt;/ref&gt;
+
+==English-language media reporting==
+{{more citations needed section|date=April 2017}}
+[[File:The tragedy of Guernica (George Steer).jpg|thumb|George Steer's report in ''The Times'']]
+The first English-language media reports of the destruction in Guernica appeared two days later. [[George Steer]], a reporter for ''[[The Times]]'', who was covering the Spanish Civil War from inside the country, authored the first full account of events. Steer's reporting set the tone for much of the subsequent [[reportage]]. Steer pointed out the clear German complicity in the action.&lt;ref&gt;George Steer was a special correspondent for ''[[The Times]]'' and his article first appeared in ''The Times'' 28 April. It was reprinted in ''[[The New York Times]]'' 28 April. Part of his report read: "Guernica was not a military objective.... The object of the bombardment was seemingly the demoralisation of the civil population and the destruction of the cradle of the Basque race."&lt;/ref&gt; The evidence of three small bomb cases stamped with the [[Eagle (heraldry)|German Imperial Eagle]] made clear that the official German position of neutrality in the Civil War and the signing of a Non-Intervention Pact was a [[deception|sham]]. Steer's report was syndicated to ''[[The New York Times]]'' and then worldwide, generating widespread shock, outrage, and fear. There was coverage in other national and international editions also:
+* The ''Times'' ran the story every day for over a week after the attack.
+* The ''[[New York Post]]'' ran a cartoon showing [[Adolf Hitler]] brandishing a bloody sword labelled "air raids" as he towered over heaps of civilian dead littering "the Holy City of Guernica".
+* The US Congressional Record referred to poison gas having been dropped on Guernica. This did not actually occur.&lt;ref&gt;Corum, James S. ''Wolfram von Richthofen: master of the German air war''. University Press of Kansas, 2008, p. 136.&lt;/ref&gt;
+* During debates in the British Parliament Guernica was also inaccurately described as an "open city" which contained no military targets.
+
+[[Noel Monks]], an Australian correspondent in Spain for the London ''[[Daily Express]]'', was the first reporter to arrive on the scene after the bombing.  He received the following cable from his office, "Berlin denies Guernica bombing. Franco says he had no planes up yesterday owing fog. [[Queipo de Llano]] says Reds dynamited Guernica during retreat."&lt;ref&gt;Monks, Noel, ''Eye-Witness, the Journal of a World Correspondent'', Frederick Muller, London, 1955, pp. 79–84&lt;/ref&gt;
+
+Overall, the impression generated was one which fed the widely held public fear of air attack which had been building throughout the 1930s, a fear which accurately anticipated that in the next war the aerial forces of warring nations would be able to wipe whole cities off the map.
+
+Stanley Payne observes that the presence of Steer was the reason for Guernica becoming a major media event; the town of Durango had been bombed a few days before and suffered higher casualties yet received comparatively little attention. Steer was first on the scene and was eager to dramatise the effect of bombing on cities in order to encourage war preparedness. Steer inflated the number of casualties by 1000%.&lt;ref&gt;Payne, Stanley G., and Jesús Palacios. Franco: A personal and political biography. University of Wisconsin Pres, 2014, pp.181-182&lt;/ref&gt;
+
+==Republican media reporting==
+
+After the attack, [[José Antonio Aguirre (politician)|José Antonio Aguirre]] published the following press note:
+
+"German airforces, following orders of the Spanish Fascists, have bombed Guernica, setting the historical villa, that so much veneration has among the Basques, on fire. They (the Spanish Fascists) wanted to hurt us in the most vulnerable spot of our(the Basques) patriotic sentiment, proving once again what Euzkadi(Basque provinces) may expect from those who won't hesitate in destroying the sanctuary that commemorates centuries of our freedom and democracy (...). Before God and before History, which will judge us all, I assure you that the German planes bombed the population of Guernica, with unprecedented viciousness, for three hours, reducing the historical villa to ashes. They haunted women and children with machine gun fire, killing large numbers of them (..)".&lt;ref&gt;Luis Bolín, España. Los años vitales(Madrid: Espasa-Calpe, 1967)(The translation is mine)&lt;/ref&gt;
+The Republican statement counted 1645 deaths and 889 wounded.
+
+This account is not flatly false like the National/Rebel account. The attribution of responsibility is correct, the cause of the bombing is probably wrong but reasonable at the time, and machinegun fire was indeed used to create fires in the village. However, it contains lies and is intentionally misleading in various points. It suggests that the bombing was sustained through three hours, while three hours is the time between the first and last round among the three made on Guernica. The numbers of dead and injured have been now proven to be completely false and impossible for the size of the locality (see other parts of the article for actual numbers). The intentional, individual chase of civilians by German planes has not been disproven (nor proven) but has some problematic points in it. Some prestigious foreign journalists like [[Hemingway]], [[Orwell]] and [[Antoine de Saint-Exupéry|Saint-Exupéry]] reported it, but none of them actually saw it and have other proven inaccuracies in their accounts of the war. No material proofs of it had been found, and the streets of the village are far too narrow for the chase to take place. It is possible that the chase of civilians happened outside of the urban area as the population was fleeing from the bombs, but a generalized chase and murder of the witnesses seems like a pointless waste of resources, or even a counter producing action, if the goal of the German airforces was, as it is now believed, to extend demoralization and fear in the neighbouring villages.&lt;ref&gt;Luis Bolín, España. Los años vitales(Madrid: Espasa-Calpe, 1967)&lt;/ref&gt;
+
+== Media reporting and denial by Franco's military board==
+On 27 April, the day after the bombing, the rebel general [[Gonzalo Queipo de Llano]] broadcast a statement through Union Radio Seville&lt;ref&gt;(The entire statement can be listened in youtube, with Spanish subtitles) https://www.youtube.com/watch?v=9weVo7tCvjc&lt;/ref&gt; accusing the local population and "the reds" of having deliberately burned and dynamited Guernica as part of a scorched earth policy. Among the facts that he provides to prove his version are the "absolute absence of German airforces" in the National/Rebel airforces and the bad weather.
+
+On 29 April, in view of the outrage caused by the bombing in European public opinion, Franco's propaganda service issued an international official statement with the same version of the facts.&lt;ref&gt;Preston, Paul. (2009). ''We saw Spain die. Foreign correspondents in the Spanish Civil War.'' Constable. London. pp. 195–197&lt;/ref&gt; This theory found favor in conservative British journals, including ''The Times'' which even put in doubt the testimony from its own correspondent, George Steer.&lt;ref&gt;{{cite web|title=El bombardeo de Gernika|url=http://www.mecd.gob.es/cultura-mecd/areas-cultura/archivos/mc/archivos/cdmh/destacados/2017/bombardeo-gernika.html|website=Centro Documental de la Memoria Histórica|publisher=Ministerio de Educación, Cultura y Deporte|accessdate=29 April 2017}}&lt;/ref&gt; While Republican forces had been involved in pursuing a [[scorched earth]] strategy in the past, (notably in [[Irun]], which was dynamited), Steer's reporting was supported by the reporting of other journalists who witnessed the same levels of destruction. Furthermore, there were objective proofs available at the time of the falsehood of Queipo Llano's version: The bad weather he mentions only unleashed hours after the attack had been perpetrated, and the weaponry of the city and the bridge to get to it were among the few buildings which had not been destroyed.
+
+The Germans denied any involvement, as well. Von Richthofen claimed that the Germans had a target that was a bridge over the Mundaca River, which was on the edge of town. It was chosen for the fact that it would cut off the fleeing Republican troops. However, even though the Germans had the best airmen and the best planes in Spain, none of their bombs hit the presumed target.&lt;ref name="ReferenceA"/&gt;
+
+Some Nationalist reporters suggested that the town had been bombed from the air, but by Republican airplanes. The bombs were said to have been made in the Basque country and the explosions happened because of dynamite stored in the sewers. Another theory by Nationalists was that there were a "few bomb fragments found" in Guernica, but the damage was mainly caused by Basque incendiaries.&lt;ref&gt;Thomas, Hugh. (1961). "italic"The Spanish Civil War. London: Eyre &amp; Spottiswoode.&lt;/ref&gt; Franco's regime minimized the bombing for decades. In 1970, newspaper ''[[Arriba (newspaper)|Arriba]]'' claimed that there had only been twelve deaths during the bombing raid.&lt;ref&gt;Arriba. 30 January 1970 edition.&lt;/ref&gt;
+
+The scorched earth version was maintained as the official version all through Franco's regime.
+
+The Nationalists were embarrassed by the bombing and refused to admit the truth. Rather than acknowledging it as a routine military operation, they tried to dodge the issue, deny the attack took place and instead blamed the Republicans for setting fire to the town. Thus their efforts at covering up the event ended up causing them more harm than good. Even Hitler was furious and demanded Franco absolve the Condor Legion of any responsibility, though ironically it may have helped him politically, as the attack increased foreign fears about the power of the Luftwaffe, which encouraged appeasement towards Germany. As a consequence of the attack, Franco issued an order to the Condor Legion that strategic bombing could not occur without permission from himself or the commanding general of the air force (tactical bombing was left in the hands of battlefield commanders).&lt;ref&gt;Payne, Stanley G., and Jesús Palacios. Franco: A personal and political biography. University of Wisconsin Pres, 2014, pp.181-183&lt;/ref&gt;
+
+==Views on the attack==
+The attack has entered the [[lexicon]] of war as an example of terror bombing. It is also remembered by the surviving inhabitants and Basque people as such. Due to the lingering divisions from the conflict, the event remains a source of emotion and public recrimination.
+
+===Military intentions===
+A commonly held viewpoint is that the involvement of the Luftwaffe in the Civil War occurred because of shared [[anti-communism]] and to form a proving ground for troops employed later during [[World War II]]. This view is supported by the comments of then [[Reichsmarschall]] [[Hermann Göring]] at the [[Nuremberg Trials]]:
+&lt;blockquote&gt;I urged him (Adolf Hitler) to give support [to Franco] under all circumstances, firstly, in order to prevent the further spread of communism in that theater and, secondly, to test my young Luftwaffe at this opportunity in this or that technical respect.&lt;ref&gt;See Testimony of Göring, Trial of the Major War Criminals, International Military Tribunal,
+Nuremberg, 14 November, – 1 October 1946, Volume IX. [http://www.yale.edu/lawweb/avalon/imt/proc/03-14-46.htm#Goering2 Available via Avalon Project] {{webarchive|url=https://web.archive.org/web/20061231200445/http://www.yale.edu/lawweb/avalon/imt/proc/03-14-46.htm |date=31 December 2006 }}. NOTE: Frequently misquoted along the lines of: "The Spanish Civil War gave me an opportunity to put my young air force to the test, and a means for my men to gain experience." or other permutations.&lt;/ref&gt;&lt;/blockquote&gt;
+
+One historian claimed the Germans bombed Guernica in a deliberate attempt to destroy the entire town.&lt;ref name="ReferenceA"&gt;Zentner, Joe. (Jun97). ''Military History''. "The destruction of a Basque town served as a model for Terror Bombing and Inspired an Anti-War Masterpiece". Vol. 14, Issue 2&lt;/ref&gt;
+
+According to James Corum, while the popular view of the attack was a terror bombing aimed at the town, in reality the intended target was the bridge and roads. The issue was that pinpoint bombing was not possible at the time of the attack. Most of the bombers used by the Luftwaffe in Spain did not possess adequate targeting gear and thus the Condor Legion's preferred solution was to carpet the area with bombs to ensure the targets would be hit. Corum also argues against the view that there was a psychological element to the attack, stating that Richtofen seemed unaware of the significance of Guernica to the Basques and his diary indicates he only cared that the attack had been able to shut down logistics in the town. The Nationalists also didn't destroy the Basque parliament building or the Holy Oak, both of which had great cultural significance to the Basque and would have been excellent targets if the raid was meant to be a psychological warfare attack. Corum also argues that the attack on the town did not differ in style from the types of attacks the Allies conducted during WW2 and the Condor Legion regarded the attack as a routine tactical operation.&lt;ref&gt;John Corum, "The Persistent Myth of Guernica", ''Military History Quarterly'' 22, no. 4 (2010): 16&lt;/ref&gt;
+====Carpet bombing====
+Alongside the potential for gains in combat experience it is also thought that various strategic initiatives were first tried as part of Luftwaffe involvement in the conflict. Theories on [[strategic bombing]] were first developed by the Luftwaffe with the first exhibition of "[[carpet bombing]]" in the September 1937 [[Spanish Civil War|Asturias campaign]]. Comparisons between the raid on Guernica and the fate of other cities during the conflict are also telling. As the fighting progressed into March 1938 Italian pilots flying as Aviazione Legionaria under [[Field Marshal]] [[Hugo Sperrle]] were involved in thirteen raids against [[Barcelona]] involving fire and gas{{Citation needed|date=January 2015}} bombs.
+
+The use of "carpet bombing" was becoming standard practice by Condor Legion personnel. To illustrate this point, military historian [[James S. Corum]] cites an excerpt from a 1938 Condor Legion report on this use of this tactic:
+&lt;blockquote&gt;We have had notable results in hitting the targets near the front, especially in bombing villages which hold enemy reserves and headquarters. We have had great success because these targets are easy to find and can be thoroughly destroyed by carpet bombing.&lt;ref name="Air 1998"/&gt;&lt;/blockquote&gt;
+
+On the Spanish side, threats made prior to the raid by General Emilio Mola to "end the war in the North of Spain quickly" and threats apparently made against Republicans in Bilbao afterward implied a blunting of strategy and that air raids were effective and set to become an increasingly favorite instrument in the Nationalist war effort.
+
+===Other theories===
+Vidal outlines some other commonly voiced theories on the raid:&lt;ref&gt;See Buber.net [http://www.buber.net/Basque/History/guernica-ix.html available here].&lt;/ref&gt;
+* The lack of reconnaissance missions before the bombing suggests to him that the Legion intended the destruction of the town rather than a specific target. Reconnaissance missions had been ordered as a prerequisite before raids around built-up areas on 6 January 1937. The intent of the order was to minimize [[Collateral damage|civilian deaths]] and it had been issued by Mola, then Supreme Commander of the [[Fuerza Aérea Nacional (Arma de Aviación)|Air Force]] [[Salamanca]].
+* Since the raid appears to have ignored Mola's earlier plans for reconnaissance prior to the raid, Vidal concludes that Richthofen must have received direct orders from Mola or Franco.
+* According to Nicholas Rankin (''Telegram from Guernica'', Faber and Faber, London 2003, page 121):
+::It was von Richthofen himself who selected the mix of blast, splinter and fire bombs for this particular operation, agreed at a military conference in Burgos the night before. Von Richthofen wrote in his diary: "As it was a complete success of our 250&amp;nbsp;kg (explosive) and ECB1 (incendiary) bombs".
+* In Vidal's view, such a mission would have typically used 10-kilogram bombs, and no incendiaries. Vidal also argues that the 22-ton load-out used in the raid represented a relatively large quantity for an attack on the stated primary objective. By way of comparison, Vidal indicates sources which give total tonnage of bombs dropped on the front during the first day of the offensive as sixty-six.&lt;ref&gt;Vidal goes on to claim that the official German account of this period in the war, "The War in the North", states that only 7.956&amp;nbsp;tons of bombs were dropped on Guernica.&lt;/ref&gt;
+* Vidal argues that the Italians had been trying to obtain a separate peace agreement with the Basque nationalists and were not inclined to jeopardize those efforts by deliberately inflicting civilian casualties.&lt;ref&gt;Vidal in his book ''La Destrucción de Guernica'' (The Destruction of Guernica). See also [http://www.buber.net/Basque/History/guernica-ix.html buber.net] for details.&lt;/ref&gt;
+
+==Legacy==
+The bombing gained immediate international media attention because of the intentional targeting of civilians by aerial bombers,&lt;ref&gt;{{cite book|last1=DeCoste|first1=F. C.|last2=Schwartz|first2=Bernard|title=The Holocaust's Ghost: Writings on Art, Politics, Law, and Education|chapter-url=https://books.google.com/books?id=lLnBSq7YP0gC&amp;pg=PA98|year=2000|publisher=University of Alberta|isbn=9780888643377|page=98|chapter=From Guernica to Hiroshima to Bagdad}}&lt;/ref&gt; a strategy widely recognized as "deviant", causing "international horror".&lt;ref&gt;{{cite book|last1=Chambliss|first1=William J.|last2=Michalowski|first2=Raymond|last3=Kramer|first3=Ronald|title=State Crime in the Global Age|chapter-url=https://books.google.com/books?id=vvZDxj2bmGgC&amp;pg=PA119|year=2013|publisher=Routledge|isbn=9781134025558|page=119|chapter=From Guernica to Hiroshima to Bagdad}}&lt;/ref&gt;
+
+Steer's reports on the horrors of Guernica were greatly appreciated by the Basque people. Steer had made their plight known. The Basque authorities later honored his memory by naming a street in Bilbao ''George Steer Kalea'', and commissioning a bronze bust with the dedication: "George Steer, journalist, who told the world the story about Guernica."&lt;ref&gt;The dedication took place on April 2006, the 69th Anniversary of the bombing. See [http://www.timesonline.co.uk/article/0,,13509-2151127,00.html The Tragedy of Guernica], ''[[The Times]]'', 28 April 1937.&lt;/ref&gt;
+
+Despite Francoist efforts to play down the reports, they proliferated and led to widespread international outrage at the time.
+
+===Picasso's painting===
+[[File:Mural del Gernika.jpg|thumb|upright=1.4|Mural in Guernica based on the Picasso painting. Basque nationalists advocate that the painting be brought to the town, as can be seen in the slogan underneath.&lt;ref name="ElMundoIbarretxe"&gt;''[http://www.elmundo.es/elmundo/2007/06/29/cultura/1183129952.html Ibarretxe reclama 'para siempre' el 'Guernica']'', ''[[El Mundo (Spain)|El Mundo]]'', 29 June 2007.&lt;/ref&gt;]]
+{{Main|Guernica (painting)}}
+Guernica quickly became a world-renowned symbol of civilian suffering resulting from conflict and inspired [[Pablo Picasso]] to adapt one of his existing commissions into ''[[Guernica (Picasso)|Guernica]]''.&lt;ref&gt;{{cite web| title= Guernica: Testimony of War|url =https://www.pbs.org/treasuresoftheworld/a_nav/guernica_nav/main_guerfrm.html
+| accessdate =2 December 2008 }}&lt;/ref&gt; The Spanish Republican Government had commissioned a work from him for the Spanish pavilion at the Paris International Exposition. Though he accepted the invitation to display a piece, he remained uninspired until he heard of the bombing of Guernica. Before the bombing of Guernica took place, Picasso never cared much for anything to do with politics. Once Picasso heard the news he changed his commissioned work for Spain into a reflection on the massacre.&lt;ref name="Ray, Beverly 2006"&gt;Ray, Beverly. (July/August 2006). Analyzing Political Art to Get at Historical Fact: Guernica and the Spanish Civil War. The Social Studies. Heldref Publications.&lt;/ref&gt;
+
+Picasso began the painting on 11 May 1937, working on a piece of unbleached muslin (349&amp;nbsp;cm x 776&amp;nbsp;cm). Since the work was so large, Picasso had to use a ladder and a long-handled brush to reach the furthest corners of the canvas. He spent over two months creating ''Guernica''. He used only black and white paint to invoke the truth-telling authority of documentary photography. "The protest is found in what has happened to the bodies, the hands, the soles of the feet, the horse's tongue, the mother's breasts, the eyes in the head—the imaginative equivalent of what happened to them in the flesh. We are made to feel their pain with our own eyes."&lt;ref name="Ray, Beverly 2006"/&gt;
+
+The display of Picasso's work at (Republican) Spain's Pavilion during the [[Exposition Internationale des Arts et Techniques dans la Vie Moderne|1937 World's Fair]] reflected the effect on public consciousness. The painting, later adopted as a symbol of [[Basque nationalism]] during the [[Spanish transition to democracy]], was displayed near ''Mercury Fountain,'' an overtly political work by [[Alexander Calder]] that incorporated mercury from the mines of [[Almadén]]. Today it resides in [[Museo Nacional Centro de Arte Reina Sofía]] in Madrid. A [[tapestry]] copy of Picasso's ''Guernica'' is displayed on the wall of the United Nations building in [[New York City]], at the entrance to the [[United Nations Security Council|Security Council]] room. It was placed there as a reminder of the horrors of war.
+
+===René Iché===
+{{Main|Guernica (sculpture)}}
+Immediately after the bombing French sculpture [[René Iché]] created ''[[Guernica (sculpture)|Guernica]]'', one of his most violent and personal sculptures. He was shocked and horrified by the enormous civilian massacre and worked endlessly on the plaster statue. Iché used his daughter to model a child's body. He refused to display his work because of the violence. Just after his death an exhibition was held to commemorate the artist. This piece was displayed for a short time, then returned to his family.&lt;ref&gt;Artnet Worldwide Corporation. (2012). Artnet: The Art World Online. http://www.artnet.com/artwork/426192928/425934316/rene-iche-guernica.html&lt;/ref&gt;
+
+===German apology===
+Recrimination for the activities of the Condor Legion and shame at the involvement of German citizens in the bombing of Guernica surfaced following German reunification in the 1990s. In 1997, the 60th anniversary of Operation Rügen, then German President [[Roman Herzog]] wrote to survivors apologizing on behalf of the German people and state for Germany's role in the Civil War in general. Herzog said he wished to extend "a hand of friendship and reconciliation" on behalf of all German citizens.&lt;ref&gt;See [http://archives.cnn.com/2000/STYLE/arts/04/25/guernica.anniversary.ap/index.html ''Exhibit recalls German destruction of Spanish town of Guernica''] {{webarchive |url=https://web.archive.org/web/20070210141106/http://archives.cnn.com/2000/STYLE/arts/04/25/guernica.anniversary.ap/index.html |date=10 February 2007 }} CNN.com 25 April 2000.&lt;/ref&gt; This sentiment was later ratified by members of the German Parliament who went on to legislate in 1998 for the removal of all former Legion members' names from associated German military bases.
+
+===70th anniversary===
+On the 70th anniversary of the bombing, the president of the [[Basque Parliament]] met with politicians, [[Nobel Peace Prize]] winner [[Adolfo Pérez Esquivel]], and deputies from [[Hiroshima]], [[Volgograd]], [[Pforzheim]], [[Dresden]], [[Warsaw]], and [[Oświęcim|Oswiecim]], as well as several survivors from Guernica itself. During the meeting they showed images and film clips of the bombing, took time to remember the 250 dead, and read the Guernica Manifesto for Peace, pleading that Guernica become a "World Capital for Peace".&lt;ref name="The legacy of Guernica"/&gt;&lt;ref&gt;[http://www.elmundo.es/elmundo/2007/04/26/espana/1177559395.html "Guernica recuerda el 70º aniversario de los bombardeos con un espíritu de paz"] article in Spanish from ''El Mundo,'' 27 April 2007&lt;/ref&gt;
+
+===2016 film===
+The 2016 film [[Guernica (2016 film)|''Guernica'']] leads up to and culminates in the bombing of Guernica, set against the background of personalities involved in press coverage of the war.&lt;ref&gt;{{Cite web | url=https://www.imdb.com/title/tt2556114/?ref_=nv_sr_1 |title = Gernika}}&lt;/ref&gt;
+
+===Comparison to other related bombings in the Spanish Civil War===
+
+====Bombings of Jaén and Córdoba====
+On 1 April 1937, at 17:20 PM, the Spanish city of Jaén, one of the few areas in Andalucia under Republican control at that point of the Civil War, [[Bombing of Jaén|was bombed]] by 6 German bombers. The bombers made a single raid over the city, in which an estimated 150 people were killed. The order for the Jaén bombing was written and signed by General [[Gonzalo Queipo de Llano]], and is preserved in the Spanish National Archives.&lt;ref&gt;Order number 295 of the Jefatura del Aire, Estado Mayor, 3ª Sección. Sig. A1983.&lt;/ref&gt;&lt;ref&gt;Sánchez Tostado, Luis Miguel: La Guerra Civil en Jaén (Historia de un horror inolvidable). L.M. Sánchez. 200&lt;/ref&gt;
+
+On 1 April 1937, at noon, the Andalucian city of [[Córdoba, Spain|Córdoba]], under rebel control at the time, had been heavily bombarded by seven bombers under the command of the Republican Government. The civil population was warned about the bombing. The main target of the attack was the General Military Hospital in the city. It is estimated that 40 people were killed by the attack, about half of them in the hospital.&lt;ref&gt;Hidalgo, Patricio: La Guerra Civil en Córdoba. Los bombardeos aéreos sobre la capital (1936–1939). Almuzara. 2013.&lt;/ref&gt; The same day at 20:00, the Republican government signed an order to execute "as many National Prisoners as people died in the Jaén bombing".{{fact|date=August 2019}} The order was carried through.
+
+====Bombing of Durango====
+The [[bombing of Durango]] is considered the clearest precedent for Guernica. It was perpetrated on 31 March 1937, by the Italian Air Forces in a three-raid pattern, almost identical to that carried out in Guernica. It killed an estimated 250 people and destroyed most of the city.
+
+====Bombings of Madrid====
+[[Alfredo Kindelán]] considers that both Guernica and Durango were "practice drills" in the development of more effective bombing strategies to use in [[bombings of Madrid]]. The city suffered a similar attack prior to the bombing of Guernica, and further attacks afterwards. Madrid presented a fierce resistance against the National troops that surpassed all of Franco's expectations and forced him to completely modify his attack strategy. A series of air bombings to demoralize the population were ordered both before and after Guernica.
+It has also been suggested that the war chronicle Picasso read to inspire himself to paint ''Guernica'' was actually a chronicle written by [[Louis Delaprée]] about the bombing of Madrid on December 1936.{{fact|date=August 2019}}
+
+===Comparison to subsequent historical events===
+
+====Bombing of Dresden====
+On 13 February 2003, during the commemoration of the 58th anniversary of the [[Bombing of Dresden]], inhabitants of [[Dresden]], Germany, including survivors of the firestorm of 1945, joined together with witnesses of the bombing of Guernica to issue an appeal to the people of the world:&lt;ref&gt;[http://www.internationalnetworkforpeace.org/spip.php?article210 "Survivors of the Bombing of Guernica and Dresden Appeal against a War in Iraq"] {{webarchive |url=https://web.archive.org/web/20090625145350/http://www.internationalnetworkforpeace.org/spip.php?article210 |date=25 June 2009 }}, ''International Network for Peace'', 8 February 2003.&lt;/ref&gt;
+
+&lt;blockquote&gt;&lt;poem&gt;
+As our television sets show bombers preparing for war against Iraq, we survivors of Guernica and Dresden recall our own helplessness and horror when we were flung into the inferno of bombing—we saw people killed. Suffocated. Crushed. Incinerated. Mothers trying to protect their children with only their bodies. Old people with no strength left to flee from the flames. These pictures are still alive in our memory, and our accounts capture indelibly what we went through.
+
+For decades we—and survivors from many other nations—have been scarred by the horror, loss and injuries we experienced in the wars of the 20th century. Today we see that the beginnings of the 21st century are also marked by suffering and destruction. On behalf of all the victims of war throughout the world we express our sympathy and solidarity with all those affected by the terror of 11 September in the US and the war in Afghanistan.
+
+But is that very suffering now also to be inflicted upon the people of Iraq? Must thousands more die in a rain of bombs, must cities and villages be destroyed and cultural treasures obliterated?&lt;ref&gt;http://www.dresden-1945.de/ Dresden 1945&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.dresden-1945.de/download/03_02_08_Pressemitteilung.pdf |archive-url=https://web.archive.org/web/20030319050909/http://www.dresden-1945.de/download/03_02_08_Pressemitteilung.pdf |url-status=dead |archive-date=19 March 2003 |title=Press Release : Survivors of the Bombing of Guernica and Dresden |publisher=Dresden-1945.de |accessdate=21 September 2013 }}&lt;/ref&gt;&lt;/poem&gt;&lt;/blockquote&gt;
+
+====Bombing of Hiroshima====
+On 26 April 2007, Dr. Tadatoshi Akiba, Mayor of Hiroshima and President of Mayors for Peace compared the experience of Guernica to Hiroshima:&lt;ref&gt;[http://www.mayorsforpeace.org/english/speech/Gernika.html Dr. Tadatoshi Akiba, "Message from the Mayor of Hiroshima, 70th Anniversary of the Bombing of Gernika"] {{webarchive |url=https://web.archive.org/web/20080723184013/http://www.mayorsforpeace.org/english/speech/Gernika.html |date=23 July 2008 }}, Mayors for Peace, 26 April 2007. ('''Dead Link''')&lt;/ref&gt;
+&lt;blockquote&gt;
+Human beings have often sought to give concrete form to our powerful collective longing for peace. After World War I, that longing led to the League of Nations and numerous rules and taboos designed to govern warfare itself. Of these, the most important was the proscription against attacking and killing civilian non-combatants even in times of war. However, the second half of the twentieth century has seen most of those taboos broken. Guernica was the point of departure, and Hiroshima is the ultimate symbol. We must find ways to communicate to future generations the history of horror that began with Guernica....&lt;br&gt;
+In this sense, the leadership of those here in Guernica who seek peace and have worked hard to bring about this memorial ceremony is profoundly meaningful. The solidarity we feel today derives from our shared experience of the horror of war, and this solidarity can truly lead us toward a world beyond war.
+&lt;/blockquote&gt;
+
+==See also==
+* [[Bombing of Wieluń]]
+* [[Battle of Aleppo (2012–2016)]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{Cite book
+  |last=Braatz
+  |first=Kurt
+  |year=2005
+  |title=Gott oder ein Flugzeug – Leben und Sterben des Jagdfliegers Günther Lützow
+  |trans-title=God or an Airplane – Life and Death of Fighter Pilot Günther Lützow
+  |language=German
+  |location=Moosburg, Germany
+  |publisher=NeunundzwanzigSechs Verlag
+  |isbn=978-3-9807935-6-8
+}}
+* [[Corum, James S.]] – ''Wolfram Von Richthofen: Master of the German Air War'' ([[University Press of Kansas]], 2008)
+* Corum, James. ''The Luftwaffe: Creating the Operational Air War, 1918–1940''. Kansas University Press. 1997. {{ISBN|978-0-7006-0836-2}}
+* Coverdale, John F. – ''Italian Intervention in the Spanish Civil War.'' [[Princeton University Press]], 1975
+* Maier, Klaus A. – ''Guernica 26 April 1937: Die Deutsche Intervention in Spanien und der "Fall Guernica."'' Freiburg im Breisgau: Rombach, 1975
+* Patterson, Ian – ''Guernica and Total War'' (London: Profile; USA, [[Harvard University Press]], 2007. {{ISBN|978-1-86197-764-9}})
+* [[Moa, Pío]] – ''Los Mitos de la Guerra Civil'', La Esfera de los Libros, 2003.
+* Ramírez, Juan Antonio – ''Guernica: la historia y el mito'', Electa, Madrid, 1999
+* Arias Ramos, Raúl; ''El Apoyo Militar Alemán a Franco:La Legión Cóndor En La Guerra Civil'', La Esfera de los Libros, 2003
+* [[Rankin, Nicholas]] – ''Telegram From Guernica: The Extraordinary Life of [[George Steer]], War Correspondent'' ([[Faber &amp; Faber]], London, {{ISBN|0-571-20563-1}})
+* [[Herbert Southworth|Southworth, Herbert Rutledge]] – ''Guernica! Guernica!, a study of journalism, diplomacy, propaganda, and history'', Berkley, 1977
+* [[Gordon Thomas (author)|Gordon Thomas]] and [[Max Morgan Witts]], ''Guernica: The Crucible of World War II'', [[Stein and Day]], 1975, {{ISBN|0-8128-1839-3}}.
+* [[César Vidal Manzanares]], [http://www.buber.net/Basque/History/guernica-ix.html Chapter 9 of ''La Destrucción de Guernica''], translated into English by Peter Miller. A detailed account of the attack and an account of its likely motivations. The sections of the article on the timing of the attacks and the particular planes and armaments used draw heavily on this source.
+* Boling, Dave. ''Guernica: A Novel'' (Bloomsbury, US, 2008 {{ISBN|978-0-330-46066-8}})
+
+==External links==
+* {{cite web|url=http://www.timesonline.co.uk/tol/news/world/europe/article709301.ece|title=Login|publisher=timesonline.co.uk|accessdate=11 February 2014}}
+* {{cite web|url=http://www.eitb.com/multimedia/infografias/gernika2/index_es.html|title=El bombardeo de Gernika|publisher=eitb.com|accessdate=11 February 2014}}
+
+{{subject bar
+| portal1=Military of Germany
+| portal2=Spain
+| commons=y
+| commons-search=Category:Bombing of Guernica
+| q=y
+| q-search=Bombing of Guernica
+}}
+
+{{DEFAULTSORT:Gernica Bombing}}
+[[Category:Bombing of Guernica| ]]
+[[Category:1937 in Spain]]
+[[Category:Basque history]]
+[[Category:Battles involving Italy]]
+[[Category:Battles of the Spanish Civil War]]
+[[Category:Francoist Spain]]
+[[Category:Strategic bombing conducted by Germany]]
+[[Category:War crimes of the Spanish Civil War]]
+[[Category:Spanish Civil War massacres]]
+[[Category:Articles in translation]]
+[[Category:Conflicts in 1937]]
+[[Category:Airstrikes during the Spanish Civil War]]
+[[Category:April 1937 events]]</text>
+      <sha1>83dnxlc3i6d41p4ihdyvd8zfp1uvb62</sha1>
+    </revision>
+  </page>
+</mediawiki>

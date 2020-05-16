@@ -1,0 +1,139 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lift (data mining)</title>
+    <ns>0</ns>
+    <id>9582652</id>
+    <revision>
+      <id>912855417</id>
+      <parentid>878546186</parentid>
+      <timestamp>2019-08-28T09:13:24Z</timestamp>
+      <contributor>
+        <username>Priyadarshianu</username>
+        <id>17049375</id>
+      </contributor>
+      <comment>removed a sentence comparing lift and precision. The comparison is unnecessary and could create confusion for someone new to the topic. As mentioned in the cited Cornell course material, lift and precision are different metrics &lt;ref&gt;https://www.cs.cornell.edu/courses/cs578/2003fa/performance_measures.pdf&lt;/ref&gt;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4950" xml:space="preserve">{{Other uses|Lift (disambiguation){{!}}Lift}} 
+
+In [[data mining]] and [[association rule learning]], '''lift''' is a measure of the performance of a targeting [[model (abstract)|model]] (association rule) at predicting or classifying cases as having an enhanced response (with respect to the population as a whole), measured against a random choice targeting model. A targeting model is doing a good job if the response within the target is much better than the average for the population as a whole. Lift is simply the ratio of these values: target response divided by average response.
+
+For example, suppose a population has an average response rate of 5%, but a certain model (or rule) has identified a segment with a response rate of 20%. Then that segment would have a lift of 4.0 (20%/5%).
+
+Typically, the modeller seeks to divide the population into [[quantile]]s, and rank the quantiles by lift. Organizations can then consider each quantile, and by weighing the predicted response rate (and associated financial benefit) against the cost, they can decide whether to market to that quantile or not.
+
+The lift curve can also be considered a variation on the [[receiver operating characteristic]] (ROC) curve, and is also known in econometrics as the [[Lorenz curve|Lorenz]] or power curve.&lt;ref&gt;Tufféry, Stéphane (2011); ''Data Mining and Statistics for Decision Making'', Chichester, GB: John Wiley &amp; Sons, translated from the French ''Data Mining et statistique décisionnelle'' (Éditions Technip, 2008)&lt;/ref&gt;
+
+&lt;math&gt;  lift = \frac{P(A\cap B)}{P(A)*P(B)}&lt;/math&gt;
+
+== Example ==
+
+Assume the data set being mined is:
+
+{| class="wikitable"
+! Antecedent !! Consequent
+|-
+| A || 0
+|-
+| A || 0
+|-
+| A || 1
+|-
+| A || 0
+|-
+| B || 1
+|-
+| B || 0
+|-
+| B || 1
+|}
+
+where the antecedent is the input variable that we can control, and the consequent is the variable we are trying to predict. Real mining problems would typically have more complex antecedents, but usually focus on single-value consequents.
+
+Most mining algorithms would determine the following rules (targeting models):
+
+* Rule 1: A implies 0
+* Rule 2: B implies 1
+
+because these are simply the most common patterns found in the data. A simple review of the above table should make these rules obvious.
+
+The [[Association_rule_learning#Useful_Concepts|''support'']] for Rule 1 is 3/7 because that is the number of items in the dataset in which the antecedent is A and the consequent 0. The support for Rule 2 is 2/7 because two of the seven records meet the antecedent of B and the consequent of 1. The supports can be written as:
+
+: &lt;math&gt; \operatorname{supp}(A \Rightarrow 0) = P(A \land 0) = P(A)P(0\mid A) = P(0)P(A\mid 0)&lt;/math&gt;
+: &lt;math&gt; \operatorname{supp}(B \Rightarrow 1) = P(B \land 1) = P(B)P(1\mid B) = P(1)P(B\mid 1)&lt;/math&gt;
+
+The ''confidence'' for Rule 1 is 3/4 because three of the four records that meet the antecedent of A meet the consequent of 0. The confidence for Rule 2 is 2/3 because two of the three records that meet the antecedent of B meet the consequent of 1. The confidences can be written as:
+
+: &lt;math&gt; \operatorname{conf}(A \Rightarrow 0) = P(0\mid A)&lt;/math&gt;
+: &lt;math&gt; \operatorname{conf}(B \Rightarrow 1) = P(1\mid B)&lt;/math&gt;
+
+Lift can be found by dividing the confidence by the unconditional probability of the consequent, or by dividing the support by the probability of the antecedent times the probability of the consequent, so:
+
+* The lift for Rule 1 is (3/4)/(4/7) = (3*7)/(4 * 4) = 21/16 ≈ 1.31
+* The lift for Rule 2 is (2/3)/(3/7) = (2*7)/(3 * 3) = 14/9 ≈ 1.56
+
+: &lt;math&gt; \operatorname{lift}(A \Rightarrow 0) = \frac{P(0\mid A)}{P(0)} = \frac{P(A \land 0)}{P(A)P(0)}&lt;/math&gt;
+: &lt;math&gt; \operatorname{lift}(B \Rightarrow 1) = \frac{P(1\mid B)}{P(1)} = \frac{P(B \land 1)}{P(B)P(1)}&lt;/math&gt;
+
+If some rule had a lift of 1, it would imply that the probability of occurrence of the antecedent and that of the consequent are independent of each other. When two events are independent of each other, no rule can be drawn involving those two events.
+
+If the lift is &gt; 1, like it is here for Rules 1 and 2, that lets us know the degree to which those two occurrences are dependent on one another, and makes those rules potentially useful for predicting the consequent in future data sets.
+
+Observe that even though Rule 1 has higher confidence, it has lower lift. Intuitively, it would seem that Rule 1 is more valuable because of its higher confidence—it seems more accurate (better supported). But accuracy of the rule independent of the data set can be misleading. The value of lift is that it considers both the confidence of the rule and the overall data set.
+
+== References ==
+&lt;references /&gt;
+* {{cite news |last=Coppock |first=David S. |url=http://www.information-management.com/news/5329-1.html |title=Why Lift? |date=2002-06-21 |accessdate=2015-07-05 }}
+
+== See also ==
+* [[Correlation and dependence]]
+* [[Uplift modelling]]
+
+[[Category:Data mining]]</text>
+      <sha1>8gyptiak4lysdde0pl9rkzpcqaozzhm</sha1>
+    </revision>
+  </page>
+</mediawiki>

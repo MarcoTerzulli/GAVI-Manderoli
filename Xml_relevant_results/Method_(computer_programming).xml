@@ -1,0 +1,247 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Method (computer programming)</title>
+    <ns>0</ns>
+    <id>232817</id>
+    <revision>
+      <id>950141433</id>
+      <parentid>945325733</parentid>
+      <timestamp>2020-04-10T12:31:55Z</timestamp>
+      <contributor>
+        <username>The Eloquent Peasant</username>
+        <id>18054835</id>
+      </contributor>
+      <comment>Importing Wikidata [[Wikipedia:Short description|short description]]: "Computer function or subroutine that is tied to a particular instance or class" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="15292" xml:space="preserve">{{short description|Computer function or subroutine that is tied to a particular instance or class}}
+A '''method''' in [[object-oriented programming]] (OOP) is a [[Procedure (computer science)|procedure]] associated with a [[Message passing|message]] and an [[Object (computer science)|object]]. An object consists of data and behavior. The data and behavior comprise an interface, which specifies how the object may be utilized by any of various consumers&lt;ref name="consumerdef001a"&gt;Consumers of an object may consist of various kinds of elements, such as other programs, remote computer systems, or computer programmers who wish to utilize the object as part of their own programs.&lt;/ref&gt; of the object.
+
+Data is represented as [[Property (programming)|properties]] of the object and behaviors are represented as methods of the object. For example, a &lt;code&gt;Window&lt;/code&gt; object could have methods such as &lt;code&gt;open&lt;/code&gt; and &lt;code&gt;close&lt;/code&gt;, while its state (whether it is opened or closed at any given point in time) would be a property.
+
+In [[class-based programming]], methods are defined in a [[class (computer science)|class]], and objects are instances of a given class. One of the most important capabilities that a method provides is method overriding. The same name (e.g., &lt;code&gt;area&lt;/code&gt;) can be used for multiple different kinds of classes. This allows the sending objects to invoke behaviors and to delegate the implementation of those behaviors to the receiving object. A method in Java programming sets the behavior of a class object. For example, an object can send an &lt;code&gt;area&lt;/code&gt; message to another object and the appropriate formula is invoked whether the receiving object is a &lt;code&gt;rectangle&lt;/code&gt;, &lt;code&gt;circle&lt;/code&gt;, &lt;code&gt;triangle&lt;/code&gt;, etc.
+
+Methods also provide the interface that other classes use to access and modify the data [[Property (programming)|properties]] of an object. This is known as encapsulation. Encapsulation and overriding are the two primary distinguishing features between methods and procedure calls.&lt;ref&gt;{{cite web|title=What is an Object?|url=http://docs.oracle.com/javase/tutorial/java/concepts/object.html|work=oracle.com|publisher=Oracle Corporation|accessdate=13 December 2013}}&lt;/ref&gt;
+
+==Overriding and overloading==
+[[Method overriding]] and overloading are two of the most significant ways that a method differs from a conventional procedure or function call. Overriding refers to a subclass redefining the implementation of a method of its superclass. For example, &lt;code&gt;findArea&lt;/code&gt; may be a method defined on a shape class. The various subclasses: &lt;code&gt;rectangle&lt;/code&gt;, &lt;code&gt;circle&lt;/code&gt;, &lt;code&gt;triangle&lt;/code&gt;, etc. would each define the appropriate formula to calculate their area. The idea is to look at objects as "black boxes" so that changes to the internals of the object can be made with minimal impact on the other objects that use it. This is known as encapsulation and is meant to make code easier to maintain and re-use.
+
+Method overloading, on the other hand, refers to differentiating the code used to handle a message based on the parameters of the method. If one views the receiving object as the first parameter in any method then overriding is just a special case of overloading where the selection is based only on the first argument.&lt;ref&gt;[http://www.codeproject.com/Articles/16407/METHOD-Overload-Vs-Overriding http://www.codeproject.com/Articles/16407/METHOD-Overload-Vs-Overriding]&lt;/ref&gt; The following simple [[Java language|Java]] example illustrates the difference:&lt;ref&gt;{{cite web
+| accessdate = 2011-08-12
+| author     = John Suzuki
+| date       = 2000-02-18
+| location   = http://www.jguru.com/
+| publisher  = j Guru
+| title      = What is an overloaded method?
+| quote      = Overloaded methods are multiple methods in the same class that shares the same name but have different parameter lists. Overloaded methods cannot have the same parameter lists with different return types.
+| url        = http://www.jguru.com/faq/view.jsp?EID=15565}}
+&lt;/ref&gt;
+
+&lt;syntaxhighlight lang="java"&gt;
+class Class1 {
+	int f(int x) {
+		return x + 3;
+	}
+}
+
+class Class2 extends Class1 {
+	@Override
+	int f(int x) { // overriding
+		return x * x;
+	}
+	int f(int x, int y) { // overloading
+		return x * y;
+	}
+}
+&lt;/syntaxhighlight&gt;
+
+==Accessor, mutator and manager methods==
+Accessor methods are used to read data values of an object. Mutator methods are used to modify the data of an object. Manager methods are used to initialize and destroy objects of a class, e.g. constructors and destructors.
+
+These methods provide an [[abstraction layer]] that facilitates [[Encapsulation (object-oriented programming)|encapsulation]] and [[Modularity (programming)|modularity]]. For example, if a bank-account class provides a &lt;code&gt;getBalance()&lt;/code&gt; accessor method to retrieve the current [[Balance (accounting)|balance]] (rather than directly accessing the balance data fields), then later [[revision control|revisions]] of the same code can implement a more complex mechanism for balance retrieval (e.g., a [[database]] fetch), without the dependent code needing to be changed. The concepts of encapsulation and modularity are not unique to object-oriented programming. Indeed, in many ways the object-oriented approach is simply the logical extension of previous paradigms such as [[abstract data types]] and [[structured programming]].&lt;ref&gt;{{cite book|last=Meyer|first=Bertrand|title=Object-Oriented Software Construction|year=1988|publisher=Prentice Hall International Series in Computer Science|location=Cambridge|isbn=0-13-629049-3|pages=52–54}}&lt;/ref&gt;
+
+===Constructors===
+A [[Constructor (computer science)|''constructor'']] is a method that is called at the beginning of an object's lifetime to create and initialize the object, a process called [[object creation|construction]] (or ''instantiation''). Initialization may include an acquisition of resources. Constructors may have parameters but usually do not return values in most languages. See the following example in Java:
+
+&lt;syntaxhighlight lang="java"&gt;
+public class Main {
+	String name;
+	int roll;
+	Main(String _name, int _roll) { //constructor method
+		this.name = _name;
+		this.roll = _roll;
+	}
+	
+}
+&lt;/syntaxhighlight&gt;
+
+===Destructors===
+A ''[[Destructor (computer science)|destructor]]'' is a method that is called automatically at the end of an object's lifetime, a process called [[object lifetime|destruction]]. Destruction in most languages does not allow destructor method arguments nor return values. Destruction can be implemented so as to perform cleanup chores and other tasks at object destruction.
+
+====Finalizers====
+In [[Garbage collection (computer science)|garbage-collected]] languages, such as [[Java (programming language)|Java]], [[C Sharp (programming language)|C#]], and [[Python (programming language)|Python]], destructors are known as ''[[finalizer]]s''. They have a similar purpose and function to destructors, but because of the differences between languages that utilize garbage-collection and languages with manual memory management, the sequence in which they are called is different.
+
+==Abstract methods==
+An ''abstract method'' is one with only a [[method signature|signature]] and no [[method body|implementation body]]. It is often used to specify that a subclass must provide an implementation of the method. Abstract methods are used to specify [[Interface (computing)|interfaces]] in some programming languages.&lt;ref&gt;{{cite web|title=Abstract Methods and Classes|url=http://docs.oracle.com/javase/tutorial/java/IandI/abstract.html|website=oracle.com|publisher=Oracle Java Documentation|accessdate=11 December 2014}}&lt;/ref&gt;
+
+===Example===
+The following [[Java (programming language)|Java]] code shows an abstract class that needs to be extended:
+
+&lt;syntaxhighlight lang="java"&gt;
+abstract class Shape {
+    abstract int area(int h, int w); // abstract method signature
+}
+&lt;/syntaxhighlight&gt;
+The following subclass extends the main class:
+
+&lt;syntaxhighlight lang="java"&gt;
+public class Rectangle extends Shape {
+    @Override
+    int area(int h, int w) {
+        return h * w;
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+==Class methods==
+Class methods are methods that are called on a [[Class (computer programming)|class]] rather than an instance. They are typically used as part of an object [[meta-model]]. I.e, for each class, defined an instance of the class object in the meta-model is created.  [[Meta-object protocol|Meta-model protocols]] allow classes to be created and deleted. In this sense, they provide the same functionality as constructors and destructors described above. But in some languages such as the [[Common Lisp Object System|Common Lisp Object System (CLOS)]] the meta-model allows the developer to dynamically alter the object model at run time: e.g., to create new classes, redefine the class hierarchy, modify properties, etc.
+
+==Special methods==
+Special methods are very language-specific and a language may support none, some, or all of the special methods defined here. A language's compiler may automatically generate default special methods or a programmer may be allowed to optionally define special methods. Most special methods cannot be directly called, but rather the compiler generates code to call them at appropriate times.
+
+===Static methods===
+Static methods are meant to be relevant to all the instances of a class rather than to any specific instance. They are similar to static variables in that sense. An example would be a static method to sum the values of all the variables of every instance of a class. For example, if there were a &lt;code&gt;Product&lt;/code&gt; class it might have a static method to compute the average price of all products.
+
+In Java, a commonly used static method is:
+ Math.max(double a, double b)
+This static method has no owning object and does not run on an instance. It receives all information from its arguments.&lt;ref&gt;{{Cite book|title = Clean Code: A Handbook of Agile Software Craftsmanship|last = Martin|first = Robert C.|publisher = Prentice Hall|year = 2009|isbn = 978-0-13-235088-4|location = |pages = 296|author-link = Robert Cecil Martin}}&lt;/ref&gt;
+
+A static method can be invoked even if no instances of the class exist yet. Static methods are called "static" because they are resolved at [[compile time]] based on the class they are called on and not dynamically as in the case with instance methods, which are resolved polymorphically based on the runtime type of the object.
+
+===Copy-assignment operators===
+Copy-assignment operators define actions to be performed by the compiler when a class object is assigned to a class object of the same type.
+
+===Operator methods===
+Operator methods [[Operator overloading|define or redefine operator symbols]] and define the operations to be performed with the symbol and the associated method parameters. C++ Example:
+&lt;syntaxhighlight lang="cpp"&gt;
+#include &lt;string&gt;
+
+class Data {
+ public:
+  bool operator&lt;(const Data&amp; data) const { return roll_ &lt; data.roll_; }
+  bool operator==(const Data&amp; data) const {
+    return name_ == data.name_ &amp;&amp; roll_ == data.roll_;
+  }
+
+ private:
+  std::string name_;
+  int roll_;
+};
+&lt;/syntaxhighlight&gt;
+
+==Member functions in C++==
+Some procedural languages were extended with object-oriented capabilities to leverage the large skill sets and legacy code for those languages but still provide the benefits of object-oriented development. Perhaps the most well-known example is [[C++]], an object-oriented extension of the [[C (programming language)|C]] programming language. Due to the design requirements to add the object-oriented paradigm on to an existing procedural language, message passing in C++ has some unique capabilities and terminologies. For example, in C++ a method is known as a ''member function''. C++ also has the concept of [[virtual function]]s which are member functions that can be [[Method overriding|overridden]] in [[derived class]]es and allow for [[dynamic dispatch]].
+
+===Virtual functions===
+''[[Virtual function]]s'' are the means by which a C++ class can achieve polymorphic behavior. ''Non-virtual member functions'', or ''regular methods'', are those that do not participate in [[polymorphism (computer science)|polymorphism]].
+
+C++ Example:
+&lt;syntaxhighlight lang="cpp"&gt;
+#include &lt;iostream&gt;
+#include &lt;memory&gt;
+
+class Super {
+ public:
+  virtual ~Super() = default;
+
+  virtual void IAm() { std::cout &lt;&lt; "I'm the super class!\n"; }
+};
+
+class Sub : public Super {
+ public:
+  void IAm() override { std::cout &lt;&lt; "I'm the subclass!\n"; }
+};
+
+int main() {
+  std::unique_ptr&lt;Super&gt; inst1 = std::make_unique&lt;Super&gt;();
+  std::unique_ptr&lt;Super&gt; inst2 = std::make_unique&lt;Sub&gt;();
+
+  inst1-&gt;IAm();  // Calls |Super::IAm|.
+  inst2-&gt;IAm();  // Calls |Sub::IAm|.
+}
+&lt;/syntaxhighlight&gt;
+
+==See also==
+* [[Property (programming)]]
+* [[Remote method invocation]]
+* [[Subroutine]], also called subprogram, routine, procedure or function
+
+== Notes ==
+{{reflist}}
+
+== References ==
+{{refbegin}}
+*{{cite book|url=https://books.google.com/books?id=DnsM0WD-6iMC&amp;pg=PA131|title=C++ AND OBJECT-ORIENTED PROGRAMMING PARADIGM|last=JANA|first=DEBASISH|date=1 January 2005|publisher=PHI Learning Pvt. Ltd.|isbn=978-81-203-2871-6|ref=harv}}
+*{{cite book|url=https://books.google.com/books?id=ZLzt5WtsdzIC&amp;pg=PA50|title=Object-Oriented Programming: Fundamentals And Applications|last=Sengupta|first=Probal|date=1 August 2004|publisher=PHI Learning Pvt. Ltd.|isbn=978-81-203-1258-6|ref=harv}}
+*{{cite book|url=https://books.google.com/books?id=Miq73i_J1i4C&amp;pg=PA36|title=Object-oriented Programming: Using C++ for Engineering and Technology|last=Svenk|first=Goran|publisher=Cengage Learning|year=2003|isbn=0-7668-3894-3|ref=harv}}
+*{{cite book|url=https://books.google.com/books?id=WCHZAgAAQBAJ&amp;pg=PA74|title=Object Oriented Programming with C++|publisher=Tata McGraw-Hill Education|year=2013|isbn=978-1-259-02993-6|ref=harv|author=Balagurusamy}}
+*{{cite book|url=https://books.google.com/books?id=-yhuY0Wg_QcC&amp;pg=PA181|title=A Complete Guide to Programming in C++|last2=Prinz|first2=Peter|publisher=Jones &amp; Bartlett Learning|year=2002|isbn=978-0-7637-1817-6|ref=harv|last1=Kirch-Prinz|first1=Ulla}}
+*{{cite book|url=https://books.google.com/books?id=1F6ipojt7DcC&amp;pg=PA79|title=Creating Games in C++: A Step-by-step Guide|last=Conger|first=David|publisher=New Riders|year=2006|isbn=978-0-7357-1434-2|ref=harv}}
+*{{cite book|url=https://books.google.com/books?id=fgGLZ7WYxCMC&amp;pg=PA97|title=The Advanced C++ Book|last=Skinner|first=M. T.|publisher=Silicon Press|year=1992|isbn=978-0-929306-10-0|ref=harv}}
+*{{cite book|url=https://books.google.com/books?id=NXVkcCjPblcC&amp;pg=PA18|title=Linux Kernel Development|date=1 September 2005|publisher=Pearson Education|isbn=978-81-7758-910-8|ref=harv|author=Love}}
+*{{cite book|url=https://books.google.com/books?id=fxUVrhjD4k0C&amp;pg=PA78|title=OBJECT-ORIENTED PROGRAMMING USING C++|last2=JAGADEV|first2=ALOK KUMAR|last3=RATH|first3=AMIYA KUMAR|date=8 May 2007|publisher=PHI Learning Pvt. Ltd.|isbn=978-81-203-3085-6|ref=harv|last1=DEHURI|first1=SATCHIDANANDA}}
+{{refend}}
+
+{{DEFAULTSORT:Method (Computer Science)}}
+&lt;!--Categories--&gt;
+[[Category:Method (computer programming)| ]]
+[[Category:Articles with example C++ code]]
+
+[[sv:Funktion (programmering)#Metod]]</text>
+      <sha1>1j2s2ibhmz384annsparisddnixkk5q</sha1>
+    </revision>
+  </page>
+</mediawiki>

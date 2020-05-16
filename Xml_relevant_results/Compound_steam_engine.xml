@@ -1,0 +1,241 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Compound steam engine</title>
+    <ns>0</ns>
+    <id>1084216</id>
+    <revision>
+      <id>956950525</id>
+      <parentid>945386443</parentid>
+      <timestamp>2020-05-16T05:52:43Z</timestamp>
+      <contributor>
+        <username>CitationCleanerBot</username>
+        <id>15270283</id>
+      </contributor>
+      <minor/>
+      <comment>/* Compound systems */fixing harvard footnotes [[Wikipedia:Bots/Requests for approval/CitationCleanerBot 5|task 5]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="26382" xml:space="preserve">{{For|compound steam locomotives|Compound locomotive}}
+{{Use dmy dates|date=March 2020}}
+[[File:Triple expansion engine animation.gif|thumb|Double-acting triple-expansion marine engine&lt;br/&gt;&lt;small&gt;High-pressure steam (red) passes through three stages, exhausting as low-pressure steam (blue) to the condenser&lt;/small&gt;]]
+[[File:TMW 677 - Triple expansion compound steam engine.jpg|thumb|Cutaway of triple expansion compound steam engine, 1888]]
+[[File:Cross-compound Robey steam engine, close-up of cylinders, Bolton museum.jpg|thumb|''[[Robey]]'' horizontal ''cross-compound'' steam engine&lt;br/&gt;&lt;small&gt;small high-pressure cylinder (left) and large low-pressure cylinder (right)&lt;/small&gt;]]
+A '''compound steam engine''' unit is a type of [[steam engine]] where steam is expanded in two or more stages.&lt;ref name="Van Riemsdijk, Newcomen, Compound Locomotive" &gt;{{Citation
+  |last=van Riemsdijk  |first=John
+  |title=The Compound locomotive, Parts 1, 2, 3
+  |journal=Transactions of the Newcomen Society
+  |year=1970
+  |issue=2
+}}&lt;/ref&gt;{{sfn|Van Riemsdijk, Compound Locomotives|pages=4–9 }}
+A typical arrangement for a compound engine is that the steam is first expanded in a high-pressure ''(HP)'' [[Cylinder (engine)|cylinder]], then having given up heat and losing pressure, it exhausts directly into one or more larger-volume low-pressure ''(LP)'' cylinders. Multiple-expansion engines employ additional cylinders, of progressively lower pressure, to extract further energy from the steam.{{sfnp|Hills|1989|p=147}}
+
+Invented in 1781, this technique was first employed on a Cornish [[beam engine]] in 1804. Around 1850, compound engines were first introduced into Lancashire textile mills&lt;!-- , and the pressure of the steam increased, and the principle was applied to horizontal rotative engines, which became the standard engine in later mills --&gt;.
+
+==Compound systems==
+There are many compound systems and configurations, but there are two basic types, according to how HP and LP piston strokes are phased and hence whether the HP exhaust is able to pass directly from HP to LP ([[Arthur Woolf|Woolf compounds]]) or whether pressure fluctuation necessitates an intermediate "buffer" space in the form of a steam chest or pipe known as a ''receiver'' ([[McNaught engine|receiver compounds]]).&lt;ref name="Raiput" &gt;{{Citation
+|last=Raiput
+|first=R.K.|title=Thermal Engineering|publisher=Laxmi Publications
+|location=Bangalore, New Delhi
+|year=2005
+|edition=5th
+|pages=723 et seq
+|chapter=17
+|isbn=978-81-7008-834-9
+|oclc=85232680
+|url=https://books.google.com/?id=TEjZFUcVTbgC&amp;pg=PA724 }}&lt;/ref&gt;
+
+In a single-expansion (or 'simple') steam engine, the high-pressure steam enters the cylinder at boiler pressure through an inlet valve. The steam pressure forces the [[piston]] down the cylinder, until the valve shuts (e.g. after 25% of the piston's stroke). After the steam supply is cut off the trapped steam continues to expand, pushing the piston to the end of its stroke, where the exhaust valve opens and expels the partially depleted steam to the atmosphere, or to a condenser. This "[[Cutoff (steam engine)|cut-off]]" allows much more work to be extracted, since the expansion of the steam is doing additional work beyond that done by the steam at boiler pressure.{{sfnp|Semmens|Goldfinch|2000|pages=147, 162|at=Using the Steam: Expansion and Compounding}}
+
+An earlier cut-off increases the expansion ratio, which in principle allows more energy to be extracted and increases efficiency, but as the trapped steam expands its temperature drops.  This temperature drop would occur even if the cylinder were perfectly insulating so that no heat is released from the system (see [[adiabatic process]] and {{slink|adiabatic process|adiabatic heating and cooling|nopage=y}}).  As a result, steam enters the cylinder at high temperature and leaves at a lower temperature.  The changing steam temperature alternately heats and cools the cylinder with every stroke and is a source of inefficiency which increases at higher expansion ratios.  Beyond a certain point, further increasing the expansion ratio will actually decrease efficiency due to the increased heating and cooling.{{sfnp|Semmens|Goldfinch|2000|pages=147, 162|at=Using the Steam: Expansion and Compounding}}
+
+===Compounding engines===
+A method to lessen the magnitude of this heating and cooling was invented in 1804 by British engineer [[Arthur Woolf]], who patented his ''Woolf high pressure compound engine'' in 1805. In the compound engine, high-pressure steam from the boiler first expands in a high-pressure (HP) cylinder and then enters one or more subsequent lower pressure (LP) cylinders. The complete expansion of the steam occurs across multiple cylinders and, as there is less expansion in each cylinder, less heat is lost by the steam in each. This reduces the magnitude of cylinder heating and cooling, making higher expansion ratios practical and increasing the efficiency of the engine.
+
+There are other advantages: as the temperature range is smaller, cylinder condensation is reduced. Loss due to condensation is restricted to the LP cylinder. Pressure difference is less in each cylinder so there is less steam leakage at the piston and valves. The [[torque|turning moment]] is more uniform, so balancing is easier and a smaller flywheel may be used. Only the smaller HP cylinder needs to be built to withstand the highest pressure, which reduces the overall weight. Similarly, components are subject to less strain, so they can be lighter. The reciprocating parts of the engine are lighter, reducing the engine vibrations. The compound could be started at any point in the cycle, and in the event of mechanical failure the compound could be reset to act as a simple, and thus keep running.&lt;ref name=Raiput/&gt;
+
+To derive equal work from lower-pressure steam requires a larger cylinder volume as this steam occupies a greater volume. Therefore, the bore, and in rare cases the stroke as well, are increased in low-pressure cylinders, resulting in larger cylinders.
+
+Double-expansion (usually just known as 'compound') engines expand the steam in two stages, but this does not imply that all such engines have two cylinders.  They may have four cylinders working as two LP-HP pairs, or the work of the large LP cylinder can be split across two smaller cylinders, with one HP cylinder exhausting into either LP cylinder, giving a 3-cylinder layout where the cylinder and piston diameter of all three are about the same, making the reciprocating masses easier to balance.
+
+Two-cylinder compounds can be arranged as:
+* '''Cross-compound''' – the cylinders are side by side
+* '''Tandem compound''' – the cylinders are end to end, driving a common connecting rod
+* '''Telescopic-compound''' – the cylinders are one inside the other
+* '''Angle-compound''' – the cylinders are arranged in a vee (usually at a 90° angle) and drive a common crank.{{cref|Cylinder phasing}}&lt;!--Not sure what name is best for this note link, nor where best to put it--&gt;
+
+The adoption of compounding was widespread for stationary industrial units where the need was for increased power at decreasing cost, and almost universal for [[marine steam engine|marine engines]] after 1880. It was not widely used in railway locomotives where it was often perceived as complicated and unsuitable for the harsh railway operating environment and limited space afforded by the [[loading gauge]] (particularly in Britain). Compounding was never common on British railways&lt;!--small 'r'!--&gt; and not employed at all after 1930, but was used in a limited way in many other countries.{{sfn|Van Riemsdijk, Compound Locomotives|pages=2–3 }}
+
+The first successful attempt to fly a heavier-than-air fixed-wing aircraft solely on steam power occurred in 1933, when [[Doble steam car#Besler Brothers|George and William Besler]] converted a [[Travel Air 2000]] biplane to fly on a 150&amp;nbsp;hp angle-compound V-twin steam engine of their own design instead of the usual [[Curtiss OX-5]] inline or radial aviation gasoline engine it would have normally used.&lt;ref&gt;[https://books.google.com/books?id=AygDAAAAMBAJ&amp;pg=PA9 "World's First Steam Driven Airplane"] ''Popular Science'', July 1933, detailed article with drawings&lt;/ref&gt;&lt;ref&gt;{{Cite video
+  | people = George &amp; William Besler
+  | title = The Besler Steam Plane 
+  | medium = YouTube 
+  | publisher = Bomberguy
+  | location = https://www.youtube.com/watch?v=nw6NFmcnW-8 
+  | date = 29 April 2011}}&lt;/ref&gt;
+
+===Multiple-expansion engines {{anchor|Multiple expansion engines|Triple-expansion steam engine}}===
+[[File:Triple expansion engine animation.gif|thumb|Double-acting triple-expansion marine engine.&lt;br/&gt;&lt;small&gt;High-pressure steam (red) passes through three stages, exhausting as low-pressure steam (blue) to the condenser&lt;/small&gt;]]
+It is a logical extension of the compound engine (described above) to split the expansion into yet more stages to increase efficiency. The result is the '''multiple-expansion engine'''. Such engines use either three or four expansion stages and are known as ''triple-'' and ''quadruple-expansion engines'' respectively. These engines use a series of double-acting cylinders of progressively increasing diameter and/or stroke and hence volume. These cylinders are designed to divide the work into three or four equal portions, one for each expansion stage. The adjacent image shows an animation of a triple-expansion engine. The steam travels through the engine from left to right. The valve chest for each of the cylinders is to the left of the corresponding cylinder.
+
+== History ==
+===Early work===
+{{Expand section|date=December 2009}}
+*1781 – [[Jonathan Hornblower]], the grandson of one of [[Thomas Newcomen|Newcomen]]'s engine erectors in Cornwall, patented a double-cylinder compound reciprocating [[beam engine]] in 1781. He was prevented from developing it further by [[James Watt]], who claimed his own patents were infringed.&lt;ref&gt;Encyclopædia Britannica Online, retrieved 29 March 2007.&lt;/ref&gt;
+*1804 – A method to lessen the magnitude of the continual heating and cooling of a single-expansion steam engine that leads to inefficiency was invented by British engineer [[Arthur Woolf]]. Woolf patented his stationary ''Woolf high-pressure compound engine'' in 1805.
+
+===Double-expansion===
+*1845 – [[William McNaught (Glasgow)|William McNaught]] devised a method of fixing an additional high-pressure cylinder within an existing beam engine. To do so involved using a long pipe to connect the cylinders, and an extra set of valves to balance them. In effect this acted as a receiving chest, and a new type of compound had been invented. This system allowed greater control of the steam intake and cut-offs. An engine could be slowed by either a throttle which reduced the pressure of the steam, or by adjusting the cut-off on either cylinder. The latter was more efficient as no power was lost. The cycle was smoother as the two cylinders were not in phase.{{sfnp|Hills|1989|p=157}}
+*1865  – {{SS|Agamemnon|1865}} was launched, equipped with a 300[[Horsepower|hp]] compound steam engine. The engine was designed by [[Alfred Holt]], one of her owners. Holt had persuaded the [[Board of Trade]] to allow a boiler pressure of 60[[Pounds per square inch|psi]] instead of the normal 25[[Pounds per square inch|psi]] - a higher pressure was needed to realise the advantages of double-expansion. The efficiency obtained enabled this ship to travel 8,500 miles before [[coaling (ships)|coaling]]. This made her competitive on routes between China and Britain.&lt;ref name="Clark" &gt;{{cite book
+  |last=Clark|first=Arthur H. |date= 1911|title=The Clipper Ship Era 1843-1869
+  |url=https://archive.org/stream/cu31924020891416#page/n5/mode/2up
+  |location=New York  |publisher=G.P. Putnam Sons
+  }}&lt;/ref&gt;&lt;ref name="Greenwich" &gt;National Maritime Museum, Greenwich, UK,  http://collections.rmg.co.uk/collections/objects/66013.html&lt;/ref&gt;&lt;ref name="Jarvis"&gt;{{cite book |last=Jarvis |first=Adrian |editor1-first=Robert |editor1-last= Gardiner |editor2-first=Dr Basil |editor2-last=Greenhill |date=1993 |title=The Advent of Steam – The Merchant Steamship before 1900 |publisher=Conway Maritime Press |pages=158–159 |chapter=9: Alfred Holt and the Compound Engine |isbn=0-85177-563-2}}&lt;/ref&gt;
+
+===Multiple-expansion===
+[[File:Coldharbour Mill steam engine - geograph.org.uk - 682088.jpg|thumb|The [[Coldharbour Mill Working Wool Museum|Coldharbour Mill]] Pollit and Wigzell cross-compound engine, which drives the rope race seen in the background, transmitting power to line shafts on all five levels of the mill]]
+*1861 – [[Daniel Adamson]] took out a patent for a multiple-expansion engine, with three or more cylinders connected to one beam or crankshaft. He built a triple-expansion engine for [[List of mills in Tameside|Victoria Mills, Dukinfield]] which opened in 1867.{{sfnp|Hills|1981|p=241}}
+*1871 – Charles Normand, of Le Havre fitted a triple-expansion engine to a Seine river boat in 1871.{{sfnp|Hills|1981|p=241}}
+*1872 – [[Frederick Bramwell|Sir Fredrick J. Bramwell]] reported that compound marine engines, operating at 45psi to 60psi, consumed 2&amp;nbsp;lbs to 2.5&amp;nbsp;lbs of coal per hour per indicated horsepower.{{sfnp|Hills|1981|p=241}}
+*1881 – [[Alexander Carnegie Kirk]] built [[SS Aberdeen (1881)|SS ''Aberdeen'']], the first major ship to be successfully powered by a triple expansion engine.&lt;ref&gt;Day, Lance and McNeil, Ian (Editors) 2013, [https://books.google.com/books?id=m8TsygLyfSMC&amp;pg=PA694 ''Biographical Dictionary of the History of Technology''] Routledge, {{ISBN|0-203-02829-5}} (P. 694)&lt;/ref&gt;
+*1887 – [[HMS Victoria (1887)|HMS ''Victoria'']] launched, the first battleship to be powered by triple expansion engines.&lt;ref name=MOFWAR&gt;{{cite book|title= Man of War a History of the Combat Vessel|last1=Macintyre|first1=Donald|last2=Bathe|first2=Basil W|publisher=Mcgraw-hill Inc|date=1974|isbn=9780070445857|page=95|work=Reference to the first battle ship with triple-expansion steam engines}}&lt;/ref&gt;
+*1891 – Triple expansion compound marine engines, operating at 160psi, consumed on average about 1.5&amp;nbsp;lbs of coal per hour per indicated horsepower.{{sfnp|Hills|1981|p=241}}
+
+==Applications==
+===Pumping engines===
+{{Main|Cornish engine}}
+
+===Mill engines===
+{{Main|Stationary steam engine}}
+[[File:Steam engine at Craven Mills - geograph.org.uk - 388255.jpg|thumb|right|A Marchent &amp; Morley horizontal tandem compound engine built 1914, at Craven Mills, Cole. The air pump and jet condenser are nearest with the LP cylinder beyond. It is fitted with Morley's patent piston drop valves]]
+Though the first mills were driven by [[water power]], once steam engines were adopted the manufacturer no longer needed to site the mills by running water. Cotton spinning required ever larger mills to fulfil the demand, and this drove the owners to demand increasingly powerful engines. When boiler pressure had exceeded 60psi, compound engines achieved a thermo-dynamic advantage, but it was the mechanical advantages of the smoother stroke that was the deciding factor in the adoption of compounds. In 1859, there was 75,886&amp;nbsp;ihp (indicated horsepower{{cref|ihp}}) of engines in mills in the Manchester area, of which 32,282 ihp was provided by compounds though only 41,189 ihp was generated from boilers operated at over 60psi.{{sfnp|Hills|1989|p=160}}
+
+To generalise, between 1860 and 1926 all Lancashire mills were driven by compounds. The last compound built was by [[Buckley &amp; Taylor|Buckley and Taylor]] for [[List of mills in Shaw and Crompton#V to Z|Wye No.2 mill, Shaw]]. This engine was a cross-compound design to 2,500 ihp, driving a 24&amp;nbsp;ft, 90 ton flywheel, and operated until 1965.{{sfnp|Hills|1989|p=281}}
+
+===Marine applications===
+{{Main|Marine steam engine}}
+[[Image:TripleExpansion.jpg|thumb|upright|Model of a triple-expansion engine]]
+[[File:Christopher Columbus whaleback ccengine crop.jpg|thumb|upright|1890s triple-expansion (three cylinders of 26, 42 and 70&amp;nbsp;inch diameters in a common frame with a 42-inch stroke) marine engine that powered the [[Christopher Columbus (whaleback)|SS ''Christopher Columbus'']].]]
+[[File:SS Ukkopekka steam engine.jpg|thumb|upright|[[S/S Ukkopekka|SS ''Ukkopekka'']] triple-expansion marine engine]]
+[[File:Liberty ship 140-ton VTE engine.jpg|thumb|right|140-ton &amp;ndash; also described as 135-ton &amp;ndash; vertical triple expansion steam engine of the type used to power [[World War II]] [[Liberty ship]]s, assembled for testing prior to delivery. The engine is 21 feet (6.4 meters) long and 19 feet (5.8 meters) tall and was designed to operate at 76 [[Revolutions per minute|rpm]] and propel a Liberty ship at about 11 knots (12.7 mph; 20.4&amp;nbsp;km/h).]]
+In the marine environment, the general requirement was for autonomy and increased operating range, as ships had to carry their coal&lt;!--and water?--&gt; supplies. The old salt-water boiler was thus no longer adequate and had to be replaced by a closed fresh-water circuit with condenser. The result from 1880 onwards was the '''multiple-expansion engine''' using three or four expansion stages (''triple-'' and ''quadruple-expansion engines''). These engines used a series of double-acting cylinders of progressively increasing diameter and/or stroke (and hence volume) designed to divide the work into three or four, as appropriate, equal portions for each expansion stage. Where space is at a premium, two smaller cylinders of a large sum volume might be used for the low-pressure stage. Multiple-expansion engines typically had the cylinders arranged in-line, but various other formations were used. In the late 19th century, the Yarrow-Schlick-Tweedy balancing 'system' was used on some marine triple-expansion engines. Y-S-T engines divided the low-pressure expansion stages between two cylinders, one at each end of the engine. This allowed the crankshaft to be better balanced, resulting in a smoother, faster-responding engine which ran with less vibration. This made the 4-cylinder triple-expansion engine popular with large passenger liners (such as the [[Olympic class ocean liner|Olympic class]]), but was ultimately replaced by the virtually vibration-free [[steam turbine]].
+
+The development of this type of engine was important for its use in steamships as by exhausting to a condenser the water could be reclaimed to feed the boiler, which was unable to use [[seawater]]. Land-based steam engines could simply exhaust much of their steam, as feed water was usually readily available. Prior to and during [[World War II]], the expansion engine dominated marine applications where high vessel speed was not essential. It was superseded by the steam turbine when speed was required, such as for warships and [[ocean liner]]s. [[HMS Dreadnought (1906)|HMS ''Dreadnought'']] of 1905 was the first major warship to replace the proven technology of the reciprocating engine with the then-novel steam turbine.
+
+===Application to railway locomotives===
+{{Main|Compound locomotive}}
+For railway locomotive applications the main benefit sought from compounding was economy in fuel and water consumption plus high power/weight ratio due to temperature and pressure drop taking place over a longer cycle, this resulting in increased efficiency; additional perceived advantages included more even torque.
+
+While designs for compound locomotives may date as far back as [[James Samuel]]'s 1856 patent for a "continuous expansion locomotive",&lt;ref&gt;{{Citation
+  |title=Compound Engines facsimile reprint
+  |publisher=Scholarly Publishing Office, University of Michigan Library  |location=Ann Arbor, MI
+  |year=2005
+  |pages=16;17
+  |isbn=1-4255-0657-7
+}}&lt;/ref&gt; the practical history of railway compounding begins with [[Anatole Mallet]]'s designs in the 1870s. [[Mallet locomotive]]s were operated in the United States up to the end of mainline steam by the [[Norfolk and Western Railway]]. The designs of [[Alfred George de Glehn]] in France also saw significant use, especially in the rebuilds of [[André Chapelon]]. A wide variety of compound designs were tried around 1900, but most were short-lived in popularity, due to their complexity and maintenance liability. In the 20th century the [[superheater]] was widely adopted, and the vast majority of steam locomotives were simple-expansion (with some compound locomotives converted to simple).  It was realised by engineers that locomotives at steady speed were worked most efficiently with a wide-open regulator and early cut-off, the latter being set via the reversing gear.  A locomotive operating at very early cut-off of steam (e.g. at 15% of the piston stroke) allows maximum expansion of the steam, with less wasted energy at the end of the stroke.  Superheating eliminates the condensation and rapid loss of pressure that would otherwise occur with such expansion.
+
+Large American locomotives used 2 cross-compound steam-driven air compressors, e.g. the Westinghouse 8 1/2" 150-D,&lt;ref&gt;1941 Locomotive Cyclopedia of American Practice, Eleventh Edition, Simmons-Boardman Publishing Corporation, 30 Church Street, New York p.813&lt;/ref&gt; for the train brakes.
+
+==Notes==
+{{cnote|Cylinder phasing|
+With two-cylinder compounds used in railway work, the pistons are connected to the cranks as with a two-cylinder simple at 90° out-of-phase with each other (''quartered'').
+
+When the double-expansion group is duplicated, producing a 4-cylinder compound, the individual pistons within the group are usually balanced at 180°, the groups being set at 90° to each other. In one case (the first type of [[Vauclain compound]]), the pistons worked in the same phase driving a common crosshead and crank, again set at 90° as for a two-cylinder engine.
+
+With the 3-cylinder compound arrangement, the LP cranks were either set at 90° with the HP one at 135° to the other two, or in some cases all three cranks were set at 120°.}}
+
+{{cnote|ihp|
+The power of a mill engine was originally measured in [[Horsepower#Nominal horsepower|Nominal Horse Power]], but this system understated the power of a compound [[William McNaught (Glasgow)|McNaught]] system suitable for compounds, ihp or indicated horse power. As a rule of thumb ihp is 2.6 times nhp, in a compound engine.{{sfnp|Hills|1989|p=145}}}}
+
+==See also==
+* [[Compound turbine]]
+* [[Willans engine]]
+
+{{-}}
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+{{Refbegin}}
+&lt;!-- * The mills and organisation of the Lancashire Cotton Corporation Limited, a promotional book, pub LCC, Blackfriars House Manchester, January 1951.
+*{{Citation|last=Arnold|first=Sir Arthur|title=The history of the cotton famine, from the fall of Sumter to the passing of the Public Works Act (1864)|publisher=Saunders, Otley and Co|location=London|date=1864|url=https://archive.org/details/historyofcottonf00arnouoft|accessdate=2009-06-14}}
+*{{Citation|last=Chapman|first=S.J.|title=The Lancashire Cotton Industry, A Study in Economic Development|publisher=Manchester|date=1904|language=English}}
+ --&gt;*{{Citation |last=Gurr |first=Duncan |last2=Hunt |first2=Julian |year=1998 |title=The Cotton Mills of Oldham |publisher=Oldham Education &amp; Leisure |isbn=0-902809-46-6 |url=http://www.spinningtheweb.org.uk/a_results.php?x=5&amp;y=7&amp;QueryName=KeyWord&amp;KeyWords=The+Cotton+Mills+of+Oldham%2C+brief+history+and+gazetteer |access-date=11 October 2009 |archive-url=https://web.archive.org/web/20110718134931/http://www.spinningtheweb.org.uk/a_results.php?x=5&amp;y=7&amp;QueryName=KeyWord&amp;KeyWords=The+Cotton+Mills+of+Oldham,+brief+history+and+gazetteer |archive-date=18 July 2011 |url-status=dead }}
+&lt;!-- *{{Citation|last=Hindman|first=Hugh |title=Child Labor : an American History|publisher=M. E. Sharpe|year=2002|page=431|isbn=978-0-7656-0936-6 |url=https://books.google.com/?id=GQcV11ayCngC&amp;printsec=frontcover&amp;dq=child+labor+cotton+massachusetts#PPA185,M1}}
+*{{Citation|last=Marsden|first=Richard|title=Cotton Spinning: its development, principles an practice|publisher=George Bell and Sons 1903|date=1884|url=https://archive.org/details/cottonspinningit00mars|accessdate=2009-04-26|language=English}}
+ --&gt;*{{Citation|last=Nasmith|first=Joseph|author-link=Joseph Nasmith|title=Recent Cotton Mill Construction and Engineering|publisher=John Heywood|location=London|year=1895|page=284|isbn=1-4021-4558-6|url=https://archive.org/details/recentcottonmill00nasm|accessdate=March 2009}}
+&lt;!-- *{{Citation|last=Quayle|first=Tom|title=The Cotton Industry in Longdendale and Glossopdale|publisher=Tempus|location=Stroud, Gloucestershire|year=2006|page=126|isbn=0-7524-3883-2}}
+ --&gt;*{{Citation |url=http://oneguyfrombarlick.co.uk/forum_topic.asp?TOPIC_ID=7926&amp;FORUM_ID=99&amp;CAT_ID=3&amp;Forum_Title=Rare+Text+(Book+Transcriptions)&amp;Topic_Title=ARTHUR+ROBERTS+ENGINE+LIST&amp;whichpage=1&amp;tmp=1#pid81483 |title=Arthur Robert's Engine List |publisher=One guy from Barlick-Book Transcription |last=Roberts |first=A S |year=1921 |work=Arthur Roberts Black Book. |accessdate=2009-01-11 |url-status=dead |archiveurl=https://web.archive.org/web/20110723183726/http://oneguyfrombarlick.co.uk/forum_topic.asp?TOPIC_ID=7926&amp;FORUM_ID=99&amp;CAT_ID=3&amp;Forum_Title=Rare+Text+%28Book+Transcriptions%29&amp;Topic_Title=ARTHUR+ROBERTS+ENGINE+LIST&amp;whichpage=1&amp;tmp=1#pid81483 |archivedate=23 July 2011}}
+*{{Citation|last=Williams|first=Mike|author2=Farnie|title=Cotton Mills of Greater Manchester|publisher=Carnegie Publishing|year=1992|isbn=0-948789-89-1}}
+*{{Citation|last=Holst|first=C.P.|title=	
+The balancing of multiplecrank steam-engines|publisher=Brill, Leiden Publishing|year=1926|oclc=494164185}}
+* {{Book-Hills-Power from Steam|ref=harv|page=244}}
+* {{Book-Semmens-Goldfinch-How Steam Locomotives Really Work}}
+* {{Book-Van Riemsdijk-Compound Locomotives}}
+{{Refend}}
+
+== External links ==
+{{Commons category|Compound steam engines|&lt;br&gt;Compound steam engines}}
+*[http://www.nmes.org/ Northern Mill Engine Society at Bolton Steam Museum]
+
+{{steam engine configurations}}
+
+&lt;!-- Before adding links: check that this is the right target. Locomotive articles should link to Compound locomotive --&gt;
+
+{{DEFAULTSORT:Compound Engine}}
+[[Category:Compound steam engines| ]]
+[[Category:Steam engines]]
+[[Category:Steam locomotive technologies]]
+[[Category:History of the steam engine]]
+
+[[cs:Sdružený parní stroj]]
+[[de:Verbunddampfmaschine]]
+[[ja:複式蒸気機関]]
+[[pl:Silnik sprzężony]]</text>
+      <sha1>d4qzmrzyl1hkor2xo6hdkwvm1uz7qor</sha1>
+    </revision>
+  </page>
+</mediawiki>

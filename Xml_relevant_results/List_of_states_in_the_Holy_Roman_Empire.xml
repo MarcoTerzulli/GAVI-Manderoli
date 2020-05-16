@@ -1,0 +1,346 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of states in the Holy Roman Empire</title>
+    <ns>0</ns>
+    <id>256842</id>
+    <revision>
+      <id>945438079</id>
+      <parentid>945140211</parentid>
+      <timestamp>2020-03-13T23:44:24Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="27179" xml:space="preserve">{{short description|Wikipedia list article}}
+{{Use mdy dates|date=June 2012}}
+{{List of states in the Holy Roman Empire}}
+[[File:Mitteleuropa zur Zeit der Staufer.svg|thumb|250px|The Hohenstaufen-ruled Holy Roman Empire (c. 1138–1254) and the [[Kingdom of Sicily]]. Imperial and directly held Hohenstaufen lands in the Empire are shown in bright yellow. This was the greatest territorial extent the HRE ever reached.]]
+This '''list of states which were part of the [[Holy Roman Empire]]''' includes any territory ruled by an authority that had been granted [[imperial immediacy]], as well as many other feudal entities such as lordships, sous-fiefs and allodial fiefs. 
+
+The Holy Roman Empire was a complex political entity that existed in central Europe for most of the [[middle ages|medieval]] and [[Early modern period|early modern]] periods and was generally ruled by a German-speaking Emperor.  The states that composed the Empire, while enjoying a unique form of territorial authority (called ''[[Landeshoheit]]'') that granted them many attributes of sovereignty, were never fully sovereign states as the term is understood today.&lt;ref&gt;Gagliardo, G., ''Reich and Nation, The Holy Roman Empire as Idea and Reality, 1763–1806'', Indiana University Press, 1980, p. 4-5.&lt;/ref&gt; In the 18th century, the Holy Roman Empire consisted of approximately 1,800 such territories, the majority being tiny estates owned by the families of [[Imperial Knight]]s.&lt;ref&gt;Gagliardo, p. 12-13.&lt;/ref&gt; This page does not directly contain the list, but it discusses the format of the various lists, and offers some background to understand the complex organisation of the Holy Roman Empire.  The lists themselves can be accessed via the alphabetical navigation box at the top of this page; each letter will lead the reader to a page where states of the Empire which began with that letter are listed.  For a more complete history of the empire, see [[Holy Roman Empire]].
+
+==Table of states==
+While any such list could never be definitive, the list attempts to be as comprehensive as possible. It is sorted alphabetically and split into separate articles linked in the box below.
+{{List of states in the Holy Roman Empire}}
+
+''There is also a separate [[list of Free Imperial Cities]], as well as a list of [[list of Reichstag participants (1792)|participants in the Imperial Diet as of 1792]].''
+
+=== Key ===
+*The "Circle" column shows the [[Imperial Circle]] (''Reichskreis'') that the state belonged to.
+*The "Bench" column shows where the state was represented in the [[Imperial Diet (Holy Roman Empire)|Imperial Diet]] (''Reichstag'').
+
+{|class="toccolours" border="1" cellpadding="8" style="border-collapse: collapse;"
+|-
+!colspan=2|Circles
+!colspan=2|Benches
+|-
+|Aust
+|[[Austrian Circle|Austrian]]
+|EL
+|Council of [[Prince-Elector|Electors]], the exclusive elite formally electing the Holy Roman Emperor
+|-
+|Bav
+|[[Bavarian Circle|Bavarian]]
+|EC
+|[[Prince-Bishop|Spiritual Bench]] of the Council of Princes (individual voice)
+|-
+|Burg
+|[[Burgundian Circle|Burgundian]]
+|PR
+|Secular Bench of the Council of Princes (individual voice)
+|-
+|El Rhin
+|[[Electoral Rhenish Circle]]
+|RP
+|Rhenish [[prelates]] (Council of Princes)
+|-
+|Franc
+|[[Franconian Circle|Franconian]]
+|SP
+|[[Swabia]]n prelates (Council of Princes)
+|-
+|Low Rhen
+|[[Lower Rhenish–Westphalian Circle|Lower Rhenish-Westphalian]]
+|FC
+|[[Franconia]]n [[count]]s (Council of Princes)
+|-
+|Low Sax
+|[[Lower Saxon Circle|Lower Saxon]]
+|SC
+|[[Swabia]]n counts (Council of Princes)
+|-
+|Upp Rhin
+|[[Upper Rhenish Circle|Upper Rhenish]]
+|WE
+|[[Westphalia]]n counts (Council of Princes)
+|-
+|Upp Sax
+|[[Upper Saxon Circle|Upper Saxon]]
+|WT
+|[[Wetterau]] counts (Council of Princes)
+|-
+|Swab
+|[[Swabian Circle|Swabian]]
+|RH
+|Rhenish Bench of the Council of [[Free imperial city|Imperial Cities]]
+|-
+|None
+|[[Territories of the Holy Roman Empire outside the Imperial Circles|"Circle-free"]]
+|SW
+|Swabian Bench of the Council of Imperial Cities
+|-
+|}
+
+Note that in the "Circle" column, "n/a" denotes a state that had ceased to exist before the [[Imperial Reform|''Reichsreform'']].
+
+Other abbreviations used in the list are:
+{|border="0" cellpadding="2"
+|-
+|Abp.
+|[[Archbishopric]]
+|-
+|Bp.
+|[[Bishopric]]
+|-
+|Co.
+|[[Countship]] (sometimes also called county)
+|-
+|D.
+|[[Duchy]]
+|-
+|Ldg.
+|[[Landgraviate]]
+|-
+|Mrg.
+|[[Margraviate]]
+|-
+|Pr.
+|[[Principality]]
+|-
+|RA
+|''[[Reichsabtei]]'' (Imperial abbacy, a monastery enjoying Imperial immediacy)
+|-
+|}
+
+==Definition of terms==
+
+*[[Imperial Abbey]] ''[[Reichsabt]]'':  A ''Reichsabt'', literally 'Imperial Abbot' or 'Abbot of the Empire', was an Abbot whose abbey was granted within the Holy Roman Empire the status of ''Reichsabtei'' (or ''Reichskloster''), literally 'Imperial Abbey' (or – Monastery), meaning that it enjoyed [[Imperial immediacy]] (''Reichsunmittelbarkeit'').
+*[[Imperial Circle]]: An Imperial Circle (in German ''Reichskreis'', plural ''Reichskreise'') was a regional grouping of states of the Holy Roman Empire, primarily for the purpose of organising a common defence and of collecting imperial taxes, but also as a means of organisation within the Imperial Diet.
+*[[Imperial Diet (Holy Roman Empire)|Imperial Diet]] (''Reichstag''): The Imperial Diet was the parliament of the Holy Roman Empire. The same name was used within the North German Confederation and within Germany until 1945.
+*[[Imperial Estate]]: An Imperial State or Imperial Estate (German singular: ''Reichsstand'', plural: ''Reichsstände'') was an entity in the Holy Roman Empire with a vote in the Imperial Diet. Several states had no seats in the Empire, while some officials (such as the Hereditary Usher) were non-voting members; neither qualified as Imperial States.
+*[[Imperial Free City]]: In the Holy Roman Empire, an imperial free city (German: ''freie Reichsstadt'') was a city formally responsible to the emperor only – as opposed to the majority of cities in the Empire, which belonged to a territory and were thus governed by one of the many princes (''Fürsten'') of the Empire, such as dukes or prince-bishops. Free cities also had independent representation in the Imperial Diet of the Holy Roman Empire.
+*[[Imperial immediacy]] (''Reichsfreiheit'' or ''Reichsunmittelbarkeit'', adjectives ''reichsfrei, reichsunmittelbar''): Immediacy was a privileged feudal and political status, a form of statehood, which a city, religious entity or feudal principality of minor lordship could attain within the Holy Roman Empire. An immediate city, abbey or territory was under the direct authority of the [[Holy Roman Emperor]] and the Imperial Diet, without any intermediary Liege lord(s). Advantages were that immediate regions had the right to collect taxes and tolls themselves, and held juridical rights (including the ''Blutgericht'', 'high' justice including capital punishment) themselves. ''De facto'' immediacy corresponded to a semi-independence with a far-reaching autonomy.
+*[[Imperial Reform]]: In 1495, an attempt was made at a [[Diet of Worms (1495)|Diet]] in the city of [[Worms, Germany|Worms]] to give the disintegrating Holy Roman Empire a new structure, commonly referred to as Imperial Reform (in German: ''Reichsreform'').
+*[[Imperial State]]: An Imperial State or Imperial Estate (German singular: ''Reichsstand'', plural: ''Reichsstände'') was an entity in the Holy Roman Empire with a vote in the Imperial Diet.
+*[[Mediatization]]: defined broadly, is the annexation of one monarchy by another monarchy in such a way that the ruler of the annexed state keeps his or her noble title, and sometimes a measure of power. Thus, for example, when a sovereign county is annexed to a larger principality, its reigning count might find himself subordinated to a prince, but would nevertheless remain a count, rather than be stripped of his title.
+*[[Prince of the Empire]]: A Prince of the Empire is any ruling Prince whose territory is a member of the Holy Roman Empire (not only German-speaking countries, but also many bordering and extensive neighbouring regions) and entitled to a voting seat (or in a collective voting unit, such as the Grafenbank) in Imperial Diet or ''Reichstag''.
+*[[Prince-abbot]]: A prince-abbott (Fürstabt) or prince-abbess (Äbtissin) was an abbot or abbess who had been granted the rank of prince. Prince-abbots (but not prince-abbesses) had seat and vote on the Ecclesiastical Bench of the College of Ruling Princes of the Imperial Diet and sat alongside the prince-bishops.
+*[[Prince-bishop]]: A prince-bishop (Fürstbischof) was a bishop who had been granted the rank of prince (Fürst). As a prince, he was the temporal ruler of a [[Hochstift]] and as a bishop, he exercised the spiritual duties of an ordinary bishop over his diocese, which was always larger than his Hochstift. Prince-bishops had seat and voice on the Ecclesiastical Bench of the College of Ruling Princes of the Imperial Diet. Nearly all the bishops of the Holy Roman Empire outside the Habsburg lands were prince-bishops.
+*[[Prince-elector]]: The prince-electors or electoral princes of the Holy Roman Empire (German: sing. ''Kurfürst'', pl. ''Kurfürsten'') were the members of the electoral college of the Holy Roman Empire, having the function of electing the Holy Roman Emperors.
+*[[Secularization]]: The transfer of property from ecclesiastical to civil possession or use&lt;ref&gt;Webster's Encyclopedic Unabridged Dictionary of the English Language, 1989 &lt;/ref&gt;
+
+==Notes column==
+
+The "Notes" column shows, in capsule form,
+* the territorial development of the different states or polities (acquisition or loss of possessions, union of rulers or dynasties, etc.);
+* the royal or noble dynasties, including their various branches, which ruled over territories or polities;
+* the transmission of succession rights (marriage, female succession, conquest, cession, pledge, etc.);
+* the attributes of "statehood" (right to mint coins, holding markets and fairs, entering into treaties and pacts, appointment of civil officials, etc.); and
+* the size of territory and population of the various polities whenever these are available.
+
+===Estate of the Empire (''Reichsstand'')===
+
+The following excerpt from François Velde's ''Unequal and Morganatic Marriages in German Law'' provides an excellent overview on what an Estate (or State) of the Empire is.&lt;ref&gt;François Velde: [http://www.heraldica.org/topics/royalty/g_morganat.htm#Reichsstand Unequal and Morganatic Marriages in German Law]. 2004–2007. Retrieved 2012 October 09.&lt;/ref&gt; For his purpose, the author deals only with the hereditary territorial rulers but it should be remembered that the Estates also included a substantial number of non-hereditary territorial rulers such as the ecclesiastical states (prince-bishoprics and imperial abbeys) and free imperial cities.
+
+{{quote|The special status of these families manifested itself in the constitution of the Empire as it evolved in the 16th c.  To the status of territorial ruler corresponded a seat and vote in one of the colleges of the ''Reichstag'', the Imperial Diet.  In the late 16th c., the multiplication of votes due to territorial fragmentation led to reforms.  After the Diet held at Augsburg in 1582, the list of votes remained fixed, notwithstanding further territorial divisions.  Furthermore, the right to vote became attached to a land, rather than to a person or family (of course, land was inheritable within families).  A member of the Diet with seat and vote (individual or shared) was called a ''Reichsstand,'' or state of the Empire.
+
+At some point (Abt 1911, 103 n2 cites various possible dates, from the turn of the 16th c. to 1653 to the 18th c.&lt;ref&gt;Abt, Emil.  ''Mißheiraten in den deutschen Fürstenhäusern unter besonderer Berücksichtigung der standesherrlichen Familien''.  Heidelberg, 1911. Carl Winter. (Diss.)&lt;/ref&gt;), the definition of ''Hochadel'' became congruent with being a ''Reichsstand'' (adjective: ''reichsständisch'').  The reason is that the Emperor, as "fons nobilitatium," had the power to create new princes, counts and barons of the Empire, a power which he began to use more frequently.  The existing princes, counts and barons were obviously loathe to see the value of their title diminished.  The members of the Diet complained and, after 1582, it became the rule that such new princes and counts would not of right have a seat at the Diet.  Furthermore, in 1653 the Electoral Capitulation included strict rules on the process by which the Emperor could create new states of the Empire.  In particular, any new member had to possess an ''immediate'' territory of ''sufficient'' size, and had to be ''accepted'' by his peers (princes or counts).
+
+Thus a distinction emerged between
+# families that were part of the Diet in 1582: the "old princely" and "old comital" (''altfürstliche, altgräfliche'') families
+# families who were admitted to the Diet between 1582 and 1803: the "new princely" (''neufürstliche) ''and "new comital" (''neugräfliche'') families
+# families or individuals who received the title of ''Reichsfreiherr'', ''Reichsgraf'' or ''Reichsfürst'' but were not admitted to the Diet
+
+Only the first two groups were part of the Hochadel.  Those in the third group were titular counts and princes but in no way accepted as part of the Hochadel.
+
+Thus it would seem that having seat and vote in the Reichstag would be a clear criterion for belonging to the Hochadel.  But there were further complications:
+* In principle, the possession of a territory was a pre-condition for admission in the Diet.  However, in the second half of the 18th century a number of counts sat on the counts' benches without any such territory.  They were called "personalists" because they had been admitted on a personal basis (''ad personam''), and some jurists did not consider them to be part of the upper nobility (e.g., Pütter 1795, 143).
+* Possession of a large immediate territory was a condition for entry, but not a condition for remaining in the Diet.  It happened that territories became subjected to another state of the Empire, thus losing immediate status; yet the owner remained in the Diet.
+
+Consequently, whereas, in the 16th century, it was fairly easy to say who was in the upper nobility and who wasn't, it had become more difficult by the turn of the 19th century.
+
+Three concepts came into play:
+# [[Imperial immediacy|immediacy]] (''Reichsunmittelbarkeit''),
+# sovereignty over a territory (''Landeshoheit''),
+# a seat and vote at the Imperial Diet (''Reichsstandschaft'').
+
+The three were "usually" related, in that the sovereign of a territory was a state of the Empire, and a state of the Empire usually had sovereignty over an immediate territory; but there were exceptions both ways. Various authors emphasized one or a combination of these elements.  Thus, Runde (1791) required all three; Pütter emphasized sovereignty; Gönner&lt;ref&gt;Gönner, Nikolaus Thaddäus. ''Teutsches Staatsrecht''.  Landshut : Krüll, 1804. §74.&lt;/ref&gt; and Leist&lt;ref&gt;Leist, Justus Christoph. ''Lehrbuch des Teutschen Staatsrechts''. Göttingen : Schneider, 1803.  §32.&lt;/ref&gt; emphasized seat and vote at the Diet.  Among 19th century authors, the main division was between those who required all three criteria, and those who considered ''Reichsstandschaft'' to be the sole criterion (Hohler, Klüber, Zoepf, Rehm).
+
+Using the second, slightly broader concept, at the end of the 18th century the high nobility consisted of those families which had seat and vote at the Imperial Diet, with title of either prince or count (the last baronial family died out in 1775), numbering about 25 princely (''fürstliche'') and 80 comital (''gräfliche'') families.}}
+
+==Grouped lists==
+''The following lists are going to be included into the table above.''
+
+===Ecclesiastical orders===
+* The [[Teutonic Order]]&lt;br&gt;1529: College of Princes&lt;br&gt;1793: Council of Princes
+* The [[Knights Hospitaller|Order of St. John]]&lt;br&gt;1793: Council of Princes
+
+===Livonian territories===
+* [[Terra Mariana]] (the [[Livonian Confederation]] from 1435):
+** [[Archbishopric of Riga]] (from 1207, as Bishopric of Riga until 1255, subjugated directly to the [[Holy See]] in 1215, again from 1225, secularized and subjugated to the [[Kingdom of Poland (1385–1569)|Kingdom of Poland]] and [[Grand Duchy of Lithuania]] in 1561)
+** [[Livonian Order]] (secularized 16th century, secularized and subjugated to the [[Kingdom of Poland (1385–1569)|Kingdom of Poland]] and [[Grand Duchy of Lithuania]] in 1561)
+** [[Bishopric of Dorpat]] (from 1225, conquered by [[Russia]] in 1558)
+** [[Bishopric of Ösel-Wiek]] (from 1228, sold to [[Denmark]] in 1560)
+** [[Bishopric of Courland]] (from 1521, sold to [[Denmark]] in 1560)
+** [[Roman Catholic Diocese of Reval]] (from 1521, incorporated into [[Sweden]] in 1561)
+** [[Riga]] (from 1581, in effect in 1582, incorporated into the [[Polish-Lithuanian Commonwealth|Polish-Lithuanian]] [[Duchy of Livonia]] in 1581)
+
+===Territories of old princely families===
+* [[Holstein-Gottorp]]
+** [[Holstein-Gottorp-Oldenburg]]
+* [[Holstein-Glückstadt]]
+
+===Italian territories===
+* [[Principality of Carrara|Carrara]]
+* [[Marquisate of Finale|Finale]]
+* [[Republic of Florence|Florence]]
+* [[Republic of Genoa|Genoa]]
+* [[County of Guastalla|Guastalla]]
+* [[Republic of Lucca|Lucca]]
+* [[Duchy of Mantua|Mantua]]
+* [[Duchy of Massa|Massa]]
+* [[Duchy of Milan|Milan]]
+* [[Duchy of Modena and Reggio|Modena and Reggio]]
+* [[Duchy of Montferrat|Montferrat]]
+* [[Duchy of Parma|Parma]]
+* [[Principality of Piedmont|Piedmont]]
+* [[Principality of Piombino|Piombino]]
+* [[Marquisate of Saluzzo|Saluzzo]]
+* [[Republic of Siena|Siena]]
+* [[Grand Duchy of Tuscany|Tuscany]]
+
+===Territories of new princely families===
+* [[Thurn und Taxis]], held Friedberg-Scheer (1754)
+
+==See also==
+* [[Imperial State]]
+* [[Imperial Circle Estates]]
+* [[List of Reichstag participants (1792)]]
+* [[Imperial Diet (Holy Roman Empire)|Imperial Diet]]
+* [[Prince-elector]]
+* [[Kleinstaaterei]]
+* [[List of historic states of Germany]] (after 1815)
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Further reading==
+===In English===
+*The Arenberg Archives and Cultural Centre.  "The Dukes of Arenberg".  [https://web.archive.org/web/20081215115146/http://www.arenbergcenter.com/en/histoire/ducs.htm].  Retrieved June 26, 2006.
+*Austrian Federal Ministry for Education, Science and Culture. "aeiou: The Annotable, Elektronic, Interactive, Osterreich (Austria), Universal Information System".  [http://www.aeiou.at/].  Retrieved June 23, 2006.
+*"Austrian and German Mediatized Houses, 1871–1919".  [https://web.archive.org/web/20090730200555/http://geocities.com/CapitolHill/Rotunda/2209/Mediatized_Families.html].  Retrieved July 4, 2006.
+*"Braunschweig – Brunswick. A history".  [http://home.ica.net/~claus/braun1.htm].  Retrieved July 6, 2006.
+*Cahoon, Benjamin M. (2000–2006).  "Europe Index" in ''WorldStatesmen.org''.  [http://www.worldstatesmen.org/EUROPE.html].  June 26, 2006.
+*Dotor, Santiago (2004).  "Historical Flags (Schleswig-Holstein, Germany)" in ''FOTW: Flags of the World Web Site''.  [http://www.crwflags.com/fotw/flags/de-sh_hi.html].  Retrieved July 3, 2006.
+*"Freiburg's History for Pedestrians" (2006).  [http://www.freiburg-madison.de/freiburg_history/].  Retrieved June 26, 2006.
+*Graz, Thomas.  "Thomas's Glassware Tour to Central Europe: Old Glasses from Old Europe" in ''German History Ring''.  [http://www.thomasgraz.net/glass/index2.html].  Retrieved June 20, 2006.
+*Hilkens, Bob (2000).  "States and Regents of the World: An Alphabetical Listing of States and Territories and their Regents in the 19th and 20th Centuries".  [https://www.webcitation.org/5kmp0GkYu?url=http://www.geocities.com/CapitolHill/Rotunda/2209/index.html.  Retrieved June 27, 2006.
+*"History of the House of Sayn".  [https://web.archive.org/web/20080209021158/http://www.sayn.de/engl/haupt_familie_en.htm].  Retrieved July 13, 2006.
+*Kane, Ed (2000).  "Castle Directory: Alphabetical Listing of German Castles and Fortifications".  [http://www.roadstoruins.com/directory.html].  Retrieved July 28, 2006.
+* The History Files: [https://web.archive.org/web/20070629014158/http://www.historyfiles.co.uk/MainEuropeIndex.htm Kingdoms of Europe].  Retrieved July 9, 2006 (Updated February 25, 2007).
+*"Lippe(-Detmold): Chronology of Lippe" in Genealogy.net.  [http://www.genealogienetz.de/reg/NRHE-WFA/lippe_chrono.html].  Retrieved June 25, 2006.
+*Martinsson, Örjan.  "Historical Atlas: Europe".  [http://www.tacitus.nu/historical-atlas/europe.htm].  Retrieved July 14, 2006.
+*"Medieval German Counties".  [https://web.archive.org/web/20070326022426/http://www.personal.psu.edu/dcj121/prosop/counts/counts.htm].  Retrieved July 9, 2006.
+*"Milestones in Pomeranian History, with particular attention to Lauenburg and Buetow".  [https://archive.is/20040328105515/http://members.tripod.com/~radde/Milestones.html].  Retrieved June 26, 2006.
+*Pantel, Mike (2000). "The History of Baden-Wurttemberg".  [http://www.pantel-web.de/bw_mirror/history/bwhist_e.htm].  Retrieved June 25, 2006.
+*Principality of Liechtenstein.  "Liechtenstein at a Glance: History".  [https://web.archive.org/web/20070103064631/http://www.liechtenstein.li/en/eliechtenstein_main_sites/portal_fuerstentum_liechtenstein/fl-lik-liechtenstein_in_kuerze/fl-lik-geschichte.htm].  Retrieved June 25, 2006.
+*Reitwiesner, William Addams (1998).  "One of the major questions about the Mediatized Houses is the word 'Mediatized'.  What does it mean?".  [https://web.archive.org/web/20070324060711/http://members.aol.com/eurostamm/mediatize.html].  Retrieved July 1, 2006.
+*Rozn, Val (1999–2003).  "The German Reigning Houses: Titles, territories, regnal chronologies".  [https://web.archive.org/web/20110707143151/http://grmrulers.angelfire.com/].  Retrieved June 9, 2006.
+*Rozn, Val (2002).  "The Imperial Nobility and the Constitution of the Holy Roman Empire".  [https://web.archive.org/web/20110707142856/http://grmrulers.angelfire.com/Constit.html].  Retrieved July 16, 2006.
+*Rozn, Val (2002).  "The Last Years of the Ancient Empire".  [https://web.archive.org/web/20110707143101/http://grmrulers.angelfire.com/last.html].  Retrieved June 24, 2006
+*[[Guy Stair Sainty|Sainty, Guy Stair]]. "European Royal Houses". [https://web.archive.org/web/20060615021551/http://www.chivalricorders.org/royalty/main.htm].  Retrieved June 23, 2006.
+*Sainty, Guy Stair.  "The Knights of Saint John in Germany".  [https://web.archive.org/web/20130930030139/http://www.chivalricorders.org/orders/stjohn/johanger.htm].  Retrieved July 1, 2006.
+*"Schaumburg-Lippe" in ''Genealogy.net''.  [http://www.genealogienetz.de/reg/NSAC/SLP/].  Retrieved June 25, 2006.
+*"Sovereigns in Germany".  [https://web.archive.org/web/20070505222117/http://home.freeuk.net/liwf/history/europe/germany/].  Retrieved June 22, 2006.
+*Voss, Hans Peter.  "History of Schleswig Holstein".  [http://www.gottschfamily.net/duchy.html].  Retrieved July 3, 2006.
+
+===In other languages===
+*Bursik, Heinrich (1998).  "Die Herrschaft Hohenberg und die Markgrafschaft Burgau".  [https://web.archive.org/web/20060221040804/http://www.tatort-tarot.de/spip/article.php3?id_article=249].  For Google-translated English version [https://translate.google.com/translate?hl=en&amp;sl=de&amp;u=http://www.tatort-tarot.de/spip/article.php3%3Fid_article%3D263&amp;sa=X&amp;oi=translate&amp;resnum=1&amp;ct=result&amp;prev=/search%3Fq%3Dgrafen%2Bvon%2Btoggenburg%26start%3D10%26hl%3Den%26lr%3D%26sa%3DN].  Retrieved July 9, 2006.
+*"Das Fürstenhaus Bentheim-Tecklenburg".  [http://www.fuerstenhaus-bentheim.de/]. For Google-translated English version, see [https://translate.google.com/translate?hl=en&amp;sl=de&amp;u=http://www.fuerstenhaus-bentheim.de/platter/platter.html&amp;sa=X&amp;oi=translate&amp;resnum=1&amp;ct=result&amp;prev=/search%3Fq%3Dgrafschaft%2Bvon%2Bbentheim-alpen%26hl%3Den%26lr%3D].  Retrieved July 11, 2006.
+*Höckmann, Thomas (2006).  "Territorial arrangement of North Rhine-Westphalia 1789". (Translation from the original in German through Google Search).  [http://66.218.71.231/language/translation/translatedPage.php?lp=de_en&amp;text=http://www.hoeckmann.de/geschichte/nrwhist.htm]{{Dead link|date=August 2018 |bot=InternetArchiveBot |fix-attempted=yes }}.  (Excellent articles and links about the States of the Holy Roman Empire).  Retrieved June 26, 2006.
+*"Mittelalterliche Genealogie im Deutschen Reich bis zum Ende der Staufer".  [https://web.archive.org/web/20080202123946/http://www.genealogie-mittelalter.de/].  Retrieved June 23, 2006.
+*Ortwein, Friedrich J. "Die Herren zu Rappoltstein" (The Lords of Rappoltstein)". [http://www.ortwein-web.de/WAS_RAP/RAPChronik/7%20Herren.pdf]{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}.  (For English translation: [http://webcache.googleusercontent.com/translate_c?hl=en&amp;u=http://www.afv-wasgovia.de/RAPHerren1/&amp;prev=/search%3Fq%3Dgrafen%2Bvon%2Brappoltstein%26hl%3Den%26lr%3D]).  Retrieved June 25, 2006.
+*"Die Reichsstände". [https://web.archive.org/web/20060615093501/http://monarchieliga.de/verfassung/00-verfassung.htm].  Retrieved July 8, 2006.
+*Wember, Heinz.  "Die Genealogie (Genealogy) von Montfort: Bludenz, Bregenz, Feldkirch, Heiligenberg, Herrenberg, Langenargen, Pfullendorf, Rheinegg, Rothenfels, Sargans, Tettnang, Tosters, Tübingen, Vaduz, Wasserburg, Werdenberg, Zollern".  [https://web.archive.org/web/20060901222813/http://www.gen.heinz-wember.de/montfort/].  Retrieved June 23, 2006.
+*[http://de.wikisource.org/wiki/Hernach_volgend_die_zehen_Krayss List of imperial circles of 1532]
+*[http://de.wikisource.org/wiki/Reichsmatrikel_von_1521 List of states of the Holy Roman Empire of 1521]
+
+==Maps and illustrations==
+*Höckmann, Thomas (2006).  "Historical maps – Germany at the end of the 18th century".  [http://www.hoeckmann.de/germany/index.htm].  Retrieved June 26, 2006.
+*Westermann, Großer Atlass zu Weltgeschichte (in German; exquisite detailed maps)
+
+==External links==
+*[https://web.archive.org/web/20060629052801/http://www.carantha.net/default.htm Carantha: History of Slovenia-Carantania]
+*[http://www.newadvent.org/cathen/index.html The Catholic Encyclopedia]
+*{{MLCC |warning=1 |url=http://fmg.ac/ |title-date= |title= Foundation for Medieval Genealogy|date=August 2012}}
+*[http://www.sardimpex.com/ Genealogie delle Dinastie Nobili Italiane] (On ruling families and polities in present-day Republic of Italy)
+*[http://www.his-data.de/ HIS DATA: Historische Herrscher der Territorien (Adel)] (German)
+*[http://webcache.googleusercontent.com/translate_c?hl=en&amp;u=http://www.his-data.de/start.htm&amp;prev=/search%3Fq%3Dhaus%2Btecklenburg%26hl%3Den%26lr%3D HIS DATA: Historical Rulers of the Territories (Aristocracy)] (English translation)
+*[http://www.fordham.edu/halsall/sbook.html Internet Medieval Sourcebook]
+*[http://www.genealogienetz.de/reg/regio.htm Regional Research in German-speaking Countries]
+*[http://www.worldstatesmen.org/ World Statesmen]
+
+{{DEFAULTSORT:List Of States In The Holy Roman Empire}}
+[[Category:German feudalism]]
+[[Category:States of the Holy Roman Empire| ]]
+[[Category:Lists of states in the Holy Roman Empire|*]]</text>
+      <sha1>1zuk1ocsq7aszasdb2f80jngjb9kmje</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,128 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Human–computer information retrieval</title>
+    <ns>0</ns>
+    <id>14473878</id>
+    <revision>
+      <id>936387995</id>
+      <parentid>917133191</parentid>
+      <timestamp>2020-01-18T14:54:03Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11414" xml:space="preserve">'''Human-computer information retrieval''' ('''HCIR''') is the study and engineering of [[information retrieval]] techniques that bring human intelligence into the [[search engine|search]] process. It combines the fields of [[human-computer interaction]] (HCI) and information retrieval (IR) and creates systems that improve search by taking into account the human context, or through a multi-step search process that provides the opportunity for human feedback.
+
+== History ==
+
+This term ''human–computer information retrieval'' was coined by [[Gary Marchionini]] in a series of lectures delivered between 2004 and 2006.&lt;ref name=march2006&gt;[http://www.asis.org/Bulletin/Jun-06/marchionini.html Marchionini, G. (2006). Toward Human-Computer Information Retrieval Bulletin, in June/July 2006 Bulletin of the American Society for Information Science]&lt;/ref&gt; Marchionini’s main thesis is that "HCIR aims to empower people to explore large-scale information bases but demands that people also take responsibility for this control by expending cognitive and physical energy."
+
+In 1996 and 1998, a pair of workshops at the [[University of Glasgow]] on [[information retrieval]] and [[human–computer interaction]] sought to address the overlap between these two fields. Marchionini notes the impact of the [[World Wide Web]] and the sudden increase in [[information literacy]] – changes that were only embryonic in the late 1990s.
+
+A few workshops have focused on the intersection of IR and HCI. The Workshop on Exploratory Search, initiated by the [[University of Maryland Human-Computer Interaction Lab]] in 2005, alternates between the [[Association for Computing Machinery]] [[Special Interest Group on Information Retrieval]] (SIGIR) and [[CHI (conference)|Special Interest Group on Computer-Human Interaction]] (CHI) conferences. Also in 2005, the [[European Science Foundation]] held an Exploratory Workshop on Information Retrieval in Context. Then, the first Workshop on Human Computer Information Retrieval was held in 2007 at the [[Massachusetts Institute of Technology]].
+
+== Description ==
+
+HCIR includes various aspects of IR and HCI. These include [[exploratory search]], in which users generally combine querying and browsing strategies to foster learning and investigation; information retrieval in context (i.e., taking into account aspects of the user or environment that are typically not reflected in a query); and interactive information retrieval, which Peter Ingwersen defines as "the interactive communication processes that occur during the retrieval of information by involving all the major participants in information retrieval (IR), i.e. the user, the intermediary, and the IR system."&lt;ref name=ingwer1992&gt;{{Cite web |url=http://vip.db.dk/pi/iri/index.htm |title=Ingwersen, P. (1992). Information Retrieval Interaction. London: Taylor Graham. |access-date=2007-11-28 |archive-url=https://web.archive.org/web/20071125164902/http://vip.db.dk/pi/iri/index.htm |archive-date=2007-11-25 |url-status=dead }}&lt;/ref&gt;
+
+A key concern of HCIR is that IR systems intended for human users be implemented and evaluated in a way that reflects the needs of those users.&lt;ref&gt;{{cite web|title=Mira working group (1996). Evaluation Frameworks for Interactive Multimedia Information Retrieval Applications |url=http://www.dcs.gla.ac.uk/mira/ |url-status=dead |archiveurl=https://web.archive.org/web/20080201153227/http://www.dcs.gla.ac.uk/mira/ |archivedate=2008-02-01 }}&lt;/ref&gt;
+
+Most modern IR systems employ a [[ranking|ranked]] retrieval model, in which the documents are scored based on the [[probability]] of the document's [[relevance (information retrieval)|relevance]] to the query.&lt;ref&gt;Grossman, D. and Frieder, O. (2004). Information Retrieval Algorithms and Heuristics. &lt;/ref&gt; In this model, the system only presents the top-ranked documents to the user. This systems are typically evaluated based on their [[Information retrieval#Average precision of precision and recall|mean average precision]] over a set of benchmark queries from organizations like the [[Text Retrieval Conference]] (TREC).
+
+Because of its emphasis in using human intelligence in the information retrieval process, HCIR requires different evaluation models – one that combines evaluation of the IR and HCI components of the system. A key area of research in HCIR involves evaluation of these systems. Early work on interactive information retrieval, such as Juergen Koenemann and [[Nicholas J. Belkin]]'s 1996 study of different levels of interaction for automatic query reformulation, leverage the standard IR measures of [[Information retrieval#Precision|precision]] and [[Information retrieval#Recall|recall]] but apply them to the results of multiple iterations of user interaction, rather than to a single query response.&lt;ref name=koene1996&gt;[http://prior.sigchi.org/chi96/proceedings/papers/Koenemann/jk1_txt.htm Koenemann, J. and Belkin, N. J. (1996). A case for interaction: a study of interactive information retrieval behavior and effectiveness. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems: Common Ground (Vancouver, British Columbia, Canada, April 13–18, 1996). M. J. Tauber, Ed. CHI '96. ACM Press, New York, NY, 205-212]&lt;/ref&gt; Other HCIR research, such as Pia Borlund's IIR evaluation model, applies a methodology more reminiscent of HCI, focusing on the characteristics of users, the details of experimental design, etc.&lt;ref name=borlund2003&gt;[http://informationr.net/ir/8-3/paper152.html Borlund, P. (2003). The IIR evaluation model: a framework for evaluation of interactive information retrieval systems. Information Research, 8(3), Paper 152]&lt;/ref&gt;
+
+== Goals ==
+HCIR researchers have put forth the following goals towards a system where the user has more control in determining relevant results.&lt;ref name=march2006/&gt;&lt;ref name=ipm2013&gt;[https://dl.acm.org/citation.cfm?id=2504017 White, R., Capra, R., Golovchinsky, G., Kules, B., Smith, C., and Tunkelang, D. (2013). Introduction to Special Issue on Human-computer Information Retrieval. Journal of Information Processing and Management 49(5), 1053-1057]&lt;/ref&gt;
+
+Systems should
+*no longer only deliver the relevant documents, but must also provide semantic information along with those documents
+*increase user responsibility as well as control; that is, information systems require human intellectual effort
+*have flexible architectures so they may evolve and adapt to increasingly more demanding and knowledgeable user bases
+*aim to be part of information ecology of personal and [[Collective memory|shared memories]] and tools rather than discrete standalone services
+*support the entire information life cycle (from creation to preservation) rather than only the dissemination or use phase
+*support tuning by end users and especially by information professionals who add value to information resources
+*be engaging and fun to use
+
+In short, information retrieval systems are expected to operate in the way that good libraries do. Systems should help users to bridge the gap between data or information (in the very narrow, granular sense of these terms) and knowledge (processed data or information that provides the context necessary to inform the next iteration of an information seeking process). That is, good libraries provide both the information a patron needs as well as a partner in the learning process — the [[information professional]] — to navigate that information, make sense of it, preserve it, and turn it into knowledge (which in turn creates new, more informed information needs).
+
+== Techniques ==
+
+The techniques associated with HCIR emphasize representations of information that use human intelligence to lead the user to relevant results. These techniques also strive to allow users to explore and digest the dataset without penalty, i.e., without expending unnecessary costs of time, mouse clicks, or context shift.
+
+Many [[search engines]] have features that incorporate HCIR techniques. [[Spelling suggestion]]s and [[query expansion|automatic query reformulation]] provide mechanisms for suggesting potential search paths that can lead the user to relevant results. These suggestions are presented to the user, putting control of selection and interpretation in the user’s hands.
+
+[[Faceted search]] enables users to navigate information [[hierarchy|hierarchically]], going from a category to its sub-categories, but choosing the order in which the categories are presented. This contrasts with traditional [[Taxonomy (general)|taxonomies]] in which the hierarchy of categories is fixed and unchanging. [[Faceted classification|Faceted navigation]], like taxonomic navigation, guides users by showing them available categories (or facets), but does not require them to browse through a hierarchy that may not precisely suit their needs or way of thinking.&lt;ref&gt;Hearst, M. (1999). User Interfaces and Visualization, Chapter 10 of Baeza-Yates, R. and Ribeiro-Neto, B., Modern Information Retrieval.&lt;/ref&gt;
+
+[[Combinatorial search#Lookahead|Lookahead]] provides a general approach to penalty-free exploration. For example, various [[web applications]] employ [[Ajax (programming)|AJAX]] to automatically complete query terms and suggest popular searches. Another common example of lookahead is the way in which search engines annotate results with summary information about those results, including both static information (e.g., [[metadata]] about the objects) and "snippets" of document text that are most pertinent to the words in the search query.
+
+[[Relevance feedback]] allows users to guide an IR system by indicating whether particular results are more or less relevant.&lt;ref&gt;Rocchio, J. (1971). Relevance feedback in information retrieval. In: Salton, G (ed), The SMART Retrieval System.&lt;/ref&gt;
+
+Summarization and [[analytics]] help users digest the results that come back from the query. Summarization here is intended to encompass any means of [[aggregate data|aggregating]] or [[data compression|compressing]] the query results into a more human-consumable form. Faceted search, described above, is one such form of summarization. Another is [[cluster analysis|clustering]], which analyzes a set of documents by grouping similar or co-occurring documents or terms. Clustering allows the results to be partitioned into groups of related documents. For example, a search for "java" might return clusters for [[Java (programming language)]], [[Java|Java (island)]], or [[Java (coffee)]].
+
+[[information visualization|Visual representation of data]] is also considered a key aspect of HCIR. The representation of summarization or analytics may be displayed as tables, charts, or summaries of aggregated data. Other kinds of [[information visualization]] that allow users access to summary views of search results include [[tag clouds]] and [[treemapping]].
+
+== Related areas ==
+* [[Video browsing|Exploratory video search]]
+* [[Information foraging]]
+
+== References ==
+
+&lt;References/&gt;
+
+==External links==
+*{{cite web|url=https://sites.google.com/site/hcirworkshop/ |title=Workshops on Human Computer Information Retrieval}}
+*{{cite web|url=http://www.chiir.org/ |title=ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR)}}
+
+{{DEFAULTSORT:Human-computer information retrieval}}
+[[Category:Information retrieval genres]]
+[[Category:Human–computer interaction]]</text>
+      <sha1>kmb8n3wod4eet2uqhu0gl9yhy0pzt4n</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -17,8 +17,6 @@ try:
 except AssertionError:
     raise EnvironmentError
 
-xml_download()
-
 # Provo a generare un WikiSearcherModule sull'indice, se l'indice non esiste lo creo e ripeto l'operazione
 try:
     searcher = WikiSearcherModule()

@@ -1,0 +1,191 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Vero Precision Engineering Ltd</title>
+    <ns>0</ns>
+    <id>41827887</id>
+    <revision>
+      <id>909646662</id>
+      <parentid>801103577</parentid>
+      <timestamp>2019-08-06T18:24:09Z</timestamp>
+      <contributor>
+        <username>Citation bot</username>
+        <id>7903804</id>
+      </contributor>
+      <minor/>
+      <comment>Alter: url. Add: date, author pars. 1-1. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].| Activated by [[User:Headbomb]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="13598" xml:space="preserve">{{Infobox 
+|image  = [[File:V.P.E. LOGO.jpg]] 
+|headerstyle  = background:#ccf;
+|header1 = Vero Precision Engineering Ltd
+|label1  =
+|label2  = Foundation
+|label3  = Location
+|label4  = Industry
+|label5  = Products
+|label6  = Key people
+|label7  = Defunct
+|data1   = 
+|data2   = 1955
+|data3   = 7 South Mill Rd, [[Southampton]], UK 
+|data4   = [[Precision engineering]]
+|data5   = Machine tools
+|data6   = Geoffrey Verdon-Roe&lt;br&gt;Lawrence Leech
+|data7   = Dissolution in 1996
+}}
+
+{{Infobox 
+|headerstyle  = background:#ccf;
+|header2 = Vero Electronics Ltd
+
+|label1  =
+|label2  =
+|label3  = Foundation
+|label4  = Location
+|label5  = Industry
+|label6  = Products
+|label7  = Defunct
+|label8  = Successors
+
+|data1  =
+|data2  =
+|data3   = 1961
+|data4   = [[Chandler's Ford]], UK 
+|data5   = [[Electronics]] 
+|data6   = [[Electronic components]]
+|data7   = Liquidation in 2009
+|data8   = [[Vero Technologies Ltd]], 
+Verotec Ltd
+}}
+
+'''Vero Precision Engineering Ltd''' (VPE) was a UK [[machine-tool]] manufacturing company which operated from premises at 7 South Mill Rd, Southampton SO15 4JW.
+
+The 1933 O.S. Map shows this location as Crown Works occupied by an [[electrical engineering]] company which by 1934 had been replaced by Weir Precision Engineering Ltd.&lt;ref&gt;GPO Telephone Directory 1934 - Volume 2 Section 9 Page 63&lt;/ref&gt;
+
+Weir Precision continued their engineering operations at South Mill Rd until 1955&lt;ref&gt;GPO Telephone Directory 1955 - Volume 2B Section 14 Page 181&lt;/ref&gt;  at which time they were taken over by High Precision Engineering Ltd - a company recently formed by Geoffrey Verdon-Roe and associates.&lt;ref&gt;{{cite web |title=Company formed|url=http://www.flightglobal.com/pdfarchive/view/1955/1955%20-%201825.html}},Flight Magazine 23 Dec 1955 p948, In Brief&lt;/ref&gt;
+
+The chairman of the new company was Sir [[Alliott Verdon-Roe]] (until his death in 1958) and managing director was his son Geoffrey Verdon-Roe.&lt;ref&gt;{{cite web |title=Portrait GVR - 1936|url=http://www.npg.org.uk/collections/search/portrait/mw213826/Geoffrey-Verdon-Roe?LinkID=mp130042&amp;role=sit&amp;rNo=0}} National Portrait Gallery website&lt;/ref&gt;   Among the names of other directors found on the VPE [[Letterhead]] were Lawrence Leech and also son Royce Verdon-Roe.&lt;ref&gt;{{cite web|title=VPE Letterhead 1959|url=http://commons.wikimedia.org/wiki/File:VPE_LETTERHEAD_1959.jpg|date=2013-12-10}},Wikimedia Commons - Tfitzp&lt;/ref&gt;
+
+To avoid confusion with another firm the company name was changed to Vero Precision Engineering Ltd. soon after [[incorporation (business)|incorporation]]&lt;ref&gt;{{cite web |title=Vero Precision Engineering Ltd Incorporated|url=https://www.duedil.com/company/00553454/v-p-e-limited}},Duedil.com website&lt;/ref&gt; - the new name following the tradition of [[acronyms]] set by Sir Alliott at [[A.V. Roe and Company]] (Avro) and [[Saunders-Roe]] Ltd (Saro).&lt;ref&gt;{{cite web |title=Company renamed|url=http://www.flightglobal.com/pdfarchive/view/1956/1956%20-%200402.html}},Flight Magazine 6 Apr 1956 p400, In Brief&lt;/ref&gt;
+
+==Engineering==
+
+From the 1955 startup VPE progressed as a top-class [[machine-tool]] design and manufacturing company with a staff of highly qualified engineers - some being of [[Swiss]] and [[Germany|German]] origin.
+
+A small sample of the wide production range of the company includes hydraulic copy milling attachments, automatic [[drilling]] machines and [[camshaft]] [[milling (grinding)|milling]] machines - as supplied respectively to: 
+   
+*   the [[de Havilland Engine Company]].&lt;ref&gt;{{cite book |title=Copy Milling|url=https://books.google.com/?id=t67vgnmxjPoC&amp;q=vero#v=snippet&amp;q=vero&amp;f=false|last1 = Information|first1 = Reed Business|date = 1962-01-11}},New Scientist No 269, 11 Jan 1962, p82&lt;/ref&gt;
+*   the Aviation Division of S. Smith and Sons (England) Ltd - later part of the present [[Smiths Group]] plc.&lt;ref&gt;{{cite web |title=Automatic drilling machine|url=http://www.emeraldinsight.com/journals.htm?issn=0002-2667&amp;volume=36&amp;issue=1&amp;articleid=1681124&amp;show=pdf&amp;PHPSESSID=h3haqo2jo5ievqiachmucf1nj2}},Aircraft Engineering and Aerospace Technology Vol. 36 Iss: 1, page 27&lt;/ref&gt;
+*  Weyburn Engineering Co Ltd, Elstead, Surrey (later acquired by [[Federal-Mogul]] Corporation&lt;ref&gt;{{cite web |title=Federal-Mogul takeover|url=https://www.duedil.com/company/00306023/federal-mogul-camshafts-limited}},Duedil.com website&lt;/ref&gt;).&lt;ref&gt;{{cite web |title=Camshaft milling machine|url=http://www.hantsphere.org.uk/ixbin/hixclient.exe?a=query&amp;p=hants&amp;f=generic_objectrecord_postsearch.htm&amp;_IXFIRST_=6060&amp;_IXMAXHITS_=1&amp;m=quick_sform&amp;tc1=b&amp;partner=hants&amp;s=zib1xOuivJa}},Machinery Lloyd (Overseas ed ), 38, 21 May 1966, p 45&lt;/ref&gt;
+The standing of Vero Precision in the industry is demonstrated by the writing of E. T. Foulds founder of The Middlesex Group when, as a competitor in the machine-tool market, he comments that VPE had one of 'the best equipped toolrooms' in the UK.&lt;ref&gt;{{cite web|title=E.T. Foulds Comment|url=http://www.middlesex.co.uk/en/book.pdf}},E.T. Foulds (2006), Middlesex Group - The First Fifty Years 1945 - 1995, Page 35&lt;/ref&gt;
+
+Shortly after taking over from Weir PE Ltd, VPE had commenced installation of [[numerical control]] (NC) for some of their machine tools and then, later in the 1950s, the need for the introduction of electronic control equipment was recognised.&lt;ref&gt;{{cite web|title=Company Progress|url=http://vads.ac.uk/diad/article.php?title=284&amp;article=d.284.38}},Design Journal 1972, page 62&lt;/ref&gt;
+
+A VPE subsidiary company, Vero N.C. Developments Ltd, also trading from South Mill Rd, was incorporated in 1968 with the name changing to Vero Advanced Products Limited in 1979. This company was concerned with the supply and installation of the machine-tool output of VPE until it closed in 1999.&lt;ref&gt;{{cite web |title=Vero N.C. Developments Ltd Incorporated |url=https://www.duedil.com/company/00935566/vero-advanced-products-limited}},Duedil.com website&lt;/ref&gt;
+
+Under new directors in 1994 the parent company name, Vero Precision Engineering Ltd, was changed to VPE Ltd to continue with the machine-tool operations.&lt;ref&gt;{{cite web |title=Vero Precision renamed|url=https://www.duedil.com/company/00553454/v-p-e-limited}},Duedil.com website&lt;/ref&gt;
+
+In 1996 VPE Ltd was brought to an end by final dissolution.&lt;ref&gt;{{cite web |title=VPE final dissolution|url=http://opencorporates.com/companies/gb/00553454}},Open Corporates website&lt;/ref&gt;
+
+==Electronics==
+
+In 1959 VPE managing director Geoffrey Verdon-Roe hired two former [[Saunders-Roe]] Ltd employees, Peter H Winter ([[aircraft designer|aircraft design]] department) and Terry Fitzpatrick (electronics division) to form an Electronics Department commissioned to investigate electronic control for the VPE machine tools.
+
+A control system based on a [[Moire pattern]] sensor feeding a [[semiconductor]] decade [[Counter (digital)|counter]] was produced but the project failed to achieve the required machining accuracy - resulting in the termination of all electronics design activity in 1960.
+
+However the Electronics Department continued to function in the short term as a result of success with the invention and development of [[Veroboard]] - a new type of universal [[printed circuit board]] which would be manufactured by the VPE machine tool department. 
+After initial production problems were overcome output rates improved and attention moved from product development to commercial activities resulting in the VPE Electronics Department being closed down.&lt;ref&gt;{{cite web |title=1961 VPE Letter|url=https://commons.wikimedia.org/wiki/File:1961_VPE_Letter.jpg|date=2014-05-25}},Wikimedia Commons - Tfitzp&lt;/ref&gt;
+
+In 1961 Vero Electronics Ltd was set up as a separate company to take over the further development, marketing and sales of Veroboard and a number of associated electronics products.&lt;ref name=vero&gt;{{cite web |title=Vero Electronics incorporated|url=http://opencorporates.com/companies/gb/00701364}},OpenCorporates website&lt;/ref&gt;  Early success for the new venture was demonstrated by their 1964 catalogues which featured Veroboard in 92 formats - together with many accessories and a rack assembly system.&lt;ref&gt;{{cite web |title=Vero Electronics Catalogue|url=https://commons.wikimedia.org/wiki/File:1964_VEROBOARD_Catalogue_-_page_1.jpg}},Wikimedia Commons - Tfitzp&lt;/ref&gt;
+
+== Company Development ==
+
+'''Vero Electronics Ltd''' was incorporated 22 Aug 1961 (as 'Company No 00701364 Limited').&lt;ref name=vero/&gt; 
+The rapid growth of the company soon necessitated removal from the VPE factory site and by 1967 Vero Electronics Ltd were in larger premises at School Close, [[Chandler's Ford]], Hampshire.&lt;ref&gt;GPO Telephone Directory 1967 - Volume 5 Section 54 Page 256&lt;/ref&gt; 
+In 1975 Vero Electronics Ltd main offices remained in Chandler's Ford and with continued expansion there were new facilities for product production in Spring Rd, [[Sholing]], Southampton, a Finishing Dept. in [[Botley, Hampshire|Botley]] plus Stores and Despatch at [[Eastleigh]].&lt;ref&gt;GPO Telephone Directory 1975 - Section 296 - Page 256&lt;/ref&gt;
+
+'''VERO Electronics GmbH''' had been established by 1964 (as a subsidiary of VERO in the UK) to market Veroboard in Germany. Production was parallel with that in the UK at a small facility set up in [[Bremen]]. 
+By 1977 VERO Electronics GmbH had also built up a power supplies division and launched 19" [[switched-mode power supplies]] for use in their 19" racks. 
+From year 2000 the company was entirely concerned with power supply products and was eventually renamed EPLAX GmbH.&lt;ref name=eplax&gt;EPLAX Company History - http://www.eplax.de/history-en-1&lt;/ref&gt;
+
+'''BICC-Vero Electronics Ltd''' was formed when major English cable-manufacturing group [[British Insulated Callender's Cables]] acquired the Vero Group in a 1979 move to enter new technology sectors.&lt;ref name=vero/&gt; 
+The Vero Electronics Ltd offices and factories remained operative in the 1975 locations until 1981&lt;ref&gt;GPO Telephone Directory 1981 - Section 296A - Page 528&lt;/ref&gt; but in 1982 the company name was changed to BICC-Vero Electronics Ltd.&lt;ref name=vero/&gt;
+
+BICC-Vero acquired the Imhof Group of England in 1986 and the "IMRAK" cabinet business was built up.&lt;ref name=verotec&gt;Verotec Company History - http://www.verotec.co.uk/about_us_history.php&lt;/ref&gt;
+The IMRAK 1400 cabinets had evolved from work on electronics enclosure systems based on the [[19-inch rack]] originally developed by Alfred lmhof Limited, [[London]].&lt;ref&gt;{{cite web |title=Imhof Racks &amp; Cabinets|url=http://www.google.com/patents/US3144265}},US Patent 3144265&lt;/ref&gt;&lt;ref&gt;GPO Telephone Directory - London Postal Area E-K Oct 1964 - Page 515&lt;/ref&gt;
+
+'''Vero Group Plc''' originated when the Vero Group was separated from BICC in a [[management buyout]] (MBO) with backing from investors&lt;ref&gt;{{cite web |title=BICC sells Vero Electronics|url=https://www.independent.co.uk/news/business/bicc-sells-vero-electronics-to-management-for-pounds-33m-1370372.html|date=1994-04-16}},The Independent, 16 Apr 1994&lt;/ref&gt; and was renamed Vero Electronics Group Ltd - the name changing to Vero Group Plc in 1995.&lt;ref name=verogrp&gt;{{cite web |title=Vero Group Renamed|url=http://www.duedil.com/company/02889677/apw-electronics-group-limited}},Duedil.com website&lt;/ref&gt;
+
+'''Applied Power, Inc.''' (The US company founded in 1910 and to become [[Actuant]] Corporation in 2001) acquired the Vero Group for $191.7 million in 1998 after sales of $170 million and earnings of $17 million had been recorded for 1997.&lt;ref&gt;{{cite web |title=Applied Power Inc. History - Late 1990s|url=http://www.fundinguniverse.com/company-histories/applied-power-inc-history/}},Funding Universe website&lt;/ref&gt;
+
+'''APW Electronics Group Plc''' was the new name for Vero Group Plc after Applied Power restructuring in 1999.&lt;ref name=verogrp/&gt; 
+In 2007 the APW Electronics Group went into administration and ceased trading.&lt;ref&gt;{{cite web |title=APW Electronics Group into administration|url=http://www.london-gazette.co.uk/issues/58265/notices/311/all=cooper;sort=oldest}},The London Gazette 2007-03-06&lt;/ref&gt;
+
+* The original company Vero Electronics Ltd (Company No 00701364 Limited) was dissolved 13 Aug 2009 - after 48 years trading.&lt;ref name=vero/&gt;
+* The South Mill Rd works site has been replaced by a housing development named Avro Close.
+
+==Successors==
+
+'''[[Vero Technologies Ltd]]''' was formed in 2003 when APW sold off the prototyping business (Veroboard).&lt;ref name="verotec"/&gt; The company is located at [[Hedge End]], Hampshire where they continue operations supplying a range of electronic components including [[stripboard]] and Veroboard.&lt;ref&gt;{{cite web |title=Vero Technologies Ltd incorporated|url=http://opencorporates.com/companies/gb/04796344}},Open Corporates website&lt;/ref&gt;
+
+'''Verotec Ltd''' was originally formed as Backplane Systems Ltd in 2005
+&lt;ref&gt;{{cite web |title=Verotec Ltd incorporated|url=http://opencorporates.com/companies/gb/05642778}},Open Corporates website&lt;/ref&gt; and acquired the [[intellectual property]] rights to many of the Vero products (other than Veroboard) from the APW administrators in 2007.&lt;ref name=verotec /&gt; In 2013 they had facilities at Chandler's Ford UK, [[Derry NH]] USA and [[Bailleul-sur-Thérain]] France&lt;ref&gt;{{cite web |title=Verotec 2013|url=http://www.verotec.co.uk/contact_us.php}},Verotec Website&lt;/ref&gt;
+
+== References ==
+
+*  '''Note''' - Duedil.com website requires registration (free)
+
+{{Reflist}}
+
+[[Category:Companies based in Southampton]]
+[[Category:Defunct engineering companies of the United Kingdom]]
+[[Category:Machine tool builders]]
+[[Category:Electronics companies of the United Kingdom]]</text>
+      <sha1>ihicg2uyeijj7x9m9duf06gtps105kt</sha1>
+    </revision>
+  </page>
+</mediawiki>

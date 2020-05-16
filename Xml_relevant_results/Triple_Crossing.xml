@@ -1,0 +1,93 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Triple Crossing</title>
+    <ns>0</ns>
+    <id>5763503</id>
+    <revision>
+      <id>953141426</id>
+      <parentid>806305349</parentid>
+      <timestamp>2020-04-25T22:19:04Z</timestamp>
+      <contributor>
+        <username>Elizabeth Linden Rahway</username>
+        <id>8778325</id>
+      </contributor>
+      <comment>See also, link to [[Historic American Engineering Record]] documentation</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2607" xml:space="preserve">[[File:Is Two over one Railroad Fare.jpg|thumb|250px|Triple Crossing in 1919]]
+
+'''Triple Crossing''' in [[Richmond, Virginia]] is believed to be the only place in [[North America]] where three [[Class I railroad]]s cross at different levels at the same spot.
+
+At the lowest (ground) level, the original [[Richmond and York River Railroad]] was extended after the [[American Civil War]] to connect with the [[Richmond and Danville Railroad]], later part of the [[Southern Railway (US)|Southern Railway]] System, currently part of [[Norfolk Southern]]. The line runs east to [[West Point, Virginia]].
+
+The middle level was the main line of the [[Seaboard Air Line Railroad]], now part of [[CSX Transportation]] known as the "S" line, just south of [[Main Street Station (Richmond)|Main Street Station]]. It is planned to become part of the [[Southeast High Speed Rail Corridor]].
+
+At the top level is the [[Peninsula Subdivision Trestle]], a {{Convert|3|mi|km|adj=mid|-long}} viaduct parallel to the north bank of the [[James River (Virginia)|James River]] built by the [[Chesapeake and Ohio Railway]] in 1901 to link the former [[Richmond and Allegheny Railroad]] with C&amp;O's Peninsula Subdivision to [[Newport News, Virginia|Newport News]] and export [[coal pier]]s.
+
+The viaduct, now owned by CSX Transportation, provided an alternate path to the notoriously unstable [[Church Hill Tunnel]] which buried a work train with fatalities on October 2, 1925. A locomotive and ten [[flat car]]s remain entombed with at least one rail worker, killing several others whose bodies were eventually recovered.
+
+The triple crossing has been a Richmond attraction for railfans for over 100 years, although the number of photographic angles decreased in the 1990s due to a new flood wall.&lt;ref&gt;{{cite journal |last=Hawkins |first=Jeff |authorlink= |coauthors= |date=March 2008 |title=The Bridges of Richmond |journal=Railpace Newsmagazine |volume= |issue= |pages=47 |id= |url= |accessdate= |quote= }}&lt;/ref&gt;
+
+==See also==
+*[[List of bridges documented by the Historic American Engineering Record in Virginia]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{HAER |survey=VA-40 |id=va1317 |title=Triple Railroad Crossing, East Byrd Street at Sixteenth Street, Richmond, Independent City, VA |photos=2 |cap=1}}
+
+{{coord|37.532012|-77.431641|type:railwaystation|display=title}}
+
+[[Category:Bridges in Richmond, Virginia]]
+[[Category:Historic American Engineering Record in Virginia]]
+[[Category:Railroad bridges in Virginia]]
+[[Category:Trestle bridges in the United States]]
+[[Category:Metal bridges in the United States]]</text>
+      <sha1>i68nbs857z4rpngp9l2qt0qdxwo6cgn</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,285 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of clauses of the United States Constitution</title>
+    <ns>0</ns>
+    <id>20933545</id>
+    <revision>
+      <id>934799443</id>
+      <parentid>934632881</parentid>
+      <timestamp>2020-01-08T14:52:23Z</timestamp>
+      <contributor>
+        <username>Doug Weller</username>
+        <id>1304678</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/209.104.245.141|209.104.245.141]] ([[User talk:209.104.245.141|talk]]) to last revision by Sychonic ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="13356" xml:space="preserve">{{refimprove|date=February 2017}}
+
+The [[United States Constitution]] and its [[Amendments to the United States Constitution|amendment]]s comprise hundreds of '''[[clause]]s''' which outline the functioning of the [[United States Federal Government]], the political relationship between the states and the national government, and affect how the [[United States federal court system]] interprets the law. When a particular clause becomes an important or contentious issue of law, it is given a name for ease of reference.
+
+&lt;!-- This Anchor tag serves to provide a permanent target for incoming section links. Please do not remove it, nor modify it, except to add another appropriate anchor.  If you modify the section title, please anchor the old title. It is always best to anchor an old section header that has been changed so that links to it will not be broken. See [[Template:Anchor]] for details. This template is {{subst:Anchor comment}} --&gt;
+
+== {{anchor|Clauses of original constitution}} Clauses within the Articles ==
+
+{| class="wikitable sortable"
+|-
+! Clause Name !! Article !! Section !! Clause
+|-
+| [[Article One of the United States Constitution#Slave trade|1808 Clause]]&lt;ref name="citeme" /&gt;  || [[Article One of the United States Constitution|I]] || 9 || 1
+|-
+| [[Admissions Clause]] || [[Article Four of the United States Constitution|IV]] || 3 || 1
+|-
+| [[Advice and Consent Clause]] || [[Article Two of the United States Constitution|II]] || 2 || 2
+|-
+| [[Appointments Clause]] || [[Article Two of the United States Constitution|II]] || 2 || 2
+|-
+| [[Article One of the United States Constitution#Clause 3: Apportionment of Representatives and Taxes|Apportionment of Representatives and Taxes Clause]] || [[Article One of the United States Constitution|I]] || 2 || 3
+|-
+| [[Arisings Clause]]&lt;ref name="citeme" /&gt; || [[Article Three of the United States Constitution|III]] || 2 || 1
+|-
+| [[Necessary and Proper Clause|Basket Clause]] || [[Article One of the United States Constitution|I]] || 8 || 18
+|-
+| [[Case or Controversy Clause]] || [[Article Three of the United States Constitution|III]] || 2 || 1
+|-
+| [[Necessary and Proper Clause|Coefficient Clause]] || [[Article One of the United States Constitution|I]] || 8 || 18
+|-
+| [[Privileges and Immunities Clause|Comity Clause]] || [[Article Four of the United States Constitution|IV]] || 2 || 1
+|-
+| [[Commerce Clause]] || [[Article One of the United States Constitution|I]] || 8 || 3
+|-
+| [[Common Defense]] || [[Article One of the United States Constitution|I]] || 8 || 1
+|-
+| [[Compact Clause]] || [[Article One of the United States Constitution|I]] || 10 || 3
+|-
+| [[Contract Clause]] || [[Article One of the United States Constitution|I]] || 10 || 1
+|-
+| [[Copyright Clause]] || [[Article One of the United States Constitution|I]] || 8 || 8
+|-
+| [[Arisings Clause|Diversity (of Citizenship) Clause]]&lt;ref name="citeme" /&gt; || [[Article Three of the United States Constitution|III]] || 2 || 1
+|-
+| [[Necessary and Proper Clause|Elastic Clause]] || [[Article One of the United States Constitution|I]] || 8 || 18
+|-
+| [[Ineligibility Clause|Emoluments Clause]] || [[Article One of the United States Constitution|I]] || 6 || 2
+|-
+| [[Title of Nobility Clause|Emolument Clause]] || [[Article One of the United States Constitution|I]] || 9 || 8
+|-
+| [[Enclave Clause]]&lt;ref name="citeme" /&gt; || [[Article One of the United States Constitution|I]] || 8 || 17
+|-
+| [[Advice and Consent Clause|Excepting Clause]]&lt;ref name="citeme" /&gt; || [[Article Two of the United States Constitution|II]] || 2 || 2
+|-
+| [[Exceptions Clause]] || [[Article Three of the United States Constitution|III]] || 2 || 2
+|-
+| [[Export Clause]] || [[Article One of the United States Constitution|I]] || 10 || 2
+|-
+| [[Extradition Clause]] || [[Article Four of the United States Constitution|IV]] || 2 || 2
+|-
+| [[Take Care Clause|Faithful Execution Clause]] || [[Article Two of the United States Constitution|II]] || 3 ||  
+5 
+|-
+| [[Commerce Clause|Foreign Commerce Clause]]&lt;ref name="citeme" /&gt; || [[Article One of the United States Constitution|I]] || 8 || 3
+|-
+| [[Fugitive Slave Clause]] || [[Article Four of the United States Constitution|IV]] || 2 || 3
+|-
+| [[Full Faith and Credit Clause]] || [[Article Four of the United States Constitution|IV]] || 1 ||  
+|-
+| [[General Welfare Clause]] || [[Article One of the United States Constitution|I]] || 8 || 1
+|-
+| [[Guarantee Clause]] || [[Article Four of the United States Constitution|IV]] || 4 ||  
+|-
+| [[Impeachment in the United States|Impeachment Clause]]&lt;ref name="citeme" /&gt; || [[Article Two of the United States Constitution|II]] || 4 ||  
+|-
+| [[Article One of the United States Constitution#Clause 5: Speaker and other officers.3B Impeachment|Impeachment Clause (Power to Impeach)]]&lt;ref name="citeme" /&gt; || [[Article One of the United States Constitution|I]] || 2 || 5
+|-
+| [[Article One of the United States Constitution#Clause 7: Judgment in cases of impeachment.3B Punishment on conviction|Impeachment Clause (Effect of)]]&lt;ref name="citeme" /&gt; || [[Article One of the United States Constitution|I]] || 3 || 7
+|-
+| [[Necessary and Proper Clause|Implied Powers Clause]]&lt;ref name="citeme" /&gt; || [[Article One of the United States Constitution|I]] || 8 || 18
+|-
+| [[Export Clause|Import/Export Clause]] || [[Article One of the United States Constitution|I]] || 10 || 2
+|-
+| [[Ineligibility Clause|Incompatibility Clause]] || [[Article One of the United States Constitution|I]] || 6 || 2
+|-
+| [[Commerce Clause|Indian Commerce Clause]] || [[Article One of the United States Constitution|I]] || 8 || 3
+|-
+| [[Ineligibility Clause]] || [[Article One of the United States Constitution|I]] || 6 || 2
+|-
+| [[Commerce Clause|Interstate Commerce Clause]] || [[Article One of the United States Constitution|I]] || 8 || 3
+|-
+| [[Article Six of the United States Constitution#Oaths|Loyalty Clause]] || [[Article Six of the United States Constitution|VI]] ||   || 3
+|-
+| [[Article One of the United States Constitution#Slave trade|Migration or Importation Clause]]&lt;ref name="citeme" /&gt; || [[Article One of the United States Constitution|I]] || 9 || 1
+|-
+| [[United States nationality law|Naturalization Clause]] || [[Article One of the United States Constitution|I]] || 8 || 4
+|-
+| [[Necessary and Proper Clause]] || [[Article One of the United States Constitution|I]] || 8 || 18
+|-
+| [[New States]] || [[Article Four of the United States Constitution|IV]] || 3 || 1
+|-
+| [[Article One of the United States Constitution#Clause 3: Presidential veto|Orders, Resolutions, and Votes Clause]] || [[Article One of the United States Constitution|I]] || 7 || 3
+|-
+| [[Origination Clause]] || [[Article One of the United States Constitution|I]] || 7 || 1
+|-
+| [[Presentment Clause]] || [[Article One of the United States Constitution|I]] || 7 || 2-3
+|-
+| [[Privileges and Immunities Clause]] || [[Article Four of the United States Constitution|IV]] || 2 || 1
+|-
+| [[Article Four of the United States Constitution#Clause 2: Federal Property and Territory Clause|Property Clause]]&lt;ref name="citeme" /&gt; || [[Article Four of the United States Constitution|IV]] || 3 || 2
+|-
+| [[Qualifications Clause]]&lt;ref name="citeme" /&gt; || [[Article One of the United States Constitution|I]] || 2 || 1
+|-
+| [[Article One of the United States Constitution#Clause 3: Qualifications of Senators|Qualifications (of Senators) Clause]]&lt;ref name="citeme" /&gt; || [[Article One of the United States Constitution|I]] || 3 || 3
+|-
+| [[Article Two of the United States Constitution#Clause 5: Qualifications for office|Qualifications Clause (for Presidency)]]&lt;ref name="citeme" /&gt; || [[Article Two of the United States Constitution|II]] || 1 || 5
+|-
+| [[Reception Clause]] || [[Article Two of the United States Constitution|II]] || 3 || 4
+|-
+| [[Guarantee Clause|Republican Form Clause]] || [[Article Four of the United States Constitution|IV]] || 4 ||  
+|-
+| [[Origination Clause|Revenue Clause]] || [[Article One of the United States Constitution|I]] || 7 || 1
+|-
+| [[Ineligibility Clause|Sinecure Clause]] || [[Article One of the United States Constitution|I]] || 6 || 2
+|-
+| [[Speech or Debate Clause]] || [[Article One of the United States Constitution|I]] || 6 || 1
+|-
+| [[Taxing and Spending Clause|Spending Clause]] || [[Article One of the United States Constitution|I]] || 8 || 1
+|-
+| [[Supremacy Clause]] || [[Article Six of the United States Constitution|VI]] ||   || 2
+|-
+| [[Suspension Clause]]&lt;ref name="citeme" /&gt; || [[Article One of the United States Constitution|I]] || 9 || 2
+|-
+| [[Necessary and Proper Clause|Sweeping Clause]] || [[Article One of the United States Constitution|I]] || 8 || 18
+|-
+| [[Take Care Clause]]&lt;ref name="citeme" /&gt; || [[Article Two of the United States Constitution|II]] || 3 ||  
+|-
+| [[Taxing and Spending Clause]] || [[Article One of the United States Constitution|I]] || 8 || 1
+|-
+| [[Article Four of the United States Constitution#Clause 2: Federal Property and Territory Clause|Territorial Clause]]&lt;ref name="citeme" /&gt; || [[Article Four of the United States Constitution|IV]] || 3 || 2
+
+|-
+| [[Title of Nobility Clause]] (federal)&lt;ref name="Wexler" /&gt;{{rp|139}}|| [[Article One of the United States Constitution|I]] || 9 || 8
+|-
+| [[Compact Clause|Tonnage Clause]]&lt;ref name="citeme" /&gt; || [[Article One of the United States Constitution|I]] || 10 || 3
+|-
+| [[Treaty Clause]] || [[Article Two of the United States Constitution|II]] || 2 || 2
+|-
+| [[Taxing and Spending Clause|Uniformity Clause]] || [[Article One of the United States Constitution|I]] || 8 || 1
+|-
+| [[Vesting Clauses|Vesting Clause (Legislative)]] || [[Article One of the United States Constitution|I]] || 1 ||  
+|-
+| [[Vesting Clauses|Vesting Clause (Executive)]] || [[Article Two of the United States Constitution|II]] || 1 ||  
+|-
+| [[Vesting Clauses|Vesting Clause (Judicial)]] || [[Article Three of the United States Constitution|III]] || 1 ||  
+|-
+| [[War Powers Clause]] || [[Article One of the United States Constitution|I]] || 8 || 11
+|-
+| Weights and Measures Clause&lt;ref name=Wexler&gt;{{cite book |last1=Wexler |first1=Jay |authorlink=Jay Wexler |title=The Odd Clauses: Understanding the Constitution Through Ten of its Most Curious Provisions |date=2011 |publisher=Beacon Press |location=Boston |isbn=9780807000908}}&lt;/ref&gt;{{rp|21}} || [[Article One of the United States Constitution|I]] || 8 ||
+|}
+
+&lt;!-- This Anchor tag serves to provide a permanent target for incoming section links. Please do not remove it, nor modify it, except to add another appropriate anchor.  If you modify the section title, please anchor the old title. It is always best to anchor an old section header that has been changed so that links to it will not be broken. See [[Template:Anchor]] for details. This template is {{subst:Anchor comment}} --&gt;
+
+== {{anchor|Clauses of the Bill of Rights}} Clauses within the Amendments ==
+
+=== First Amendment ===
+* [[Establishment Clause]]
+* [[Free Exercise Clause]]
+* [[Free Speech Clause]]
+* [[First Amendment to the United States Constitution#Freedom of speech and of the press|Free Press Clause]]
+* [[First Amendment to the United States Constitution#Petition and assembly|Free Assembly Clause]]
+* [[First Amendment to the United States Constitution#Petition and assembly|Petition Clause]]
+
+=== Fourth Amendment ===
+* [[Search and seizure#United States|Search and Seizure Clause]]
+
+=== Fifth Amendment ===
+* [[Double Jeopardy Clause]]
+* [[Due Process Clause]] (along with the Fourteenth Amendment)
+* [[Self-Incrimination Clause]]
+
+=== Sixth Amendment ===
+* [[Assistance of Counsel Clause]]
+* [[Compulsory Process Clause]]
+* [[Confrontation Clause]]
+* [[Sixth Amendment to the United States Constitution#Impartial jury|Impartial Jury Clause]]
+* [[Sixth Amendment to the United States Constitution#Notice of accusation|Information Clause]]
+* [[Sixth Amendment to the United States Constitution#Public trial|Public Trial Clause]]
+* [[Speedy Trial Clause]]
+* [[Vicinage Clause]]
+
+=== Eighth Amendment ===
+* [[Excessive Bail Clause]]
+
+&lt;!-- This Anchor tag serves to provide a permanent target for incoming section links. Please do not remove it, nor modify it, except to add another appropriate anchor.  If you modify the section title, please anchor the old title. It is always best to anchor an old section header that has been changed so that links to it will not be broken. See [[Template:Anchor]] for details. This template is {{subst:Anchor comment}} --&gt;
+{{anchor|Clauses of the other Amendments}}
+
+=== Fourteenth Amendment ===
+* [[Citizenship Clause]]
+* [[Privileges or Immunities Clause]]
+* [[Due Process Clause]]
+* [[Equal Protection Clause]]
+
+=== Recurring Clauses ===
+* [[Enforcement clause]]
+
+== References ==
+{{refbegin}}
+* {{cite web|last=Garner|first=Devotion|editor-last=Nyberg|editor-first=Cheryl|title=Popular Names of Constitutional Provisions|url=https://lib.law.uw.edu/ref/consticlauses.html|website=Gallagher Law Library|publisher=University of Washington School of Law|accessdate=30 January 2017}}
+{{refend}}
+
+== Notes ==
+&lt;references&gt;
+&lt;ref name="citeme"&gt;Citation needed. (See [[#top|the notice atop this article]] for further information.)&lt;/ref&gt;
+&lt;/references&gt;
+
+{{US Constitution}}
+
+{{DEFAULTSORT:Clauses Of The United States Constitution}}
+[[Category:Clauses of the United States Constitution|*]]
+[[Category:United States law-related lists]]</text>
+      <sha1>9qpth67lrge36rp8hvh8pzwn2qejwrr</sha1>
+    </revision>
+  </page>
+</mediawiki>

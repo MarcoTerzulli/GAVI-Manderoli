@@ -1,0 +1,81 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Deep Six</title>
+    <ns>0</ns>
+    <id>8032520</id>
+    <revision>
+      <id>939872404</id>
+      <parentid>898802754</parentid>
+      <timestamp>2020-02-09T06:43:57Z</timestamp>
+      <contributor>
+        <ip>202.128.90.39</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1303" xml:space="preserve">{{wiktionary|deep six}}
+'''Deep Six''' may refer to:
+
+* ''[[The Deep Six]]'', a 1958 World War II war film starring Alan Ladd
+* [[Deep Six (Marvel Comics)]], two Marvel Comics teams created in the 1930s or 40s
+* [[Deep Six (DC Comics)]], a 1971 DC Comics supervillain team
+* [[Deep Six (novel)|''Deep Six'' (novel)]], a 1984 Dirk Pitt adventure novel by Clive Cussler
+* [[Deep Six (G.I. Joe)]], a fictional character created in 1984 in the G.I. Joe universe'
+* [[Deep Six (Alberta politics)]], a group of fiscally conservative members of the Legislative Assembly of Alberta, Canada, formed in 1993
+* ''[[Deepsix]]'', science fiction novel by Jack McDevitt published in 2000
+* [[Teen Titans (season 1)#Episodes|''Deep Six'']], an episode of the 2003 TV series ''Teen Titans''
+* Deep Six, a signature move of the professional wrestler [[Baron Corbin|King Corbin]] who turned professional in 2012
+
+== Music ==
+* [[Deep Six (album)|''Deep Six'' (album)]], a 1986 compilation album of Seattle alternative rock bands
+* [[Deep Six (song)|"Deep Six" (song)]], a song by Marilyn Manson from the 2015 album ''[[The Pale Emperor]]''
+* "Deep Six", a song by Matthew Good Band on the 1997 album ''[[Underdogs (album)|Underdogs]]''
+* "Deep Six", a song by Big Black from the 1984 EP ''[[Racer-X]]'
+
+{{disambiguation}}</text>
+      <sha1>5nnbiw0mvqww9jne09p45mqo9rjz6xa</sha1>
+    </revision>
+  </page>
+</mediawiki>

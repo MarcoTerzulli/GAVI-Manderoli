@@ -1,0 +1,91 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Volcano plot (statistics)</title>
+    <ns>0</ns>
+    <id>25668921</id>
+    <revision>
+      <id>950318744</id>
+      <parentid>900217316</parentid>
+      <timestamp>2020-04-11T12:47:33Z</timestamp>
+      <contributor>
+        <username>Staticshakedown</username>
+        <id>6179713</id>
+      </contributor>
+      <comment>Adding [[Wikipedia:Short description|short description]]: "Type of scatter plot" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4790" xml:space="preserve">{{short description|Type of scatter plot}}
+[[Image:volcano eg.jpg|thumb|350px|Volcano plot showing [[metabolomic]] data.  The red arrows indicate points-of-interest that display both large magnitude [[Fold change|fold-changes]] (x axis) and high statistical significance (-log10 of p value, y axis). The dashed red line shows where p = 0.05 with points above the line having p &lt; 0.05 and points below the line having p &gt; 0.05. This plot is colored such that those points having a fold-change less than 2 (log2 = 1) are shown in gray.]]
+
+In statistics, a '''volcano plot''' is a type of [[scatter-plot]] that is used to quickly identify changes in large data sets composed of replicate data.&lt;ref name="pmid12702200"&gt;{{Cite journal | doi = 10.1186/gb-2003-4-4-210| pmid = 12702200| year = 2003| last1 = Cui | first1 = X. | title = Statistical tests for differential expression in cDNA microarray experiments| journal = Genome Biology| volume = 4| issue = 4| pages = 210| last2 = Churchill | first2 = G. A. | pmc = 154570}}&lt;/ref&gt;  It plots significance versus [[Fold change|fold-change]] on the y and x axes, respectively.  These plots are increasingly common in [[List of omics topics in biology|omic]] experiments such as [[genomics]], [[proteomics]], and [[metabolomics]] where one often has a list of many thousands of replicate data points between two conditions and one wishes to quickly identify the most meaningful changes. A volcano plot combines a measure of statistical significance from a statistical test (e.g., a [[p value]] from an [[ANOVA]] model) with the magnitude of the change, enabling quick visual identification of those data-points (genes, etc.) that display large magnitude changes that are also [[Statistical significance|statistically significant]].
+
+A volcano plot is constructed by plotting the negative log of the [[p value]] on the [[y axis]] (usually base 10). This results in data points with low p values (highly significant) appearing toward the top of the plot. The [[x axis]] is the log of the [[fold change]] between the two conditions.  The log of the fold change is used so that changes in both directions appear equidistant from the center.  Plotting points in this way results in two regions of interest in the plot: those points that are found toward the top of the plot that are far to either the left- or right-hand sides. These represent values that display large magnitude fold changes (hence being left or right of center) as well as high [[statistical significance]] (hence being toward the top).
+
+Additional information can be added by coloring the points according to a third dimension of data (such as signal intensity), but this is not uniformly employed. Volcano plots are also used to graphically display a [[significance analysis of microarrays]] (SAM) gene selection criterion, an example of [[Regularization (mathematics)|regularization]].&lt;ref name="pmid23075208"&gt;{{Cite journal | doi = 10.1142/S0219720012310038| pmid = 23075208| title = Volcano plots in analyzing differential expressions with mRNA microarrays| journal = [[Journal of Bioinformatics and Computational Biology]]| volume = 10| issue = 6| pages = 1231003| year = 2012| last1 = Li | first1 = W. | authorlink1 = Wentian Li| arxiv = 1103.3434}}&lt;/ref&gt;
+
+The concept of volcano plot can be generalized to other applications, where the [[x axis]] is related to a measure of
+the strength of a statistical signal, and [[y axis]] is related to a measure of the [[statistical significance]] of the signal.
+For example, in a [[genetic association]] [[case-control]] study, such as [[Genome-wide association study]],
+a point in a volcano plot represents a [[single-nucleotide polymorphism]].
+Its x value can be the [[odds ratio]] and its y value can be -log10 of the [[p value]] from a [[Chi-square test]]
+or a Chi-square [[test statistic]].&lt;ref name="pmid23602812"&gt;{{Cite journal | doi = 10.1016/j.compbiolchem.2013.02.003| pmid = 23602812| title = Using volcano plots and regularized-chi statistics in genetic association studies| journal = [[Computational Biology and Chemistry]]| volume = 48| pages = 77–83| year = 2014| last1 = Li | first1 = W. | authorlink1 = Wentian Li| last2 = Freudenberg | first2 = J. | last3 = Suh | first3 = Y. J. | last4 = Yang | first4 = Y. | arxiv = 1308.6245}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://discover.nci.nih.gov/microarrayAnalysis/Statistical.Tests.jsp NCI Documentation describing statistical methods to analyze microarrays, including volcano plots]
+* [http://www.mathworks.com/access/helpdesk/help/toolbox/bioinfo/ref/mavolcanoplot.html Description of volcano plots at MathWorks]
+
+{{Statistics}}
+
+{{DEFAULTSORT:Volcano Plot (Statistics)}}
+[[Category:Bioinformatics]]
+[[Category:Statistical charts and diagrams]]</text>
+      <sha1>aauaq0km0mdvt9z1ogz1qtrcy79y3wo</sha1>
+    </revision>
+  </page>
+</mediawiki>

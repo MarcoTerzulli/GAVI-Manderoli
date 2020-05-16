@@ -1,0 +1,154 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Girl with Balloon</title>
+    <ns>0</ns>
+    <id>48846096</id>
+    <revision>
+      <id>955301026</id>
+      <parentid>947088059</parentid>
+      <timestamp>2020-05-07T01:52:57Z</timestamp>
+      <contributor>
+        <username>Dying</username>
+        <id>12786</id>
+      </contributor>
+      <comment>Undid revision 947088059 by [[Special:Contributions/91.155.130.132|91.155.130.132]] ([[User talk:91.155.130.132|talk]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="14643" xml:space="preserve">&lt;/noinclude&gt;{{Use dmy dates|date=September 2016}}
+{{Infobox artwork
+| title              = Girl with Balloon
+| painting_alignment = 
+| other_language_1   = 
+| other_title_1      = 
+| other_language_2   = 
+| other_title_2      = 
+| wikidata           =
+| image              = Banksy Girl and Heart Balloon (2840632113).jpg
+| image_upright      = 
+| alt                = 
+| caption            = Original mural on [[Waterloo Bridge]] in [[South Bank]] in 2004
+| artist             = [[Banksy]]
+| year               = {{start date|2002}}
+| completion_date    =  &lt;!-- For a more specific date (post-1583): {{start date|YYYY|MM|DD|df=y}} --&gt;
+| catalogue          = 
+| medium             = 
+| movement           =
+| subject            = 
+| height_metric      =  &lt;!-- (i.e. in metric units) --&gt;
+| width_metric       = 
+| length_metric      = 
+| diameter_metric    = 
+| height_imperial    =  &lt;!-- (i.e. in imperial units) --&gt;
+| width_imperial     = 
+| length_imperial    = 
+| diameter_imperial  = 
+| dimensions         = 
+| dimensions_ref     = 
+| metric_unit        = cm  &lt;!-- Note: this parameter must either use the value given or not be included --&gt;
+| imperial_unit      = in  &lt;!-- Note: this parameter must either use the value given or not be included --&gt;
+| weight             = 
+| designation        = 
+| condition          = 
+| museum             = 
+| city               = 
+| coordinates        =  &lt;!-- Only use for the coordinates (when known) of the artwork itself, i.e. not for the site, building, structure, etc where it is kept, otherwise leave blank (or omit): {{coord|LAT|LON|type:landmark|display=inline,title}} --&gt;
+| owner              = 
+| accession          = 
+| preceded_by        =  &lt;!-- preceding work by the same artist --&gt;
+| followed_by        =  &lt;!-- next work by the same artist --&gt;
+| module             = 
+| website            =  &lt;!-- Official webpage/site only: {{URL|example.com}} --&gt;
+}}
+'''''Girl with Balloon''''' (also, '''''Balloon Girl''''' or '''''Girl and Balloon''''') is a 2002-started London series of [[Stencil graffiti|stencil murals]] by the graffiti artist [[Banksy]], depicting a young girl with her hand extended toward a red heart-shaped [[Toy balloon|balloon]] carried away by the wind. The first work was on [[Waterloo Bridge]], and other murals were around London, though none remain there. Banksy has several times used variants of this design to support social campaigns: in 2005 about the [[Israeli West Bank barrier|West Bank barrier]], in 2014 about the [[Refugees of the Syrian Civil War|Syrian refugee crisis]], and also about the [[2017 United Kingdom general election|2017 UK election]]. A 2017 [[Samsung]] poll ranked ''Girl with Balloon'' as the United Kingdom's number one favourite artwork.
+
+In 2018, a framed copy of the work spontaneously shredded during an auction, by way of a mechanical device Banksy had hidden in the frame. Banksy authenticated he was responsible for the shredding and gave the altered piece a new name, ''[[Love is in the Bin]]''. Sotheby said it was "the first work in history ever created during a live auction."
+
+==History==
+[[File:BANKSY LONDON.jpg|thumb|right|This variation in London, seen above in 2006, was the last one in the city, painted over in 2007.]]
+The first mural was in 2002 at the stairs for [[Waterloo Bridge]] on the [[South Bank]] side. A number of other mural versions were also created in London, though, mostly painted over, none of the works by Banksy are remaining.&lt;ref&gt;{{Cite book|url=https://books.google.com/books?id=hxb9BgAAQBAJ&amp;pg=PT24|title=Banksy Locations &amp; Tours Volume 1: A Collection of Graffiti Locations and Photographs in London, England|last=Bull|first=Martin|date=2011-11-01|publisher=PM Press|isbn=9781604863208|language=en}}&lt;/ref&gt; A 2004 version of the mural was at an east London shop in [[Shoreditch]], sold in 2007 for £37,200 at [[Sotheby's]],&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/entertainment/6340109.stm|title=Record price for Banksy bomb art|date=8 February 2007|accessdate=17 December 2015|publisher=[[BBC News]]}}&lt;/ref&gt; and was removed by the Sincura Group in 2014 and sold for £500,000 in September 19, 2015.&lt;ref&gt;{{cite web |url=https://www.bbc.com/news/uk-england-london-26022513 |title=London Banksy Girl and Balloon mural to be removed |last=McDermott |first=Josephine |date=7 February 2014 |publisher=BBC News |accessdate=7 March 2016}}&lt;/ref&gt;
+
+Several sets of [[Edition (printmaking)|limited edition prints]] of the work were produced, which became valuable over time. An initial set of 25 signed prints was produced in 2003,&lt;ref&gt;{{Cite news|url=http://www.itv.com/news/london/2018-03-08/banksy-girl-and-balloon-canvas-smashes-auction-estimate/|title=Banksy 'Girl and Balloon' canvas smashes auction estimate|work=ITV News|access-date=2018-10-16|language=en}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.bonhams.com/auctions/24744/lot/44/|title=Bonhams : Banksy (British, born 1975) Girl and Balloon 2003|website=www.bonhams.com|language=en-gb|access-date=2018-10-16}}&lt;/ref&gt; while a set of 150 signed prints and a set of 600 unsigned prints were produced in 2004/2005.&lt;ref&gt;{{Cite web|url=http://www.picturesonwalls.com/|title=picturesonwalls|website=www.picturesonwalls.com|access-date=2018-10-16}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://www.myartbroker.com/artist/banksy/girl-with-balloon/|title=Banksy Girl With Balloon (2004), Meaning &amp; Description, My Art Broker|work=My Art Broker|access-date=2018-10-16|language=en-GB}}&lt;/ref&gt; In November 2015, one of the signed set of 150 was auctioned for £56,250, more than twice its estimated value.&lt;ref&gt;{{Cite news|url=http://www.itv.com/news/westcountry/2015-11-25/banksy-print-makes-more-than-a-picasso-at-auction/|title=Banksy print makes more than a Picasso at auction|work=ITV News|access-date=2018-10-16|language=en}}&lt;/ref&gt;
+
+In August 2005, Banksy included it as part of a series of murals on the [[Israeli West Bank barrier|West Bank barrier]], a variation called ''Balloon Debate'' of the girl [[Cluster ballooning|floating above]] the wall while holding onto a bunch of balloons.&lt;ref&gt;{{Cite web|url=http://www.bbc.com/culture/story/20171215-how-a-balloon-can-be-an-emblem-of-hope|title=How a balloon can be an emblem of hope|last=Grovier|first=Kelly|date=2017-12-15|website=BBC|language=en|access-date=2018-10-15}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.thecrimson.com/column/the-art-of-protest/article/2014/3/26/the-art-of-protest-banksy/|title=Banksy and the Wall|last=Kim|first=Adela H.|date=2014-03-26|website=The Harvard Crimson|language=en|access-date=2018-10-15}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://news.artnet.com/opinion/banksy-sothebys-art-shredded-1368280|title=Can We Just Admit That Banksy's Art-Shredding Stunt Is Actually Really Good?|last=Davis|first=Ben|date=2018-10-10|work=artnet News|access-date=2018-10-15|language=en-US}}&lt;/ref&gt;
+
+A 2009 version was sprayed directly onto the cardboard backing of an [[IKEA|Ikea]] frame.&lt;ref&gt;{{Cite news|url=https://www.bbc.com/news/entertainment-arts-17559526|title=Banksy artworks sell for £400,000|date=2012-03-30|work=BBC News|access-date=2018-10-16|language=en-GB}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.bonhams.com/auctions/20195/lot/237/|title=Bonhams : Banksy (b. 1975) Girl and Balloon 2009  signed and inscribed For Mike. Thanks on the reverse stencil spray paint on cardboard, in integral frame  54 by 74 cm. 21 1/4 by 29 1/8 in.  This work was executed in 2009.|website=www.bonhams.com|language=en-gb|access-date=2018-10-16}}&lt;/ref&gt;
+
+In March 2014, the third anniversary of the Syria conflict, Banksy reworked the painting to depict a Syrian refugee and added the [[hashtag]] #WithSyria. On 13 March, the image was projected on the [[Eiffel Tower]] and [[Nelson's Column]]. An animated video was released, featuring animation based on Banksy's work, narration by [[Idris Elba]], and music by [[Elbow (band)|Elbow]].&lt;ref&gt;{{cite web |url=https://www.independent.co.uk/arts-entertainment/art/news/banksy-reworks-girl-with-heart-balloon-to-mark-third-anniversary-of-syria-conflict-9187047.html |title=Banksy reworks girl with heart balloon to mark third anniversary of Syria conflict |author=Jess Denham |date=12 March 2014 |work=The Independent |accessdate=7 March 2016}}&lt;/ref&gt; In the following weeks, the singer [[Justin Bieber]] got a tattoo based on the original art and posted a picture of it on Instagram before deleting it. Banksy posted this picture on his Facebook page with the comment "Controversial".&lt;ref&gt;{{cite web |url=http://www.huffingtonpost.co.uk/2014/03/18/justin-bieber-banksy-tattoo-graffiti-artist_n_4984389.html |title=Justin Bieber's Banksy Tattoo Blasted By The Graffiti Artist, Sort Of |date=18 March 2014 |work=The Huffington Post UK |accessdate=7 March 2016}}&lt;/ref&gt;
+
+In July 2017, a [[Samsung]] poll of 2,000 people from the United Kingdom asked participants to rank twenty pieces of British art. The poll's results listed ''Balloon Girl'' as the people's number one favourite artwork.&lt;ref&gt;{{cite web |url=https://www.bbc.com/news/uk-england-40717821 |title=Banksy's balloon girl chosen as nation's favourite artwork |date=26 July 2017 |publisher=BBC News |accessdate=29 July 2017}}&lt;/ref&gt;
+
+===United Kingdom general election controversy===
+In early June 2017 before the [[2017 United Kingdom general election|United Kingdom general election]], Banksy introduced a variant of ''Girl with Balloon'' with the balloon coloured with the [[Union Jack]] design.&lt;ref&gt;{{cite web |url=http://www.itv.com/news/2017-06-03/banksy-offers-free-art-print-to-those-who-vote-against-the-conservatives/ |title=Banksy risks breaking election law with offer of art prints for anti-Conservative voters |publisher=[[ITV (TV network)|ITV]] |date=3 June 2017 |accessdate=10 June 2017}}&lt;/ref&gt; Banksy initially offered to send a free print of his art to registered voters in certain constituencies who could offer photographic proof they had voted against the [[Tories (British political party)|Tories]]. The offer included a disclaimer: "This print is a souvenir piece of campaign material, it is in no way meant to influence the choices of the electorate."&lt;ref&gt;{{cite web |last=O'Connor |first=Roisin |url=https://www.independent.co.uk/arts-entertainment/art/news/general-election-2017-banksy-free-print-vote-against-conservative-party-theresa-may-eu-brexit-a7772341.html |title=Banksy is offering free art to people who vote against the Tories |date=4 June 2017 |work=Independent |accessdate=10 June 2017}}&lt;/ref&gt; Banksy cancelled this offer on 6 June 2017 after the [[Electoral Commission (United Kingdom)|Electoral Commission]] warned him it could violate election [[bribery]] laws and invalidate the election's results in those constituencies.&lt;ref&gt;{{cite web |last=Morris |first=Steven |url=https://www.theguardian.com/artanddesign/2017/jun/06/bansky-free-election-artwork-bristol-withdrawn |title=Banksy forced to withdraw offer to send free artwork to non-Tory voters |date=6 June 2017 |work=The Guardian |accessdate=10 June 2017}}&lt;/ref&gt;
+
+===Shredding at auction===
+{{Main|Love is in the Bin}}
+On 5 October 2018, a 2006 framed copy of the artwork was auctioned at Sotheby's selling for £1,042,000 – a record high for the artist.&lt;ref name=martinez/&gt; Moments after the closing bid, the artwork began to self-destruct by means of a hidden mechanical paper shredder that Banksy had built into the frame bottom.&lt;ref&gt;{{cite web |url=https://www.bbc.com/news/uk-england-bristol-45770028 |title=Banksy artwork shreds itself after £1m sale at Sotheby's |date=6 October 2018 |publisher=BBC News |accessdate=6 October 2018}}&lt;/ref&gt; Only the lower half shredded. Banksy released an image of the shredding on Instagram with the words "Going, going gone..".&lt;ref&gt;{{cite news |url=https://www.theguardian.com/artanddesign/2018/oct/06/banksy-sothebys-auction-prank-leaves-art-world-in-shreds-girl-with-balloon |title=Banksy auction prank leaves art world in shreds |first=Chris |last=Johnston|date= 6 October 2018 |work=The Guardian }}&lt;/ref&gt;  Sotheby's said "We have not experienced this situation in the past where a painting spontaneously shredded",&lt;ref name=martinez&gt;{{cite web |url=https://www.yahoo.com/news/apos-appears-just-got-banksy-144105925.html |title='It Appears We Just Got Banksy-ed.' Art Piece Self Destructs After Being Sold for Over $1 Million |work=[[Time (magazine)|Time]] |agency=[[Yahoo! News]] |author=Gina Martinez |date=October 6, 2018 |accessdate=October 7, 2018}}&lt;/ref&gt; leading some market watchers to speculate the remains of the painting will be worth even more.&lt;ref&gt;{{cite web |url=https://www.apnews.com/5f8911d839ce42e6a2ffc62f2cdf6074 |title=Banksy artwork self-destructs just after $1.4 million sale |publisher=Associated Press |author=Jill Lawless |date=7 October 2018 |accessdate=8 October 2018}}&lt;/ref&gt; Banksy released a video of the shredding and how the shredder was installed into the frame in case the picture ever went up for auction.&lt;ref&gt;{{cite web |url= https://www.theguardian.com/artanddesign/video/2018/oct/07/banksy-publishes-video-detailing-auction-prank-plan-video |title= Banksy publishes video detailing auction stunt plan – video |date=7 October 2018 |work=The Guardian}}&lt;/ref&gt;
+
+The woman who won the bidding at the auction decided to go through with the purchase. The partially shredded work has been given a new title, ''Love Is in the Bin'', and was authenticated by Banksy's authentication body Pest Control. Sotheby's released a statement that called it "the first artwork in history to have been created live during an auction."&lt;ref&gt;{{cite news |url=https://www.theguardian.com/artanddesign/2018/oct/11/woman-who-bought-shredded-banksy-artwork-will-go-through-with-sale |title=Woman who bought shredded Banksy artwork will go through with purchase |first=Mattha|last= Busby|date=11 October 2018|work=The Guardian }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://news.artnet.com/market/banksy-re-authenticates-shredded-1-4-million-european-buyer-will-keep-1369852 |title=Banksy Authenticates and Renames His Shredded $1.4 Million Painting—Which the Buyer Plans to Keep|first=Eileen|last= Kinsella|date=11 October 2018 |work=artnet}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Portal|Visual arts}}
+* [https://www.youtube.com/watch?v=2VVoCxdm7T8 #WithSyria] video on [[YouTube]]
+
+{{Banksy}}
+{{Public art in London}}
+
+[[Category:2000s murals]]
+[[Category:2002 paintings]]
+[[Category:2017 controversies]]
+[[Category:Balloons (entertainment)]]
+[[Category:Children in art]]
+[[Category:Murals in London]]
+[[Category:Vandalized works of art in the United Kingdom]]
+[[Category:Works about the European migrant crisis]]
+[[Category:Works by Banksy]]</text>
+      <sha1>7vlbglulz1ux75m1373ezb18slhbcd6</sha1>
+    </revision>
+  </page>
+</mediawiki>

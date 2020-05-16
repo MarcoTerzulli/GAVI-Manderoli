@@ -1,0 +1,305 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Xbox Game Studios</title>
+    <ns>0</ns>
+    <id>456838</id>
+    <revision>
+      <id>957011161</id>
+      <parentid>956404873</parentid>
+      <timestamp>2020-05-16T15:06:23Z</timestamp>
+      <contributor>
+        <username>IceWelder</username>
+        <id>19921271</id>
+      </contributor>
+      <comment>Removing link(s) to "Windows Central": [[WP:RED]]. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="48975" xml:space="preserve">{{short description|American video game company}}
+{{Distinguish|Xbox Entertainment Studios}}
+{{Use mdy dates|date=February 2019}}
+{{Infobox company
+| name = Xbox Game Studios
+| former_name = {{Plainlist|
+* Microsoft Games (2000–2001)
+* Microsoft Game Studios (2001–2011)
+* Microsoft Studios (2011–2019)
+}}
+| logo = Xbox Game Studios.svg
+| logo_caption = 
+| type = [[Division (business)|Division]]
+| industry = [[Video game industry|Video games]]
+| predecessor = Microsoft Games Group
+| founded = {{Start date and age|2000|03}}
+| founder = &lt;!-- or: | founders = --&gt;
+| hq_location_city = [[Redmond, Washington]]
+| hq_location_country = US
+| area_served = Worldwide
+| key_people = {{Unbulleted list|Matt Booty|([[corporate vice-president]])}}
+| products = See [[List of Xbox Game Studios video games]]
+| num_employees = 
+| num_employees_year = &lt;!-- Year of num_employees data (if known) --&gt;
+| parent = [[Microsoft]]
+| subsid = See {{section link||Subsidiaries}}
+| website = {{URL|https://www.xbox.com/en-US/xbox-game-studios|xbox.com/xbox-game-studios}}
+}}
+'''Xbox Game Studios''', previously known as '''Microsoft Studios''', '''Microsoft Game Studios''', and '''Microsoft Games''', is an American [[video game publisher]] and division of [[Microsoft]] based in [[Redmond, Washington]]. It was established in March 2000, spun out from an internal Games Group, for the development and publishing of [[video game]]s for [[Microsoft Windows]]. It has since expanded to include games and other interactive entertainment for the namesake [[Xbox]] platforms, [[Windows Mobile]] and other mobile platforms, and web-based portals. As the studio grew, it has acquired and relinquished ownership of several other studios, and is the parent organization of fifteen other studios.
+
+== History ==
+
+=== As Microsoft Games and Microsoft Game Studios (2000–2011) ===
+[[File:Microsoft Game Studios.svg|thumb|Microsoft Game Studios logo (2001–2011)]]
+Prior to the formation of a dedicated game division, [[Microsoft]] had its own Games Group, and had already made some acquisitions for developers and titles. This included the acquisition of [[FASA Interactive]] in 1999 for its ''MechWarrior'' game series,&lt;ref&gt;{{cite web | url = https://money.cnn.com/1999/01/07/life/fasa/ | title = Microsoft MechWarriors | first = Chris | last = Morris | date = January 7, 1999 | accessdate = February 6, 2019 | work = [[CNN]]}}&lt;/ref&gt; [[Access Software]] the same year for its ''[[Links (series)|Links]]'' series of golf games,&lt;ref&gt;{{cite web | url = http://www.ign.com/articles/1999/04/20/microsoft-buys-access | title = Microsoft Buys Access | author = JB | date = April 19, 1999 | website = [[IGN]] | accessdate = February 4, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url = https://www.gamasutra.com/view/feature/130449/the_end_game_how_top_developers_.php | title = The End Game: How Top Developers Sold Their Studios – Part One | first = Dan Lee | last = Rogers | date = March 3, 2004 | website = [[Gamasutra]] | accessdate = February 4, 2018}}&lt;/ref&gt; and [[Aces Game Studio]], which worked on the ''[[Microsoft Flight Simulator]]'' games.&lt;ref name="Aces"&gt;{{cite web | url = https://gamasutra.com/view/news/112931/Microsoft_Makes_Big_Cuts_At_Flight_Sim_Studio.php | title = Microsoft Makes Big Cuts At ''Flight Sim'' Studio | first = Chris | last = Remo | date = January 23, 2009 | accessdate = February 7, 2019 | work = [[Gamasutra]]}}&lt;/ref&gt; The Games Group had also established long-term publishing deals with developers like [[Ensemble Studios]] (''[[Age of Empires]]'', ''[[Age of Mythology]]''),&lt;ref&gt;{{cite web | url = https://www.gamasutra.com/view/feature/168995/ensemble_studios_from_beginning_.php | title = Ensemble Studios: From Beginning to End, An Excerpt from Gamers at Work | first = Morgan | last = Ramsey | date = June 23, 2012 | accessdate = February 6, 2019 | work = [[Gamasutra]]}}&lt;/ref&gt; and [[Digital Anvil]] (''Starlancer'').&lt;ref&gt;{{cite press release | url = https://news.microsoft.com/1997/02/19/microsoft-inks-deal-with-newly-formed-digital-anvil/ | title = Microsoft Inks Deal With Newly Formed Digital Anvil | date = February 19, 1997 | accessdate = February 6, 2019 | publisher = [[Microsoft]]}}&lt;/ref&gt; Under Microsoft, FASA Interactive was renamed FASA Studio,&lt;ref name="IGN fates"&gt;{{cite web | url = https://www.ign.com/articles/2018/06/11/e3-2018-heres-what-happened-to-every-studio-microsoft-has-bought | title = E3 2018: Here's What Happened To Every Studio Microsoft Has Bought | first = Todd | last = Ciolek | date = June 11, 2018 | website = [[IGN]]}}&lt;/ref&gt;&lt;ref name="Polygon fates"&gt;{{cite web | url = https://www.polygon.com/2014/9/15/6153109/microsoft-minecraft-acquisitions | title = Microsoft's checkered history of gaming acquisitions, from Bungie to Minecraft | first = Justin | last = McElroy | date = September 15, 2014 | website = [[Polygon (website)|Polygon]]}}&lt;/ref&gt; and Access Software became Salt Lake Games Studio.&lt;ref name="RG"&gt;{{cite magazine | title = "See You on the Beach" | first = Mike | last = Bevan | magazine = [[Retro Gamer]] | issue = 120 | publisher = [[Imagine Publishing]] | pages = 58–63 | date = October 2013}}&lt;/ref&gt;
+
+Microsoft transitioned the Games Group into a wholly separate division named Microsoft Games around March 2000, along with other consolidation of games-related projects within Microsoft. This came alongside the public announcement of the first [[Xbox (console)|Xbox console]], with Microsoft Games to serve as a developer and publisher of titles for both Xbox and [[Microsoft Windows]].&lt;ref&gt;{{cite press release | url = https://news.microsoft.com/2000/03/10/xbox-brings-future-generation-games-to-life/ | title = Xbox Brings "Future-Generation" Games to Life | date = March 10, 2000 | accessdate = February 6, 2019 | publisher = [[Microsoft]]}}&lt;/ref&gt; [[Robbie Bach]], who held executive positions in Microsoft's entertainment divisions, was named senior vice-president while [[Ed Fries]], a member of the former Games Group and instrumental for some of its acquisitions, was named as vice-president of the new division.&lt;ref&gt;{{cite press release | url = https://news.microsoft.com/2000/05/10/new-game-head-of-microsofts-games-division-outlines-companys-strategy-for-pc-and-console-games/ | title = New Game: Head of Microsoft's Games Division Outlines Company's Strategy for PC and Console Games | date = May 10, 2000 | accessdate = February 6, 2019 | publisher = [[Microsoft]]}}&lt;/ref&gt;&lt;ref&gt;{{cite press release | url = https://news.microsoft.com/2000/05/10/microsoft-promotes-fries-to-vice-president-of-games-publishing/ | title = Microsoft Promotes Fries to Vice President of Games Publishing | date = May 10, 2000 | accessdate = February 6, 2019 | publisher = [[Microsoft]]}}&lt;/ref&gt; Shane Kim served as the division's general manager.&lt;ref&gt;{{cite web | url = https://www.gamespot.com/articles/qanda-microsoft-game-studios-gm-shane-kim/1100-6098664/ | title = Q&amp;A: Microsoft Game Studios' GM Shane Kim | first = Curt | last = Feldman | date = May 18, 2004 | accessdate = February 6, 2019 | work = [[GameSpot]]}}&lt;/ref&gt; In 2001, the division was renamed Microsoft Game Studios (MGS).&lt;ref&gt;{{cite web | url = https://www.ign.com/articles/2019/02/05/microsoft-studios-is-now-xbox-game-studios | title = Microsoft Studios Is Now Xbox Game Studios | first = Colin | last = Stevens | date = February 5, 2019 | website = [[IGN]]}}&lt;/ref&gt;
+
+FASA Studio and Salt Lake Games Studio remained with Microsoft Games Studios.&lt;ref name="IGN fates" /&gt;&lt;ref name="Polygon fates" /&gt; Digital Anvil and Ensemble Studios were acquired by Microsoft in 2000 and 2001, respectively.&lt;ref name="IGN fates" /&gt;&lt;ref name="Polygon fates" /&gt; One of the first major studio acquisitions following the division's formation was [[Bungie]] in June 2000, in the midst of its development of ''[[Halo: Combat Evolved]]''.&lt;ref&gt;{{cite web | url = https://www.ign.com/articles/2000/06/20/microsoftbungie-interview | title = Microsoft/Bungie Interview | date = June 19, 2000 | accessdate = February 6, 2019 | work = [[IGN]]}}&lt;/ref&gt; With the acquisition, ''Halo'', which had been planned for release on personal computers, became a Microsoft-published title as well as a launch title for the Xbox on its release in 2001.{{citation needed|date=February 2019}} [[Turn 10 Studios]] was established in 2001 for work on the ''[[Forza (series)|Forza]]'' series of racing games.&lt;ref&gt;{{cite web | url = https://arstechnica.com/gaming/2014/10/a-trip-to-turn-10-the-forza-studio-merging-car-culture-with-games/ | title = A trip to Turn 10, the ''Forza'' studio merging car culture with games | first = Jonathan M. | last = Gitlin | date = October 31, 2014 | website = [[Ars Technica]] | accessdate = February 8, 2019}}&lt;/ref&gt; In September 2002, Microsoft Games Studios acquired [[Rare (company)|Rare]], who had previously extensively developed for [[Nintendo]] platforms.&lt;ref&gt;{{cite web | url = https://www.ign.com/articles/2002/09/24/microsoft-buys-rare | title = Microsoft Buys Rare | first = Aaron | last = Boulding | date = September 24, 2002 | accessdate = February 6, 2019 | work = [[IGN]]}}&lt;/ref&gt; In 2003, Microsoft recognized that the [[EA Sports]] label was in a far stronger position to develop sports games for the Xbox console, and among realignment steps, laid off about 78 employees within Microsoft Game Studios that were developing sports games in-house, and sold Salt Lake Games Studio, now named Indie Games to [[Take-Two Interactive]] in 2004, where it became Indie Built.&lt;ref&gt;{{cite web |url=https://www.gamespot.com/articles/take-two-helps-microsoft-get-out-of-sports-game/1100-6115224/ |title=Take-Two helps Microsoft get out of sports game |first=Curt |last=Feldman |date=December 16, 2004 |website=[[GameSpot]] |accessdate=February 4, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.eurogamer.net/articles/news171204taketwosports |title=Microsoft sells off sports game studio to Take Two |author=GamesIndustry International |date=December 17, 2004 |website=[[Eurogamer]] |accessdate=February 4, 2018}}&lt;/ref&gt;
+
+[[Peter Moore (businessman)|Peter Moore]] was named in 2003 as vice-president of Microsoft's Home and Entertainment Division, which included MGS, the Xbox division, and Microsoft's home hardware market, reporting to Bach.&lt;ref&gt;{{cite web | url = https://news.microsoft.com/2003/01/20/microsoft-announces-appointment-of-peter-moore-as-corporate-vice-president-of-retail-sales-and-marketing/ | title = Microsoft Announces Appointment of Peter Moore As Corporate Vice President of Retail Sales and Marketing | date = January 20, 2003 | accessdate = February 6, 2019 | publisher = [[Microsoft]]}}&lt;/ref&gt; In addition to pulling big publishers like [[Electronic Arts]] to the Xbox platform, Moore tried to push the Xbox in Japan by courting Japanese developers with support from MGS publishing. Such games included ''[[Phantom Dust]]'' and ''[[Blinx: The Time Sweeper]]''.&lt;ref&gt;{{cite web | url = https://arstechnica.com/gaming/2007/07/aretrospective-on-peter-always-wanting-moore/ | title = A retrospective on Peter: always wanting Moore | first = Frank | last = Caron | date = July 18, 2007 | accessdate = February 6, 2019 | work = [[Ars Technica]]}}&lt;/ref&gt;
+
+Around 2004, MGS established [[Carbonated Games]] as an internal studio for the development of [[casual game]]s for Microsoft's web games portal [[MSN Games]], on the chat client [[MSN Messenger]], and on the [[Xbox Live]] platform.&lt;ref&gt;{{cite web | url = https://www.mcvuk.com/development/qa-joshua-howard-carbonated-games | title = Q&amp;A: Joshua Howard, Carbonated Games | date = July 23, 2007 | accessdate = February 7, 2019 | work = [[MCV (magazine)|MCV]]}}&lt;/ref&gt; Kim and Fries were instrumental for securing MGS' publishing deal with [[Lionhead Studios]] for their 2004 game ''[[Fable (2004 video game)|Fable]]'', which would serve as the first major role-playing game on the Xbox platform. Subsequently, in 2006, MGS acquired Lionhead Studios along with the ''Fable'' properties, as it sought to secure a ''Fable'' sequel for the upcoming [[Xbox 360]].&lt;ref&gt;{{cite web | url = https://www.eurogamer.net/articles/2016-05-12-lionhead-the-inside-story | title = Lionhead: The inside story | first = Wesley | last = Yin-Poole | date = May 12, 2016 | accessdate = February 6, 2019 | work = [[Eurogamer]]}}&lt;/ref&gt; MGS folded the staff of Digital Anvil into the larger studio in 2005, following the release of 2003's ''[[Brute Force (video game)|Brute Force]]'', and closed down the studio entirely in 2006.&lt;ref name="IGN fates" /&gt;&lt;ref name="Polygon fates" /&gt; FASA Studio was closed three-and-a-half months after the May 2007 release of their last game, ''[[Shadowrun (2007 video game)|Shadowrun]]''.&lt;ref name="IGN fates" /&gt;&lt;ref name="Polygon fates" /&gt;
+
+In 2007, MGS announced the opening of a European office in [[Reading, Berkshire|Reading]], England, headed by general manager [[Phil Spencer (Microsoft)|Phil Spencer]].&lt;ref&gt;{{cite web | url = https://www.gamasutra.com/view/news/104747/New_Microsoft_Game_Studios_Office_For_Europe.php | title = New Microsoft Game Studios Office For Europe | first = David | last = Jenkins | website = [[Gamasutra]]}}&lt;/ref&gt; Moore opted to leave Microsoft in July 2007, as to move back to the San Francisco Bay area with his family and to rejoin Electronic Arts. [[Don Mattrick]] was named as his replacement as the new vice-president of the Xbox and Games Business, which included MGS.&lt;ref&gt;{{cite web | url = https://www.destructoid.com/confirmed-peter-moore-leaving-microsoft-replaced-by-don-mattrick-35558.phtml | title = Confirmed: Peter Moore leaving Microsoft, replaced by Don Mattrick | first = Jim | last = Sterling | authorlink = Jim Sterling | date = July 17, 2007 | website = [[Destructoid]]}}&lt;/ref&gt; Later in 2007, Bungie amenably split from MGS to become a privately held independent company, with MGS retaining the rights to the ''Halo'' property.&lt;ref&gt;{{cite news | url = https://www.seattletimes.com/business/microsoft-halo-maker-bungie-split/ | title = Microsoft, "Halo" maker Bungie split | first = Benjamin | last = Romano | date = October 6, 2007 | website = [[The Seattle Times]]}}&lt;/ref&gt; Bungie continued to develop two additional ''Halo'' games for MGS, ''[[Halo 3: ODST]]'' (2009) and ''[[Halo: Reach]]'' (2010).&lt;ref name="gamasutra-07/09 reports"&gt;{{cite web | url = https://www.gamasutra.com/view/news/115522/Reports_Halo_Reach_Bungies_Last_Halo_Game_More.php | title = Reports: ''Halo: Reach'' Bungie's Last ''Halo'' Game, More | first = Christian | last = Nutt | date = July 24, 2009 | website = [[Gamasutra]]}}&lt;/ref&gt; Simultaneously, MGS founded [[343 Industries]] as an internal studio to develop future ''Halo'' games without Bungie.&lt;ref&gt;{{cite magazine | title = Studio Profile: 343 Industries | magazine = [[Edge (magazine)|Edge]] | publisher = [[Future Publishing]] | first = Edward | last = Smith | issue = 300 | year = 2016 | pages = 94–97}}&lt;/ref&gt;
+
+In 2008, MGS disbanded Carbonated Games and announced the formation of internal studio [[Xbox Live Productions]] to develop "high-quality digital content" for [[Xbox Live Arcade]].&lt;ref&gt;{{cite web | last = Keiser | first = Joe | publisher = [[Next Generation (magazine)|Next-Gen.biz]] | date = May 22, 2008 | accessdate = May 22, 2008 | title = Exclusive Interview: MS to Delist XBLA Titles | url = http://www.next-gen.biz/features/exclusive-interview-ms-delist-xbla-titles | url-status = dead | archiveurl = https://web.archive.org/web/20120124190447/http://www.next-gen.biz/features/exclusive-interview-ms-delist-xbla-titles | archivedate = January 24, 2012}}&lt;/ref&gt;
+
+Microsoft as a whole announced layoffs of up to 5,000 jobs across all divisions in January 2009 due to slowing sales of personal computers as a result of the [[2007–2012 global financial crisis|late-2000s financial crisis]].&lt;ref&gt;{{cite web | url = https://www.nytimes.com/2009/01/22/technology/22iht-msft.4.19608611.html | title = Microsoft to cut 5,000 jobs in company's first major layoff | first = Ashlee | last = Vance | date = January 22, 2009 | accessdate = February 7, 2019 | work = [[The New York Times]]}}&lt;/ref&gt; Within MGS, the studio had already planned to disband Ensemble Studios after the completion of ''[[Halo Wars]]'' in early 2009,&lt;ref&gt;{{cite web | url = https://www.gamesindustry.biz/articles/microsoft-to-close-ensemble-studios | title = Microsoft to close Ensemble Studios | first = Matt | last = Martin | date = September 10, 2008 | accessdate = February 7, 2019 | work = [[GamesIndustry.biz]]}}&lt;/ref&gt; while the new layoffs led MSG to also disband Aces Game Studio.&lt;ref name="Aces" /&gt; Microsoft acquired Vancouver-based [[BigPark]] in May 2009, using the studio to develop some of the first games for the upcoming [[Kinect]] sensor for the Xbox 360.&lt;ref&gt;{{cite web | url = https://www.cbc.ca/news/technology/microsoft-to-buy-vancouver-based-game-developer-bigpark-1.832259 | title = Microsoft to buy Vancouver-based game developer BigPark | date = May 8, 2009 | accessdate = February 7, 2019 | work = [[CBC News]]}}&lt;/ref&gt; Later in 2009, Phil Spencer was promoted to corporate vice-president of MGS, in order to replace the retiring Shane Kim.&lt;ref&gt;{{cite web | url = https://www.cnet.com/news/microsofts-phil-spencer-promoted-shane-kim-retiring/ | title = Microsoft's Phil Spencer promoted, Shane Kim retiring | first = Tor | last = Thorsen | date = September 15, 2009 | accessdate = February 7, 2019 | website = [[CNET]]}}&lt;/ref&gt;
+
+In 2010, MGS formed a mobile gaming studio, [[MGS Mobile Gaming]], focused on developing gaming and entertainment multimedia for [[Windows Phone]] devices.&lt;ref&gt;{{cite web | url = http://www.develop-online.net/news/35608/Microsoft-to-self-develop-mobile-games | title = Microsoft Game Studios adds in-house mobile team | first = Rob | last = Crossley | date = August 12, 2010 | accessdate = February 7, 2019 | archiveurl = https://web.archive.org/web/20100815212452/http://www.develop-online.net/news/35608/Microsoft-to-self-develop-mobile-games | archivedate = August 15, 2010 | work = [[Develop (magazine)|Develop]]}}&lt;/ref&gt; It also expanded Rare with a second studio in Digbeth, Birmingham.&lt;ref&gt;{{cite web | url = https://www.engadget.com/2010/03/02/rare-to-build-new-studio-in-birmingham-england/ | title = Rare to build new studio in Birmingham, England | first = Richard | last = Mitchell | date = March 2, 2010 | website = [[Engadget]]}}&lt;/ref&gt;
+
+=== As Microsoft Studios (2011–2019) ===
+[[File:Microsoft Studios logo.svg|thumb|Microsoft Studios logo (2011–2019)]]
+[[File:The Splatters 03.jpg|thumb|''[[The Splatters]]'' is an [[Xbox Live Arcade]] game that was developed by a third-party studio and published by Microsoft Studios in 2012.]]
+By the [[Electronic Entertainment Expo 2011]] in June 2011, Microsoft Game Studios was quietly renamed to Microsoft Studios.&lt;ref&gt;{{cite web | url = https://www.gamespot.com/articles/e3-2011-halo-4-anchors-microsoft-press-conference/1100-6317146/ | title = E3 2011: Halo 4 anchors Microsoft press conference | first = Tor | last = Thorsen | date = June 6, 2011 | website = [[GameSpot]]}}&lt;/ref&gt; Later in 2011, Microsoft Studios acquired [[Twisted Pixel Games]].&lt;ref&gt;{{cite web | url = https://www.engadget.com/2011/10/12/microsoft-buys-indie-developer-twisted-pixel/ | title = Microsoft buys indie developer Twisted Pixel | first = Justin | last = McElroy | date = October 12, 2011 | accessdate = February 7, 2019 | work = [[Engadget]]}}&lt;/ref&gt; In early December 2011, Microsoft Studios created [[Microsoft Casual Games]], a division to revamp its past casual games for Windows (like ''[[Windows Solitaire]]'' and [[MSN Games]]) using more up-to-date software delivery platforms.
+
+In 2012, [[Phil Harrison]], the former Sony worldwide studios head, joined Microsoft as head of Microsoft Studios Europe and IEB.&lt;ref&gt;{{cite web | url = https://www.vg247.com/2012/03/13/report-phil-harrison-to-join-microsoft-as-head-of-european-games-studios/ | title = Harrison takes over MGS Europe, but not Molyneux’s job | author = Staff | date = March 13, 2012 | website = [[VG247]]}}&lt;/ref&gt; Microsoft Studios acquired developer [[Press Play (company)|Press Play]], known for developing ''[[Tentacles (video game)|Tentacles]]'' and ''[[Max &amp; the Magic Marker]]''.&lt;ref&gt;{{cite web | url = https://www.shacknews.com/article/74232/microsoft-acquires-magic-marker-dev-press-play | title = Microsoft acquires Magic Marker dev Press Play | first = Alice | last = O'Connor | date = June 6, 2012 | website = [[Shacknews]]}}&lt;/ref&gt; They also announced a new development studio in London, England.&lt;ref&gt;{{cite web | url = https://www.mcvuk.com/consoles/microsoft-to-open-new-xbox-studio-in-london | title = Microsoft to open new Xbox studio in London | first = Michael | last = French | date = July 26, 2012 | website = [[MCV (magazine)|MCV]]}}&lt;/ref&gt; Later in 2012, Microsoft downsized Microsoft Game Studios Vancouver due to the cancellation of the Kinect family title ''Project Columbia'' and announced that the ongoing development of free-to-play title ''[[Microsoft Flight]]'' had been ceased due to [[IT portfolio management|portfolio evaluation]].&lt;ref&gt;{{cite web | url = https://www.engadget.com/2012/07/25/report-microsoft-reduces-staff-at-vancouver-studio-cans-proje/ | title = Report: Microsoft reduces staff at Vancouver studio, cans 'Project Columbia' for Kinect | first = Ludwig | last = Kietzmann | date = July 25, 2012 | website = [[Engadget]]}}&lt;/ref&gt; The reduced Vancouver studios were renamed to [[Black Tusk Studios]] and tasked with making similar franchise-building title as ''Halo''.&lt;ref&gt;{{cite web | url = https://www.mcvuk.com/business/microsoft-vancouver-renamed-black-tusk-studios-is-working-on-new-triple-a-f | title = Microsoft Vancouver renamed Black Tusk Studios, is working on new triple-A franchise | first = Ben | last = Parfitt | date = November 29, 2012 | website = [[MCV (magazine)|MCV]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url = http://www.pcgamer.com/microsofts-new-black-tusk-studios-headed-by-ex-ea-devs-looking-to-make-the-next-halo/ | title = Microsoft's new Black Tusk Studios, headed by ex-EA devs, looking to make the next Halo | last = Hafer | first = T.J. | date = November 30, 2012 | website = [[PC Gamer]] | accessdate = October 12, 2016}}&lt;/ref&gt;
+
+In 2013, Microsoft established European studio [[Lift London]], a studio that would create cloud-based games for tablets, mobiles and TVs.&lt;ref&gt;{{cite web | url = http://www.eurogamer.net/articles/2013-01-10-microsoft-announces-lift-london-a-new-developer-focused-on-cloud-games-for-tablets-mobiles-and-tvs/ | title = Microsoft announces Lift London, a new developer focused on cloud games for tablets, mobiles and TVs' | url-status = dead | archiveurl = https://web.archive.org/web/20140627194251/http://www.eurogamer.net/articles/2013-01-10-microsoft-announces-lift-london-a-new-developer-focused-on-cloud-games-for-tablets-mobiles-and-tvs | archivedate = June 27, 2014}}&lt;/ref&gt; Later, they created a new "Deep Tech" team inside its Developer and Platform Evangelism (DPE) unit; the new team is charged with working with top developers outside the company to build next-generation applications on top of Microsoft platforms.&lt;ref&gt;{{cite web | url = http://www.zdnet.com/microsoft-builds-a-deep-tech-team-to-attract-next-gen-developers-7000015270/ | title = Microsoft Recruits for Deep Tech team'}}&lt;/ref&gt;
+
+While Mattrick had overseen much of the development of Microsoft's next console, the [[Xbox One]], he left in July 2013, prior to its release, to take over as CEO of [[Zynga]].&lt;ref&gt;{{cite web | url = https://arstechnica.com/gaming/2013/07/report-xbox-president-don-mattrick-will-leave-microsoft-for-zynga/ | title = Xbox President Don Mattrick leaving Microsoft to become Zynga CEO | first = Kyle | last = Orland | date = July 1, 2013 | accessdate = February 7, 2019 | work = [[Ars Technica]]}}&lt;/ref&gt; Mattrick was succeeded by [[Julie Larson-Green]], who was named the president of the Devices and Studios Engineering Group, following a realignment of Microsoft's divisions, overseeing both the Xbox hardware divisions and Microsoft Studios.&lt;ref&gt;{{cite web | url = https://www.polygon.com/2013/7/11/4513944/julie-larson-green-to-take-over-xbox-hardware-division | title = Julie Larson-Green to take over Xbox hardware division following Mattrick's departure | first = Alexa Ray | last = Correia | date = July 11, 2013 | accessdate = February 7, 2019 | work = [[Polygon (website)|Polygon]]}}&lt;/ref&gt;
+
+Early 2014 saw additional [[intellectual property]] (IP) acquisitions by Microsoft Studios, including a publishing contract with [[Undead Labs]] for their game ''[[State of Decay (video game)|State of Decay]]'',&lt;ref&gt;{{cite web | url = http://www.eurogamer.net/articles/2014-01-11-state-of-decay-dev-signs-multi-year-agreement-with-microsoft | title = State of Decay sequels on Xbox One}}&lt;/ref&gt; the rights to the ''[[Gears of War]]'' series from [[Epic Games]],&lt;ref&gt;{{cite web | url = https://news.xbox.com/en-us/2014/01/27/games-microsoft-studios-gears-of-war/ | title = Microsoft Studios acquires rights to Gears of War franchise | author = Xbox Wire Staff | website = [[Xbox Wire]] | date = January 27, 2014 | accessdate = February 12, 2014}}&lt;/ref&gt; and the ''Rise of'' IP (''[[Rise of Nations]]'' and ''[[Rise of Legends]]'') from [[Big Huge Games]].&lt;ref&gt;{{cite web | url = https://www.eurogamer.net/articles/2014-05-30-rise-of-nations-extended-edition-due-next-month-on-steam | title = Microsoft bought the rights to "Rise of" IP}}&lt;/ref&gt; Microsoft Studios assigned ''Gears of War'' to Black Tusk Studios, which was later rebranded in 2015 as The Coalition.&lt;ref&gt;{{cite web | url = https://news.xbox.com/en-us/2015/06/03/games-introducing-the-coalition/ | title = Introducing The Coalition | date = June 3, 2015 | website = [[Xbox Wire]]}}&lt;/ref&gt;
+
+[[File:Phil Spencer Xbox.jpg|thumb|right|upright|Phil Spencer, corporate vice-president of Microsoft Game Studios from 2014 to 2017]]
+Jason Holtman, who had been head of Microsoft Studios for about six months,&lt;ref&gt;{{cite web | url = https://www.eurogamer.net/articles/2014-02-13-microsofts-pc-gaming-chief-leaves-after-just-six-months | title = Microsoft's PC gaming chief leaves after just six months}}&lt;/ref&gt; left the company in February 2014, with Phil Spencer replacing him.&lt;ref&gt;{{cite web | url = http://www.eurogamer.net/articles/2014-03-31-phil-spencer-named-new-boss-of-xbox | title = Phil Spencer named new boss of Xbox}}&lt;/ref&gt; In July 2014, it was announced that [[Xbox Entertainment Studios]] would be closed in the following months; the closure was completed by October 29.&lt;ref&gt;{{cite web |url=https://www.ign.com/articles/2014/10/30/xbox-entertainment-studios-reportedly-shuttered-as-heads-leave |title=Xbox Entertainment Studios Reportedly Shuttered as Heads Leave |first=Jenna |last=Pitcher |date=October 29, 2014 |website=[[IGN]]}}&lt;/ref&gt;
+
+One of the most significant acquisitions made by Microsoft Studios was for [[Mojang]], the developers behind ''[[Minecraft]]'', in late 2014.&lt;ref name="Mojang"&gt;{{cite web | url = https://www.techradar.com/news/the-history-of-minecraft | title = The history of Minecraft | first = Alex | last = Cox | date = June 13, 2018 | website = [[TechRadar]]}}&lt;/ref&gt; Microsoft spent {{USD|2.5&amp;nbsp;[[1,000,000|billion]]}} to acquire the studio, and upon the deal's completion in November, the studio's key founding personnel, [[Markus Persson]], Jakob Porsér and Carl Manneh, departed Mojang.&lt;ref name="Mojang" /&gt; As a result, Persson became valued around {{US$|1.3&amp;nbsp;billion}}.&lt;ref&gt;{{cite web | url = https://www.recode.net/2015/8/29/11618134/minecraft-billionaire-markus-persson-hates-being-a-billionaire | title = Minecraft Billionaire Markus Persson Hates Being a Billionaire | first = Arik | last = Hesseldahl | date = August 29, 2015 | website = [[Recode]]}}&lt;/ref&gt; Microsoft Studios committed to keeping ''Minecraft'' available across multiple platforms, including rival PlayStation consoles.&lt;ref name="Mojang" /&gt;
+
+On March 4, 2015, Microsoft announced that they were merging UK-based studios, Lift London and Soho Productions for further games development, with the amalgam continuing to operate under the Lift London name.&lt;ref name="HoloLens"&gt;{{cite web | url = https://www.theverge.com/2015/3/4/8149331/microsoft-working-on-games-for-hololens | title = Hololens games on Xbox one | date = March 7, 2015 | website = [[The Verge]]}}&lt;/ref&gt; On March 7, Microsoft announced at the [[Game Developers Conference]] that [[HoloLens]] games were coming to Xbox One.&lt;ref name="HoloLens" /&gt; On March 9, Microsoft announced that Kudo Tsunoda's role was expanding and that he would be the new studio team leader for studios such as Press Play, Lift London and a new internal studio called Decisive Games. Decisive Games was previously mentioned in job postings, saying that they were hiring for work on a "beloved strategy game" for Xbox One and PC, but this is the first public acknowledgement of the team's existence as a first-party studio.&lt;ref&gt;{{cite web | url = https://www.eurogamer.net/articles/2015-03-09-kinect-and-hololens-developer-kudo-tsunoda-expands-role-at-microsoft | title = Kudo Tsunoda Expands Role at Microsoft | date = March 9, 2015 | website = [[Eurogamer]]}}&lt;/ref&gt;
+
+Twisted Pixel and Microsoft Studios agreed to split in September 2015.&lt;ref&gt;{{cite web | url = https://www.polygon.com/2015/9/30/9430077/twisted-pixel-microsoft-independent-studio-xbox | title = Splosion Man studio Twisted Pixel no longer part of Microsoft | first = Michael | last = McWhertor | date = September 30, 2015 | accessdate = February 7, 2019 | work = [[Polygon (website)|Polygon]]}}&lt;/ref&gt;
+
+Kudo Tsunoda left the Xbox division in November 2015 for the development of HoloLens and [[Microsoft Edge]], and other projects that could improve means of human interaction, including voice and gesture. Tsunoda's role was filled by Hanno Lemke and Shannon Loftis.&lt;ref&gt;{{cite web | url = http://www.polygon.com/2015/11/19/9764320/xbox-kudo-tsunoda-new-role-at-microsoft | title = Xbox's Kudo Tsunoda moves to new role at Microsoft | first = Michael | last = McWhertor | work = [[Polygon (website)|Polygon]] | date = November 19, 2015 | accessdate = November 23, 2015}}&lt;/ref&gt;
+
+In March 2016, Microsoft canceled development of two major projects: Lionhead's ''[[Fable Legends]]'' and Press Play's ''[[Knoxville (video game)|Project Knoxville]]'', shuttering both studios in the following months.&lt;ref name="nZkaX"&gt;{{cite web | url = http://news.xbox.com/2016/03/07/microsoft-studios-changes-uk-denmark/ | title = Changes at Microsoft Studios, UK and Denmark}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url = https://www.polygon.com/2016/4/29/11537392/lionhead-studios-closed | title = Lionhead Studios shuts its doors today | work = [[Polygon (website)|Polygon]] | accessdate = March 29, 2018}}&lt;/ref&gt; Around the same time, changes to Microsoft Studios' website indicated that further studios—BigPark, [[Good Science Studio]], Leap Experience Pioneers (LXP), Function Studios and State of the Art (SOTA)—had been closed; Microsoft Studios clarified that all of them had been consolidated into other Microsoft Studios teams over the past several years.&lt;ref&gt;{{cite web |url=https://www.videogamer.com/news/microsoft-studios-site-removes-5-more-studios |title=Microsoft Studios site removes 5 more studios |first=David |last=Scammell |date=March 8, 2016 |website=VideoGamer}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.gamesradar.com/more-microsoft-studios-look-theyre-might-be-canned-2/ |title=Lionhead might not be the only studio Microsoft canned: all the Kinect teams look dead |first=Leon |last=Hurley |date=March 8, 2016 |website=[[GamesRadar+]]}}&lt;/ref&gt;
+
+In September 2017, Spencer was promoted to the senior leadership team, gaining the title of "executive vice-president of gaming".&lt;ref&gt;{{cite web | title = Microsoft Xbox boss Phil Spencer just got a big promotion, and will now report directly to CEO Satya Nadella | url = http://www.businessinsider.com/microsoft-xbox-phil-spencer-gets-promoted-to-executive-vice-president-2017-9 | website = businessinsider.com | accessdate = June 24, 2018}}&lt;/ref&gt; In January 2018, Matt Booty was promoted from leader in the ''Minecraft'' games business to corporate vice-president of Microsoft Studios.&lt;ref&gt;{{cite web | title = Microsoft promoted its 'Minecraft' boss to be the new executive in charge of all Xbox game efforts | url = http://www.businessinsider.com/minecraft-matt-booty-microsoft-studios-new-xbox-boss-2018-1 | website = businessinsider.com | accessdate = June 24, 2018}}&lt;/ref&gt;
+
+On June 10, 2018, during the [[Electronic Entertainment Expo 2018]], Microsoft announced the acquisitions of [[Ninja Theory]], [[Playground Games]], [[Undead Labs]] and [[Compulsion Games]],&lt;ref&gt;{{Cite news | url = https://www.eurogamer.net/articles/2018-06-10-microsoft-buys-ninja-theory-playground-games-more | title = Microsoft buys Ninja Theory, Playground Games, more | last = Yin-Poole | first = Wesley | date = June 10, 2018 | work = Eurogamer.net | access-date = June 10, 2018 | language = en}}&lt;/ref&gt; as well as the opening of a new studio in [[Santa Monica, California]], entitled The Initiative, which would be led by the former [[Crystal Dynamics]] studio head Darrell Gallagher.&lt;ref&gt;{{Cite news | url = https://variety.com/2018/gaming/news/the-initiative-microsoft-games-1202837444/ | title = Former Crystal Dynamics Head Opens Microsoft Game Studio the Initiative | last = Crecente | first = Brian | date = June 10, 2018 | work = Variety | access-date = June 10, 2018 | language = en-US}}&lt;/ref&gt; In November, Microsoft Studios announced further acquisitions with [[Obsidian Entertainment]] and [[inXile Entertainment]].&lt;ref&gt;{{cite web | url = http://www.gamasutra.com/view/news/330417/Obsidian_inXile_acquired_by_Microsoft_Studios.php | title = Obsidian, inXile acquired by Microsoft Studios | date = November 10, 2018 | accessdate = November 10, 2018 | work = [[Gamasutra]]}}&lt;/ref&gt;
+
+=== As Xbox Game Studios (2019–present) ===
+The studio rebranded itself on February 5, 2019 as Xbox Game Studios, as to reflect Microsoft's intent to use the Xbox brand to support gaming across all the devices it supports.&lt;ref&gt;{{cite web | url = https://www.polygon.com/2019/2/5/18212551/microsoft-studios-xbox-game-studios-name | title = Microsoft Studios is now Xbox Game Studios | first = Allegra | last = Frank | date = February 5, 2019 | accessdate = February 5, 2019 | work = [[Polygon (website)|Polygon]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url = https://www.pcgamer.com/xbox-game-studios-rebranding-signals-big-changes-for-microsofts-focus-on-gaming/ | title = Xbox Game Studios rebranding signals big changes for Microsoft's focus on gaming | first = Andy | last = Chalk | date = February 5, 2019 | accessdate = February 5, 2019 | work = [[PC Gamer]]}}&lt;/ref&gt; At [[E3 2019]], Xbox Game Studios announced it had acquired [[Double Fine]],&lt;ref&gt;{{cite web |url=https://www.pcgamesn.com/psychonauts-2/double-fine-microsoft |title=Psychonauts developer Doublefine is now an Xbox Game Studio |first=Ali |last=Jones |date=June 9, 2019 |accessdate = June 9, 2019 | website=[[PCGamesN]]}}&lt;/ref&gt; and established a new internal studio dedicated to ''Age of Empires'' headed by Shannon Loftis, bringing their total studio count to fifteen.&lt;ref&gt;{{cite web | url = https://www.gamasutra.com/view/news/344426/Microsoft_has_quietly_established_a_new_Age_of_Empires_studio.php |  title = Microsoft has quietly established a new Age of Empires studio  |first = Chris | last = Kerr | date = June 10, 2019 | accessdate = June 10, 2019 | work = [[Gamasutra]] }}&lt;/ref&gt; This studio, later named World's Edge,&lt;ref&gt;{{cite web | url = https://www.destructoid.com/age-of-empires-iv-had-its-gameplay-debut-at-x019-572514.phtml | title = Age of Empires IV had its gameplay debut at X019 | first  =Jordan | last =Devore | date = November 14, 2019 | accessdate = November 14, 2019 | work = [[Destructoid]] }}&lt;/ref&gt; does not directly develop any games, but oversees efforts from external studios, such as [[Relic Entertainment]], Forgotten Empires and [[Tantalus Media]], to assure the series is being developed in the right direction, according to creative director Adam Isgreen.&lt;ref&gt;{{cite web | url = https://www.pcgamesinsider.biz/news/69560/gamescom-2019-microsofts-new-age-of-empires-arm-isnt-a-developer-firm-overseeing-other-studios-working-on-ip/ | title = Gamescom 2019 - Microsoft's new Age of Empires arm isn't a developer, firm overseeing other studios working on IP | first  =Alex | last= Calvin | date = August 20, 2019 | accessdate = August 20, 2019 | work = [[PGGamesInsider.biz]] }}&lt;/ref&gt;
+
+Booty has stated that with studios like Obsidian, Ninja Theory, and Double Fine, which have traditionally supported multiplatform games, they will determine if it makes sense for their future products to be treated as Microsoft-exclusive content for Xbox and Windows computers, or to allow these to be published across multiple platforms. That decision will be based on a "network effect", whether having these games on other platforms will better support the franchise and thus worthwhile for Microsoft to help dedicate resources towards it, such as they had with ''Minecraft''.&lt;ref&gt;{{cite web | url = https://www.gamasutra.com/view/news/348655/Multiplatform_games_from_Xboxowned_studios_must_make_sense_for_the_franchise.php | title = Multi-platform games from Xbox-owned studios must 'make sense for the franchise' | first = Alissa | last  =McAloon |date = August 13, 2019 | accessdate = August 13, 2019 | work = [[Gamasutra]] }}&lt;/ref&gt; Xbox Game Studios has allowed some of the content developed by its studios or that was previously published exclusively for the Xbox and Windows systems to be released on [[Nintendo]] systems, notably the [[Nintendo Switch]] version of ''[[Hellblade: Senua's Sacrifice]]'' from Ninja Theory, allowance for the titular characters from Rare's ''[[Banjo-Kazooie (series)|Banjo-Kazooie]]'' with ''[[Super Smash Bros. Ultimate]]'', and Switch versions of third-party titles published through the Studios such as ''[[Cuphead]]''. However, the division stated that these releases were generally "existing commitments to other platforms" that they allowed studios to honor, but they otherwise have "no plans to further expand our exclusive first party games to other consoles."&lt;ref&gt;{{cite web | url = https://www.gamesindustry.biz/articles/2019-08-20-microsoft-has-no-plans-to-release-more-xbox-exclusives-on-ps4-or-nintendo-switch | title = Microsoft has "no plans" to release more Xbox exclusives on PS4 or Nintendo Switch | first = Christopher | last= Dring | date = August 20, 2019 | accessdate = August 27, 2019 | work = [[GamesIndustry.biz]] }}&lt;/ref&gt;
+
+Near the end of 2019, with the combined fifteen studios now under Xbox Game Studios, Booty stated that they now had more games than ever to handle, and were likely not going to acquire any additional studios in the near future, stating "we've been shifting our focus inside Xbox Game Studios from acquisition and growth, to a phase of execution and delivery".&lt;ref&gt;{{cite web | url = https://www.videogameschronicle.com/news/xbox-is-shifting-focus-away-from-studio-acquisitions/ | title = Xbox is ‘shifting focus’ away from studio acquisitions | first = Andy | last = Robinson | date = November 14, 2019 | accessdate = November 15, 2019 | work = [[Video Games Chronicle]] }}&lt;/ref&gt; Additionally, as Microsoft started promotion of its fourth-generation of Xbox, including the [[Xbox Series X]], Booty stated that titles developed by Xbox Game Studios in year or two following its release will not be exclusively for the new generation of consoles, but instead will support both Xbox One and the new console, with some games receiving enhanced performance when played on the new console lineup.&lt;ref&gt;{{cite web | url = https://www.mcvuk.com/we-need-to-deliver-on-the-promises-that-we-make-xbox-game-studios-matt-booty-on-the-future-of-xbox/ | title = "All of our games… will play up and down that family of devices" – Xbox’s Matt Booty ends the next-gen exclusive as we know it | first= Seth  |last = Barton | date = January 10, 2020 | accessdate = January 10, 2020 | work =[[MCV/Develop]] }}&lt;/ref&gt;
+
+== Subsidiaries ==
+{| class="wikitable sortable"
+! Name
+! Location
+! Founded
+! Acquired
+! Notes
+|-
+| [[343 Industries]]
+| [[Redmond, Washington]], U.S.
+| 2007
+| —
+| Established to oversee the development of the ''[[Halo (series)|Halo]]'' science fiction media franchise following the departure of [[Bungie Studios]]. Named after the ''Halo'' character 343 Guilty Spark. 
+|-
+| [[Compulsion Games]]
+| [[Montreal, Quebec]], Canada
+| 2009
+| 2018
+| Games include ''[[Contrast (video game)|Contrast]]'' and ''[[We Happy Few (video game)|We Happy Few]]''.
+|-
+| [[Double Fine]]
+| [[San Francisco, California]], U.S.
+| 2000
+| 2019
+| Founded by [[Tim Schafer]] after his departure from [[LucasArts]]. Games include: ''[[Psychonauts]]'', ''[[Brütal Legend]]'', ''[[Broken Age]]''. Double Fine has also been able to acquire rights to remaster some of the earlier LucasArts adventure games, including ''[[Grim Fandango]]'', ''[[Day of the Tentacle]]'', and ''[[Full Throttle (1995 video game)|Full Throttle]]''.
+|-
+| [[inXile Entertainment]]
+| [[Newport Beach, California]], U.S.
+| 2002
+| 2018
+| Founded by [[Brian Fargo]] and specializing in RPG games. Titles prior to acquisition include the ''[[Wasteland (video game)|Wasteland]]'' series and ''[[The Bard's Tale|Bard's Tale]]'' series.
+|-
+| [[Mojang]]
+| [[Stockholm]], Sweden
+| 2009
+| 2014
+| Developers of ''[[Minecraft]]'', the best-selling video game of all time.
+|-
+| [[Ninja Theory]]
+| [[Cambridge]], England
+| 2000
+| 2018
+| Considered an "Independent AAA" studio prior to acquisition. Games include ''[[Kung Fu Chaos]]'', ''[[Heavenly Sword]]'', ''[[Enslaved: Odyssey to the West]]'', ''[[DmC: Devil May Cry]]'', and ''[[Hellblade: Senua's Sacrifice]]''.
+|-
+| [[Obsidian Entertainment]]
+| [[Irvine, California]], U.S.
+| 2003
+| 2018
+| Specializes in RPG games like ''[[The Outer Worlds]]'', Obsidian previously worked on licensed games like ''[[Fallout: New Vegas]]'', ''[[Dungeon Siege III]]'', and ''[[South Park: The Stick of Truth]]''.
+|-
+| [[Playground Games]]
+| [[Leamington Spa]], England
+| 2010
+| 2018
+| Worked with [[Turn 10 Studios]] on the ''[[Forza (series)|Forza Horizon]]'' series. Currently in development with an unannounced RPG game.&lt;ref&gt;{{cite web | url = https://www.windowscentral.com/playground-games-hiring-177-developers-new-aaa-open-world-rpg | title = Playground Games hiring 177 developers for new AAA open world RPG | first = Asher | last = Madan | date = September 27, 2018 | website = Windows Central}}&lt;/ref&gt;
+|-
+| [[Rare (company)|Rare]]
+| [[Twycross]], England
+| 1985
+| 2002
+| Developer of several franchises prior to acquisition, including ''[[Battletoads]]'', ''[[Killer Instinct]]'', ''[[Banjo-Kazooie (series)|Banjo-Kazooie]]'', ''[[Conker (series)|Conker]]'', ''[[Perfect Dark (series)|Perfect Dark]]''. Under Microsoft, has developed several games like ''[[Grabbed by the Ghoulies]], [[Kameo|Kameo: Elements of Power]]'', the ''[[Viva Piñata]]'' series, ''[[Rare Replay]]'' and ''[[Sea of Thieves]]''.
+|-
+| [[The Coalition (company)|The Coalition]]
+| [[Vancouver, British Columbia]], Canada
+| 2010
+| —
+|Formerly called Black Tusk Studios, renamed to Microsoft Studios Vancouver on acquisition to work on ''[[Microsoft Flight]]''. Following the 2014 Microsoft acquisition of the ''[[Gears of War]]'' series from [[Epic Games]], the studio was renamed to The Coalition and put in charge of future ''Gears'' games.
+|-
+| The Initiative
+| [[Santa Monica, California]], U.S.
+| 2018
+| —
+| Established to act as a first-party developer similar in role to [[SIE Worldwide Studios|Sony's SIE Worldwide Studios]]. Led by [[Crystal Dynamics]] veteran Darrell Gallagher.&lt;ref&gt;{{Cite web|url=https://www.pcgamesinsider.biz/news/69112/who-is-working-at-microsofts-new-the-initiative-studio/|title=Who is working at Microsoft's new The Initiative studio?|last=Calvin|first=Alex|date=2019-06-05|website=PC Games Insider|url-status=live|archive-url=|archive-date=|access-date=2019-10-07}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url = https://www.ign.com/articles/2018/11/20/sunset-overdrive-director-joins-microsofts-new-aaaa-studio | title = Sunset Overdrive Director Joins Microsoft's New 'AAAA' Studio | first = Joe | last  =Skrebels | date = November 20, 2018 | accessdate = November 15, 2019 | work = [[IGN]] }}&lt;/ref&gt;
+|-
+| [[Turn 10 Studios]]
+| [[Redmond, Washington]], U.S.
+| 2001
+| —
+| Established by Microsoft to develop the ''[[Forza (series)|Forza Motorsport]]'' series.
+|-
+| [[Undead Labs]]
+| [[Seattle, Washington]], U.S.
+| 2009
+| 2018
+| Established with sole focus on the zombie-based ''[[State of Decay (video game)|State of Decay]]'' series.
+|-
+| World's Edge
+| [[Redmond, Washington]], U.S.
+| 2019
+| —
+| Created internally within Xbox Game Studios to commit more resources and dedicated leadership to the ''[[Age of Empires]]'' franchise.&lt;ref&gt;{{cite web | url = https://news.xbox.com/en-us/2019/06/09/double-fine-productions-joins-xbox-game-studios/ | title = Double Fine Productions Joins Xbox Game Studios }}&lt;/ref&gt;
+|-
+| Xbox Game Studios Publishing
+| [[Redmond, Washington]], U.S.
+| —
+| —
+| Xbox Game Studios' first-party publishing arm.
+|}
+
+=== Former ===
+;Sold or spun off
+* [[Access Software|Access Software/Salt Lake Games Studio/Indie Games]]&amp;nbsp;— ''[[Links (series)|Links]]'' series&amp;nbsp;— Sold to [[Take-Two Interactive]] and renamed Indie Built
+* [[Bungie]]&amp;nbsp;— ''[[Halo (series)|Halo]]'' series&amp;nbsp;— Became independent
+* [[Lift London]]&amp;nbsp;— Removed from Microsoft's games business&lt;ref&gt;{{cite web | url = https://mspoweruser.com/microsofts-lift-london-is-not-defunct-social-media-closed-as-focus-is-shifted-away-from-games/ | title = Microsoft's Lift London is not defunct; social media closed as focus is shifted away from games | first = Lewis | last = White | date = January 3, 2019 | website = [[MSPoweruser]]}}&lt;/ref&gt;
+* [[Twisted Pixel Games]]&amp;nbsp;— ''[[The Gunstringer]]'', ''[[LocoCycle]]'', ''[[The Maw]]'', ''[['Splosion Man]]'' series&amp;nbsp;— Became independent
+
+;Closed or consolidated
+* [[Aces Game Studio]]&amp;nbsp;— ''[[Microsoft Flight Simulator]]'' series&amp;nbsp;— Closed
+* [[BigPark]]&amp;nbsp;— ''[[Kinect Joy Ride]]'', ''[[Joy Ride Turbo]]''&amp;nbsp;— Consolidated
+* Carbonated Games&amp;nbsp;— Closed
+* [[Digital Anvil]]&amp;nbsp;— ''[[Brute Force (video game)|Brute Force]]'', ''[[Freelancer (video game)|Freelancer]]''&amp;nbsp;— Consolidated [https://www.gamespot.com/articles/digital-anvil-melted-down/1100-6140687/]
+* [[Ensemble Studios]]&amp;nbsp;— ''[[Age of Empires]]'' series, ''[[Age of Mythology]]'' series, ''[[Halo Wars]]''&amp;nbsp;— Closed
+* [[FASA Studio]]&amp;nbsp;— ''[[MechWarrior (video game series)|MechWarrior]]'' series, ''[[Shadowrun (2007 video game)|Shadowrun]]'', [[Crimson Skies]] series&amp;nbsp;— Closed
+* Function Studios&amp;nbsp;— Kinect and HoloLens games&amp;nbsp;— Consolidated
+* Good Science Studio&amp;nbsp;— ''[[Kinect Adventures]]'', ''[[Kinect Fun Labs]]'', ''[[Kinect Star Wars]]''&amp;nbsp;— Consolidated
+* Hired Gun&amp;nbsp;— ''[[Halo 2#Windows version|Halo 2]]'' PC port&amp;nbsp;— Consolidated&lt;ref&gt;{{cite web | url = https://www.gamespot.com/articles/halo-2-pc-going-offline-next-month/1100-6402546/ | title = Halo 2 PC going offline next month | first = Eddie | last = Makuch | date = January 17, 2013 | website = [[GameSpot]]}}&lt;/ref&gt;
+* Leap Experience Pioneers (LXP)&amp;nbsp;— Kinect and HoloLens games&amp;nbsp;— Consolidated
+* [[Lionhead Studios]]&amp;nbsp;— ''[[Fable (video game series)|Fable]]'' series, ''[[Black &amp; White (series)|Black &amp; White]]'' series&amp;nbsp;— Closed
+* Microsoft Studios Victoria&amp;nbsp;— Closed
+* [[Press Play (company)|Press Play]]&amp;nbsp;— ''[[Max: The Curse of Brotherhood]]'', ''[[Kalimba (video game)|Kalimba]]''&amp;nbsp;— Closed
+* Soho Productions — Consolidated
+* State of the Art (SOTA)&amp;nbsp;— Kinect and HoloLens games&amp;nbsp;— Consolidated
+* Team Dakota&amp;nbsp;— ''[[Project Spark]]''&amp;nbsp;— Consolidated
+*&amp;nbsp;Xbox Live Productions — Consolidated (Publishing arm)
+* 
+*
+
+== Games published ==
+{{Main|List of Xbox Game Studios video games}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official website|https://www.xbox.com/en-US/xbox-game-studios}}
+* {{Curlie|Games/Video_Games/Developers_and_Publishers/M/Microsoft/}}
+
+{{Xbox Game Studios}}
+{{Microsoft video gaming}}
+{{Microsoft}}
+{{Major video game companies}}
+{{Authority control}}
+
+[[Category:2000 establishments in Washington (state)]]
+[[Category:Academy of Interactive Arts &amp; Sciences members]]
+[[Category:Companies based in Redmond, Washington]]
+[[Category:First-party video game developers]]
+[[Category:Microsoft divisions]]
+[[Category:Xbox|Game Studios]]
+[[Category:Video game companies established in 2000]]
+[[Category:Video game companies of the United States]]
+[[Category:Video game development companies]]
+[[Category:Video game publishers]]</text>
+      <sha1>71l2ues1s9m9fiu753lq1budw2jdh7p</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,324 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lunar distance (astronomy)</title>
+    <ns>0</ns>
+    <id>899115</id>
+    <revision>
+      <id>956994859</id>
+      <parentid>954757023</parentid>
+      <timestamp>2020-05-16T13:08:41Z</timestamp>
+      <contributor>
+        <username>Rjwilmsi</username>
+        <id>203434</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */Journal cites:, added 1 PMID</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32579" xml:space="preserve">{{about|the average distance from the Earth to the [[Moon]]|its other use in navigation|Lunar distance (navigation)}}
+
+{{Infobox unit
+| name = Lunar distance
+| image = Lunar perigee apogee.png
+| caption = A lunar distance, {{val|384402|ul=km}}, is the Moon's average distance to Earth. The actual distance varies over the course of [[orbit of the Moon|its orbit]]. The image compares the Moon's [[angular diameter|apparent size]] when it is [[supermoon|closest]] and farthest from Earth.
+| standard     = [[astronomy]]
+| quantity     = [[distance]]
+| symbol       = LD
+| symbol2      = &lt;math display="inline"&gt; \Delta_{\oplus L}&lt;/math&gt;
+| units1       = [[SI base unit]]
+| inunits1     = {{val|384402|e=3|u=m}}
+| units2       = [[Metric system]]
+| inunits2     = {{val|384402|u=km}} 
+| units3       = [[English units]]
+| inunits3     = {{val|238856|u=mile}}
+| units4       = [[Astronomical unit]]
+| inunits4     = {{val|0.002569|u=au}}
+}}
+
+'''Lunar distance''' ('''LD''' or &lt;math display="inline"&gt; \Delta_{\oplus L}&lt;/math&gt;), also called '''Earth–Moon distance''', '''Earth–Moon characteristic distance''', or '''distance to the Moon''', is a [[unit of measure]] in [[astronomy]]. It is the average distance from the center of [[Earth]] to the center of the [[Moon]]. More technically, it is the mean [[semi-major axis]] of the geocentric [[orbit of the Moon|lunar orbit]]. It may also refer to the time-averaged distance between the centers of the Earth and the Moon, or less commonly, the instantaneous Earth–Moon distance. The lunar distance is approximately {{val|400000|u=km}}, or a quarter of a million miles.
+
+The mean semi-major axis has a value of {{convert|384402|km|mi|abbr=on}}.{{r|Apache Point}} The time-averaged distance between Earth and Moon centers is {{convert|385000.6|km|mi|abbr=on}}. The actual distance varies over the course of the [[orbit of the Moon]], from {{convert|356500|km|mi|abbr=on}} at the [[perigee]] to {{convert|406700|km|mi|abbr=on}} at [[apogee]], resulting in a differential range of {{convert|50200|km|mi|abbr=on}}.{{r|millimeter challenge}}
+
+Lunar distance is commonly used to express the distance to [[near-Earth object]] encounters.{{r|NEO}} Lunar distance is also an important astronomical datum; the precision of this measurement to a few parts in a trillion has implications for testing gravitational theories such as [[general relativity]],{{r|Relativity}} and for refining other astronomical values such as [[Earth mass]],{{r|moonbounce}} [[Earth radius]],{{r|Fischer}} and Earth's rotation.{{r|LLR}} The measurement is also useful in characterizing the [[lunar radius]], the [[Solar mass|mass of the Sun]] and the [[Astronomical unit|distance to the Sun]].
+
+Millimeter-[[Accuracy and precision|precision]] measurements of the lunar distance are made by measuring the time taken for light to travel between [[LIDAR]] stations on the Earth and [[retroreflector]]s placed on the Moon. The Moon is spiraling away from the Earth at an average rate of {{convert|3.8|cm|in|abbr=on}} per year, as detected by the [[Lunar Laser Ranging Experiment]].{{r|drift1|drift2|drift3}}
+
+==Value==
+[[File:Earth-Moon.png|thumb|right|upright=4|Distance between the [[Earth]] and [[Moon]] – sizes and distance to scale.]]
+{| class="wikitable"
+|+ Lunar distance expressed in selected units
+|-
+! Unit
+! Mean value
+! Uncertainty
+! Ref
+|-
+| [[meter]]
+| {{val|3.84402|e=8}}
+| {{val|1.1|u=mm}}
+| align="center" |{{r|Apache Point}}
+|-
+| [[kilometer]]
+| {{val|384402}}
+| {{val|1.1|u=mm}}
+| align="center" |{{r|Apache Point}}
+|-
+| [[mile]]
+| {{convert|384402|km|mi|sigfig=6|disp=number}}
+| {{convert|1.1|mm|in|sigfig=2|disp=out}}
+| align="center" |{{r|Apache Point}}
+|-
+| [[Earth radius]]
+| 60.32 
+| 
+| align="center" |{{r|Dream of West}}
+|-
+| [[Astronomical unit|AU]]
+| {{sfrac|388.6}} {{=}} {{val|0.00257}}
+| 
+| align="center" |{{r|Sea's Edge|Fact Sheet}}
+|-
+| [[light-second]]
+| {{val|1.282|u=s}}
+| {{val|37.5|ul=ps}}
+| align="center" |{{r|Apache Point}}
+|}
+
+*An AU is {{val|389}} Lunar distances.{{r|Groten}}
+*A lightyear is {{val|24611700}} Lunar distances.{{r|Groten}}&lt;ref name="IAU measuring"&gt;{{cite web |title=International Astronomical Union {{!}} IAU |url=https://www.iau.org/public/themes/measuring/ |website=www.iau.org |accessdate=5 May 2019}}&lt;/ref&gt;
+
+== Variation ==
+The instantaneous lunar distance is constantly changing. In fact the true distance between the Moon and Earth can change as quickly as {{val|75|u=meters per second}},{{r|millimeter challenge}} or more than {{val|1000|u=km}} in just 6 hours, due to its non-circular orbit.{{r|Zuluaga}} There are other effects that also influence the lunar distance. Some factors are described in this section.
+
+=== Perturbations and eccentricity ===
+The distance to the Moon can be measured to an accuracy of {{val|2|u=mm}} over a 1-hour sampling period,{{r|APOLLO Analysis}} which results in an overall uncertainty of {{val|2|–|3|u=cm}} for the average distance. However, due to [[Orbit of the Moon|its elliptical orbit]] with varying eccentricity, the instantaneous distance varies with monthly periodicity. Furthermore, the distance is perturbed by the gravitational effects of various astronomical bodies – most significantly the Sun and less so Jupiter. Other forces responsible for minute perturbations are: gravitational attraction to other planets in the solar system and to asteroids; tidal forces; and relativistic effects.{{r|integration}} The effect of [[Yarkovsky effect|radiation pressure]] from the Sun contributes an amount of ±{{val|3.6|u=mm}} to the lunar distance.{{r|APOLLO Analysis}}
+
+Although the instantaneous uncertainty is sub-millimeter, the measured lunar distance can change by more than {{val|21000|u=km}} from the mean value throughout a typical month. These perturbations are well understood{{r|DE431}} and the lunar distance can be accurately modeled over thousands of years.{{r|integration}}
+
+[[File:Moon-Earth distance, Moon phases.gif|thumb|upright=3|left|The Moon's distance from the [[Earth]] and [[Lunar phase|Moon phases]] in 2014.&lt;br&gt;Moon phases: 0 (1) – [[new moon]], 0.25 – first quarter, 0.5 – [[full moon]], 0.75 – last quarter.]]
+[[File:Moon's orbit - Variation of distance en.png|thumb|right|upright=1.28|Variation of the distance between the centers of the [[Moon]] and the [[Earth]] over 700 days.]]
+{{clear}}
+
+=== Tidal dissipation ===
+Through the action of [[tidal forces]], the [[angular momentum]] of Earth's rotation is slowly being transferred to the Moon's orbit.{{r|paleoceanography}} The result is that Earth's rate of spin is imperceptibly decreasing (at a rate of {{val|2.3|u=milliseconds/century}}),{{r|space.com}} and the lunar orbit is gradually expanding. The current rate of recession is {{val|3.805|0.004|u=cm per year}}.{{r|DE431}} However, it is believed that this rate has recently increased, as a rate of {{val|3.8|u=cm/yr}} would imply that the Moon is only 1.5&amp;nbsp;billion years old, whereas scientific consensus assumes an age of about 4 billion years.{{r|Precambrian}} It is also believed that this anomalously high rate of recession may continue to accelerate.{{r|Lunar Orbit Evolution}}
+
+It is predicted that the lunar distance will continue to increase until (in theory) the Earth and Moon become [[Tidal locking|tidally locked]], as are Pluton and Charon. This would occur when the duration of the lunar orbital period equals the rotational period of Earth, which is estimated to be 47 of our current days. The two bodies would then be at equilibrium, and no further rotational energy would be exchanged. However, models predict that 50&amp;nbsp;billion years would be required to achieve this configuration,{{r|tidal lock}} which is significantly longer than the [[Red giant#The Sun as a red giant|expected lifetime of the solar system]].
+
+=== Orbital history ===
+Laser measurements show that the average lunar distance is increasing, which implies that the Moon was closer in the past, and that Earth's days were shorter. Fossil studies of mollusk shells from the [[Campanian]] era (80 million years ago) show that there were 372 days (of 23 h 33 min) per year during that time, which implies that the lunar distance was about 60.05 Earth radius, i.e. {{convert|383000|km|miles|abbr=on}}.&lt;ref name = "paleoceanography"&gt;{{cite journal |last1=Winter |first1=Niels J. |last2=Goderis |first2=Steven |last3=Van Malderen |first3=Stijn J.M. |last4=Sinnesael |first4=Matthias |last5=Vansteenberge |first5=Stef |last6=Snoeck |first6=Christophe |last7=Belza |first7=Joke |last8=Vanhaecke |first8=Frank |last9=Claeys |first9=Philippe |display-authors=3 |title=Subdaily‐Scale Chemical Variability in a Rudist Shell: Implications for Rudist Paleobiology and the Cretaceous Day‐Night Cycle |journal=Paleoceanography and Paleoclimatology |date=18 February 2020 |volume=35 |issue=2 |doi=10.1029/2019PA003723 |accessdate=14 March 2020|doi-access=free }}&lt;/ref&gt; There is geological evidence that the average lunar distance was about {{Earth radius|52|link=yes}} (332,000 km or 205,000 miles) during the [[Precambrian|Precambrian Era]]; 2,500&amp;nbsp;million years [[Before Present|BP]].{{r|Precambrian}}
+
+The [[Origin of the Moon|giant impact hypothesis]], a widely accepted theory, states that the Moon was created as a result of a catastrophic impact between Earth and another planet, resulting in a re-accumulation of fragments at an initial distance of {{Earth radius|3.8}} (15,000 miles).{{r|Impact}} In this theory, the initial impact is assumed to have occurred 4.5&amp;nbsp;billion years ago.{{r|TheiaPothesis}}
+
+== History of measurement ==
+Until the late 1950s all measurements of lunar distance were based on [[optical angular measurement]]s: the earliest accurate measurement was by [[Hipparchus]] in the 2nd century BC. The space age marked a turning point when the accuracy of our knowledge of this value was much improved. During the 1950s and 1960s, there were experiments using radar, lasers, spacecraft, and computer modeling.{{r|DE 102}}
+
+This section is intended to illustrate some of the historically significant or otherwise interesting methods of determining the lunar distance, and is not intended to be an exhaustive or all-encompassing list.
+
+=== Parallax ===
+The oldest method of determining the lunar distance involved measuring the angle between the Moon and a chosen reference point from multiple locations, simultaneously. The synchronization can be coordinated by making measurements at a pre-determined time, or during an event which is observable to all parties. Before accurate mechanical chronometers, the synchronization event was typically a [[lunar eclipse]], or the moment when the Moon crossed the meridian (if the observers shared the same longitude). This measurement technique is known as [[Parallax#Lunar parallax|lunar parallax]].
+
+For increased accuracy, certain adjustments must be made, such as adjusting the measured angle to account for refraction and distortion of light passing through the atmosphere.
+
+==== Lunar eclipse ====
+Early attempts to measure the distance to the Moon exploited observations of a lunar eclipse combined with knowledge of Earth's radius and an understanding that the Sun is much further than the Moon. By observing the geometry of a lunar eclipse, the lunar distance can be calculated using [[trigonometry]].
+
+The earliest accounts of attempts to measure the lunar distance using this technique were by Greek astronomer and mathematician [[Aristarchus of Samos]] in the 4th century BC{{r|Gutzwiller}} and later by [[Hipparchus]], whose calculations produced a result of {{Earth radius|59–67}} ({{val|233000|-|265000|u=mi}}).{{r|transit}} This method later found its way into the work of [[Ptolemy]],{{r|Measuring the Universe}} who produced a result of {{Earth radius|{{frac|64|1|6}}}} ({{val|253000|u=mi}}) at its farthest point.{{r|Helden}}
+
+==== Meridian crossing ====
+An expedition by French astronomer [[Andrew Claude de la Cherois Crommelin|A.C.D. Crommelin]] observed lunar [[meridian transit]]s on the same night from two different locations. Careful measurements from 1905–1910 measured the angle of elevation at the moment when a specific lunar crater ([[Mösting (crater)|Mösting A]]) crossed the local meridian, from stations at [[Greenwich]] and at [[Cape of Good Hope]], which share nearly the same longitude.{{r|Commelin}} A distance was calculated with an uncertainty of {{val|30|u=km}}, and this remained the definitive lunar distance value for the next half century.
+
+==== Occultations ====
+By recording the instant when the Moon [[Occultation|occults]] a background star, (or similarly, measuring the angle between the moon and a background star at a predetermined moment) the lunar distance can be determined, as long as the measurements are taken from multiple locations of known separation.
+
+Astronomers [[John A. O'Keefe (astronomer)|O'Keefe]] and Anderson calculated the lunar distance by observing four occultations from nine locations in 1952.{{r|O'Keefe}} They calculated a mean distance of {{val|384407.6|4.7|u=km}}. This value was refined in 1962 by [[Irene Fischer]], who incorporated updated [[Geodesy|geodetic]] data to produce a value of {{val|384403.7|2|u=km}}.{{r|Fischer}}
+
+=== Radar ===
+An experiment was conducted in 1957 at the U.S. Naval Research Laboratory that used the echo from radar signals to determine the Earth-Moon distance. Radar pulses lasting {{val|2|u=us}} were broadcast from a {{val|50|u=foot}} diameter radio dish. After the radio waves echoed off the surface of the Moon, the return signal was detected and the delay time measured. From that measurement, the distance could be calculated. In practice, however, the [[signal-to-noise ratio]] was so low that an accurate measurement could not be reliably produced.{{r|Radar1}}
+
+The experiment was repeated in 1958 at the [[Royal Radar Establishment]], in England. Radar pulses lasting {{val|5|u=us}} were transmitted with a peak power of 2&amp;nbsp;megawatts, at a repetition rate of 260 pulses per second. After the radio waves echoed off the surface of the Moon, the return signal was detected and the delay time measured. Multiple signals were added together to obtain a reliable signal by superimposing oscilloscope traces onto photographic film. From the measurements, the distance was calculated with an uncertainty of {{val|1.25|u=km}}.{{r|Radar2}}
+
+These initial experiments were intended to be proof-of-concept experiments and only lasted one day. Follow-on experiments lasting one month produced a mean value of {{val|384402|1.2|u=km}},{{r|Radar3}} which was the most accurate measurement of the lunar distance at the time.
+
+=== Laser ranging ===
+[[Image:Apollo 11 Lunar Laser Ranging Experiment.jpg|thumb|Lunar Laser Ranging Experiment from the Apollo 11 mission]]
+An experiment which measured the round-trip [[time of flight]] of laser pulses reflected directly off the surface of the Moon was performed in 1962, by a team from [[Massachusetts Institute of Technology]], and a Soviet team at the [[Crimean Astrophysical Observatory]].{{r|Lunar Laser Ranging}}
+
+During the Apollo missions in 1969, astronauts placed [[retroreflectors]] on the surface of the Moon for the purpose of refining the accuracy of this technique. The measurements are ongoing and involve multiple laser facilities. The instantaneous accuracy of the [[Lunar Laser Ranging experiment]]s can exceed sub-millimeter resolution, and is the most reliable method of determining the lunar distance, to date.
+
+=== Amateur astronomers and citizen scientists ===
+Due to the modern accessibility of accurate timing devices, high resolution digital cameras, [[GPS]] receivers, powerful computers and near-instantaneous communication, it has become possible for amateur astronomers to make high accuracy measurements of the lunar distance.
+
+On May 23, 2007 digital photographs of the Moon during a [[Occultation|near-occultation]] of [[Regulus]] were taken from two locations, in Greece and England. By measuring the [[parallax]] between the Moon and the chosen background star, the lunar distance was calculated.{{r|Citizen1}}
+
+A more ambitious project called the "Aristarchus Campaign" was conducted during the [[lunar eclipse]] of 15 April 2014.{{r|Zuluaga}} During this event, participants were invited to record a series of five digital photographs from moonrise until [[culmination]] (the point of greatest altitude).
+
+The method took advantage of the fact that the Moon is actually closest to an observer when it is at its highest point in the sky, compared to when it is on the horizon. Although it appears that the Moon is biggest when it is near the horizon, the opposite is true. This phenomenon is known as the [[Moon illusion]]. The reason for the difference in distance is that the distance from the center of the Moon to the center of the Earth is nearly constant throughout the night, but an observer on the surface of Earth is actually 1 Earth radius from the center of Earth. This offset brings them closest to the Moon when it is overhead.
+
+Modern cameras have now reached a resolution level capable of capturing the Moon with enough precision to perceive and more importantly to measure this tiny variation in apparent size. The results of this experiment were calculated as LD = {{Earth radius | {{val|60.51|3.91|4.19}}}}. The accepted value for that night was 60.61, which implied a {{Percentage | 3 }} accuracy. The benefit of this method is that the only measuring equipment needed is a modern digital camera (equipped with an accurate clock, and a GPS receiver).
+
+Other experimental methods of measuring the lunar distance that can be performed by amateur astronomers involve:
+* Taking pictures of the Moon before it enters the [[Umbra, penumbra and antumbra|penumbra]] and after it is completely eclipsed.
+* Measuring, as precisely as possible, the time of the eclipse contacts. 
+* Taking good pictures of the partial eclipse when the shape and size of the Earth shadow are clearly visible. 
+* Taking a picture of the Moon including, in the same field of view, [[Spica]] and [[Mars]] – from various locations.
+
+==See also==
+*[[Astronomical unit]]
+*[[Ephemeris]]
+*[[Jet Propulsion Laboratory Development Ephemeris]]
+*[[Lunar Laser Ranging Experiment]]
+*[[Lunar theory]]
+*[[On the Sizes and Distances (Aristarchus)|''On the Sizes and Distances'' (Aristarchus)]]
+*[[Orbit of the Moon]]
+*[[Prutenic Tables|''Prutenic Tables'' of Erasmus Reinhold]]
+*[[Supermoon]]
+
+== References ==
+{{reflist|refs=
+
+&lt;ref name="Apache Point"&gt;{{cite journal|last1=Battat|first1=J. B. R.|last2=Murphy|first2=T. W.|last3=Adelberger|first3=E. G.|title=The Apache Point Observatory Lunar Laser-ranging Operation (APOLLO): Two Years of Millimeter-Precision Measurements of the Earth-Moon Range|journal=Astronomical Society of the Pacific|date=January 2009|volume=121|issue=875|pages=29–40|doi=10.1086/596748|doi-access=free|jstor=10.1086/596748|bibcode = 2009PASP..121...29B }}&lt;/ref&gt;
+
+&lt;ref name="APOLLO Analysis"&gt;{{cite arxiv |last1=Reasenberg |first1=R.D. |last2=Chandler |first2=J.F. |last3=Colmenares |first3=N.R. |last4=Johnson |first4=N.H. |last5=Murphy |first5=T.W. |last6=Shapiro |first6=I.I. |title=Modeling and Analysis of the APOLLO Lunar Laser Ranging Data |eprint=1608.04758 |class=astro-ph.IM |display-authors=2 |year=2016 }}&lt;/ref&gt;
+
+&lt;ref name="Citizen1"&gt;{{cite web|last1=Wright|first1=Ernie|title=Overhead view of the Earth-Moon system, to scale Lunar Parallax: Estimating the Moon's Distance|url=http://www.etwright.org/astro/moonpar.html|accessdate=29 February 2016}}&lt;/ref&gt;
+
+&lt;ref name="Commelin"&gt;{{cite journal|last1=Fischer|first1=Irène|title=The distance of the moon|journal=Bulletin Géodésique|date=7 November 2008|volume=71|issue=1|pages=37–63|doi=10.1007/BF02526081|bibcode = 1964BGeod..38...37F }}&lt;/ref&gt;
+
+&lt;!--  &lt;ref name = "corner cube 1"&gt;{{cite web|url=http://eclipse.gsfc.nasa.gov/SEhelp/ApolloLaser.html |title=NASA - Accuracy of Eclipse Predictions |website=Eclipse.gsfc.nasa.gov |date= |accessdate=2016-02-22}}&lt;/ref&gt;
+
+&lt;ref name = "corner cube 2"&gt;{{cite web|url=http://www.physics.ucsd.edu/~tmurphy/apollo/lrrr.html |title=Lunar Retroreflectors |website=Physics.ucsd.edu |date= |accessdate=2016-02-22}}&lt;/ref&gt;--&gt;
+
+&lt;ref name="DE 102"&gt;{{cite journal|last1=Newhall|first1=X.X|last2=Standish|first2=E.M|last3=Williams|first3=J. G.|title=DE 102 - A numerically integrated ephemeris of the moon and planets spanning forty-four centuries|journal=Astronomy and Astrophysics|date=Aug 1983|volume=125|issue=1|pages=150–167|url=http://articles.adsabs.harvard.edu/full/1983A%26A...125..150N?iframe=true&amp;width=100%&amp;height=100%|accessdate=28 February 2016|issn=0004-6361|bibcode = 1983A&amp;A...125..150N }}&lt;/ref&gt;
+
+&lt;ref name = "DE431"&gt;{{cite journal|last1=Folkner|first1=W. M.|last2=Williams|first2=J. G.|last3=Boggs|first3=D. H.|last4=Park|first4=R. S.|last5=Kuchynka|first5=P.|display-authors=2|title=The Planetary and Lunar Ephemerides DE430 and DE431|journal=The Interplanetary Network Progress Report|date=February 2014|volume=42–169|url=http://ilrs.gsfc.nasa.gov/docs/2014/196C.pdf}}&lt;/ref&gt;
+
+&lt;ref name="Dream of West"&gt;{{cite book|last1=Lasater|first1=A. Brian|title=The dream of the West : the ancient heritage and the European achievement in map-making, navigation and science, 1487–1727|date=2007|publisher=Lulu Enterprises|location=Morrisville|isbn=978-1-4303-1382-3|page=185|url=https://books.google.com/books?id=_BQHPD0RNe4C&amp;pg=PA185}}&lt;/ref&gt;
+
+&lt;ref name = "drift1"&gt;{{cite web|author= |url=http://curious.astro.cornell.edu/about-us/37-our-solar-system/the-moon/the-moon-and-the-earth/111-is-the-moon-moving-away-from-the-earth-when-was-this-discovered-intermediate |title=Is the Moon moving away from the Earth? When was this discovered? (Intermediate) - Curious About Astronomy? Ask an Astronomer |website=Curious.astro.cornell.edu |date= |accessdate=2016-02-22}}&lt;/ref&gt;
+
+&lt;ref name = "drift2"&gt;{{cite book|title=Solar System Dynamics|author=C.D. Murray &amp; S.F. Dermott|publisher=Cambridge University Press|date=1999|page=184}}&lt;/ref&gt;
+
+&lt;ref name = "drift3"&gt;{{cite book | last = Dickinson | first = Terence | authorlink = Terence Dickinson | title = From the Big Bang to Planet X | publisher = [[Camden House]] | date = 1993 | location = Camden East, Ontario | pages = 79–81 | url = | doi = | id = | isbn = 978-0-921820-71-0 }}&lt;/ref&gt;
+
+&lt;ref name="Fact Sheet"&gt;{{cite web|last1=Williams|first1=Dr. David R.|title=Planetary Fact Sheet - Ratio to Earth Values|url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/planet_table_ratio.html|publisher=NASA Goddard Space Flight Center|accessdate=28 February 2016|date=18 November 2015}}&lt;/ref&gt;
+
+&lt;ref name="Fischer"&gt;{{cite journal|last1=Fischer|first1=Irene|title=Parallax of the moon in terms of a world geodetic system|journal=The Astronomical Journal|url=http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?db_key=AST&amp;bibcode=1962aj.....67..373f&amp;letter=0&amp;classic=YES&amp;defaultprint=YES&amp;whole_paper=YES&amp;page=374&amp;epage=374&amp;send=Send+PDF&amp;filetype=.pdf|date=August 1962|volume=67|pages=373|doi=10.1086/108742|bibcode = 1962AJ.....67..373F }}&lt;/ref&gt;
+
+&lt;ref name="Groten"&gt;{{cite journal|last1=Groten|first1=Erwin|title=Fundamental Parameters and Current (2004) Best Estimates of the Parameters of Common Relevance to Astronomy, Geodesy, and Geodynamics by Erwin Groten, IPGD, Darmstadt|journal=Journal of Geodesy|date=1 April 2004|volume=77|issue=10–11|pages=724–797|doi=10.1007/s00190-003-0373-y|url=http://www.iag-aig.org/attach/e354a3264d1e420ea0a9920fe762f2a0/51-groten.pdf|accessdate=2 March 2016|bibcode = 2004JGeod..77..724. }}&lt;/ref&gt;
+
+&lt;ref name=Gutzwiller&gt;{{cite journal | doi=10.1103/RevModPhys.70.589 | title=Moon–Earth–Sun: The oldest three-body problem | date=1998 | author=Gutzwiller, Martin C. | journal=Reviews of Modern Physics | volume=70 | issue=2 | pages=589–639 | ref=harv | bibcode=1998RvMP...70..589G}}&lt;/ref&gt;
+
+&lt;ref name="Helden"&gt;{{cite book|last1=Helden|first1=Albert van|title=Measuring the universe : cosmic dimensions from Aristarchus to Halley|date=1986|publisher=University of Chicago Press|location=Chicago|isbn=978-0-226-84882-2|page=16|edition=Repr.}}&lt;/ref&gt;
+
+&lt;ref name="Impact"&gt;{{cite journal|last1=Canup|first1=R. M.|title=Forming a Moon with an Earth-like Composition via a Giant Impact|journal=Science|date=17 October 2012|volume=338|issue=6110|pages=1052–1055|doi=10.1126/science.1226073|bibcode = 2012Sci...338.1052C|pmid=23076098|pmc=6476314}}&lt;/ref&gt;
+
+&lt;ref name="integration"&gt;{{cite journal|last1=Vitagliano|first1=Aldo|title=Numerical integration for the real time production of fundamental ephemerides over a wide time span|journal=Celestial Mechanics and Dynamical Astronomy|date=1997|volume=66|issue=3|pages=293–308|doi=10.1007/BF00049383|url=http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?db_key=AST&amp;bibcode=1997CeMDA..66..293V&amp;letter=0&amp;classic=YES&amp;defaultprint=YES&amp;whole_paper=YES&amp;page=293&amp;epage=293&amp;send=Send+PDF&amp;filetype=.pdf|bibcode = 1996CeMDA..66..293V }}&lt;/ref&gt;
+
+&lt;ref name="LLR"&gt;{{cite journal|last1=Dickey|first1=J. O.|last2=Bender|first2=P. L.|last3=Faller|first3=J. E.|last4=Newhall|first4=X X|last5=Ricklefs|first5=R. L.|last6=Ries|first6=J. G.|last7=Shelus|first7=P. J.|last8=Veillet|first8=C.|last9=Whipple|first9=A. L.|last10=Wiant|first10=J. R.|last11=Williams|first11=J. G.|last12=Yoder|first12=C. F.|display-authors=2|title=Lunar Laser Ranging: A Continuing Legacy of the Apollo Program|url=http://www.physics.ucsd.edu/~tmurphy/apollo/doc/Dickey.pdf|journal=Science|date=22 July 1994|volume=265|issue=5171|pages=482–490|doi=10.1126/science.265.5171.482|bibcode = 1994Sci...265..482D|pmid=17781305}}&lt;/ref&gt;
+
+&lt;ref name="Lunar Laser Ranging"&gt;{{cite journal |author1=Bender, P. L. |author2=Currie, D. G. |author3=Dicke, R. H. |author4=Eckhardt, D. H. |author5=Faller, J. E. |author6=Kaula, W. M. |author7=Mullholland, J. D. |author8=Plotkin, H. H. |author9=Silverberg, E. C. |author10=Wilkinson, D. T. |author11=Williams, J. G. |author12=Alley, C. O. |date=October 19, 1973 |title=The Lunar Laser Ranging Experiment |journal=[[Science (journal)|Science]] |volume=182 |issue=4109 |pmid=17749298 |bibcode=1973Sci...182..229B |doi=10.1126/science.182.4109.229 |pages=229–238 |accessdate=April 27, 2013 |url=http://www.physics.ucsd.edu/~tmurphy/apollo/doc/Bender.pdf |display-authors=3}}&lt;/ref&gt;
+
+&lt;ref name = "Lunar Orbit Evolution"&gt;{{Citation
+| author =Bills, B.G. |author2 =Ray, R.D. |lastauthoramp =yes
+| title =Lunar Orbital Evolution: A Synthesis of Recent Results
+| journal =Geophysical Research Letters | volume =26 | pages =3045–3048 | date =1999
+|doi = 10.1029/1999GL008348 | issue=19|bibcode = 1999GeoRL..26.3045B }}&lt;/ref&gt;
+
+&lt;ref name = "Measuring the Universe"&gt;{{citation|contribution=3.2 Aristarchus, Hipparchus, and Ptolemy|pages=27–35|title=Measuring the Universe: The Cosmological Distance Ladder|first=Stephen|last=Webb|publisher=Springer|date=1999|isbn=978-1-85233-106-1}}. See in particular p.&amp;nbsp;33: "Almost everything we know about Hipparchus comes down to us by way of Ptolemy."&lt;/ref&gt;
+
+&lt;ref name="millimeter challenge"&gt;{{cite journal |last1=Murphy |first1=T W |title=Lunar laser ranging: the millimeter challenge |journal=Reports on Progress in Physics |date=1 July 2013 |volume=76 |issue=7 |page=2 |doi=10.1088/0034-4885/76/7/076901 |pmid=23764926 |url=http://physics.ucsd.edu/~tmurphy/papers/rop-llr.pdf |arxiv=1309.6294 |bibcode=2013RPPh...76g6901M }}&lt;/ref&gt;
+
+&lt;ref name="moonbounce"&gt;{{cite journal|last1=Shuch|first1=H. Paul|title=Measuring the mass of the earth: the ultimate moonbounce experiment|journal=Proceedings, 25th Conference of the Central States VHF Society|date=July 1991|pages=25–30|url=http://www.setileague.org/articles/ham/masserth.pdf|accessdate=28 February 2016}}&lt;/ref&gt;
+
+&lt;ref name="NEO"&gt;{{cite web|url=http://neo.jpl.nasa.gov/ca/ |title=NEO Earth Close Approaches |website=Neo.jpl.nasa.gov |accessdate=2016-02-22 |url-status=dead |archiveurl=https://web.archive.org/web/20140307125729/http://neo.jpl.nasa.gov/ca/ |archivedate=2014-03-07 }}&lt;/ref&gt;
+
+&lt;ref name="O'Keefe"&gt;{{cite journal|last1=O'Keefe|first1=J. A.|last2=Anderson|first2=J. P.|title=The earth's equatorial radius and the distance of the moon|journal=Astronomical Journal|date=1952|volume=57|pages=108–121|url=http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?db_key=AST&amp;bibcode=1952AJ.....57..108O&amp;letter=0&amp;classic=YES&amp;defaultprint=YES&amp;whole_paper=YES&amp;page=108&amp;epage=108&amp;send=Send+PDF&amp;filetype=.pdf|bibcode = 1952AJ.....57..108O |doi = 10.1086/106720 }}&lt;/ref&gt;
+
+&lt;ref name = "Precambrian"&gt;{{cite journal|last1=Walker|first1=James C. G.|last2=Zahnle|first2=Kevin J.|title=Lunar nodal tide and distance to the Moon during the Precambrian|journal=Nature|date=17 April 1986|volume=320|issue=6063|pages=600–602|doi=10.1038/320600a0|bibcode = 1986Natur.320..600W |url=https://deepblue.lib.umich.edu/bitstream/2027.42/62576/1/320600a0.pdf}}&lt;/ref&gt;
+
+&lt;ref name="Relativity"&gt;{{cite journal|last1=Williams|first1=J. G.|last2=Newhall|first2=X. X.|last3=Dickey|first3=J. O.|title=Relativity parameters determined from lunar laser ranging|journal=Physical Review D|date=15 June 1996|volume=53|issue=12|pages=6730–6739|doi=10.1103/PhysRevD.53.6730|url=http://physics.ucsd.edu/~tmurphy/apollo/doc/JGW96.pdf|bibcode = 1996PhRvD..53.6730W|pmid=10019959 }}&lt;/ref&gt;
+
+&lt;ref name="Sea's Edge"&gt;{{cite book|last1=Leslie|first1=William T. Fox ; illustrated by Clare Walker|title=At the sea's edge : an introduction to coastal oceanography for the amateur naturalist|date=1983|publisher=Prentice-Hall|location=Englewood Cliffs, N.J.|isbn=978-0130497833|page=[https://archive.org/details/atseasedgeintrod0000foxw/page/101 101]|url=https://archive.org/details/atseasedgeintrod0000foxw/page/101}}&lt;/ref&gt;
+
+&lt;ref name="tidal lock"&gt;{{cite web|last1=Cain|first1=Fraser|title=WHEN WILL EARTH LOCK TO THE MOON?|url=http://www.universetoday.com/128350/will-earth-lock-moon/|website=Universe Today|publisher=Universe Today|accessdate=1 September 2016|date=2016-04-12}}&lt;/ref&gt;
+
+&lt;ref name="TheiaPothesis"&gt;
+{{cite web
+|title = The Theia Hypothesis: New Evidence Emerges that Earth and Moon Were Once the Same
+|publisher = The Daily Galaxy
+|url = http://www.dailygalaxy.com/my_weblog/2007/07/the-theia-hypot.html
+|date = 2007-07-05
+|accessdate = 2013-11-13
+}}
+&lt;/ref&gt;
+
+&lt;ref name="transit"&gt;{{cite book|last1=Sheehan|first1=William|last2=Westfall|first2=John|title=The transits of Venus|date=2004|publisher=Prometheus Books|location=Amherst, N.Y.|isbn=978-1-59102-175-9|pages=27–28|url=https://books.google.com/books?id=s4L7mjHS6zMC}}&lt;/ref&gt;
+
+&lt;ref name="Radar1"&gt;{{cite journal|last1=Yaplee|first1=B. S.|last2=Roman|first2=N. G.|last3=Scanlan|first3=T. F.|last4=Craig|first4=K. J.|title=A lunar radar study at 10-cm wavelength|journal=Paris Symposium on Radio Astronomy|date=30 July – 6 August 1958|volume=IAU Symposium no. 9|pages=19|bibcode=1959IAUS....9...19Y}}&lt;/ref&gt;
+
+&lt;ref name="Radar2"&gt;{{cite journal|last1=Hey|first1=J. S.|last2=Hughes|first2=V. A.|title=Radar observation of the moon at 10-cm wavelength|journal=Paris Symposium on Radio Astronomy|volume=9|pages=13|date=30 July – 6 August 1958|bibcode=1959IAUS....9...13H|doi=10.1017/s007418090005049x|doi-access=free}}&lt;/ref&gt;
+
+&lt;ref name = "Radar3"&gt;{{cite journal|last1=Yaplee|first1=B. S.|last2=Knowles|first2=S. H.|last3=Shapiro|first3=A.|last4=Craig|first4=K. J.|last5=Brouwer|first5=D.|display-authors=2|title=The mean distance to the Moon as determined by radar|journal=Symposium - International Astronomical Union|date=January 1965|volume=21|page=2|doi=10.1017/S0074180900104826|bibcode=1965IAUS...21...81Y|doi-access=free}}&lt;/ref&gt;
+
+&lt;ref name="space.com"&gt;{{cite web|last1=Choi|first1=Charles Q.|title=Moon Facts: Fun Information About the Earth's Moon|url=http://www.space.com/55-earths-moon-formation-composition-and-orbit.html|website=Space.com|publisher=TechMediaNetworks, Inc|accessdate=3 March 2016|date=19 November 2014}}&lt;/ref&gt;
+
+&lt;ref name="Zuluaga"&gt;{{cite document |arxiv= 1405.4580 |last1= Zuluaga |first1= Jorge I. |last2= Figueroa |first2= Juan C. |last3= Ferrin |first3= Ignacio |title=The simplest method to measure the geocentric lunar distance: a case of citizen science |date=  19 May 2014 |bibcode= 2014arXiv1405.4580Z |page= (page needed) }}&lt;/ref&gt;
+
+}}
+
+== External links ==
+* [http://www.wolframalpha.com/widgets/view.jsp?id=8618ef756ac52a32062790f016d40230 Wolfram Alpha widget – Current Moon Earth distance]
+
+{{The Moon}}
+
+{{DEFAULTSORT:Lunar Distance (Astronomy)}}
+[[Category:Orbit of the Moon]]
+[[Category:Units of measurement in astronomy]]
+[[Category:Units of length]]</text>
+      <sha1>k37rfrhrbwf5wtkdlzmjrjavuhgqq14</sha1>
+    </revision>
+  </page>
+</mediawiki>

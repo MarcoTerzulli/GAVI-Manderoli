@@ -1,0 +1,179 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Hollywood (2002 film)</title>
+    <ns>0</ns>
+    <id>28427287</id>
+    <revision>
+      <id>956891821</id>
+      <parentid>956833763</parentid>
+      <timestamp>2020-05-15T21:54:59Z</timestamp>
+      <contributor>
+        <username>Citation bot</username>
+        <id>7903804</id>
+      </contributor>
+      <comment>Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Activated by Neko-chan | [[Category:Pages with citations using unnamed parameters]] | via #UCB_Category</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7052" xml:space="preserve">{{EngvarB|date=May 2014}}
+{{Use dmy dates|date=May 2014}}
+
+{{Infobox film
+|italic title    =no
+| name           = Hollywood
+| image          = Hollywood Official DVD Poster .jpg 
+| alt            = &lt;!-- see WP:ALT --&gt;
+| caption        = Theatrical release poster
+| film name      = {{Infobox name module|kn|ಹಾಲಿವುಡ್}}
+| director       = [[Dinesh Baboo]]
+| producer       = [[Ramu (Film Producer)|Ramu]]
+| writer         = [[Upendra (actor)|Upendra]]
+| screenplay     = Upendra
+| story          = Upendra
+| starring       = [[Upendra (actor)|Upendra]]&lt;br /&gt;[[Felicity Mason]]&lt;br /&gt;[[Ananth Nag]] 
+| music          = [[Gurukiran]]
+| cinematography = PKH Das
+| editing        = B. S. Kemparaj
+| studio         = Ramu Enterprises
+| distributor    = 
+| released       = {{Film date|df=yes|2002|||}}&lt;!-- {{Film date|Year|Month|Day|Location}} --&gt;
+| runtime        = 136 minutes
+| country        = India
+| language       = [[Kannada]]
+| budget         = {{INRConvert|10|c}}&lt;ref name="ejaga1"&gt;{{cite web|url=http://ejaga.com/high-budget-movies-in-kannada-industry/ |title=High BUDGET MOVIES in Kannada Sandalwood – ALL TIM E &amp;#124; eJaga.com - Entertainment World. Celebrity Movies gossip juicy rumors |publisher=eJaga.com |date=3 December 2011 |accessdate=2 August 2012}}&lt;/ref&gt;
+| gross          = {{INRConvert|38|c}}&lt;ref name="ejaga1"/&gt;
+}}
+
+'''''Hollywood''''' is a 2002 Indian [[Cinema of Karnataka|Kannada]] [[science fiction film]] written by [[Upendra (actor)|Upendra]] and directed by [[Dinesh Babu]]. Hollywood is the first Indian robot film before Shankar's film ''[[Enthiran]]'' in a lead role. [[Upendra Rao|Upendra]] is the first man in India to play the role of human like [[Android (rob]. It starred Upendra in a triple role as Surendra, Upendra and US 47 (a [[robot]]) along with the Australian actress [[Felicity Mason]] as Manisha. The movie was shot entirely in [[Hollywood]], [[California]] with a very few support cast, including [[Ananth Nag]] and a monkey called ''Lakshmi'', voiced by [[Ramesh Bhat]]. The movie was also dubbed into [[Telugu language|Telugu]], retaining the same title.&lt;ref&gt;{{Cite web|url=http://www.idlebrain.com/movie/archive/mr-hollywood.html|title=Telugu Cinema - Review - Hollywood - Upendra - Dinesh Babu - Guru Kiran|website=www.idlebrain.com|access-date=2016-10-15}}&lt;/ref&gt;
+
+[[Upendra (actor)|Upendra]] became the first Indian actor to portray the role of an [[Android (robot)|android robot]] in a lead role. Upendra had revealed that while he was working on this film, he had heard that [[S. Shankar]] was also planning a film themed on robots. According to Upendra it was only  when Shankar told him that his film would be delayed that Upendra continued with this project - about a scientist who creates an android resembling himself to help him win over a girl. But, the android falls in love with the girl and tries to eliminate his creator. However, eight years later, Shankar directed ''[[Enthiran]]'' which had a similar theme - about a lookalike robot rebelling against his creator after falling in love with the creator's girlfriend.&lt;ref&gt;{{Cite web|masala//articleshow/21774804.cms|title=Is Endhiran a rich man's Hollywood?|website=Bangalore Mirror}}&lt;/ref&gt;
+
+==Plot==
+[[Upendra (actor)|Upendra]] plays a lovelorn nerd ''Surendra'' who can do anything to get ''Manisha'' ([[Felicity Mason]]) to love him. Desperate to impress her and unable to do so himself, he seeks the help of his maverick scientist professor ([[Ananth Nag]]). The professor comes up with a clone of Surendra who will do the bit of impressing Manisha, and once the task is accomplished, the real Surendra will take over.
+
+However, things go berserk after the professor gives Surendra's clone - an android robot - the ability to think and act like humans. He bestows the clone named '''US 47''' with human discretion and human emotion. The idea of the clone backfires when US 47 starts using his discretion and falls in love with Manisha. Using his robotic strength and human intelligence, and of course the help of a lab monkey (Seenu), US 47 proves to be a formidable enemy to Surendra over Manisha. Now the mad professor, Surendra, his twin brother ''Upendra'' and Manisha need to get together to solve the problem.&lt;ref&gt;[http://www.fullhyderabad.com/profile/movies/829/2/hollywood-movie-review Movie review]&lt;/ref&gt;
+
+==Cast==
+* [[Upendra (actor)|Upendra]] as US 47 the [[Android (robot)|Android Robot]], Surendra the [[Roboticist]], &amp; Upendra the Director who is Surendra's twin brother.
+* [[Felicity Mason]] as Manisha, M- 47
+* [[Ananth Nag]] as maverick scientist and  professor
+* Lakshmi (A monkey named ''Melukote Seenu'', voiced by [[Ramesh Bhat]]&lt;ref&gt;Movie title card&lt;/ref&gt;)
+* Chris Anderson
+* Rose Masedon
+* Parletto
+* Crili Berdo
+* Robbie Parkin
+* Mellisa Thomson
+* Kristan James
+* Andrew Blane
+
+==Soundtrack==
+
+===Track list===
+{{Track listing
+| extra_column	 = Singer(s)
+| title1	= Choo Bide Choo Bide
+| note1 = 
+| length1       = 4:21 
+| lyrics1 	= [[Upendra (actor)|Upendra]]
+| writer1 = 
+| extra1        = [[Udit Narayan]]
+| title2        = Sakkathagide Hollywood
+| note2 = 
+| length2       = 4:20 
+| lyrics2 	= Upendra
+| writer2 = 
+| extra2        = [[Sukhwinder Singh]], [[Gurukiran]], Allwyn
+| title3        = Aamantharisi Nanna
+| note3 = 
+| length3       = 5:07 
+| lyrics3       = [[V. Nagendra Prasad]]
+| writer3 = 
+| extra3 	= [[Anupama Krishnaswami|Anupama]]
+| title4        = Prema Prema
+| note4 = 
+| length4       = 6:03 
+| lyrics4 	= Upendra
+| writer4 = 
+| extra4        = Udit Narayan
+| title5        = Aeeeyy Aeeyyii
+| length5       = 3:41
+| lyrics5       = Upendra
+| extra5        = [[Sunidhi Chauhan]], [[Gurukiran]]
+| title6        = Benkiyalli Haaku
+| length6       = 4:52 
+| lyrics6 	= Upendra
+| extra6        = [[S. P. Balasubrahmanyam]]
+| total_length  = 28:24 
+}}
+
+==Box office==
+''Hollywood'' had not a good opening at the box office across [[Karnataka]] and set the box office on average during its initial weeks, but the film received just mixed response among the audience.&lt;ref name="indiaeveryday1"&gt;{{cite web|url=http://www.indiaeveryday.in/karnataka/news-is-endhiran-inspired-by-uppis-hollywood-1171-1819563.htm |title=Is Endhiran inspired by Uppi's Hollywood? |publisher=Indiaeveryday.in |date=28 September 2010 |accessdate=2 August 2012}}&lt;/ref&gt; The film collected {{INRConvert|38|m}} at the box office after completing 75 days of run and was declared as a Hit.&lt;ref name="ejaga1"/&gt;
+
+{{Portal|Film|India}}
+
+==Notes==
+{{Reflist}}
+
+==External links==
+{{Dinesh Baboo}}
+{{Upendra}}
+{{DEFAULTSORT:Hollywood (Kannada Film)}}
+[[Category:2002 films]]
+[[Category:Kannada-language films]]
+[[Category:Android (robot) films]]
+[[Category:Robot films]]
+[[Category:2000s Kannada-language films]]
+[[Category:Films featuring anthropomorphic characters]]
+[[Category:Films scored by Gurukiran]]
+[[Category:Indian science fiction comedy films]]
+[[Category:2000s science fiction comedy films]]
+[[Category:Films shot in California]]
+[[Category:Indian films]]
+[[Category:Films directed by Dinesh Baboo]]</text>
+      <sha1>f5iub6bd4yihsdq6nfyvs3mlqcolpk7</sha1>
+    </revision>
+  </page>
+</mediawiki>
