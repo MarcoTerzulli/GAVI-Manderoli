@@ -19,21 +19,53 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Eliminato l'url dai dati delle pagine indicizzate, resa sicuro il metodo che genera l'url">
-      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN.tmp/47uqnkqhc348vla1qrbncn3lad9c.ctmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_ijzgguftz4pcevzr.pst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_ijzgguftz4pcevzr.trm" afterDir="false" />
+    <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Ora funziona anche con i file compressi &quot;.bz2&quot;, bisogna solo aggiornare la lista delle pagine rilevanti e lanciare">
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org  99 balloons.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org  Apple.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org  DNA.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org  Epigenetics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org  Hollywood.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org  Maya.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org  Microsoft.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org  Precision.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org  Tuscany.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Computer Programming.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Do gees see god.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Eye of Horus.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Financial meltdown.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Justin Timberlake.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Least Squares.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Madam I'm Adam.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Mars robots.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Mean Average Precision.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Much ado about nothing.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Page six.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Physics Nobel Prizes.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Read the manual.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Roman Empire.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Solar energy.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Spanish Civil War.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Statistical Significance.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Steve Jobs.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org The Maya.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Triple Cross.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org US Constitution.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/test_set" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_queries_csv_files/title_extractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN.tmp/9e43riqe8jypaeu9dvh6ndcq2v75.ctmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_6s2bxff5kvkyqj31.pst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_6s2bxff5kvkyqj31.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_WRITELOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/_MAIN_0.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wiki_index/MAIN_uh71f00gfjgympqg.seg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wiki_index/_MAIN_1.toc" beforeDir="false" afterPath="$PROJECT_DIR$/Wiki_index/_MAIN_0.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -213,7 +245,14 @@
       <workItem from="1589376194277" duration="203000" />
       <workItem from="1589376577810" duration="170000" />
       <workItem from="1589393043988" duration="2084000" />
-      <workItem from="1589396231818" duration="1495000" />
+      <workItem from="1589396231818" duration="1818000" />
+      <workItem from="1589398187585" duration="615000" />
+      <workItem from="1589481551029" duration="1044000" />
+      <workItem from="1589577526810" duration="1237000" />
+      <workItem from="1589579078652" duration="1685000" />
+      <workItem from="1589584056506" duration="47000" />
+      <workItem from="1589585751152" duration="611000" />
+      <workItem from="1589588248606" duration="2506000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
@@ -306,11 +345,28 @@
       <option name="project" value="LOCAL" />
       <updated>1589394944365</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Ora funziona anche con i file compressi &quot;.bz2&quot;, bisogna solo aggiornare la lista delle pagine rilevanti e lanciare">
+      <created>1589397874731</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1589397874731</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -334,49 +390,50 @@
     <MESSAGE value="Aggiunta creazione ed inserimento link durante l'indicizzazione delle pagine, aggiunto filtro alle pagine sulla base di un set nel file configuration.py, gestite diverse situazioni di errore" />
     <MESSAGE value="Aggiunta creazione ed inserimento link durante l'indicizzazione delle pagine, aggiunto filtro alle pagine sulla base di un set nel file configuration.py, gestite diverse situazioni di errore + BUGFIX" />
     <MESSAGE value="Eliminato l'url dai dati delle pagine indicizzate, resa sicuro il metodo che genera l'url" />
-    <option name="LAST_COMMIT_MESSAGE" value="Eliminato l'url dai dati delle pagine indicizzate, resa sicuro il metodo che genera l'url" />
+    <MESSAGE value="Ora funziona anche con i file compressi &quot;.bz2&quot;, bisogna solo aggiornare la lista delle pagine rilevanti e lanciare" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ora funziona anche con i file compressi &quot;.bz2&quot;, bisogna solo aggiornare la lista delle pagine rilevanti e lanciare" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="198" width="716" height="406" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589034629711">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="320" y="198" width="716" height="406" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1589034629711" />
-    <state x="100" y="127" width="1166" height="541" key="DiffContextDialog" timestamp="1588987146946">
+    <state x="100" y="127" width="1166" height="541" key="DiffContextDialog" timestamp="1589398053590">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="100" y="127" width="1166" height="541" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1588987146946" />
-    <state width="1320" height="219" key="GridCell.Tab.0.bottom" timestamp="1589397728698">
+    <state x="100" y="127" width="1166" height="541" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1589398053590" />
+    <state width="1320" height="219" key="GridCell.Tab.0.bottom" timestamp="1589398053327">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="219" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1589397728698" />
-    <state width="1320" height="219" key="GridCell.Tab.0.center" timestamp="1589397728698">
+    <state width="1320" height="219" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1589398053327" />
+    <state width="1320" height="219" key="GridCell.Tab.0.center" timestamp="1589398053327">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="219" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1589397728698" />
-    <state width="1320" height="219" key="GridCell.Tab.0.left" timestamp="1589397728696">
+    <state width="1320" height="219" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1589398053327" />
+    <state width="1320" height="219" key="GridCell.Tab.0.left" timestamp="1589398053326">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="219" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1589397728696" />
-    <state width="1320" height="219" key="GridCell.Tab.0.right" timestamp="1589397728698">
+    <state width="1320" height="219" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1589398053326" />
+    <state width="1320" height="219" key="GridCell.Tab.0.right" timestamp="1589398053327">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="219" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1589397728698" />
-    <state width="1320" height="219" key="GridCell.Tab.1.bottom" timestamp="1589397728621">
+    <state width="1320" height="219" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1589398053327" />
+    <state width="1320" height="219" key="GridCell.Tab.1.bottom" timestamp="1589398053328">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="219" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1589397728621" />
-    <state width="1320" height="219" key="GridCell.Tab.1.center" timestamp="1589397728621">
+    <state width="1320" height="219" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1589398053328" />
+    <state width="1320" height="219" key="GridCell.Tab.1.center" timestamp="1589398053328">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="219" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1589397728621" />
-    <state width="1320" height="219" key="GridCell.Tab.1.left" timestamp="1589397728621">
+    <state width="1320" height="219" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1589398053328" />
+    <state width="1320" height="219" key="GridCell.Tab.1.left" timestamp="1589398053327">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="219" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1589397728621" />
-    <state width="1320" height="219" key="GridCell.Tab.1.right" timestamp="1589397728621">
+    <state width="1320" height="219" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1589398053327" />
+    <state width="1320" height="219" key="GridCell.Tab.1.right" timestamp="1589398053328">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="219" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1589397728621" />
+    <state width="1320" height="219" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1589398053328" />
     <state x="132" y="86" width="1092" height="629" key="MergeDialog" timestamp="1589324862866">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -394,10 +451,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="429" y="89" width="498" height="623" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1589396680429" />
-    <state x="458" y="311" width="450" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589394847163">
+    <state x="458" y="311" width="450" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589577558423">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="458" y="311" width="450" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1589394847163" />
+    <state x="458" y="311" width="450" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1589577558423" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1589381731785">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -406,17 +463,6 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="408" y="287" width="540" height="227" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1366.741@0.27.1366.741" timestamp="1589125637120" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GAVI_Manderoli$Main.coverage" NAME="Main Coverage Results" MODIFIED="1589038410695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
