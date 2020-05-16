@@ -36,7 +36,7 @@ class WikiIndexerModule:
         self.__parser.parse(xml_file)
 
 
-def index_writer_init(idx_dir="wiki_index"):
+def index_writer_init(idx_dir="Wiki_index"):
     """
     Funzione che inizializza un indice nella cartella indicata come parametro (str) e ne restituisce il writer
     :param idx_dir:

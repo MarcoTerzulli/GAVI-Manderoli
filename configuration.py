@@ -1,4 +1,4 @@
-index_dir = "wiki_index"
+index_dir = "Wiki_index"
 xml_file = "xml_snippet"
 
 # Test samples
