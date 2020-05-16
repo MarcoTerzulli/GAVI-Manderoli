@@ -20,7 +20,7 @@ class WikiSearcherModule:
             self.__index = open_dir(index_dir)
         except (NameError, EmptyIndexError):
             print("Warning: trying to open index's directory using the default directory name")
-            self.__index = open_dir("Wiki_index")
+            self.__index = open_dir("wiki_index")
 
         # Ottengo un oggetto searcher dall'indice appena aperto
         self.__searcher = self.__index.searcher()

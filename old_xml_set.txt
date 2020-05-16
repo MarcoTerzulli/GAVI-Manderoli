@@ -1,0 +1,948 @@
+-------testSetDNA.txt-------
+DNA
+DNA (disambiguation)
+A-DNA
+Nucleic acid structure
+Nuclear DNA
+DNA replication
+Nucleic acid double helix
+RNA
+DNA synthesis
+Base pair
+Nucleic acid sequence
+Nucleic acid
+Transcription (biology)
+Nucleotide
+Hachimoji DNA
+DNA computing
+Sense (molecular biology)
+Obsolete models of DNA structure
+Nucleobase
+Triple-stranded DNA
+Gene
+Horizontal gene transfer
+Z-DNA
+Genealogical DNA test
+Genome
+Recombinant DNA
+DNA (film)
+DNA polymerase
+Upstream and downstream (DNA)
+Central dogma of molecular biology
+-------testSetApple.txt-------
+Apple Inc.
+Apple
+History of Apple Inc.
+Criticism of Apple Inc.
+Apple I
+Timeline of Apple Inc. products
+List of mergers and acquisitions by Apple
+Steve Wozniak
+List of Apple operating systems
+List of Apple codenames
+One to One (Apple)
+Outline of Apple Inc.
+Typography of Apple Inc.
+Apple (disambiguation)
+iOS
+Apple Newton
+Apple electric car project
+Apple (symbolism)
+Steve Jobs
+Macintosh
+FBI–Apple encryption dispute
+NeXT
+Jony Ive
+iPhone
+Apple-designed processors
+Siri
+iOS 13
+Apple Store
+List of iOS devices
+iTunes
+-------testSetEpigenetics.txt-------
+Epigenetics
+Transgenerational epigenetic inheritance
+Behavioral epigenetics
+Epigenetics in learning and memory
+Epigenetics of schizophrenia
+Epigenetics of physical exercise
+Epigenetics of depression
+Epigenetics of human development
+Nutriepigenomics
+Computational epigenetics
+Contribution of epigenetic modifications to evolution
+Cancer epigenetics
+Category:Epigenetics
+Epigenetics in forensic science
+Epigenetic therapy
+Epigenetics of anxiety and stress-related disorders
+Epigenetics in stem-cell differentiation
+Epigenetic regulation of neurogenesis
+Epigenetics of plant growth and development
+Epigenetic (disambiguation)
+Epigenomics
+Epigenetics of neurodegenerative diseases
+Epigenetic theories of homosexuality
+Neuroepigenetics
+Pharmacoepigenetics
+Epigenetics of autism
+Överkalix study
+Epigenetic code
+Book:Epigenetics
+-------testSetHollywood.txt-------
+Hollywood
+Cinema of the United States
+New Hollywood
+Hollywood (disambiguation)
+Wiktionary:Hollywood
+Hollywood Sign
+List of Hollywood-inspired nicknames
+Hollywood Pictures
+Classical Hollywood cinema
+Hollywood, Florida
+Hollywood, Alabama
+Once Upon a Time in Hollywood
+Hollywood Walk of Fame
+Hollywood Hills
+Hollywood, Worcestershire
+Hollywood accounting
+Film industry
+List of American films of 2019
+West Hollywood, California
+Hollywood (Bukowski novel)
+2019 in film
+Paramount Pictures
+Anna May Wong
+Hollywood (Vidal novel)
+List of American films of 2020
+List of living actors from the Golden Age of Hollywood ...
+
+Dolby Theatre
+Hollywood (Madonna song)
+Mayor of Hollywood
+-------testSetMaya.txt-------
+Maya civilization
+Maya peoples
+Maya
+Autodesk Maya
+Maya (religion)
+List of Maya sites
+Maya architecture
+Maya (given name)
+Maya script
+Maya calendar
+List of Maya gods and supernatural beings
+Maya numerals
+Template:Maya civilization
+Classic Maya collapse
+2012 phenomenon
+Maya (singer)
+Maya (2018 film)
+Palenque
+Mayan languages
+Maya (M.I.A. album)
+Maya (mother of the Buddha)
+Category:4th century in the Maya civilization
+Amaiur-Maya
+Riviera Maya
+Beyhadh
+Maya religion
+Mount Maya
+Human sacrifice in Maya culture
+Maya Memsaab
+-------testSetMicrosoft.txt-------
+Microsoft
+History of Microsoft
+List of mergers and acquisitions by Microsoft
+List of Microsoft software
+Criticism of Microsoft
+Microsoft Redmond campus
+List of Microsoft Office programs
+Microsoft Home
+Microsoft Windows
+United States v. Microsoft Corp.
+Microsoft Office
+List of Microsoft codenames
+Microsoft Bob
+Bill Gates
+Microsoft Live
+History of Microsoft Office
+Microsoft Word
+Microsoft services
+Microsoft engineering groups
+Xbox Game Studios
+Microsoft Corp. v. Commission
+Windows 10
+Microsoft Windows version history
+Microsoft Teams
+Microsoft Office 2019
+Microsoft Store
+Windows XP
+MS-DOS
+Microsoft Notepad
+Paul Allen
+-------testSetPrecision.txt-------
+Precision
+Precision and recall
+Accuracy and precision
+Precision (computer science)
+Precision engineering
+Precision (statistics)
+Talk:Accuracy and precision
+False precision
+Precision bias
+Category:Precision sports
+Machine epsilon
+Dilution of precision (navigation)
+Precision mechanics
+F1 score
+Evaluation measures (information retrieval)
+Positive and negative predictive values
+Precision: The Measure of All Things
+Evaluation of binary classifiers
+Artificial precision
+Template:Precision
+Talk:False precision
+Objective precision
+Precision-guided munition
+Single-precision floating-point format
+Geohash
+High Precision Systems
+Precision (march)
+Circular error probable
+American Precision Museum
+Precision medicine
+-------testSetTuscany.txt-------
+Tuscany
+Grand Duchy of Tuscany
+Tuscan wine
+Category:Tuscany
+Category:Provinces of Tuscany
+History of Tuscany
+Category:Cities and towns in Tuscany
+Category:Rivers of Tuscany
+Tuscany (disambiguation)
+Pistoia
+Politics of Tuscany
+Tuscan dialect
+March of Tuscany
+Category:Companies based in Tuscany
+Category:Tourist attractions in Tuscany
+Florence
+San Gimignano
+List of rulers of Tuscany
+Regional Council of Tuscany
+Category:People from Tuscany
+Music of Tuscany
+List of museums in Tuscany
+President of Tuscany
+Category:Roman sites of Tuscany
+Pisa
+Siena
+Under the Tuscan Sun (film)
+Lucca
+Chiantishire
+-------testSet99_balloons.txt-------
+99 Luftballons
+99 Luftballons (album)
+Nena
+Talk:99 Luftballons
+Red Balloon
+Nena (band)
+Nena (album)
+Goldfinger (band)
+Jörn-Uwe Fahrenkrog-Petersen
+Carlo Karges
+99
+Kevin McAlea
+Goldfinger discography
+Feuer und Flamme
+Some Nights (song)
+Made in Germany (Nena album)
+Nena die Band (album)
+Nena discography
+DARPA Network Challenge
+Nena feat. Nena
+The General (song)
+The Red Balloon
+Angry Salad (album)
+Jim Rakete
+List of artworks known in English by a foreign title
+Lazy Jones
+The Twenty-One Balloons
+Category:Nena (band) songs
+Hitechjet
+-------testSetComputer_Programming.txt-------
+Computer programming
+Computer program
+Programmer
+Outline of computer programming
+Portal:Computer programming
+Computer Programming - Wikibooks, open books for an open ...
+
+Category:Computer programming
+Programming language
+Computer code
+Class (computer programming)
+Programming paradigm
+List of programming languages
+History of programming languages
+Category:Computer programming tools
+Source code
+Comment (computer programming)
+Reflection (computer programming)
+C (programming language)
+Method (computer programming)
+Coding
+Category:Computer programming books
+Software bug
+Psychology of programming
+Ch (computer programming)
+Computing
+BASIC
+Coupling (computer programming)
+Talk:Computer programming
+Encapsulation (computer programming)
+Asynchrony (computer programming)
+-------testSetFinancial_meltdown.txt-------
+Financial crisis
+Financial crisis of 2007–08
+Great Recession
+Subprime mortgage crisis
+List of economic crises
+Wall Street Crash of 1929
+Baring crisis
+European debt crisis
+Wall Street and the Financial Crisis: Anatomy of a Financial ...
+
+1997-1999 Asian financial crisis
+Financial Crisis Inquiry Commission
+Russian financial crisis
+Currency crisis
+Panic of 1907
+Greek government-debt crisis
+Panic of 1884
+Credit rating agencies and the subprime crisis
+Causes of the Great Recession
+Global economic crisis
+Panic of 1857
+Global financial crisis in September 2008
+2008–2011 Icelandic financial crisis
+Great Recession in Russia
+United States housing bubble
+Global financial crisis in 2009
+List of banking crises
+Panic of 1873
+Swedish banking rescue
+Government policies and the subprime mortgage crisis ...
+
+Michael Osinski
+-------testSetJustin_Timberlake.txt-------
+Justin Timberlake
+Justin Timberlake discography
+NSYNC
+Justified (album)
+Man of the Woods
+List of songs recorded by Justin Timberlake
+Justin Timberlake: Live from London
+FutureSex/LoveSounds
+Justin Timberlake videography
+The 20/20 Experience
+Category:Albums produced by Justin Timberlake
+Category:Justin Timberlake
+Cry Me a River (Justin Timberlake song)
+Mirrors (Justin Timberlake song)
+Category:Songs written by Justin Timberlake
+Category:Justin Timberlake albums
+The 20/20 Experience – 2 of 2
+Category:Justin Timberlake songs
+List of Justin Timberlake live performances
+Señorita (Justin Timberlake song)
+Tunnel Vision (Justin Timberlake song)
+Category:Song recordings produced by Justin Timberlake ...
+
+In Time
+Talk:Justin Timberlake/Archive 1
+Template:Justin Timberlake
+File:Justin Timberlake signature.svg
+Jessica Biel
+Book:Justin Timberlake
+Wikipedia talk:WikiProject Justin Timberlake
+-------testSetLeast_Squares.txt-------
+Least squares
+Linear least squares
+Category:Least squares
+Non-linear least squares
+Ordinary least squares
+Total least squares
+Regularized least squares
+Generalized least squares
+Robust regression
+Moving least squares
+Constrained least squares
+Numerical methods for linear least squares
+Weighted least squares
+Polynomial least squares
+Linear regression
+Gauss–Markov theorem
+Simple linear regression
+Residual sum of squares
+Partial least squares regression
+Coefficient of determination
+Least squares adjustment
+Talk:Ordinary least squares
+Least-squares support-vector machine
+Nonlinear regression
+Partition of sums of squares
+Least-squares function approximation
+Recursive least squares filter
+Lack-of-fit sum of squares
+Total sum of squares
+Non-negative least squares
+-------testSetMars_robots.txt-------
+Mars rover
+Mars Exploration Rover
+Curiosity (rover)
+List of artificial objects on Mars
+Opportunity (rover)
+Spirit (rover)
+Mars 2020
+Rover (space exploration)
+Exploration of Mars
+Comparison of embedded computer systems on board the ...
+
+Mars Global Remote Sensing Orbiter and Small Rover ...
+
+Mars Pathfinder
+Mars Science Laboratory
+List of Mars landers
+List of missions to Mars
+Mars landing
+Sojourner (rover)
+JPL Mars Helicopter Scout
+Mars Exploration Program
+Mars sample-return mission
+Mars Climate Orbiter
+ExoMars
+Mission Mars
+Viking program
+Mars program
+Timeline of Mars Science Laboratory
+InSight
+Human mission to Mars
+NASA robots
+-------testSetPage_six.txt-------
+New York Post
+Page 6
+Bevy Smith
+Richard Johnson (columnist)
+Elizabeth Wagmeister
+Jared Paul Stern
+DailyFill
+Claudia Cohen
+Wikipedia:Six degrees of Wikipedia
+James Brady (columnist)
+Sarah Polonsky
+SixDegrees.com
+SIX
+Sean Delonas
+Wisconsin Sikh temple shooting
+Guest of a Guest
+Timothy McDarrah
+Christopher Tennant
+Rush & Molloy
+Deep Six
+Paula Froelich
+Fame Us
+Kelly Killoren Bensimon
+Gossip columnist
+Lizzie Grubman
+James Frey
+Six of One
+Elixir (Duff novel)
+Women's Six Nations Championship
+Wikipedia:How many legs does a horse have?
+-------testSetRoman_Empire.txt-------
+Roman Empire
+History of the Roman Empire
+Western Roman Empire
+Roman emperor
+Holy Roman Empire
+Fall of the Western Roman Empire
+Ancient Rome
+List of Roman emperors
+Roman Empire (TV series)
+Roman Empire (disambiguation)
+Byzantine Empire
+Roman Republic
+Roman province
+Roman Britain
+Category:Roman Empire
+History of Rome
+Roman Italy
+Caesar (title)
+Demography of the Roman Empire
+Holy Roman Emperor
+Legacy of the Roman Empire
+Constitution of the Late Roman Empire
+Religion in ancient Rome
+The History of the Decline and Fall of the Roman Empire ...
+
+Augustus
+Constitution of the Roman Empire
+Culture of ancient Rome
+Timeline of Roman history
+Historiography of the fall of the Western Roman Empire ...
+
+-------testSetSolar_energy.txt-------
+Solar energy
+Solar panel
+Solar power
+Outline of solar energy
+Solar power in Italy
+Solar energy conversion
+Global Solar Energy
+Photovoltaics
+Category:Solar energy
+Solar power by country
+Photovoltaic system
+Solar thermal energy
+Solar power in Spain
+Solar cell
+Concentrated solar power
+Solar cell efficiency
+Solar panels on spacecraft
+Solar power in France
+Solar Energy Perspectives
+Growth of photovoltaics
+Solar power in Australia
+Solar power in Denmark
+Solar power in Thailand
+Solar power in Africa
+Solar power in India
+Photovoltaic power station
+Index of solar energy articles
+Solar power in California
+Timeline of solar cells
+-------testSetStatistical_Significance.txt-------
+Statistical significance
+p-value
+Statistical hypothesis testing
+Talk:Statistical significance
+Power (statistics)
+Data dredging
+Multiple comparisons problem
+Statistics
+Clinical significance
+Confidence interval
+One- and two-tailed tests
+Null hypothesis
+Genome-wide significance
+Analysis of variance
+Significance
+Sample size determination
+Fisher's exact test
+Resampling (statistics)
+Bonferroni correction
+Student's t-test
+Type I and type II errors
+Z-test
+Chi-squared test
+Binomial test
+Goodness of fit
+False discovery rate
+Levene's test
+Rule of three (statistics)
+Estimation statistics
+Pearson's chi-squared test
+-------testSetSteve_Jobs.txt-------
+Steve Jobs
+Steve Jobs (film)
+Steve Jobs (book)
+NeXT
+Steve Wozniak
+Jobs (film)
+List of artistic depictions of Steve Jobs
+Lisa Brennan-Jobs
+Laurene Powell Jobs
+Chrisann Brennan
+Steve Jobs - Wikiquote
+
+Apple Inc.
+Category:Steve Jobs
+Steve Jobs (disambiguation)
+Book:Steve Jobs
+Category:Books about Steve Jobs
+Apple I
+Steve Jobs (clothing company)
+Steve Jobs: The Man in the Machine
+History of Apple Inc.
+Joanna Hoffman
+Timeline of Steve Jobs media
+Daniel Kottke
+Ronald Wayne
+The Second Coming of Steve Jobs
+iCon: Steve Jobs
+Steve Jobs: The Lost Interview
+Becoming Steve Jobs
+Mona Simpson
+-------testSetThe_Maya.txt-------
+Maya civilization
+Maya peoples
+History of the Maya civilization
+Maya city
+Maya
+Maya architecture
+Maya religion
+Classic Maya collapse
+List of Maya sites
+Spanish conquest of the Maya
+Maya society
+Chichen Itza
+Wikipedia:WikiProject WikiFundi Content/Maya civilization ...
+
+Maya script
+Maya (religion)
+Mayan languages
+Ancient Maya art
+Mayan
+Maya mythology
+Maya warfare
+Maritime trade in the Maya civilization
+Maya music
+Maya Ballgame
+Maya cave sites
+Maya cuisine
+2012 phenomenon
+Maya stelae
+Maya calendar
+Human sacrifice in Maya culture
+Maya astronomy
+-------testSetTriple_Cross.txt-------
+Triple Cross (1966 film)
+Triple Cross
+The Triple Cross
+Papal cross
+Joe Palooka in Triple Cross
+Triple product
+Three Crosses Square
+Russian Orthodox cross
+Eddie Chapman
+Talk:Three Crosses Square
+Double agent
+Triplecross lizardfish
+Georges Garvarentz
+Talk:Lagrange's formula
+Papal ferula
+Peter Lance
+Yalalag cross
+J.W. Hodkinson
+14th Yokohama Film Festival
+Heavy Cross
+Bernard Fresson
+Sârbi Susani church
+Talk:Cross product/Archive 1
+Template:Terence Young
+List of screw drives
+Romy Schneider
+Treble Cross
+Fascist symbolism
+Keiko Oginome
+-------testSetUS_Constitution.txt-------
+Constitution of the United States
+s:Constitution of the United States of America
+Article One of the United States Constitution
+List of amendments to the United States Constitution
+Article Two of the United States Constitution
+History of the United States Constitution
+Constitution
+Article Three of the United States Constitution
+Fourteenth Amendment to the United States Constitution ...
+
+United States Bill of Rights
+Article Five of the United States Constitution
+Preamble to the United States Constitution
+Article Four of the United States Constitution
+Second Amendment to the United States Constitution ...
+
+Fourth Amendment to the United States Constitution
+First Amendment to the United States Constitution
+Thirteenth Amendment to the United States Constitution ...
+
+Tenth Amendment to the United States Constitution
+Constitutional amendment
+Twenty-fifth Amendment to the United States Constitution ...
+
+Article Six of the United States Constitution
+Equal Rights Amendment
+Sixteenth Amendment to the United States Constitution ...
+
+Eighteenth Amendment to the United States Constitution ...
+
+Seventeenth Amendment to the United States Constitution ...
+
+Due Process Clause
+Timeline of drafting and ratification of the United States ...
+
+Twentieth Amendment to the United States Constitution ...
+
+Founding Fathers of the United States
+Ninth Amendment to the United States Constitution
+-------testSetEye_of_Horus.txt-------
+Eye of Horus
+Talk:Eye of Horus
+Horus
+Litany of the Eye of Horus
+Eye of Ra
+Eye of Horus (video game)
+File talk:Wedjat (Udjat) Eye of Horus pendant.jpg
+Osiris myth
+Gods of Egypt (film)
+Eye of Providence
+File:Eye of Horus bw.svg - Wikimedia Commons
+
+Ra
+Hathor
+Set (deity)
+Talk:Litany of the Eye of Horus
+Hamsa
+Thoth
+Four sons of Horus
+Osiris
+Egyptian fraction
+Numbers in Egyptian mythology
+Serekh
+List of occult symbols
+Wadjet
+Metternich Stela
+Uraeus
+Egyptian mythology
+Mehit
+Ancient Egyptian deities
+-------testSetMadam_I’m_Adam.txt-------
+Palindrome
+Madam Adam
+The Palindromist
+Mark Saltveit
+Call Me Madam
+Young and Rich
+Call Me Madam (film)
+Deborah Jeane Palfrey
+What Do You Want from Live
+Dax Jordan
+Madam Secretary (TV series)
+Pekka Airaksinen
+Thomas Schnauz
+East of Eden (novel)
+Dmitri Borgmann
+Amy Adams
+Category:NA-importance The X-Files articles
+Wikipedia:Reference desk/Archives/Language/2010 March 3 ...
+
+Talk:Anagram
+Debbie Lee Carrington
+Madame X Tour
+Gunsmoke
+Peter Frampton
+Daniel Lapin
+The Lone Gunmen (TV series)
+Patina Miller
+Stephen Tobolowsky
+Wikipedia talk:Local Embassy/Archive 3
+Joe Friday
+-------testSetMean_Average_Precision.txt-------
+Mean average precision
+Evaluation measures (information retrieval)
+Mean reciprocal rank
+Precision and recall
+F1 score
+Information retrieval
+Mean absolute percentage error
+Mean absolute error
+Accuracy and precision
+Learning to rank
+Map (disambiguation)
+Relevance feedback
+Weighted arithmetic mean
+Coefficient of variation
+Human–computer information retrieval
+Evaluation of binary classifiers
+Standard deviation
+Deviation (statistics)
+Root-mean-square deviation
+Harmonic mean
+Circular error probable
+Algorithms for calculating variance
+Statistical dispersion
+Query expansion
+Arithmetic mean
+Inverse-variance weighting
+Truncated mean
+Dilution of precision (navigation)
+Weighted median
+Pooled variance
+-------testSetPhysics_Nobel_Prizes.txt-------
+List of Nobel laureates in Physics
+Nobel Prize in Physics
+List of Nobel laureates
+Nobel Prize
+List of Nobel laureates by country
+Ig Nobel Prize
+Nobel Committee for Physics
+List of Nobel laureates in Chemistry
+Nobel Prize controversies
+Category:Nobel laureates in Physics
+List of Italian Nobel laureates
+List of Nobel laureates affiliated with the University ...
+List of Nobel laureates affiliated with the University of Tokyo ...
+
+List of Christian Nobel laureates
+Nobel Prize in Chemistry
+List of female Nobel laureates
+List of Nobel laureates by university affiliation
+List of Nobel laureates affiliated with the University ...
+List of prizes known as the Nobel of a field
+List of Nobel laureates affiliated with Imperial College London ...
+
+List of Nobel laureates affiliated with University College ...
+
+Lists of Nobel laureates
+List of Nobel Laureates affiliated with the ...
+List of Jewish Nobel laureates
+List of Asian Nobel laureates
+List of Chinese Nobel laureates
+List of Nobel laureates affiliated with Cornell University ...
+
+Category:Dutch Nobel laureates
+List of Belgian Nobel laureates
+List of Nobel laureates affiliated with the University ...
+-------testSetRead_the_manual.txt-------
+RTFM
+Owner's manual
+Autonomous spaceport drone ship
+Owner's Manual (TV series)
+The Manual
+Talk:RTFM
+mandoc
+Quickstart guide
+Jiuyang Zhenjing
+User guide
+Wikipedia:Simplified Manual of Style
+Training manual
+Category:Top-importance Help articles
+Wikipedia:Manual of Style/Lead section
+Category:Manual therapy
+Wikipedia:Manual of Style
+Category:Wikipedia style guidelines
+U.S. Army Field Manual 30-31B
+Manual Samuel
+Manual of Love 2
+Category:Wikipedia Manual of Style (content)
+Manual Scan
+Manual of Patent Office Practice
+Manual for Streets
+Category:Criminology handbooks and manuals
+Demeter's Manual of Parliamentary Law and Procedure ...
+
+Help:Introduction to the Manual of Style/6
+Category:Wikipedia Manual of Style (music)
+Aircraft flight manual
+man page
+-------testSetSpanish_Civil_War.txt-------
+Spanish Civil War
+Foreign involvement in the Spanish Civil War
+1936 in the Spanish Civil War
+Francisco Franco
+Background of the Spanish Civil War
+Final offensive of the Spanish Civil War
+Nationalist faction (Spanish Civil War)
+Republican faction (Spanish Civil War)
+German involvement in the Spanish Civil War
+List of surviving veterans of the Spanish Civil War
+Italian military intervention in Spain
+Songs of the Spanish Civil War
+Milicianas in the Spanish Civil War
+Women in the Spanish Civil War
+Jewish volunteers in the Spanish Civil War
+The Spanish Civil War (book)
+List of Spanish Civil War films
+List of people of the Spanish Civil War
+Irish involvement in the Spanish Civil War
+Category:Spanish people of the Spanish Civil War
+War in the North
+Second Spanish Republic
+Siege of Madrid
+Category:Works about the Spanish Civil War
+Polish volunteers in the Spanish Civil War
+Category:Spanish military personnel of the Spanish Civil War ...
+
+Red Terror (Spain)
+Corpo Truppe Volontarie
+Irish Brigade (Spanish Civil War)
+-------testSetDo_geese_see_god.txt-------
+The Palindromist
+Palindrome
+David Slade
+The Wind (band)
+Christmas Is Coming
+Talk:Palindrome
+Hamsa (bird)
+Dave Seaman
+Tengri
+Mageina Tovah
+Ania Marson
+Geb
+Supplicia canum
+Greylag goose
+Goose
+Augury
+Russell's teapot
+Leda and the Swan
+Baucis and Philemon
+Swan
+Matthew 5:8
+Aphrodite
+Battle of the Allia
+Blair Underwood
+Nemesis
+Mars (mythology)
+Sacrifice
+The Snow Goose: A Story of Dunkirk
+Rabbit–duck illusion
+Ambrose
+-------testSetMuch_ado_about_nothing.txt-------
+Much Ado About Nothing
+Much Ado About Nothing (1993 film)
+Much Ado About Nothing (2012 film)
+Much Ado About Nothing (opera)
+Template:Much Ado About Nothing
+Much Ado About Nothing (disambiguation)
+Much Ado About Nothing (1973 film)
+Don Pedro (character)
+Category:Works based on Much Ado About Nothing - Wikipedi
+
+Talk:Much Ado About Nothing
+Much Ado
+Viel Lärm um nichts
+Category:Films based on Much Ado About Nothing
+Dogberry
+Much Ado About Nothing (2016 film)
+File:Much Ado About Nothing by Alfred Elmore 1846.jpg ...
+
+Category:Plays and musicals based on Much Ado About ...
+
+Béatrice et Bénédict
+ShakespeaRe-Told
+Ghost character
+The Law Against Lovers
+File:Katharine Hepburn Much Ado About Nothing 1958.JPG ...
+
+File:Shakespeare by the Lakes II Much Ado About Nothing.jpg ...
+
+Don John
+Love's Labour's Won
+New English Shakespeare Company
+File:Much Ado Quarto.JPG
+Chronology of Shakespeare's plays
+Much Ado About Mousing

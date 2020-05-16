@@ -1,5 +1,5 @@
-index_dir = "Wiki_index"
-xml_file = "enwiki-20190101-pages-articles-multistream.xml.bz2"
+index_dir = "wiki_index"
+xml_file = "xml_snippet"
 
 # Test samples
 # relevant_pages = {"Anarchism", "Autism", "AccessibleComputing", "AfghanistanGeography", "AfghanistanPeople"}
