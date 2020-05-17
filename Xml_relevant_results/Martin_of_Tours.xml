@@ -1,0 +1,329 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Martin of Tours</title>
+    <ns>0</ns>
+    <id>20345</id>
+    <revision>
+      <id>954457687</id>
+      <parentid>950304404</parentid>
+      <timestamp>2020-05-02T14:21:10Z</timestamp>
+      <contributor>
+        <ip>89.134.190.74</ip>
+      </contributor>
+      <comment>Undid revision 950304404 by [[Special:Contributions/156.198.61.141|156.198.61.141]] ([[User talk:156.198.61.141|talk]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="53344" xml:space="preserve">{{About|the French saint|the Caribbean island|Saint Martin|other uses|Saint Martin (disambiguation)}}
+{{Infobox saint
+|honorific_prefix = Saint 
+|name=Martin of Tours
+|birth_date=316 or 336 
+|death_date={{death date|397|11|8|mf=y}}
+|feast_day=11 November ([[Roman Catholic Church]], [[Lutheran Church]], and [[Anglican Communion]])&lt;br&gt;12 November ([[Eastern Orthodox Church]])
+|venerated_in=[[Roman Catholic Church]]&lt;br&gt;[[Eastern Orthodox Church]]&lt;br&gt;[[Oriental Orthodoxy]]&lt;br&gt;[[Anglican Communion]]&lt;br&gt;[[Lutheranism]]
+|image=Höchster Schloß Tor St Martin.jpg
+|imagesize=250px
+|caption=Statue of Saint Martin cutting his cloak in two. Höchster Schloss, [[Höchst (Frankfurt am Main)|Höchst]].
+|birth_place=[[Sabaria|Savaria]], [[Diocese of Pannonia]] (modern-day [[Hungary]])
+|death_place=[[Candes-Saint-Martin|Candes]], [[Gaul]] (modern-day [[France]])
+|titles=Bishop and Confessor
+|canonized_date=[[Pre-congregation|Pre-Congregation]]
+|attributes=man on horseback sharing his cloak with a beggar; man cutting cloak in half; globe of fire; goose
+|patronage=against poverty; against alcoholism; [[Baħrija]], [[Malta]]; beggars; [[Beli Manastir]]; [[Archdiocese of Bratislava]]; [[Buenos Aires]]; [[Burgenland]]; cavalry; [[Church Lads' and Church Girls' Brigade]]; [[Conscientious Objectors]]  [[Dieburg]]; [[Edingen]] equestrians; [[Foiano della Chiana]]; France; geese; horses; hotel-keepers; innkeepers; [[Kortrijk]]; [[diocese of Mainz]]; [[Montemagno (AT)|Montemagno]]; [[Olpe, Germany|Olpe]]; [[Ourense]]; [[Pietrasanta]]; [[Pontifical Swiss Guards]]; quartermasters; reformed alcoholics; riders; [[Taal, Batangas]]; [[Bocaue, Bulacan]]; [[Diocese of Rottenburg-Stuttgart]]; soldiers; tailors; [[Utrecht (city)|Utrecht]]; vintners; [[Virje]]; wine growers; wine makers; [[Wissmannsdorf]] and [[Villadoz]]
+|major_shrine=
+|suppressed_date=
+|issues=
+}}
+
+'''Martin of Tours''' ({{lang-la|Sanctus Martinus Turonensis}}; 316 – 8 November 397) was the third [[bishop of Tours]].&lt;ref&gt;Martin succeeded Litorius, the second bishop of Tours, whose accession in 338 came after a vacancy of 36 or 37 years since the death of [[Gatianus of Tours]] due to the [[Diocletian persecution]]
+.&lt;/ref&gt;  He has become one of the most familiar and recognizable Christian saints in [[Western Christianity|Western tradition]].
+
+A native of [[Pannonia]], he converted to Christianity at a young age. He served in the [[Roman cavalry]] in [[Roman Gaul|Gaul]], but left military service at some point prior to 361, when he became a disciple of [[Hilary of Poitiers]], establishing the [[Ligugé Abbey|monastery at Ligugé]]. He was consecrated as Bishop of  Caesarodunum (Tours) in 371. As bishop, he was active in the suppression of the remnants of [[Gallo-Roman religion]], but he opposed the violent persecution of the [[Priscillian]]ist sect of ascetics.
+
+His life was recorded by a contemporary hagiographer, [[Sulpicius Severus]]. 
+Some of the accounts of his travels may have been interpolated into his ''vita'' to validate early sites of his [[Cult (religion)|cult]].  He is best known for the account of his using his military sword to cut his cloak in two, to give half to a beggar clad only in rags in the depth of winter. 
+
+His shrine in [[Tours]] became a famous stopping-point for [[Camino de Santiago|pilgrims on the road]] to [[Santiago de Compostela]] in [[Spain]]. 
+His cult was revived in [[French nationalism]] during the [[Franco-Prussian War]] of 1870/1, and as a consequence he was seen as a patron saint of France during the [[French Third Republic]].&lt;ref&gt;
+Brennan, Brian, ''The Revival of the Cult of Martin of Tours in the Third Republic'' (1997).&lt;/ref&gt;
+
+==Life==
+===Soldier===
+Martin was born in AD 316 or 336&lt;ref&gt;Both dates are recorded in hagiographical tradition. The birth date in 336 is preferred as the more likely by  Clare Stancliffe, ''St Martin and his hagiographer: History and miracle in Sulpicius Severus'' (Oxford, Clarendon Press, 1983) pp. 119&amp;ndash;133.&lt;/ref&gt; in [[Sabaria|Savaria]] in the  [[Diocese of Pannonia]] (now Szombathely, Hungary). His father was a senior officer ([[Tribunus Militum|tribune]]) in the Roman army. A few years after Martin's birth his father was given veteran status and was allocated land on which to retire at [[Ticinum]] (now [[Pavia]]), in northern Italy, where Martin grew up.&lt;ref name=clugnet&gt;{{cite web|url=http://www.newadvent.org/cathen/09732b.htm|title=Clugnet, Léon. "St. Martin of Tours." The Catholic Encyclopedia. Vol. 9. New York: Robert Appleton Company, 1910. 4 Jun. 2013|publisher=}}&lt;/ref&gt;&lt;ref&gt;Pernoud, p. 20&lt;/ref&gt;
+
+At the age of ten he attended the Christian church against the wishes of his parents and became a [[catechumen]]. Christianity had been made a legal religion (in 313) in the Roman Empire. It had many more adherents in the Eastern Empire, whence it had sprung, and was concentrated in cities, brought along the trade routes by converted Jews and Greeks (the term 'pagan' literally means 'country-dweller'). Christianity was far from accepted amongst the higher echelons of society; among members of the army the worship of [[Mithras]] would have been stronger. Although the conversion of the [[Emperor Constantine]] and the subsequent programme of church-building gave a greater impetus to the spread of the religion, it was still a minority faith.
+
+As the son of a veteran officer, Martin at fifteen was required to join a cavalry ''[[Auxilia#Alae|ala]].'' At the age of 18 around 334 or 354, he was stationed at ''Ambianensium civitas'' or [[Samarobriva]] in [[Roman Gaul|Gaul]] (now [[Amiens]], France).&lt;ref name=clugnet/&gt; It is likely that he joined the ''[[Equites cataphractarii|Equites catafractarii]] Ambianenses'', a [[heavy cavalry]] unit listed in the ''[[Notitia Dignitatum]]''. As the unit was stationed at Milan and is also recorded at [[Trier]], it is likely to have been part of the elite cavalry bodyguard of the Emperor, which accompanied him on his travels around the Empire. 
+[[Image:Simone Martini 028.jpg|thumb|left|225px|St Martin leaves the life of chivalry and renounces the army (fresco by Simone Martini)]]
+
+According to his biographer, Sulpicius Severus, he served in the military for only another two years, though it has been argued that these two years, "are in fact not nearly enough to bring the account to the time when he would leave, that is, during his encounter with [[Julian (emperor)|Caesar Julian]] (the one who has gone down in history as Julian the Apostate) Martin would have been 45 years old when Julian acceded to the throne, and at the usual end of a military contract.{{huh|date=July 2018}}&lt;!--this sentence started as an unattributed verbatim quote and then somehow just petered out?--&gt;
+Jacques Fontaine{{year needed|date=July 2018}} thinks that the biographer was somewhat embarrassed about referring to [Martin's] long stint in the army, [because of the perennially tenuous relation between the Christian conscience and war]."&lt;ref&gt;Pernoud, Regine (2006). ''Martin of Tours: Soldier, Bishop, Saint''. p 29.&lt;/ref&gt; [[Richard A. Fletcher]] says that Martin served for five years before obtaining a discharge, two of them after his baptism in 354.&lt;ref&gt;[https://books.google.com/books?id=RB5aWgr7l-gC&amp;printsec=frontcover&amp;dq=Christianity+and+Paganism&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwihie-NnODhAhUhT98KHapoDTIQ6AEIUjAH#v=onepage&amp;q=Christianity%20and%20Paganism&amp;f=false Fletcher, Richard and Fletcher, Richard A., ''The Barbarian Conversion: From Paganism to Christianity'', University of California Press, 1999, p. 42] {{ISBN|9780520218598}}&lt;/ref&gt;
+
+Regardless of whether or not he remained in the army, Sulpicius Severus reports that just before a battle in the [[Gaul|Gallic provinces]] at [[Worms, Germany|Borbetomagus (now Worms, Germany)]], Martin determined that his switch of allegiance to a new commanding officer (away from antichristian Julian and unto Christ), along with reluctance to receive Julian's pay just as Martin was retiring, prohibited his taking the money and continuing to submit to the authority of the former now, telling him, "I am the soldier of Christ: it is not lawful for me to fight."&lt;ref&gt;SULPITIUS SEVERUS ON THE LIFE OF ST. MARTIN. Translation and Notes by Alexander Roberts. From: A Select Library of Nicene and Post-Nicene Fathers of the Christian Church, Second Series, Volume 11. New York, 1894. [http://www.users.csbsju.edu/~eknuth/npnf2-11/sulpitiu/lifeofst.html] {{Webarchive|url=https://web.archive.org/web/20060909225230/http://www.users.csbsju.edu/~eknuth/npnf2-11/sulpitiu/lifeofst.html |date=2006-09-09 }} accessed 15th January 2015.&lt;/ref&gt; He was charged with cowardice and jailed, but in response to the charge, he volunteered to go unarmed to the front of the troops. His superiors planned to take him up on the offer, but before they could, the invaders sued for peace, the battle never occurred, and Martin was released from military service.&lt;ref&gt;Kurlansky, Mark (2006). ''Nonviolence: Twenty-five Lessons from the History of a Dangerous Idea''. pp 26-27.&lt;/ref&gt;
+
+===Monk and hermit===
+Martin declared his vocation, and made his way to the city of [[Caesarodunum]] (now [[Tours]]), where he became a disciple of [[Hilary of Poitiers]] Christian orthodoxy.&lt;ref name=crawley&gt;{{cite web|url=http://www.stmartinoftourschurch.org/history/st-martin-of-tours/|title=Crawley, John J. ''Lives of the Saints'', John J. Crawley &amp; Co. Inc.|work=St. Martin of Tours Catholic Church|access-date=2013-06-04|archive-url=https://web.archive.org/web/20141129035019/http://www.stmartinoftourschurch.org/history/st-martin-of-tours/|archive-date=2014-11-29|url-status=dead}}&lt;/ref&gt; He opposed the [[Arianism]] of the Imperial Court. When Hilary was forced into exile from Pictavium (now [[Poitiers]]), Martin returned to Italy. According to Sulpicius Severus, he converted an [[Alps|Alpine]] brigand on the way, and confronted the [[Devil]] himself. Having heard in a dream a summons to revisit his home, Martin crossed the Alps, and from [[Milan]] went over to Pannonia. There he converted his mother and some other persons; his father he could not win. While in Illyricum he took sides against the Arians with so much zeal that he was publicly scourged and forced to leave.&lt;ref name=crawley/&gt; Returning from [[Illyria]], he was confronted by the Arian [[Roman Catholic Archdiocese of Milan|archbishop of Milan]] [[Auxentius of Milan|Auxentius]], who expelled him from the city. According to the early sources, Martin decided to seek shelter on the island then called Gallinaria, now [[Isola d'Albenga]], in the [[Ligurian Sea]], where he lived the solitary life of a hermit. Not entirely alone, since the chronicles indicate that he would have been in the company of a ''priest, a man of great virtues'', and for a period with [[Hilary of Poitiers]]; on this island, where the wild hens lived. Martin lived on a diet of [[herb]]s and wild [[root]]s.&lt;ref&gt;Hones, William. (1835). [https://babel.hathitrust.org/cgi/pt?id=hvd.32044011771656&amp;view=1up&amp;seq=745 ''The Every-Day Book and Table Book, Volume 1'']. London. pp. 1469-1470&lt;/ref&gt; It is alleged he ate [[hellebore]], a plant that he did not know was poisonous. A legend tells that being on the verge of death for having eaten this herb, he prayed and was miraculously cured. 
+
+With the return of Hilary to his [[episcopal see|see]] in 361, Martin joined him and established a hermitage nearby, which soon attracted converts and followers. The crypt under the parish church (not the current Abbey Chapel) reveals traces of a Roman villa, probably part of the bath complex, which had been abandoned before Martin established himself there. This site was developed into the [[Order of St. Benedict|Benedictine]] [[Ligugé Abbey]], the oldest monastery known in Europe.&lt;ref name=zenith&gt;{{cite web|url=http://www.zenit.org/en/articles/on-st-martin-of-tours|title=Benedict XVI. ""Generous Witness of the Gospel of Charity", 11 November 2007|work=ZENIT&amp;nbsp;— The World Seen From Rome}}&lt;/ref&gt; It became a centre for the [[evangelisation]] of the country districts. He travelled and preached through western [[Gaul]]: "The memory of these apostolic journeyings survives to our day in the numerous local legends of which Martin is the hero and which indicate roughly the routes that he followed."&lt;ref name=clugnet/&gt;
+
+===Bishop===
+In AD 371 Martin was acclaimed [[bishop of Tours]], where he impressed the city with his demeanour. He had been drawn to Tours by a ruse&amp;nbsp;— he was urged to come to minister to someone sick&amp;nbsp;— and was brought to the church, where he reluctantly allowed himself to be consecrated bishop.&lt;ref name=foley/&gt; According to one version, he was so unwilling to be made bishop that he hid in a barn full of geese, but their cackling at his intrusion gave him away to the crowd; that may account for complaints by a few that his appearance was too disheveled to be commensurate with a bishopric, but the critics were hugely outnumbered.
+
+As bishop, Martin set to enthusiastically ordering the destruction of pagan temples, altars and sculptures:
+&lt;blockquote&gt;"[W]hen in a certain village he had demolished a very ancient temple, and had set about cutting down a pine-tree, which stood close to the temple, the chief priest of that place, and a crowd of other heathens began to oppose him; and these people, though, under the influence of the Lord, they had been quiet while the temple was being overthrown, could not patiently allow the tree to be cut down".&lt;ref&gt;Sulpicius, ''Vita'' ch. xiii&lt;/ref&gt;&lt;/blockquote&gt; 
+
+Sulpicius affirms that Martin withdrew from the city to live in [[Marmoutier Abbey (Tours)|Marmoutier]] (''Majus Monasterium''), the [[monastery]] he founded, which faces Tours from the opposite shore of the [[Loire (river)|Loire]]. Recent excavations under the abbey church have revealed the traces of a Roman posting station, beside the main Roman road along the north bank of the Loire, which seems to have been the original dwelling for the community; the "caves" on the site are post-Roman and are probably the result of quarrying the coteau for the Romanesque abbey buildings.
+"Here Martin and some of the monks who followed him built cells of wood; others lived in caves dug out of the rock" (Sulpicius Severus).
+
+Martin introduced a rudimentary [[parish]] system. Once a year the bishop visited each of his parishes, traveling on foot, or by donkey or boat. He continued to set up monastic communities, and extended the bounds of his episcopate from Touraine to such distant points as Chartres, Paris, Autun, and Vienne.
+
+In one instance, the  pagans agreed to fell their sacred fir tree, if Martin would stand directly in its path. He did so, and it miraculously missed him. Sulpicius, a classically educated aristocrat, related this anecdote with dramatic details, as a set piece. Sulpicius could not have failed to know the incident the Roman poet [[Horace]] recalls in several ''Odes'', of his narrow escape from a falling tree.&lt;ref&gt;''Odes'' ii.13 and .17 and iii.4 (''me truncus elapsus cerebro sustulerat nisi faunus ictum dextra levasset'')&lt;/ref&gt;
+
+Martin was so dedicated to the freeing of prisoners that when authorities, even emperors, heard he was coming, they refused to see him because they knew he would request mercy for someone and they would be unable to refuse.
+
+===On behalf of the Priscillianists===
+The churches of other parts of Gaul and in Spain were being disturbed by the Priscillianists, an ascetic sect, named after its leader, [[Priscillian]]. The [[First Council of Saragossa]] had forbidden several of Priscillian's practices (albeit without mentioning Priscillian by name), but Priscillian was elected bishop of Avila shortly thereafter. Ithacius of Ossonoba appealed to the emperor [[Gratian]], who issued a rescript against Priscillian and his followers. After failing to obtain the support of [[Ambrose|Ambrose of Milan]] and [[Pope Damasus I]], Priscillian appealed to [[Magnus Maximus]], who had usurped the throne from Gratian.&lt;ref&gt;Chadwick, Henry. ''Priscillian of Avila: The Occult and the Charismatic in the Early Church'' (Oxford: Clarendon Press, 1976), pp. 42-44.&lt;/ref&gt;
+
+Although greatly opposed to the Priscillianists, Martin traveled to the Imperial court of [[Trier]] to remove them from the secular jurisdiction of the emperor. With Ambrose, Martin rejected Bishop Ithacius's principle of putting heretics to death—as well as the intrusion of the emperor into such matters. He prevailed upon the emperor to spare the life of the heretic Priscillian. At first, Maximus acceded to his entreaty, but, when Martin had departed, yielded to Ithacius and ordered Priscillian and his followers to be beheaded (385). Martin then pleaded for a cessation of the persecution of Priscillian's followers in Spain.&lt;ref name=foley/&gt; Deeply grieved, Martin refused to communicate with Ithacius, until pressured by the Emperor.
+
+Martin died in [[Candes-Saint-Martin]], [[Gaul]] (central France) in 397.
+
+===Abbey of Marmoutier===
+The Abbey of Marmoutier was a monastery just outside today's city of Tours in Indre-et-Loire, France established by Martin around 372. Martin founded the monastery to escape attention and live life as a monastic. The Abbey at Tours was one of the most prominent and influential establishments in medieval France. [[Charlemagne]] awarded the position of Abbot to his friend and adviser [[Alcuin]]. 
+At this time the abbot could travel between Tours and the court at [[Trier]] in Germany and always stay overnight at one of his own properties. It was at Tours that Alcuin's [[scriptorium]] (a room in [[monasteries]] devoted to the copying of manuscripts by monastic [[scribe]]s) developed [[Caroline minuscule]], the clear round hand that made manuscripts far more legible.
+
+In later times the abbey was destroyed by fire on several occasions and ransacked by [[Normans|Norman]] [[Viking]]s in 853 and in 903. It burned again in 994, and was rebuilt by Hervé de Buzançais, treasurer of Saint Martin, an effort that took 20 years to complete. Expanded to accommodate the crowds of pilgrims and to attract them, the shrine of St. Martin of Tours became a major stopping-point on [[pilgrimage]]s. In 1453 the remains of Saint Martin were transferred to a magnificent new reliquary donated by [[Charles VII of France]] and [[Agnes Sorel]].
+
+During the [[French Wars of Religion]], the basilica was sacked by the Protestant [[Huguenot]]s in 1562. It was disestablished during the [[French Revolution]].&lt;ref&gt;Farmer, Sharon (1991). ''Communities of St. Martin: Legend and Ritual in Medieval Tours,'' Pp. 78-96.&lt;/ref&gt; It was deconsecrated, used as a stable, then utterly demolished. Its dressed stones were sold in 1802 after two streets were built across the site, to ensure the abbey would not be reconstructed.
+
+==Legend of Martin's cloak==
+[[Image:La charité de saint Martin.jpg|thumb|''The Charity of St. Martin,'' by [[Jean Fouquet]]]]
+[[File:El Greco - San Martín y el mendigo.jpg|thumb|''[[Saint Martin and the Beggar (El Greco)|San Martín y el mendigo]]'' by [[El Greco]], c. 1577-1579]]
+While Martin was a soldier in the Roman army and stationed in Gaul (modern-day France), he experienced a vision, which became the most-repeated story about his life. One day as he was approaching the gates of the city of Amiens, he met a scantily clad beggar. He impulsively cut his military cloak in half to share with the man. That night, Martin dreamed of Jesus wearing the half-cloak he had given away. He heard Jesus say to the angels: "Martin, who is still but a [[catechumen]], clothed me with this robe." ([https://web.archive.org/web/20060909225230/http://www.users.csbsju.edu/~eknuth/npnf2-11/sulpitiu/lifeofst.html#tp Sulpicius, ch 2]). In another version, when Martin woke, he found his cloak restored to wholeness. The dream confirmed Martin in his piety, and he was baptised at the age of 18.&lt;ref name=foley&gt;{{cite web|url=http://www.americancatholic.org/Features/Saints/saint.aspx?id=1196|title=Foley O.F.M., Leonard. ''Saint of the Day, Lives, Lessons, and Feast'', (revised by Pat McCloskey O.F.M.)|publisher=}}&lt;/ref&gt;
+
+The part kept by himself became the famous relic preserved in the oratory of the [[Merovingians|Merovingian]] kings of the [[Franks]] at the [[Marmoutier Abbey (Tours)|Marmoutier Abbey]] near [[Tours]].&lt;ref name=clugnet/&gt; During the [[Middle Ages]], the supposed relic of St. Martin's miraculous cloak, (''cappa Sancti Martini'') was carried by the king even into battle, and used as a holy relic upon which oaths were sworn. The cloak is first attested in the royal treasury in 679, when it was conserved at the ''[[palatium]]'' of [[Luzarches]], a royal villa that was later ceded to the monks of [[Basilique Saint-Denis|Saint-Denis]] by [[Charlemagne]], in 798/99.&lt;ref&gt;J.-P. Brunterch, in ''Un village au temps de Charlemagne'', pp. 90-93, noted in François-Olivier Touati, ''Maladie et société au Moyen âge'' (Paris/Brussels, 1998) p. 216 note 100.&lt;/ref&gt;
+
+The priest who cared for the cloak in its reliquary was called a ''cappellanu'', and ultimately all priests who served the military were called ''cappellani''. The French translation is ''chapelains'', from which the English word ''chaplain'' is derived.&lt;ref&gt;[[Victor Henri Joseph Brahain Ducange|Ducange]], ''Glossarium'', s.v "Capella)", noted in ''Encyclopædia Britannica'' 1911, ''s.v.'' "Chapel".&lt;/ref&gt;
+
+A similar linguistic development took place for the term referring to the small temporary churches built for the relic. People called them a "capella", the word for a little cloak. Eventually, such small churches lost their association with the cloak, and all small churches began to be referred to as "chapels".&lt;ref&gt;{{cite book|last=MacCulloch|first=Daimaid|title=A History of Christianity: The First Three Thousand Years|year=2009|publisher=Penguin Group|isbn=1-101-18945-2}}&lt;/ref&gt;
+
+==Hagiography==
+The early life of Martin was written by [[Sulpicius Severus]], who knew him personally.&lt;ref&gt;{{cite web|url=http://www.users.csbsju.edu/~eknuth/npnf2-11/sulpitiu/lifemart.html|title=Sulpicius Severus. ''Life of St. Martin'', College of St. Benedict, St. John's University; St. Joseph, Minnesota|publisher=|access-date=2005-07-04|archive-url=https://web.archive.org/web/20180302035141/http://www.users.csbsju.edu/~eknuth/npnf2-11/sulpitiu/lifemart.html|archive-date=2018-03-02|url-status=dead}}&lt;/ref&gt; It expresses the immediacy the 4th-century Christian felt with the Devil in all his disguises, and has many accounts of miracles. Some follow familiar conventions— casting out devils, raising the [[paralytic]] and the [[dead]]. Others are more unusual: turning back the flames from a house while Martin was burning down the Roman temple it adjoined; deflecting the path of a felled [[Tree worship|sacred pine]]; the healing power of a letter written from Martin.
+
+==Veneration==
+[[Image:Head reliquary Martin Louvre OA6459.jpg|thumb|upright|Reliquary for the head of St. Martin, silver and copper, part gilt, from the church at [[Soudeilles]], late 14th century, Louvre]]
+The veneration of Martin was widely popular in the [[Middle Ages]], above all in the region between the [[Loire]] and the [[Marne (river)|Marne]], where Le Roy Ladurie and Zysberg noted the densest accretion of [[Toponym|place names]] commemorating Martin.&lt;ref&gt;Emmanuel Le Roy Ladurie and A. Zysberg, "Géographie des hagiotoponymes en France", ''Annales E.S.C.'' (1983), map p. 1331.&lt;/ref&gt;  [[Venantius Fortunatus]] had earlier declared, "Wherever Christ is known, Martin is honored."&lt;ref&gt;Quoted by Louis Réau, ''Iconographie de I'art chretien'', p. 902.&lt;/ref&gt;
+
+When Bishop [[Saint Perpetuus|Perpetuus]] took office at Tours in 461, the little chapel over Martin's grave, built in the previous century by Martin's immediate successor, [[Bricius of Tours|Bricius]],&lt;ref&gt;''"Hic aedificavit basilicam parvulam super corpus beati Martini, in qua et ipse sepultus est"'' (Gregory, ''Libri historiarum'' 10.31, quoted in  Werner Jacobsen, "Saints' Tombs in Frankish Church Architecture" ''Speculum'' '''72'''.4 (October 1997:1107-1143) p. 1108.&lt;/ref&gt; was no longer sufficient for the crowd of pilgrims it was already drawing. Perpetuus built a larger [[basilica]], 38&amp;nbsp;m long and 18&amp;nbsp;m wide, with 120 columns.&lt;ref&gt;The details are in Gregory, ''Libri historiarum'' 2.14&lt;/ref&gt; Martin's body was taken from the simple chapel at his hermitage at [[Candes-Saint-Martin|Candes-St-Martin]] to Tours and his [[sarcophagus]] was reburied behind the high altar of the new basilica.&lt;ref&gt;May Viellard-Troiëkouroff, "La basilique de Saint-Martin de Tours de Perpetuus (470) d'après les fouilles archéologiques", ''Actes du 22e Congrès international d'histoire d'art'' 1966. (Budapest 1972), vol. 2:839-46); Charles Lelong, ''La basilique de Saint-Martin de Tours'' (Chambray-lès-Tours 1986).&lt;/ref&gt; A large block of marble above the tomb, the gift of bishop Euphronius of Autun (472-475), rendered it visible to the faithful gathered behind the high altar. Werner Jacobsen suggests it may also have been visible to pilgrims encamped in the [[Atrium (architecture)|atrium]] of the basilica.&lt;ref&gt;Jacobsen 1997:1108f.&lt;/ref&gt; Contrary to the usual arrangement, the atrium was situated behind the church, close to the tomb in the [[apse]], which may have been visible through a ''fenestrella'' in the apse wall.
+
+St. Martin's popularity can be partially attributed to his adoption by successive royal houses of France. [[Clovis I|Clovis]], King of the [[Salian Franks]], one of many warring tribes in sixth-century France, promised his Christian wife [[Clotilde|Clotilda]] that he would be baptised if he was victorious over the [[Alemanni]]. He credited the intervention of St Martin with his success, and with several following triumphs, including the defeat of [[Alaric II]]. The popular devotion to St Martin continued to be closely identified with the [[Merovingian]] monarchy: in the early seventh century [[Dagobert I]] commissioned the goldsmith [[Saint Eligius]] to make a work in gold and gems for the tomb-shrine.&lt;ref&gt;''Vita Eligii'': ''"miro opificio exaure et gemmis contextuit sepulchrum:''; quoted in Jacobsen 1997:1109 note 11.&lt;/ref&gt; The bishop [[Gregory of Tours]] wrote and distributed an influential ''Life'' filled with miraculous events of St. Martin's career. Martin's ''cultus'' survived the passage of power to the Merovingians' successors, the [[Carolingian]] dynasty.
+[[Image:Basiliquestmartin.jpg|thumb|upright|[[Basilica of St. Martin, Tours]]]]
+
+===Revival of the popular devotion to St. Martin in the Third Republic===
+{{See also|French Third Republic#Church and state}}
+
+====Excavations and rediscovery of the tomb====
+[[File:Tours, Saint Martin.JPG|thumb|right|275px|The new basilica]]
+{{main article |Basilica of St. Martin, Tours}}
+In 1860 excavations by [[Leo Dupont]] (1797–1876) established the dimensions of the former abbey and recovered some fragments of architecture. The tomb of St. Martin was rediscovered on December 14, 1860, which aided in the nineteenth-century revival of the popular devotion to St. Martin.
+
+After the radical [[Paris Commune]] of 1871, there was a resurgence of conservative Catholic piety, and the church decided to build a basilica to St. Martin. They selected [[Victor Laloux]] as architect. He eschewed [[Gothic Revival|Gothic]] for a mix of Romanesque and Byzantine, sometimes defined as neo-Byzantine.&lt;ref&gt;Note: Pilgrimage basilicas in comparable Romanesque-Byzantine taste being erected during the same period are the [[Basilique du Sacré-Cœur, Paris]] and in Lyon the basilica of [[Notre-Dame de Fourvière]].&lt;/ref&gt; The new [[Basilica of St. Martin, Tours|Basilique Saint-Martin]] was erected on a portion of its former site, which was purchased from the owners. Started in 1886, the church was consecrated 4 July 1925.&lt;ref&gt;{{cite web|title=Historique|language=French|url=http://www.basiliquesaintmartin.com/index.php?page=37&amp;lg=1|work="Basilique Saint-Martin" (official website)|accessdate=2008-09-16}}&lt;/ref&gt;
+
+====Franco-Prussian War====
+Martin's renewed popularity in France was related to his promotion as a [[military saint]] during the [[Franco-Prussian War]] of 1870–1871.  
+During the military and political crisis of the Franco-Prussian war, [[Napoleon III]]'s [[Second French Empire|Second Empire]] collapsed. After the surrender of Napoleon to the Prussians after the [[Battle of Sedan]] in September 1870, a provisional government of national defense was established, and France's [[French Third Republic|Third Republic]] was proclaimed. Paris was evacuated due to the advancing enemy and for a brief time, Tours (September–December 1870) became the effective capital of France.
+
+St Martin was promoted by the clerical right as the protector of the nation against the German threat. Conservatives associated the dramatic collapse of Napoleon III's regime as a sign of divine retribution on the irreligious emperor.  Priests interpreted it as punishment for a nation led astray due to years of [[anti-clericalism]].  They preached repentance and a return to religion for political stability.  The ruined towers of the old royal basilica of St. Martin at Tours came to symbolize the decline of traditional Catholic France.{{sfn|Brennan, pp 489-491}}
+[[File:Tombeau de Saint-Martin de Tours.jpg|thumb|left|upright=1.3|Tomb of Saint Martin]]
+With the government's relocation to Tours during the [[Franco-Prussian War]], 1870, numerous pilgrims were attracted to St. Martin's tomb. It was covered by a temporary chapel built by  [[Joseph-Hippolyte Guibert|archbishop Guibert]].  The popular devotion to St. Martin was also associated with the nationalistic devotion to the [[Sacred Heart]].  The flag of Sacre-Coeur, borne by [[Ultramontane]] Catholic [[Pontifical Zouaves]] who fought at [[Patay]], had been placed overnight in St. Martin's tomb before being taken into battle on October 9, 1870.  The banner read "Heart of Jesus Save France" and on the reverse side [[Carmelite]] nuns of Tours embroidered "Saint Martin Protect France".{{sfn|Brennan, p 499}}As the French army was victorious in Patay, many among the faithful took the victory to be the result of divine favor. Popular hymns of the 1870s developed the theme of national protection under the cover of Martin's cloak, the "first flag of France".{{sfn|Brennan, pp 489-491}}
+
+During the nineteenth-century Frenchmen, influenced by secularism, agnosticism, and [[anti-clericalism]], deserted the church in great numbers. As Martin was a man's saint, the devotion to him was an exception to this trend.  For men serving in the military, Martin of Tours was presented by the Catholic Right as the masculine model of principled behavior. He was a brave fighter, knew his obligation to the poor, shared his goods, performed his required military service, followed legitimate orders, and respected secular authority.{{sfn|Brennan, pp 491-492}}
+
+====Opposition from Anticlericals====
+During the 1870s, the procession to St. Martin's tomb at Tours became a display of ecclesiastical and military cooperation. Army officers in full uniform acted as military escorts, symbolically protecting the clergy and clearing the path for them. Anti-clerics viewed the staging of public religious processions as a violation of civic space. In 1878, M. Rivière, the provisional mayor of Tours, with anticlerical support banned the November procession in honor of St. Martin. President [[Patrice de Mac-Mahon]] was succeeded by the Republican [[Jules Grévy]], who created a new national anticlerical offensive. Bishop [[Louis-Édouard-François-Desiré Pie]] of Poitiers united conservatives and devised a massive demonstration for the November 1879 procession. Pie's ultimate hope was that St Martin would stop the “chariot” of modern society, and lead to the creation of a France where the religious and secular sectors merged.
+
+The struggle between the two men was reflective of that between conservatives and anti-clerics over the church's power in the army. From 1874, military chaplains were allowed in the army in times of peace, but anti-clerics viewed the chaplains as sinister monarchists and counter-revolutionaries. Conservatives responded by creating the short-lived Legion de [[Saint Maurice]] in 1878 and the society, Notre Dame de Soldats, to provide unpaid voluntary chaplains with financial support. The legislature passed the anticlerical Duvaux Bill of 1880, which reduced the number of chaplains in the French army. Anticlerical legislators wanted commanders, not chaplains, to provide troops with moral support and to supervise their formation in the established faith of "patriotic Republicanism."{{sfn|Brennan, pp 495-496}}
+
+===St. Martin as a French Republican patron===
+St. Martin has long been associated with France's royal heritage. Monsignor René François Renou (Archbishop of Tours, 1896–1913) worked to associate St. Martin as a specifically "republican" patron. Renou had served as a chaplain to the 88&lt;sup&gt;e&lt;/sup&gt; Régiment des mobils d'Indre-et-Loire  during the Franco-Prussian war and was known as the "army bishop." Renou was a strong supporter of St. Martin and believed that the national destiny of France and all its victories were attributed to him. He linked the military to the cloak of St. Martin, which was the "first flag of France" to the French tricolor, "the symbol of the union of the old and new."  This flag symbolism connected the devotion to St. Martin with the Third Republic. But, the tensions of the [[Dreyfus Affair]] renewed anti-clericalism in France and drove a wedge between the Church and the Republic. By 1905, the influence of [[Rene Waldeck-Rousseau]] and [[Emile Combes]], combined with deteriorating relations with the [[Holy See|Vatican]], led to the separation of church and state.&lt;ref&gt;Brennan, Brian (1997). "The Revival of the Cult of Martin of Tours in the Third Republic". Pp 497-499.&lt;/ref&gt;
+
+St. Martin's popularity was renewed during the First World War. Anticlericalism declined, and priests served in the French forces as chaplains. More than 5,000 of them died in the war. In 1916, Assumptionists organized a national pilgrimage to Tours that attracted people from all of France. The devotion to St. Martin was amplified in the dioceses of France, where special prayers were offered to the patron saint. When the armistice was signed on Saint Martin's Day, 11 November 1918, the French people saw it was a sign of his intercession in the affairs of France.&lt;ref&gt;Brennan, Brian (1997). "The Revival of the Cult of Martin of Tours in the Third Republic". Pp 499–501.&lt;/ref&gt;
+
+==Patronage==
+[[File:Szombathely Szt Márton kút, Látogatói központ.JPG|thumb|250px|Martin of Tours's Fountain, behind the Visitors Center - Szombathely]]
+He is the [[patron saint]] of beggars (because of his sharing his cloak), wool-weavers and tailors (also because of his cloak), he is also the patron saint of the US Army Quartermaster Corps even though he detested violence (also because of sharing his cloak), geese (some say because they gave his hiding place away when he tried to avoid being chosen as bishop, others because their migration coincides with his feast), vintners and innkeepers (because his feast falls just after the late grape harvest), and France.
+
+Beyond his patronage of the [[French Third Republic]], Saint Martin more recently has also been  described in terms of  "a spiritual bridge across Europe"   due to his "international" background, being a native of [[Pannonia]] who spent his adult life in [[Roman Gaul|Gaul]].&lt;ref&gt;""Martin is, as it were, a spiritual bridge across Europe between France and Hungary" {{cite book|last=Lanzi|first=Fernando|title=Saints and Their Symbols: Recognizing Saints in Art and in Popular Images|page=104|url=https://books.google.com/books?id=D_aF50Lo8lQC&amp;hl=hu|publisher=Liturgical Press|isbn=0-8146-2970-9|year=2004|accessdate=2008-07-19}}&lt;/ref&gt;
+
+==Iconography==
+Martin is most generally portrayed on horseback dividing his cloak with the beggar. His emblem in English art is often that of a goose, whose annual migration is about late Autumn.&lt;ref&gt;{{cite web|url=http://www.efl-churches.org/hist_stmart.htm|title="The Life of St. Martin of Tours", St. Martin's Anglican Church, Eynesford, Kent|publisher=}}&lt;/ref&gt;
+
+===Hammer of Martin of Tours===
+[[File:MCC-41976 Hamer van St. Maarten (1).tif|thumb|left|Hammer of Martin of Tours, Catharijne Convent, Utrecht, the Netherlands]]
+	 
+The [[Museum Catharijneconvent]] in Utrecht&lt;ref name="cc"&gt;[https://www.catharijneconvent.nl/adlib/41976/?q=devotionalia&amp;f=object_name Catharijne Convent]&lt;/ref&gt; has a relic in its collection which is called "the hammer of St. Martin of Tours" (Latin: ''maleus beati Martini''). It was made in the 13th or 14th century from a late [[Bronze Age]] stone [[axe]] from ca. 1,000 - 700 BC,&lt;ref name="cc" /&gt; though the dating is uncertain.&lt;ref name="cc" /&gt; The grip contains a Latin text saying "''Ydola vanurunt Martini cesa securi nemo deos credat qui sic fuerant ruicuri''" ("the pagan statues fall down, hit by St. Martin's axe. Let nobody believe that those are gods, who so easily fall down"). Legend says that the axe belonged to St. Martin, and was used to hit the devil and to destroy the heathen temples and statues.
+
+==Influence==
+[[File:Coat of arms of Senica.png|thumb|170px|Saint Martin as a heraldic symbol (the coat of arms of [[Senica]], Slovakia).]]
+By the early 9th century, respect for Saint Martin was well-established in Ireland. His monastery at Marmoûtiers became the training ground for many Celtic missions and missionaries. Some believe that [[St. Patrick]] was his nephew and that Patrick was one of many Celtic notables who lived for a time at Marmoûtiers. [[St. Ninian]] definitely studied at Marmoûtiers and was profoundly influenced by Martin, carrying a deep love and respect for his teacher and his methods back to Scotland. Ninian was in the process of building a church when news reached him of Martin's death. Ninian dedicated that church to Martin.
+[[The Book of Armagh]] contains three distinct groups of material: (1) a complete text of the New Testament, (2) a dossier of materials on Saint Patrick, and (3) almost the complete body of writings on Saint Martin by Sulpicius Severus.&lt;ref name=conleth&gt;{{cite web|url=http://catholicheritage.blogspot.com/2010/11/irish-devotion-to-saint-martin-of-tours.html|title="Irish Devotion to Saint Martin of Tours", Saint Conleth's Catholic Heritage Association|author=Brigit|publisher=}}&lt;/ref&gt;
+
+In [[Jonas of Bobbio]]'s ''Vita Columbani'', Jonas relates that [[Saint Columbanus]], while travelling, requested to be allowed to pray at the tomb of St Martin. The Irish palimpsest sacramentary from the mid-7th century contains the text of a mass for St Martin. In the ''Life of Columba'', [[Adamnan]] mentions in passing that St Martin was commemorated during Mass at [[Iona]].&lt;ref name=conleth/&gt;
+
+In his ''Ireland and Her Neighbours in the Seventh Century'',&lt;ref&gt;Richter, Michael, ''''Ireland and Her Neighbours in the Seventh Century'', pp. 225-230, Four Courts Press, 1999&lt;/ref&gt; Michael Richter attributes this to the mission of [[Palladius (bishop of Ireland)|Palladius]] seen within the wider context of the mission of [[Germanus of Auxerre]] to Britain around 429. Thus, this could be the context in which the Life of St Martin was brought from Gaul to Ireland at an early date, and could explain how Columbanus was familiar with it before he ever left Ireland.&lt;ref name=conleth/&gt;
+
+==Legacy==
+===Ligugé Abbey===
+Founded by Martin of Tours in 360, [[Ligugé Abbey]] is one of the earliest monastic foundations in France. The reputation of the founder attracted a large number of disciples to the new monastery; the disciples initially living in locaciacum or small huts, this name later evolved to Ligugé. Its reputation was soon eclipsed by Martin's later foundation at Marmoutier. As of 2013, the Benedictine community at Ligugé numbered twenty-five.&lt;ref&gt;[http://www.abbaye-liguge.com/ L'Abbaye Saint-Martin de Ligugé]&lt;/ref&gt;
+
+===European folk traditions===
+{{Main article|St. Martin's Day}}
+[[Image:Odolanow4a.jpg|thumb|Monument to Saint Martin of Tours in [[Odolanów]], Poland]]
+From the late 4th century to the late [[Middle Ages]], much of [[Western Europe]], including [[Great Britain]], engaged in a period of [[fasting]] beginning on the day after [[St. Martin's Day]], November 11. This fast period lasted 40 days, and was, therefore, called ''Quadragesima Sancti Martini'', which means in [[Latin]] "the forty days of St. Martin." At St. Martin's eve and on the feast day, people ate and drank very heartily for a last time before they started to fast. This fasting time was later called "[[Advent]]" by the [[Roman Catholic Church|Church]] and was considered a time for spiritual preparation for Christmas.
+
+On St. Martin's Day, children in [[Flanders]], the southern and north-western parts of the [[Netherlands]], and the Catholic areas of [[Germany]] and [[Austria]] still participate in [[paper lantern]] processions. Often, a man dressed as St. Martin rides on a horse in front of the procession. The children sing songs about St. Martin and about their lanterns. The food traditionally eaten on the day is [[goose]], a rich bird. According to legend, Martin was reluctant to become bishop, which is why he hid in a stable filled with geese. The noise made by the geese betrayed his location to the people who were looking for him.
+
+[[Image:Saintmartinoftours.jpg|thumb|left|Statue of Saint Martin in the grounds of Saint Martin de Tours Roman Catholic Church in [[Saint Martinville]], Louisiana]]
+In the east part of the [[Belgium|Belgian]] province of [[East-Flanders]] (Aalst) and the west part of [[West Flanders]] ([[Ypres]]), traditionally children receive presents from St. Martin on November 11, instead of from [[Saint Nicholas]] on December 6 or [[Santa Claus]] on December 25. They also have lantern processions, for which children make lanterns out of [[Mangelwurzel|beets]]. In recent years, the lantern processions have become widespread as a popular ritual, even in [[Protestant]] areas of [[Germany]] and the [[Netherlands]]. Most Protestant churches no longer officially recognize [[Saints]].
+
+In [[Portugal]], where the saint's day is celebrated across the country, it is common for families and friends to gather around the fire in reunions called ''magustos,'' where they typically eat roasted [[chestnuts]] and drink [[wine]], ''jeropiga'' (drink made of grape must and firewater{{clarification needed|date=January 2019}}) and ''aguapé'' (a sort of weak and watered-down wine). According to the most widespread variation of the cloak story, Saint Martin cut off half of his cloak in order to offer it to a [[beggar]] and along the way, he gave the remaining part to a second beggar. As he faced a long ride in a freezing weather, the dark clouds cleared away and the sun shone so intensely that the frost melted away. Such weather was rare for early November, so was credited to God's intervention. The phenomenon of a sunny break to the chilly weather on Saint Martin's Day (11 November) is called ''Verão de São Martinho'' (Saint Martin's Summer, ''veranillo de san Martín'' in Spanish) in honor of the cloak legend.
+
+[[File:Rogale świętomarcińskie RB1.JPG|thumb|''Rogal świętomarciński'', baked for St. Martin's Day in Poznań]]
+
+Many churches are named after Saint Martin of Tours. [[St Martin-in-the-fields]], at [[Trafalgar Square]] in the centre of London, has a history appropriately associated with Martin's renunciation of war; [[Dick Sheppard (priest)|Dick Sheppard]], founder of the [[Peace Pledge Union]], was Vicar 1914–26, and there is a memorial chapel for him, with a plaque for [[Vera Brittain]], also a noted [[Anglican]] [[pacifist]]; the steps of the church are often used for peace vigils. [[Saint Martin's Cathedral]], in [[Ypres]], [[Belgium]], is dedicated to him. St. Martin is the patron saint of [[Szombathely]], Hungary, with a church dedicated to him, and also the patron saint of [[Buenos Aires]]. In the [[Netherlands]], he is the patron of the cathedral and city of [[Utrecht (city)|Utrecht]]. He is the patron of the city of [[Groningen (city)|Groningen]]; its [[Martini tower]] and [[Martinikerk (Groningen)]] (Martin's Church) were named for him.
+He is also the patron of the church and town of [[Bocaue, Bulacan|Bocaue]].&lt;ref&gt;{{cite web|url=http://www.bulacan.gov.ph/tourism/touristspotphotos.php?junid=413&amp;id=76|title=Bulacan, Philippines: Tourism: Feast of the Holy Cross of Wawa, Bocaue, Bulacan: Photo Gallery: pagoda01.jpg|publisher=}}&lt;/ref&gt;
+
+St. Martin's Church in [[Kaiserslautern, Germany]] is a major city landmark. It is located in the heart of the city's downtown in St. Martin's Square, and is surrounded by a number of restaurants and shops. The church was originally built as a [[Franciscan]] monastery in the 14th century and has a number of unique architectural features.&lt;ref&gt;{{cite web|url=http://www.kaiserslautern.de/tourismus/sehenswertes/sehenswuerdigkeiten/00996/index.html?lang=en|title=Stadtverwaltung Kaiserslautern|publisher=}}&lt;/ref&gt;
+
+St. Martin is the patron saint of the [[Poland|Polish]] towns of [[Bydgoszcz]] and [[Opatów]]. His day is celebrated with a procession and festivities in the city of [[Poznań]], where the  main street (''[[Święty Marcin]]'') is named for him, after a 13th-century church in his honor. A special type of crescent cake ''(rogal świętomarciński)'' is baked for the occasion. As November 11 is also [[Polish Independence Day]], it is a public holiday.
+
+In [[Latin America]], St. Martin has a strong popular following and is frequently referred to as '''San Martín Caballero''', in reference to his common depiction on horseback. Mexican folklore believes him to be a particularly helpful saint toward business owners.
+
+[[Image:St-martin-of-tours-stained-glass.jpg|thumb|left|[[Stained glass]] in St. Martin of Tours Church in [[Vegreville]], [[Alberta]], Canada]]
+[[San Martín de Loba]] is the name of a municipality in the [[Bolívar Department]] of [[Colombia]]. Saint Martin, as San Martín de Loba, is the patron saint of Vasquez, a small village in Colombia.
+
+In [[Finland]], the town and municipality [[Marttila]] (''S:t Mårtens'' in Swedish) is named after St. Martin and depicts him on their coat of arms.
+
+Though no mention of St. Martin's connection with [[viticulture]] is made by [[Gregory of Tours]] or other early hagiographers, he is now credited with a prominent role in spreading wine-making throughout the [[Touraine]] region and the planting of many vines. The Greek myth that [[Aristaeus]] first discovered the concept of [[pruning]] the vines, after watching a goat eat some of the foliage, has been adopted for Martin.&lt;ref&gt;For instance in Hugh Johnson, ''Vintage: The Story of Wine'' 1989, p 97.&lt;/ref&gt; He is also credited with introducing the [[Chenin blanc]] grape varietal, from which most of the white wine of western Touraine and [[Anjou (wine)|Anjou]] is made.
+
+[[Martin Luther]] was named after St. Martin, as he was baptised on November 11 (St. Martin's Day), 1483.  Many older [[Lutheran]] congregations are named after St. Martin, which is unusual (for Lutherans) because he is a saint who does not appear in the Bible. (Lutherans regularly name congregations after the evangelists and other saints who appear in the Bible but are hesitant to name congregations after post-Biblical saints.)
+
+Martin of Tours is the [[patron saint]] of the [[United States Army Quartermaster Corps|U.S. Army Quartermaster Corps]], which has a [[military decoration|medal]] in his name.&lt;ref&gt;{{cite web|url=http://www.qmfound.com/martin.htm |title=Quartermaster Corps: The Order of Saint Martin |url-status=dead |archiveurl=https://web.archive.org/web/20071006064415/http://www.qmfound.com/martin.htm |archivedate=2007-10-06 }}&lt;/ref&gt; The [[Church Lads' and Church Girls' Brigade]], a 5-7 age group, was renamed 'Martins' in his honour in 1998.
+[[Image:Martini Toren.JPG|thumb|right|''[[Martinitoren]]'', the 97-meter-high Martini Tower in Groningen, the Netherlands.]]
+
+Many schools have St Martin as their Patron, one being [[St. Martin's School (Rosettenville)]] in [[Johannesburg]].
+
+===In modern film===
+The Dutch film ''[[Flesh and Blood (1985 film)|Flesh and Blood]]'' (1985) prominently features a statue of Saint Martin. A mercenary in Renaissance Italy, named Martin, finds a statue of Saint Martin cutting his cloak and takes it as a sign to desert and rogue around under the saint's protection.
+
+&lt;gallery&gt;
+File:El Greco - San Martín y el mendigo.jpg|''St Martin and the Beggar'', by El Greco, ca. 1597-99 ([[National Gallery of Art, Washington]])
+File:Louis Anselme Longa, La charité de saint Martin.jpg|[[Louis-Anselme Longa]], La charité de saint Martin
+File:Antoon-van-Dijck-StMaarten.jpg|''[[Saint Martin and the Beggar (van Dyck)|Saint Martin and the Beggar]]'' by Anthony van Dyck
+File:Kloster Wettingen Ost IV 1.jpg|Kloster Wettingen Ost
+&lt;/gallery&gt;
+
+==See also==
+* [[St. Martin's Day]]
+* The [[Community of Saint Martin]], an association of Roman Catholic priests.
+* [[Martin (name)]]
+* [[Portal:Catholic Church/Patron Archive/November 11|Saint Martin of Tours, patron saint archive]]
+
+==Notes==
+{{reflist|30em}}
+
+==References==
+* Boucheron, Patrick, et al., eds. ''France in the World: A New Global History'' (2019) pp 75–80.
+* [[Sulpicius Severus]] ''On the Life of St. Martin''. Translation and Notes by Alexander Roberts. In ''A Select Library of Nicene and Post-Nicene Fathers of the Christian Church'', New York, 1894, [https://web.archive.org/web/20180302035141/http://www.users.csbsju.edu/~eknuth/npnf2-11/sulpitiu/lifemart.html available online] [http://www.ccel.org/ccel/schaff/npnf211.ii.ii.html CCEL alternative link]
+* Brennan, Brian (1997). "The Revival of the Cult of Martin of Tours in the Third Republic", ''Church History''
+* Clare Stancliffe, ''St Martin and his hagiographer: History and miracle in Sulpicius Severus'' (Oxford, Clarendon Press, 1983), pp. xvi+400 (Oxford Historical Monographs).
+* Mark Kurlansky (2006). ''Nonviolence: twenty-five lessons from the history of a dangerous idea''. Modern Library chronicles book, [[Random House, Inc.]], New York. {{ISBN|0-679-64335-4}}.
+* Yossi Maurey (2014). ''Medieval Music, Legend, and the Cult of St Martin: The Local Foundations of a Universal Saint''. Cambridge: Cambridge University Press, 2014.
+* Régine Pernoud, Michael J. Miller (trans.) (2006) ''Martin of Tours: Soldier, Bishop, and Saint'', Ignatius Press, San Francisco {{ISBN|1586170317}}
+
+==External links==
+{{Commons category|Martin of Tours}}
+* [http://www.bartleby.com/210/11/111.html "St. Martin, Bishop of Tours, Confessor"], ''Butler's Lives of the Saints''
+* [https://web.archive.org/web/20100505221538/http://www.catholicrevelations.com/category/saints/the-life-of-st-martin-of-tours-saint-and-bishop-of-the-catholic-church.html The Life and Miracles of Saint Martin of Tours, Bishop and Confessor of the Catholic Church]
+* [https://web.archive.org/web/20090223225053/http://communautesaintmartin.org/spip.php?page=sommaireEN The Community of St Martin]
+* [http://www.medievalart.org.uk/Chartres/020_pages/Chartres_Bay020_key.htm The Life of St Martin as depicted in the stained glass of Chartres Cathedral (c.1220)]
+* [http://viasanctimartini.eu/cultural-database/churches St Martin's churches of the world ]
+* {{DNB-Portal|118578308}}
+* Joachim Schäfer: {{Hl-Lex|b|Martin_von_Tours.htm| }}
+* [https://web.archive.org/web/20160607043214/http://www.heiliger-martin.de/ Erzbistum Köln: ''1600 Jahre Verehrung des heiligen Martin von Tours'']
+* [https://web.archive.org/web/20080517032229/http://www.uni-tuebingen.de/limes-museum/sqhm/martinus-neu.html Martin from a historian's viewpoint]
+* [https://web.archive.org/web/20150318115236/http://www.viasanctimartini.eu/datenbank/sankt-martin-kirchen-in-der-welt Saint Martin Churches around the world]
+* [http://www.unifr.ch/patr/bkv/kapitel.php?ordnung=0&amp;werknr=135&amp;buchnr=205&amp;abschnittnr=2033 Sulpicius Severus: Martinsvita (German)]
+* ''Martin von Tours: Soldat, Eremit und Heiliger'', film clips by Rüdiger Achenbach in the series ''Tag für Tag'' on [[Deutschlandfunk]], [http://www.deutschlandfunk.de/martin-von-tours-soldat-eremit-und-heiliger-teil-1.886.de.html?dram:article_id=302334 Part 1] on 6 November 2014 and [http://www.deutschlandfunk.de/martin-von-tours-soldat-eremit-und-heiliger-teil-2.886.de.html?dram:article_id=302476 Part 2] on 7 November 2014
+
+{{s-start}}
+{{s-bef|before=Lidorius}}
+{{s-ttl|title=[[Bishop of Tours]]|years=371–397}}
+{{s-aft|after=[[Bricius of Tours|Bricius]]}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Martin Of Tours}}
+[[Category:316 births]]
+[[Category:397 deaths]]
+[[Category:4th-century apocalypticists]]
+[[Category:4th-century archbishops]]
+[[Category:4th-century Christian saints]]
+[[Category:Bishops in Gaul]]
+[[Category:Bishops of Tours]]
+[[Category:Burials in France]]
+[[Category:Conscientious objectors]]
+[[Category:Dutch folklore]]
+[[Category:Gallo-Roman saints]]
+[[Category:Patron saints of France]]
+[[Category:Roman bishops]]
+[[Category:Romans from Pannonia]]
+[[Category:4th-century Gallo-Roman people]]</text>
+      <sha1>5mnu2irx50k0cbdwrgbi9qon12b07yi</sha1>
+    </revision>
+  </page>
+</mediawiki>

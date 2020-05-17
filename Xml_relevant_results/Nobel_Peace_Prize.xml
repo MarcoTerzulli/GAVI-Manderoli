@@ -1,0 +1,219 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Nobel Peace Prize</title>
+    <ns>0</ns>
+    <id>26230922</id>
+    <revision>
+      <id>954047763</id>
+      <parentid>954047728</parentid>
+      <timestamp>2020-04-30T11:52:30Z</timestamp>
+      <contributor>
+        <username>Serols</username>
+        <id>9929111</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/119.246.40.40|119.246.40.40]] ([[User talk:119.246.40.40|talk]]) to last version by Felida97</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32109" xml:space="preserve">{{Short description|One of five Nobel Prizes established by Alfred Nobel}}
+{{Use dmy dates|date=May 2014}}
+{{Infobox award
+ | name        = Nobel Peace Prize
+ | subheader   = ([[Swedish language|Swedish]], [[Norwegian language|Norwegian]]: {{lang|sv|{{lang|no|Nobels fredspris}}}})
+ | image       = 1933 Nobel Peace Prize awarded to Norman Angell.JPG
+ | alt         = 
+ | description = Outstanding contributions in [[peace]]
+ | presenter   = [[Norwegian Nobel Committee]] on behalf of the estate of [[Alfred Nobel]]
+ | location    = [[Oslo]], [[Norway]]
+ | year        = {{start date and age|1901|12|10|df=yes}}&lt;ref&gt;{{Cite web |url=https://www.nobelprize.org/nobel_prizes/peace/laureates/1901/address.html |title=The Nobel Peace Prize 1901 |website=www.nobelprize.org |access-date=2017-10-29}}&lt;/ref&gt;
+ | reward      = 9 million [[Swedish Krona|SEK]] (2017)&lt;ref&gt;{{cite web|title=Nobel Prize amount is raised by SEK 1 million|url=https://www.nobelprize.org/press/#/publication/59c911c82a43dd000437b4b7/552bd85dccc8e20c00e7f979|publisher=Nobelprize.org}}&lt;/ref&gt;
+ | holder = [[Abiy Ahmed]] (2019)
+ | most_awards = [[International Committee of the Red Cross]] (3)
+ | website     = {{URL|http://nobelprize.org|Nobelprize.org}}
+}}
+
+The '''Nobel Peace Prize''' is one of the five [[Nobel Prize]]s established by the will of Swedish industrialist, inventor, and armaments manufacturer [[Alfred Nobel]], along with the prizes in [[Nobel Prize in Chemistry|Chemistry]], [[Nobel Prize in Physics|Physics]], [[Nobel Prize in Physiology or Medicine|Physiology or Medicine]], and [[Nobel Prize in Literature|Literature]]. Since March 1901,&lt;ref&gt;{{cite web|url=https://www.nobelprize.org/nobel_prizes/peace/laureates/1901/address.html|archive-url=https://web.archive.org/web/20070102153041/http://nobelprize.org/nobel_prizes/peace/laureates/1901/address.html|url-status=dead|archive-date=2007-01-02|title=The Nobel Peace Prize 1901|work=[[Nobel Prize|NobelPrize]]|date=1972|accessdate=2016-03-19}}&lt;/ref&gt; it has been awarded annually (with some exceptions) to those who have "done the most or the best work for fraternity between nations, for the abolition or reduction of standing armies and for the holding and promotion of [[peace congress]]es".&lt;ref&gt;"Nobel Peace Prize", ''The Oxford Dictionary of Twentieth Century World History''&lt;/ref&gt;
+
+Per Alfred Nobel's will, the recipient is selected by the [[Norwegian Nobel Committee]], a five-member committee appointed by the [[Parliament of Norway]]. Since 1990, the prize is awarded on 10 December in [[Oslo City Hall]] each year. The prize was formerly awarded in the Atrium of the [[University of Oslo Faculty of Law]] (1947–1989), the [[Norwegian Nobel Institute]] (1905–1946), and the [[Storting building|Parliament]] (1901–1904).
+
+Due to its political nature, the Nobel Peace Prize has, for most of its history, been the [[Nobel Prize controversies#Peace|subject of numerous controversies]].
+
+==Background==
+[[File:AlfredNobel adjusted.jpg|thumb|right|upright|[[Alfred Nobel]]]]
+According to Nobel's will, the Peace Prize shall be awarded to the person who in the preceding year "shall have done the most or the best work for fraternity between nations, for the abolition or reduction of standing armies and for the holding and promotion of peace congresses".&lt;ref&gt;{{cite web | url = https://www.nobelprize.org/alfred_nobel/will/will-full.html | accessdate = 31 March 2008 | title = Excerpt from the Will of Alfred Nobel | publisher = [[Nobel Foundation]]}}&lt;/ref&gt; Alfred Nobel's will further specified that the prize be awarded by a committee of five people chosen by the Norwegian Parliament.&lt;ref&gt;{{Cite book|url=https://archive.org/details/peacetheysayhist0000nord|url-access=registration|page=[https://archive.org/details/peacetheysayhist0000nord/page/24 24]|quote=parliament.|title=Peace, They Say: A History of the Nobel Peace Prize, the Most Famous and Controversial Prize in the World|last=Nordlinger|first=Jay|date=2012-03-20|publisher=Encounter Books|isbn=9781594035999|language=en}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://blogs.loc.gov/law/2015/12/alfred-nobels-will-a-legal-document-that-might-have-changed-the-world-and-a-mans-legacy/|title=Alfred Nobel’s Will: A Legal Document that Might Have Changed the World and a Man’s Legacy {{!}} In Custodia Legis: Law Librarians of Congress|last=Levush|first=Ruth|date=2015-12-07|website=blogs.loc.gov|access-date=2019-03-12}}&lt;/ref&gt;
+
+Nobel died in 1896 and he did not leave an explanation for choosing [[peace]] as a prize category. As he was a trained chemical engineer, the categories for [[chemistry]] and [[physics]] were obvious choices. The reasoning behind the peace prize is less clear. According to the Norwegian Nobel Committee, his friendship with [[Bertha von Suttner]], a peace activist and later recipient of the prize, profoundly influenced his decision to include peace as a category.&lt;ref name="Why Norway?"&gt;{{cite web
+  | last =
+  | first =
+  | authorlink =
+  | author2 =
+  | title = Why Norway?
+  | work =
+  | publisher = The Norwegian Nobel Committee
+  | date =
+  | url = https://www.nobelpeaceprize.org/History/Why-Norway
+  | doi =
+  | accessdate = 11 October 2009}}&lt;/ref&gt; Some Nobel scholars suggest it was Nobel's way to compensate for developing destructive forces. His inventions included [[dynamite]] and [[ballistite]], both of which were used violently during his lifetime. Ballistite was used in war&lt;ref&gt;Altman, L. (2006). [https://www.nytimes.com/2006/09/26/health/26docs.html?pagewanted=1&amp;ei=5070&amp;en=919b88628e82140e&amp;ex=1160884800 Alfred Nobel and the prize that almost didn't happen]. ''New York Times''. Retrieved 14 October 2006.&lt;/ref&gt; and the [[Irish Republican Brotherhood]], an Irish nationalist organization, carried out dynamite attacks in the 1880s.&lt;ref&gt;[https://www.bbc.co.uk/history/british/easterrising/profiles/po17.shtml BBC History – 1916 Easter Rising – Profiles – The Irish Republican Brotherhood] ''BBC''&lt;/ref&gt; Nobel was also instrumental in turning [[Bofors]] from an iron and steel producer into an armaments company.
+
+It is unclear why Nobel wished the Peace Prize to be administered in Norway, which was [[personal union|ruled]] in [[Union between Sweden and Norway|union with Sweden]] at the time of Nobel's death. The Norwegian Nobel Committee speculates that Nobel may have considered Norway better suited to awarding the prize, as it did not have the same militaristic traditions as [[Sweden]].  It also notes that at the end of the 19th century, the [[Norwegian parliament]] had become closely involved in the [[Inter-Parliamentary Union]]'s efforts to resolve conflicts through mediation and arbitration.&lt;ref name="Why Norway?"/&gt;
+
+==Nomination and selection==
+[[File:Norske nobelinstiutt 1.jpg|right|thumb|The [[Norwegian Nobel Institute]] in [[Oslo|Oslo, Norway]]]]
+The [[Stortinget|Norwegian Parliament]] appoints the [[Norwegian Nobel Committee]], which selects the [[List of Nobel Peace Prize laureates|Nobel Peace Prize laureate]].
+
+===Nomination===
+Each year, the Norwegian Nobel Committee specifically invites qualified people to submit nominations for the Nobel Peace Prize.&lt;ref&gt;{{cite web|title=Nomination for the Nobel Peace Prize |publisher=Nobel Foundation |url=http://nobelprize.org/nomination/peace/index.html |accessdate=10 September 2009 |url-status=dead |archiveurl=https://web.archive.org/web/20090830181941/http://nobelprize.org/nomination/peace/index.html |archivedate=30 August 2009 }}&lt;/ref&gt; The statutes of the Nobel Foundation specify categories of individuals who are eligible to make nominations for the Nobel Peace Prize.&lt;ref name="nomination"&gt;{{cite web| title =Who may submit nominations?| publisher =The Norwegian Nobel Committee| date =8 October 2017| url =http://nobelpeaceprize.org/en_GB/nomination_committee/who-can-nominate/| accessdate =10 September 2009| url-status =dead| archiveurl =https://web.archive.org/web/20130630174311/http://nobelpeaceprize.org/en_GB/nomination_committee/who-can-nominate/| archivedate =30 June 2013| df =dmy-all}}&lt;/ref&gt; These nominators are:
+* Members of national assemblies and governments and members of the [[Inter-Parliamentary Union]]
+* Members of the [[Permanent Court of Arbitration]] and the [[International Court of Justice]] at the Hague
+* Members of [[Institut de Droit International]]
+* University professors of history, [[social science]]s, philosophy, law, and theology, university presidents, and directors of peace research and international affairs institutes
+* [[List of Nobel Peace Prize laureates|Former recipients]], including board members of organizations that have previously received the prize
+* Present and past members of the Norwegian Nobel Committee
+* Former permanent advisers to the [[Norwegian Nobel Institute]]
+
+[[File:Dalai Lama and Bishop Tutu. Carey Linde.jpg|thumb|The [[14th Dalai Lama]] and [[Desmond Tutu|Archbishop Desmond Tutu]], Nobel Peace Prize laureates]]
+Nominations must usually be submitted to the Committee by the beginning of February in the award year.  Nominations by committee members can be submitted up to the date of the first Committee meeting after this deadline.&lt;ref name="nomination"/&gt;
+
+In 2009, a record 205 nominations were received,&lt;ref&gt;{{cite web|url=https://news.yahoo.com/s/ap/eu_nobel_peace |title=President Barack Obama wins Nobel Peace Prize|publisher=Associated Press on yahoo.com |date= |accessdate=9 October 2009}}&lt;/ref&gt; but the record was broken again in 2010 with 237 nominations; in 2011, the record was broken once again with 241 nominations.&lt;ref&gt;{{cite web|url=http://nobelpeaceprize.org/en_GB/nomination_committee/nomination-2011/|title=Nominations for the 2011 Nobel Peace Prize|publisher=[[Nobel Foundation]]|accessdate=7 October 2011|url-status=dead|archiveurl=https://web.archive.org/web/20111011080517/http://nobelpeaceprize.org/en_GB/nomination_committee/nomination-2011/|archivedate=11 October 2011|df=dmy-all}}&lt;/ref&gt; The statutes of the Nobel Foundation do not allow information about nominations, considerations, or investigations relating to awarding the prize to be made public for at least 50 years after a prize has been awarded.&lt;ref&gt;{{cite web|url=http://nobelpeaceprize.org/en_GB/nomination_committee/nomination-2009/ |title=Nominations for the 2009 Nobel Peace Prize |publisher=The Norwegian Nobel Committee |accessdate=11 October 2009 |url-status=dead |archiveurl=https://web.archive.org/web/20090921174908/http://nobelpeaceprize.org/en_GB/nomination_committee/nomination-2009/ |archivedate=21 September 2009 }}&lt;/ref&gt; Over time, many individuals have become known as "Nobel Peace Prize Nominees", but this designation has no official standing, and means only that one of the thousands of eligible nominators suggested the person's name for consideration.&lt;ref&gt;{{cite web|url=https://www.nobelprize.org/nobel_prizes/peace/nomination/#nominators|title=Who may submit nominations – Nobels fredspris |publisher=|accessdate=10 October 2014}}&lt;/ref&gt; Indeed, in 1939, [[Adolf Hitler]] received a satirical nomination from a member of the Swedish parliament, mocking the (serious but unsuccessful) nomination of [[Neville Chamberlain]]; however, nominations from 1901 to 1956 have been released in a database.&lt;ref&gt;{{cite web|last1=Merelli|first1=Annelise|title=The darkly ironic 1939 letter nominating Adolf Hitler for the Nobel Peace Prize|url=https://qz.com/803976/adolf-hitler-was-nominated-for-the-nobel-peace-prize-in-a-darkly-ironic-letter-by-erik-gottfrid-christian-brandt/|website=Qz.com|publisher=Quartz Media|accessdate=10 November 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.nobelprize.org/nobel_prizes/peace/nomination/database.html |title=Nomination Database&amp;nbsp;– The Nobel Peace Prize, 1901–1956 |publisher=Nobelprize.org |date= |accessdate=11 September 2011}}&lt;/ref&gt;
+
+===Selection===
+Nominations are considered by the Nobel Committee at a meeting where a short list of candidates for further review is created.  This short list is then considered by permanent advisers to the Nobel institute, which consists of the Institute's Director and the Research Director and a small number of Norwegian academics with expertise in subject areas relating to the prize.  Advisers usually have some months to complete reports, which are then considered by the Committee to select the laureate.  The Committee seeks to achieve a unanimous decision, but this is not always possible. The Nobel Committee typically comes to a conclusion in mid-September, but occasionally the final decision has not been made until the last meeting before the official announcement at the beginning of October.&lt;ref name="selection"&gt;{{cite web| title =How are Laureates selected?| publisher =The Norwegian Nobel Committee| url =http://nobelpeaceprize.org/en_GB/nomination_committee/selection-process/| accessdate =10 September 2009| url-status =dead| archiveurl =https://web.archive.org/web/20090831032749/http://nobelpeaceprize.org/en_GB/nomination_committee/selection-process| archivedate =31 August 2009| df =dmy-all}}&lt;/ref&gt;
+
+==Awarding the prize==
+[[File:Jimmy Carter Library and Museum 145.JPG|thumb|right|upright=0.7|300px|Obverse and reverse of the Nobel Peace Prize Medal]]
+The [[Norwegian Nobel Committee|Chairman of the Norwegian Nobel Committee]] presents the Nobel Peace Prize in the presence of the [[Monarchy of Norway|King of Norway]] on 10 December each year (the anniversary of Nobel's death). The Peace Prize is the only Nobel Prize not presented in [[Stockholm]]. The Nobel laureate receives a diploma, a medal, and a document confirming the prize amount.&lt;ref&gt;[http://nobelprize.org/award_ceremonies/prize.html What the Nobel Laureates Receive] {{webarchive|url=https://web.archive.org/web/20071030033639/http://nobelprize.org/award_ceremonies/prize.html |date=30 October 2007 }}. nobelprize.org.&lt;/ref&gt; {{As of|2019}}, the prize was worth 10 million [[Swedish krona|SEK]] (about US$1.03 million). Since 1990, the Nobel Peace Prize Ceremony is held at [[Oslo City Hall]].
+
+From 1947 to 1989, the Nobel Peace Prize ceremony was held in the Atrium of the [[Faculty of Law, University of Oslo|University of Oslo Faculty of Law]], a few hundred metres from Oslo City Hall. Between 1905 and 1946, the ceremony took place at the [[Norwegian Nobel Institute]]. From 1901 to 1904, the ceremony took place in the ''[[Parliament of Norway Building|Storting]]'' (Parliament).&lt;ref&gt;{{cite web |url=http://nobelpeaceprize.org/nb_NO/about_peaceprize/award_ceremony/ |title=Prisutdelingen &amp;#124; Nobels fredspris |publisher=Nobelpeaceprize.org |accessdate=13 October 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20121104042251/http://nobelpeaceprize.org/nb_NO/about_peaceprize/award_ceremony/ |archivedate=4 November 2012 |df=dmy-all }}&lt;/ref&gt;
+
+On 10 December 2017, the Nobel Peace Prize Award Ceremony was held at City Hall of the Norwegian capital Oslo.&lt;ref&gt;[https://www.nobelprize.org/prizes/peace/2017/award-video/ The Nobel Peace Prize Award Ceremony 2017]&lt;/ref&gt; The prize was awarded by king [[Harald V of Norway]] to International Campaign to Abolish Nuclear Weapons (ICAN).&lt;ref&gt;[https://www.royalcourt.no/nyhet.html?tid=159722&amp;sek=27262 The Nobel Peace Prize for 2017]&lt;/ref&gt; Setsuko Thurlow, a Hiroshima survivor, received the prize on behalf of ICAN.&lt;ref&gt;[http://nuclearban.org/nobel ICAN Accepts the Nobel Peace Prize]&lt;/ref&gt;
+
+The ceremony of 2018 was held at the same place. The peace prize was awarded jointly to two activists to end "[[sexual violence]]" and "[[war]] and arm conflict", [[Denis Mukwege]] and [[Nadia Murad]].&lt;ref&gt;[https://www.nobelprize.org/prizes/peace/2018/summary/ The Nobel Peace Prize 2018]&lt;/ref&gt;
+
+==Criticism==
+It has been expressed that the Nobel Peace Prize has been awarded in politically motivated ways for more recent or immediate achievements,&lt;ref name="reuters.com"&gt;{{cite web|url=https://www.reuters.com/article/us-nobel-peace-usa-sb-idUKTRE5983AM20091009|title=Obama Peace Prize win has some Americans asking why?|date=9 October 2009|publisher=|via=Reuters}}&lt;/ref&gt; or with the intention of encouraging future achievements.&lt;ref name="reuters.com"/&gt;&lt;ref&gt;{{cite news|title=Obama's peace prize didn't have desired effect, former Nobel official says|url=http://www.foxnews.com/politics/2015/09/16/obama-peace-prize-didnt-have-desired-effect-former-nobel-official-says/|accessdate=17 September 2015|agency=Associated Press}}&lt;/ref&gt; Some commentators have suggested that to award a peace prize on the basis of unquantifiable contemporary opinion is unjust or possibly erroneous, especially as many of the judges cannot themselves be said to be impartial observers.&lt;ref name="Murphy"&gt;{{cite news|last=Murphy |first=Clare|title=The Nobel: Dynamite or damp squib?|newspaper=BBC online|publisher=BBC News|date=10 August 2004|url=http://news.bbc.co.uk/2/hi/middle_east/3724734.stm|accessdate=11 October 2009}}&lt;/ref&gt; The Nobel Peace Prize has become increasingly politicized, in which people are awarded for aspiration rather than accomplishment, which has allowed for the prize to be used for political effect but can cause perverse consequences due to the neglect of existing power politics.&lt;ref&gt;{{cite journal |last1=KREBS |first1=RONALD R. |title=The False Promise of the Nobel Peace Prize |journal=Political Science Quarterly |date=Winter 2009-10 |volume=124 |issue=4 |pages=593–625| jstor=25655740 }}&lt;/ref&gt;
+
+In 2011, a feature story in the Norwegian newspaper ''[[Aftenposten]]'' contended that major criticisms of the award were that the [[Norwegian Nobel Committee]] ought to recruit members from professional and international backgrounds, rather than retired members of parliament; that there is too little openness about the criteria that the committee uses when they choose a recipient of the prize; and that the adherence to Nobel's will should be more strict. In the article, Norwegian historian Øivind Stenersen argues that Norway has been able to use the prize as an instrument for nation building and furthering Norway's foreign policy and economic interests.&lt;ref name=Aftenposten20111004&gt;{{cite news|last=[[Arild Aspøy|Aspøy, Arild]]|title=Fredsprisens gråsoner|newspaper=Aftenposten|date=4 October 2011|page=4|language=Norwegian|quote=Nobelkomiteen bør ta inn medlemmer med faglig og internasjonal bakgrunn... som gjøre en like god jobb som pensjonerte stortingsrepresentanter.}}&lt;/ref&gt;
+
+In another 2011 ''Aftenposten'' opinion article, the grandson of one of Nobel's two brothers, Michael Nobel, also criticised what he believed to be the politicisation of the award, claiming that the Nobel Committee has not always acted in accordance with Nobel's will.&lt;ref&gt;{{cite news | last = Nobel | first = Michael | author2 = | title = I strid med Nobels vilje | newspaper = Aftenposten | location = Oslo, Norway | pages = | language = Norwegian | publisher = | date = 9 December 2011| url = http://www.aftenposten.no/meninger/I-strid-med-Nobels-vilje-6717623.html | accessdate = 12 December 2011}}&lt;/ref&gt; Norwegian lawyer [[Fredrik S. Heffermehl]] has criticized the management of the Peace Prize.&lt;ref&gt;{{cite book|author=Fredrik S. Heffermehl|title=The Nobel Peace Prize: What Nobel Really Wanted|publisher=Greenwood Publishing Group|date=2010}}&lt;/ref&gt;
+
+===Criticism of individual conferments===
+{{Main|Nobel Prize controversies}}
+[[File:Jagland and Obama.jpg|thumb|right|alt=Barack Obama with Thorbjørn Jagland|Barack Obama with [[Thorbjørn Jagland]] at the 2009 Nobel Peace Prize ceremony]]
+
+The awards given to [[Mikhail Gorbachev]],&lt;ref&gt;{{cite web|url=https://www.nytimes.com/1990/10/16/world/evolution-europe-gorbachev-gets-nobel-peace-prize-for-foreign-police.html|title=Gorbachev Gets Nobel Peace Prize For Foreign Police Achievements|date=16 October 1990|work=The New York Times}}&lt;/ref&gt; [[Yitzhak Rabin]], [[Shimon Peres]], [[Menachem Begin]] and [[Yasser Arafat]],&lt;ref&gt;{{Cite book
+  | last = Said | first = Edward| authorlink = | title = Peace and Its Discontents: Essays on Palestine in the Middle East Peace Process| publisher = Vintage| year = 1996| isbn = 0-679-76725-8}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=Gotlieb|first=Michael|title=Arafat tarnishes the Nobel trophy|newspaper=The San Diego Union&amp;nbsp;– Tribune|page=B7|date=24 October 1994}}&lt;/ref&gt; [[Lê Đức Thọ]], [[Aung San Suu Kyi]],&lt;ref&gt;{{cite web |title=Aung San Suu Kyi won't be stripped of Nobel peace prize despite Rohingya crisis |url=https://www.theguardian.com/world/2018/aug/30/aung-san-suu-kyi-wont-be-stripped-of-nobel-peace-prize-despite-rohingya-crisis |website=The Guardian |date=30 August 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |last1=Safi |first1=Michael |title=Aung San Suu Kyi to defend Myanmar against genocide charge at The Hague |url=https://www.theguardian.com/world/2019/nov/20/aung-san-suu-kyi-to-defend-myanmar-against-genocide-charge-at-the-hague |website=The Guardian |language=en |date=20 November 2019}}&lt;/ref&gt; [[Henry Kissinger]],&lt;ref name="1973Times"&gt;{{cite news |title=Worldwide criticism of Nobel peace awards|newspaper=The Times|location=London|date=18 October 1973|url=http://archive.timesonline.co.uk/tol/viewArticle.arc?articleId=ARCHIVE-The_Times-1973-10-18-06-006&amp;pageId=ARCHIVE-The_Times-1973-10-18-06|accessdate = 11 October 2009}}&lt;/ref&gt; [[Jimmy Carter]],&lt;ref&gt;Douglas G. Brinkley. ''The Unfinished Presidency: Jimmy Carter's Journey to the Nobel Peace Prize'' (1999)&lt;/ref&gt; [[Al Gore]],&lt;ref&gt;{{cite news |title=A Nobel Disgrace|newspaper=National Review Online|date=22 September 2009|url=http://www.cbsnews.com/stories/2007/10/12/opinion/main3361452.shtml|accessdate = 2 October 2011}}&lt;/ref&gt; [[Liu Xiaobo]],&lt;ref&gt;{{cite web|url=http://english.cri.cn/6909/2010/12/11/2681s609606.htm |title=Overseas Chinese in Norway Protest Against Nobel Committee's Wrong Decision |publisher=English.cri.cn |date= |accessdate=13 October 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.frontlineonnet.com/fl2722/stories/20101105272202800.htm |title=Not so noble |publisher=Frontlineonnet.com |date=5 November 2010 |accessdate=13 October 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://english.cri.cn/6909/2010/12/09/2722s609363.htm |title=Nobel Harbors Political Motives behind Prize to Liu Xiaobo |publisher=English.cri.cn |date= |accessdate=13 October 2012}}&lt;/ref&gt; [[Barack Obama]],&lt;ref&gt;{{cite web|url=https://www.bbc.com/news/world-europe-34277960|title=Nobel chief regrets Obama peace prize|date=17 September 2015|publisher=|via=www.bbc.com}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://news.yahoo.com/s/ap/20091009/ap_on_re_eu/eu_nobel_peace |accessdate=9 October 2009 |title=Surprised, humbled Obama awarded Nobel Peace Prize |agency=Associated Press |url-status=dead |archiveurl=https://web.archive.org/web/20091009114909/http://news.yahoo.com/s/ap/20091009/ap_on_re_eu/eu_nobel_peace |archivedate=9 October 2009 }}&lt;/ref&gt;&lt;ref&gt;{{Citation|last=Otterman|first=Sharon|title = World Reaction to a Nobel Surprise|newspaper=The New York Times|date=9 October 2009|url=http://thelede.blogs.nytimes.com/2009/10/09/world-reaction-to-a-nobel-surprise/?hp#bozoanchor|accessdate=9 October 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.reuters.com/article/GCA-BarackObama/idUKTRE5983AM20091009?virtualBrandChannel=11621&amp;sp=true|title=Obama Peace Prize win has some Americans asking why?|publisher=[[Reuters.com]]|accessdate=28 August 2012 | date=9 October 2009}}&lt;/ref&gt; and the [[European Union]]&lt;ref&gt;{{cite news|url=http://www.csmonitor.com/World/Europe/2012/1207/Norwegian-protesters-say-EU-Nobel-Peace-Prize-win-devalues-award|accessdate=8 December 2012|title=Norwegian protesters say EU Nobel Peace Prize win devalues award}}&lt;/ref&gt; have all been the subject of controversy.
+
+The awards given to [[Lê Đức Thọ]] and [[Henry Kissinger]] prompted two dissenting Committee members to resign.&lt;ref&gt;{{cite web|url=http://nobelprize.org/peace/articles/controversies/index.html|title=Controversies and Criticisms|publisher=Nobelprize.org|date=29 June 2000|first=Øyvind|last=Tønnesson|accessdate=27 February 2010}}&lt;/ref&gt; Thọ refused to accept the prize, on the grounds that such "bourgeois sentimentalities" were not for him&lt;ref name=":0"&gt;{{Cite book|title=Kissinger's Year: 1973|last=Horne|first=Alistair|publisher=|year=|isbn=|location=|pages=195|via=}}&lt;/ref&gt; and that peace had not actually been achieved in Vietnam. Kissinger donated his prize money to charity, did not attend the award ceremony and later offered to return his prize medal after the [[Fall of Saigon|fall of South Vietnam]] to North Vietnamese forces 18 months later.&lt;ref name=":0" /&gt;
+
+===Notable omissions===
+''[[Foreign Policy]]'' has listed [[Mahatma Gandhi]], [[Eleanor Roosevelt]], [[U Thant]], [[Václav Havel]], [[Ken Saro-Wiwa]], [[Fazle Hasan Abed]] and [[Corazon Aquino]] as people who "never won the prize, but should have".&lt;ref&gt;Kenner, David. (7 October 2009).  [https://foreignpolicy.com/articles/2009/10/07/nobel_peace_prize_also_rans "Nobel Peace Prize Also-Rans"] {{webarchive|url=https://web.archive.org/web/20100125073527/http://www.foreignpolicy.com/articles/2009/10/07/nobel_peace_prize_also_rans |date=25 January 2010 }}. ''Foreign Policy''. Retrieved 10 October 2009&lt;/ref&gt;&lt;ref&gt;{{cite news
+  | last = James
+  | first = Frank
+  | author2 =
+  | title = Nobel Peace Prize's Notable Omissions
+  | newspaper = NPR
+  | location =
+  | pages =
+  | language =
+  | publisher =
+  | date = 9 October 2009
+| url = https://www.npr.org/blogs/thetwo-way/2009/10/nobel_peace_prizes_notable_omi.html
+  | accessdate = 12 December 2011}}&lt;/ref&gt;
+
+The omission of [[Mahatma Gandhi]] has been particularly widely discussed, including in public statements by various members of the Nobel Committee.&lt;ref name="gandhi"&gt;{{cite web|url=http://nobelprize.org/nobel_prizes/peace/articles/gandhi/index.html |title=Mahatma Gandhi, the Missing Laureate |accessdate=17 October 2007 |last=Tønnesson |first=Øyvind |date=1 December 1999|publisher=The Nobel Foundation }}&lt;/ref&gt;&lt;ref&gt;[http://nobelprize.org/prize_announcements/peace/ask_questions.html ] {{webarchive |url=https://web.archive.org/web/20070323125008/http://nobelprize.org/prize_announcements/peace/ask_questions.html |date=23 March 2007 }}&lt;/ref&gt; The Committee has confirmed that Gandhi was nominated in 1937, 1938, 1939, 1947, and, finally, a few days before his assassination in January 1948.&lt;ref&gt;{{cite web|url=http://nobelprize.org/nomination/peace/nomination.php?key1=candname&amp;log1=LIKE&amp;string1=gandhi&amp;action=advsearch&amp;log10=OR&amp;key2=candname&amp;log2=LIKE&amp;string2=&amp;log11=OR&amp;key3=candname&amp;log3=LIKE&amp;string3=&amp;startyear=&amp;endyear=&amp;order1=year&amp;order2=nomname&amp;order3=cand1name&amp;submit2.x=0&amp;submit2.y=0&amp;submit2=Go|title=The Nomination Database for the Nobel Peace Prize, 1901–1956: Gandhi|publisher=Nobelprize.org|accessdate=13 October 2008}}&lt;/ref&gt; The omission has been publicly regretted by later members of the Nobel Committee.&lt;ref name="gandhi"/&gt; [[Geir Lundestad]], Secretary of Norwegian Nobel Committee in 2006 said, "The greatest omission in our 106-year history is undoubtedly that Mahatma Gandhi never received the Nobel Peace prize. Gandhi could do without the Nobel Peace prize, whether Nobel committee can do without Gandhi is the question".&lt;ref&gt;{{cite web|url=http://www.icrs.ugm.ac.id/wednesday-forum-schedule/111-relevance-of-gandhian-philosophy-in-the-21st-century |title=Archived copy |accessdate=15 September 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20110915025114/http://www.icrs.ugm.ac.id/wednesday-forum-schedule/111-relevance-of-gandhian-philosophy-in-the-21st-century |archivedate=15 September 2011 }} Relevance of Gandhian Philosophy in the 21st Century&lt;/ref&gt; In 1948, following Gandhi's death, the Nobel Committee declined to award a prize on the ground that "there was no suitable living candidate" that year. Later, when the [[Dalai Lama]] was awarded the Peace Prize in 1989, the chairman of the committee said that this was "in part a tribute to the memory of Mahatma Gandhi".&lt;ref&gt;{{cite web|url=http://nobelprize.org/nobel_prizes/peace/laureates/1989/presentation-speech.html|title=Presentation Speech by Egil Aarvik, Chairman of the Norwegian Nobel Committee|publisher=|accessdate=10 October 2014}}&lt;/ref&gt;
+
+==List of Nobel Peace Prize laureates==
+[[File:Friedensnobelpreis 2001 Vereinte Nationen.jpg|thumb|right|View of a diploma – Nobel Peace Prize 2001, [[United Nations]]]]
+{{Main list|List of Nobel Peace Prize laureates}}
+
+{{As of|2016}}, the Peace Prize has been awarded to 104 individuals and 23 organizations. Sixteen women have won the Nobel Peace Prize, more than any other Nobel Prize.&lt;ref&gt;{{cite web |url = https://www.nobelprize.org/nobel_prizes/lists/women.html |title = Women Nobel Laureates |publisher = Nobel Foundation |access-date = 2011-10-06}}&lt;/ref&gt; Only two recipients have won multiple Prizes: the [[International Committee of the Red Cross]] has won three times (1917, 1944, and 1963) and the [[United Nations High Commissioner for Refugees|Office of the United Nations High Commissioner for Refugees]] has won twice (1954 and 1981).&lt;ref name="NobelFacts"&gt;{{cite web |url = https://www.nobelprize.org/nobel_prizes/nobelprize_facts.html |title = Nobel Laureates Facts |publisher = Nobel Foundation |access-date = 2011-10-06 |url-status = dead |archive-url = https://web.archive.org/web/20120901134144/http://www.nobelprize.org/nobel_prizes/nobelprize_facts.html |archive-date = 2012-09-01 }}&lt;/ref&gt; [[Lê Đức Thọ]] is the only person who refused to accept the Nobel Peace Prize.&lt;ref&gt;{{cite web |url = http://time.com/4061794/nobel-peace-prize-winner-history/ |title = Why a Nobel Peace Prize Was Once Rejected |last=Rothman |first = Lily |website = TIME.com |access-date=2016-10-16 }}&lt;/ref&gt;
+
+==See also==
+* [[List of peace prizes]]
+* [[List of Nobel laureates]]
+* [[Nobel Foundation]]
+* [[Nobel Museum]]
+* [[Nobel Peace Center]]
+* [[Nobel Peace Prize Concert]]
+* [[Nobel Prize effect]]
+* [[Nobel Women's Initiative]]
+* [[World Summit of Nobel Peace Laureates]]
+* [[List of peace activists]]
+* [[Ramon Magsaysay Award]]
+* [[Indira Gandhi Peace Prize]]
+* [[Confucius Peace Prize]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+{{Commons category|Nobel Peace Prize}}
+* [http://nobelpeaceprize.org "The Nobel Peace Prize"]&amp;nbsp;– Official webpage of the [[Norwegian Nobel Committee]]
+* [http://nobelprize.org/nobel_prizes/peace/ "The Nobel Peace Prize"] at the official site of the Nobel Prize
+** [https://www.nobelprize.org/nobel_prizes/peace/laureates/index.html "All Nobel Laureates in Peace"]
+** [https://www.nobelprize.org/nobel_prizes/award_ceremonies/ "The Nobel Prize Award Ceremonies"]
+* [https://web.archive.org/web/20120615123935/http://www.nobelforpeace-summits.org/ World Summit of Nobel Peace Laureates], official site with information on annual summits beginning in 1999
+* [http://www.idsia.ch/~juergen/pea.html "National Peace Nobel Prize shares 1901–2009 by citizenship (or home of organization) at the time of the award."]&amp;nbsp;– From [[Jürgen Schmidhuber|J. Schmidhuber]] (2010): [https://web.archive.org/web/20140327012415/http://www.idsia.ch/~juergen/nobelshare.html Evolution of National Nobel Prize Shares in the 20th Century] at [https://arxiv.org/abs/1009.2634 arXiv:1009.2634v1]
+* "[http://www.globaleducationmagazine.com/south-africa-unequal-societies-world/ South Africa is one of the most unequal societies in the world]", article published in [http://www.globaleducationmagazine.com Global Education Magazine], by Mr. Frederik Willem de Klerk, Nobel Peace Prize 1993, in the special edition of [http://www.globaleducationmagazine.com/global-education-magazine-1/ International Day for the Eradication of Poverty] (17 October 2012)
+* [http://crdl.usg.edu/events/mlk_nobel_prize/ Martin Luther King, Jr.'s Nobel Peace Prize], Civil Rights Digital Library
+* [http://www.nobelwill.org/ The Nobel Peace Prize Watch], the main project of The Lay Down your Arms Association
+
+{{Nobel Peace Prize navbox}}
+{{Nobel Peace Prize laureates}}
+{{Nobel Prizes}}
+
+{{Authority control}}
+
+[[Category:Nobel Peace Prize| ]]
+[[Category:Nobel Prize|*Peace]]
+[[Category:Norwegian awards]]
+[[Category:1901 establishments in Norway]]
+[[Category:Awards established in 1901]]
+[[Category:Peace awards]]</text>
+      <sha1>nviclpcw0xzn2hj0nnjr883p6vnpnmg</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,157 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Regulatory responses to the subprime crisis</title>
+    <ns>0</ns>
+    <id>19379549</id>
+    <revision>
+      <id>918001176</id>
+      <parentid>909362795</parentid>
+      <timestamp>2019-09-26T14:39:24Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="16345" xml:space="preserve">{{Subprime mortgage crisis sidebar}}
+{{Globalize|article|USA|2name=the United States|date=September 2010}}
+
+{{Main|Subprime mortgage crisis}}
+
+'''Regulatory responses to the subprime crisis''' addresses various actions taken by governments around the world to address the effects of the [[subprime mortgage crisis]].
+
+Regulators and legislators are considering action regarding lending practices, bankruptcy protection, tax policies, affordable housing, credit counseling, education, and the licensing . Regulations or guidelines can also influence the nature, transparency and regulatory reporting required for the complex legal entities and securities involved in these transactions.  Congress also is conducting hearings to help identify solutions and apply pressure to the various parties involved.&lt;ref&gt;{{Cite web | title=Speaker Nancy Pelosi | url=http://speaker.gov/issues?id=0053 | accessdate=2008-05-19 | year=2008 | url-status=dead | archiveurl=https://web.archive.org/web/20080423050405/http://speaker.gov/issues?id=0053 | archivedate=2008-04-23 }}&lt;/ref&gt;
+
+U.S. President [[Barack Obama]] and key advisers introduced a series of regulatory proposals in June 2009. The proposals address consumer protection, [[executive pay]], bank financial cushions or [[capital requirement]]s, expanded regulation of the [[shadow banking system]] and [[derivative (finance)|derivatives]], and enhanced authority for the [[Federal Reserve]] to safely wind-down systemically important institutions, among others.&lt;ref name="whitehouse.gov"&gt;[http://www.whitehouse.gov/the_press_office/Remarks-of-the-President-on-Regulatory-Reform/ Remarks by the president on 21st century financial regulatory reform] from the [[White House]] website&lt;/ref&gt;&lt;ref&gt;[https://www.washingtonpost.com/wp-dyn/content/article/2009/06/14/AR2009061402443_pf.html Washington Post - Geithner &amp; Summers - A New Financial Foundation]&lt;/ref&gt;&lt;ref&gt;[http://www.financialstability.gov/roadtostability/regulatoryreform.html Treasury Department Report - Financial Regulatory Reform] {{webarchive|url=https://web.archive.org/web/20100421184209/http://www.financialstability.gov/roadtostability/regulatoryreform.html |date=2010-04-21 }}&lt;/ref&gt;
+
+U.S. Treasury Secretary [[Timothy Geithner]] testified before Congress on October 29, 2009. His testimony included five elements he stated as critical to effective reform: 
+#Expand the [[Federal Deposit Insurance Corporation]] (FDIC) bank resolution mechanism to include [[non-bank financial institution]]s; 
+#Ensure that a firm is allowed to fail in an orderly way and not be "rescued"; 
+#Ensure taxpayers are not on the hook for any losses, by applying losses first to the firm's investors and including the creation of a pool funded by the largest financial institutions; 
+#Apply appropriate checks and balances to the FDIC and Federal Reserve in this resolution process;
+# Require stronger capital and liquidity positions for financial firms and related regulatory authority.&lt;ref&gt;[http://www.ustreas.gov/press/releases/tg335.htm Secretary Geithner Testimony to House Financial Service Committee-October 29, 2009] {{webarchive|url=https://web.archive.org/web/20091101092006/http://www.ustreas.gov/press/releases/tg335.htm |date=November 1, 2009 }}&lt;/ref&gt;
+
+The [[Dodd–Frank Wall Street Reform and Consumer Protection Act]] was signed into law by President Obama in July 2010, addressing each of these topics to varying degrees.  Among other things, it created the [[Consumer Financial Protection Bureau]].
+
+==Housing and Economic Recovery Act of 2008==
+
+{{Main|Housing and Economic Recovery Act of 2008}}
+
+The Housing and Economic Recovery Act of 2008 in the United States included six separate major acts designed to restore confidence in the domestic mortgage industry.&lt;ref&gt;[http://banking.senate.gov/public/_files/HousingandEconomicRecoveryActSummary.pdf Summary of Act]&lt;/ref&gt; The Act included:
+
+*Providing insurance for $300 billion in mortgages estimated to assist 400,000 homeowners.
+*Establishing a new regulator, the [[Federal Housing Finance Agency]] via the merger of two existing authorities, The [[Office of Federal Housing Enterprise Oversight]] (OFHEO), and the [[Federal Housing Finance Board]] (FHFB), endowed with expanded powers and authority greater than the sum of its predecessors, to supervise operation of the 14 housing [[government-sponsored enterprise]]s   (GSEs): (Fannie Mae and Freddie Mac) and the 12 [[Federal Home Loan Bank]]s.
+*Raises the dollar limit of the mortgages the GSEs can purchase.
+*Provides loans for the refinancing of mortgages to owner-occupants at risk of foreclosure.  The original lender or investor reduces the amount of the original mortgage (typically taking a significant loss) and the homeowner shares any future appreciation with the [[Federal Housing Administration]].  The new loans must be 30-year fixed loans.
+*Enhancements to mortgage disclosures.
+*Community assistance to help local governments buy and renovate foreclosed properties.
+*An increase in the [[national debt]] ceiling by US$800 billion, to give the Treasury the flexibility to support the secondary housing markets and the 14 GSEs, if necessary.
+
+==Federal reserve powers==
+
+A sweeping proposal was presented 31 March 2008 regarding the regulatory powers of the U.S. Federal Reserve, expanding its jurisdiction over other types of financial institutions and authority to intervene in market crises.&lt;ref&gt;{{cite news|url=http://www.cnn.com/2008/US/03/28/financial.oversight/index.html | title=Plan would expand Fed's power to intervene in financial crisis - CNN.com|archiveurl=https://web.archive.org/web/20080922034248/http://www.cnn.com/2008/US/03/28/financial.oversight/index.html |archivedate= September 22, 2008}}&lt;/ref&gt;
+
+==Expansion of government agency authority==
+The U.S House passed a bill in early April, 2008 that would offer government insurance on $300 billion in new mortgages to refinance loans  for an estimated 500,000 borrowers facing foreclosure and an additional 15 billion to affected states to buy and fix foreclosed homes.&lt;ref&gt;{{cite news |author= Alex Veiga |title= US foreclosure filings surge 65 percent in April |url=https://news.yahoo.com/s/ap/20080514/ap_on_bi_ge/foreclosure_rates;_ylt=AidEK4U.FbpY14fxrg1dZ9us0NUE |work=[[Yahoo News]] |publisher=[[Associated Press]] |location=[[Santa Clara, California]] |date=2008-05-14 |accessdate=2008-05-19 |archiveurl = https://web.archive.org/web/20080526080434/http://news.yahoo.com/s/ap/20080514/ap_on_bi_ge/foreclosure_rates;_ylt=AidEK4U.FbpY14fxrg1dZ9us0NUE &lt;!-- Bot retrieved archive --&gt; |archivedate = 2008-05-26}}&lt;/ref&gt;
+
+==Lending practices==
+In response to a concern that lending was not properly regulated, the House and Senate are both considering bills to regulate lending practices.&lt;ref&gt;{{cite news | title = Free Preview - WSJ.com | url=https://www.wsj.com/articles/SB118904231551018883?mod=googlenews_wsj | accessdate=2008-05-19 | year = 2008 | work=The Wall Street Journal | date=2007-09-06 | first1=James R. | last1=Hagerty | first2=Kara | last2=Scannell | first3=Sarah | last3=Lueck}}&lt;/ref&gt;
+
+==U.S. Congressional ethics reform==
+
+In the wake of a subprime mortgage crisis and questions about [[Countrywide Financial]]’s VIP{{Clarify|date=September 2010}} program, ethics experts and key senators recommend that members of congress should be required to disclose information about their mortgages.&lt;ref&gt;{{cite news | title=Congress keeps mortgages off books
+ | date=2008-06-18 | publisher = [[Politico (newspaper)|Politico]] | url=http://www.politico.com/news/stories/0608/11159.html}}&lt;/ref&gt;
+
+==Capital reserve requirements==
+{{See also|Basel III}}
+
+Non-depository banks (e.g., investment banks and mortgage companies) are not subject to the same capital reserve requirements as depository banks.  Many of the investment banks had limited capital reserves to address declines in mortgage-backed securities or support their side of credit default derivative insurance contracts.  Nobel prize winner [[Joseph Stiglitz]] recommends that regulations be established to limit the extent of leverage permitted and not allow companies to become "too big to fail", by breaking them up into smaller entities.  He has also recommended reforming executive compensation, to make it less short-term focused; enhance consumer protection; and establish a regulatory review mechanism for new exotic types of financial instruments.&lt;ref name="stigcnn"/&gt;
+
+==Short-selling restrictions==
+
+UK regulators announced a temporary ban on [[short-selling]] of financial stocks on September 18, 2008.  Short-selling is a method of profiting when a stock declines in value.  When large, speculative short-sale bets accumulate against a stock or other financial asset, the price can be driven down. Short sales were among the causes blamed for rapid price declines in Lehman Brother's stock price prior to its bankruptcy.&lt;ref&gt;Gary Matsumoto (March 19, 2009) [https://www.bloomberg.com/apps/news?pid=newsarchive&amp;sid=aB1jlqmFOTCA "Naked Short Sales Hint Fraud in Bringing Down Lehman"]. Bloomberg.&lt;/ref&gt; On September 19 the [[U.S. Securities and Exchange Commission]] (SEC) followed by placing a temporary ban of short-selling stocks of financial institutions. In addition, the SEC made it easier for institutions to buy back shares of their institutions. The halt of short-selling in the US was set to expire on October 2, but was extended until it expired at 11:59PM EDT on October 8. The action was based on the view that short selling in a crisis market undermines confidence in financial institutions and erodes their stability.&lt;ref&gt;[https://www.sec.gov/news/press/2008/2008-211.htm SEC Halts Short Selling of Financial Stocks on 09-19-2008]&lt;/ref&gt;
+
+==Proposed solutions==
+{{Cleanup|section|date=September 2010}}
+{{See|Subprime mortgage crisis solutions debate}}
+{{rquote|right|America's genius has not been in avoiding problems, it's been in surmounting them once they happen.|[[Warren Buffett]]&lt;ref&gt;{{Cite web| url= https://www.cnbc.com/id/31526815/page/2/ | title= Transcript:  Warren Buffett's Live Lunch Interview on CNBC | publisher= [[CNBC]] | date= 24 June 2009 | accessdate=2009-06-25}}&lt;/ref&gt;}}
+President [[Barack Obama]] and key advisers introduced a series of [[US Financial Regulatory Reform|regulatory proposals]] in June 2009. The proposals address consumer protection, executive pay, bank financial cushions or capital requirements, expanded regulation of the [[shadow banking system]] and [[derivative (finance)|derivatives]], and enhanced authority for the [[Federal Reserve]] to safely wind-down systemically important institutions, among others.&lt;ref name="whitehouse.gov"/&gt;&lt;ref&gt;[https://www.washingtonpost.com/wp-dyn/content/article/2009/06/14/AR2009061402443_pf.html Geithner &amp; Summers - A New Financial Foundation] from ''[[The Washington Post]]''&lt;/ref&gt;&lt;ref&gt;[http://www.financialstability.gov/roadtostability/regulatoryreform.html Treasury Department Report - Financial Regulatory Reform] {{webarchive|url=https://web.archive.org/web/20100421184209/http://www.financialstability.gov/roadtostability/regulatoryreform.html |date=2010-04-21 }} from financialstability.gov&lt;/ref&gt;
+Legislation has cleared the house&lt;ref&gt;[http://www.opencongress.org/bill/111-h4173/show H.R.4173 - Dodd-Frank Wall Street Reform and Consumer Protection Act] from [[OpenCongress]].&lt;/ref&gt; and is progressing in the senate.&lt;ref&gt;[http://www.opencongress.org/bill/111-s3217/show S.3217 - Restoring American Financial Stability Act of 2010] from OpenCongress.&lt;/ref&gt;
+
+A variety of regulatory changes have been proposed by economists, politicians, journalists, and business leaders to minimize the impact of the current crisis and prevent recurrence. However, as of April 2009, many of the proposed solutions have not yet been implemented. These include:
+
+*[[Ben Bernanke]]: Establish resolution procedures for closing troubled financial institutions in the [[shadow banking system]], such as investment banks and hedge funds.&lt;ref&gt;{{Cite web|url=http://www.federalreserve.gov/newsevents/speech/bernanke20081201a.htm |title=Bernanke Remarks |publisher=Federalreserve.gov |date=2008-12-01 |accessdate=2009-02-27}}&lt;/ref&gt;
+*[[Joseph Stiglitz]]: Restrict the [[financial leverage|leverage]] that financial institutions can assume. Require executive compensation to be more related to long-term performance.&lt;ref name="stigcnn"&gt;{{cite news|url=http://www.cnn.com/2008/POLITICS/09/17/stiglitz.crisis/index.html|title=Stigliz Recommendations | publisher=[[CNN]] | date=2008-09-17 | accessdate=2009-06-25}}&lt;/ref&gt; Re-instate the separation of commercial (depository) and investment banking established by the Glass–Steagall Act in 1933 and repealed in 1999 by the [[Gramm-Leach-Bliley Act]].&lt;ref&gt;[http://www.vanityfair.com/magazine/2009/01/stiglitz200901 Stiglitz - Capitalist Fools] from ''[[Vanity Fair (magazine)|Vanity Fair]]''&lt;/ref&gt;
+*[[Simon Johnson (economist)|Simon Johnson]]: Break-up institutions that are "too big to fail" to limit [[systemic risk]].&lt;ref&gt;[https://www.wsj.com/articles/SB124034036512839857#mod=loomia?loomia_si=t0:a16:g2:r3:c0.0532507:b24033012 Economists Seek Breakup of Big Banks] from ''[[The Wall Street Journal]]'' (April 21, 2009)&lt;/ref&gt;
+*[[Paul Krugman]]: Regulate institutions that "act like banks " similarly to banks.&lt;ref&gt;{{Cite book
+| last = Krugman | first = Paul | authorlink = Paul Krugman
+| year = 2009
+| title = [[The Return of Depression Economics and the Crisis of 2008]] | publisher = W.W. Norton Company Limited
+| isbn = 978-0-393-07101-6}}&lt;/ref&gt;
+*[[Alan Greenspan]]: Banks should have a stronger capital cushion, with graduated regulatory capital requirements (i.e., capital ratios that increase with bank size), to "discourage them from becoming too big and to offset their competitive advantage."&lt;ref&gt;[http://www.ft.com/cms/s/0/9c158a92-1a3c-11de-9f91-0000779fd2ac.html Greenspan-We need a better cushion against risk]  from the ''[[Financial Times]]''&lt;/ref&gt;
+*[[Warren Buffett]]: Require minimum down payments for home mortgages of at least 10% and income verification.&lt;ref&gt;[https://www.reuters.com/article/newsOne/idUSTRE51R16220090228?pageNumber=3&amp;virtualBrandChannel=0 Warren Buffett-2008 Shareholder's Letter Summary] from [[Reuters]]&lt;/ref&gt;
+*[[Eric Dinallo]]: Ensure any financial institution has the necessary capital to support its financial commitments. Regulate credit derivatives and ensure they are traded on well-capitalized exchanges to limit [[counterparty risk]].&lt;ref&gt;[http://www.ft.com/cms/s/0/3b94938c-1d59-11de-9eb3-00144feabdc0.html Dinallo-We Modernized Ourselves Into This Ice Age] from the ''[[Financial Times]]''&lt;/ref&gt;
+*[[Raghuram Rajan]]: Require financial institutions to maintain sufficient "contingent capital" (i.e., pay insurance premiums to the government during boom periods, in exchange for payments during a downturn.)&lt;ref&gt;[http://www.economist.com/finance/displaystory.cfm?story_id=13446173 Rajan-Cycle Proof Regulation] from ''[[The Economist]]''&lt;/ref&gt;
+*[[A. Michael Spence]] and [[Gordon Brown]]: Establish an early-warning system to help detect [[systemic risk]].&lt;ref&gt;{{Cite web|url=http://www.pimco.com/EN/Insights/Pages/Viewpoints%20Lessons%20from%20the%20Crisis%20Spence%20November%202008.aspx |title=PIMCO-Lessons from the Crisis |publisher=Pimco.com |date=2008-11-26 |accessdate=2009-02-27}}&lt;/ref&gt;
+*[[Niall Ferguson]] and [[Jeffrey Sachs]]: Impose haircuts on bondholders and counterparties prior to using taxpayer money in bailouts.&lt;ref&gt;[http://www.realclearpolitics.com/articles/2009/03/making_rich_guys_richer.html Jeffrey Sachs-Our Wall Street Besotted Public Policy] from realclearpolitics.com&lt;/ref&gt;&lt;ref&gt;[http://www.ft.com/cms/s/0/85106daa-f140-11dd-8790-0000779fd2ac.html Ferguson - Beyond the Age of Leverage] from the ''[[Financial Times]]''&lt;/ref&gt;
+*[[Nouriel Roubini]]: Nationalize insolvent banks.&lt;ref&gt;[http://www.charlierose.com/view/interview/9310 Roubini Interview] {{webarchive|url=https://web.archive.org/web/20130401130731/http://www.charlierose.com/view/interview/9310 |date=2013-04-01 }} from the [[Charlie Rose (talk show)|Charlie Rose]] website&lt;/ref&gt;
+
+==References==
+{{Reflist|2}}
+
+{{Subprime mortgage crisis}}
+{{US recessions}}
+{{Economic Crisis}}
+
+{{DEFAULTSORT:Regulatory Responses To The Subprime Crisis}}
+[[Category:Subprime mortgage crisis]]
+[[Category:2000s economic history]]</text>
+      <sha1>n5tz5v6f0ged3wx0neghbuhvwul9zzz</sha1>
+    </revision>
+  </page>
+</mediawiki>

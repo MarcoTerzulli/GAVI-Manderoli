@@ -1,0 +1,167 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>COSC</title>
+    <ns>0</ns>
+    <id>991017</id>
+    <revision>
+      <id>932906718</id>
+      <parentid>932252282</parentid>
+      <timestamp>2019-12-28T22:28:11Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor/>
+      <comment>/* External links */[[User:Monkbot/task 15: normalize lang icon templates|Task 15]]:  language icon template(s) replaced (1×);</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="16745" xml:space="preserve">{{for|the state college in Connecticut|Charter Oak State College}}
+[[Image:COSCLogo.jpg|thumb|right|Contrôle Officiel Suisse des Chronomètres]]
+The '''Contrôle Officiel Suisse des Chronomètres''' ('''COSC'''), the Official Swiss Chronometer Testing Institute, is the institute responsible for certifying the accuracy and precision of [[Swiss watch]]es.
+
+==Background==
+Founded in its current form in 1973, the COSC is a Swiss [[non-profit organization]] that tests [[Chronometer watch|chronometer]]s that are [[Swiss Made]]. ''COSC'' is an [[acronym]] for the organization's [[French language]] name, Contrôle Officiel Suisse des Chronomètres.
+
+COSC testing generally applies to watches manufactured or assembled in [[Switzerland]].&lt;ref&gt;[http://forumamontres.forumactif.com/les-interviews-f6/interview-de-pierre-yves-soguel-directeur-du-cosc-t23463.htm Interview de Pierre-Yves Soguel Directeur du COSC&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; Notwithstanding, the normative standards are set by international agreement and are the same whether they are nominally labeled [[ISO]] or DIN standards. Some German, Japanese, and even non-certified Swiss movements can surpass the normative requirements. The Japanese have largely abandoned the accolade, replacing it with in-house testing to a slightly more strict standard as with, for example, the [[Grand Seiko]]. On the other hand, the Germans have set up their own testing facility in Saxony at the [[Glashütte Observatory]] &lt;ref&gt;http://www.chronometerwerke-glashuette.de/pdfs/Sternwarte_0609_EN.pdf?PHPSESSID=1fafdbfcf01fbc87c54d2ed4f0b2e530{{Dead link|date=June 2019 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;&lt;ref&gt;[http://journal.hautehorlogerie.org/en/focus/fine-watchmaking-made-in-germany/deutsche-chronometer/deutsche-chronometer-4367.html Deutsche Chronometer - Deutsche Chronometer - Fine watchmaking, made in Germany - Focus - Fondation de la Haute Horlogerie&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; where the DIN 8319 standards, which  mirror the ISO standards used by COSC, are employed. At one time the French provided similar large scale testing at the [[Besançon Astronomical Observatory|Observatory at Besançon]], however, today only a very few watches are currently tested there and carry the accolade "[[Observatory chronometer|Observatory Chronometer]]". 
+
+The organization was founded by five watchmaking [[Canton (country subdivision)|cantons]] of Switzerland: [[Canton of Bern|Bern]], [[Canton of Geneva|Geneva]], [[Canton of Neuchâtel|Neuchâtel]], [[Canton of Solothurn|Solothurn]] and [[Vaud]], together with the [[Federation of the Swiss Watch Industry FH|Federation of the Swiss Watch Industry (FHS)]]. It encompasses the laboratories and observatories that had been created independently of each other from the late 19th century.
+
+Three laboratories now test the movements submitted by individual watch manufacturers to be granted chronometer status. They are in [[Biel/Bienne]], [[Saint-Imier/BE]] and [[Le Locle]]. The Saint-Imier and Biel laboratories are almost entirely devoted to testing [[Rolex]] movements.&lt;ref&gt;[http://www.timezone.com/library/wbore/wbore631733384647656250 {{Webarchive|url=https://web.archive.org/web/20070608035845/http://www.timezone.com/library/wbore/wbore631733384647656250 |date=2007-06-08 }} Inside COSC [1/22/03&amp;#93; - TimeZone&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; Although not all Rolex watches are chronometers, [[Breitling SA|Breitling]] has claimed that since 2000 all of its production is COSC certified. [[Omega SA|Omega]] also has much of its production certified. Thus, based upon the movements used by Rolex, Breitling, and Omega, the movement calibers that obtain most of the COSC certificates&lt;ref&gt;[http://www.fhs.ch/en/news/news.php?id=565 The Swiss Watch Industry - COSC 2006 1,300,140 Chronometers&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; are the Rolex 3135&lt;ref&gt;Watch as described at [http://www.horlogerie-suisse.com/Complications/Rolex/3135.html horlogerie-suisse.com] {{Webarchive|url=https://web.archive.org/web/20070926224823/http://www.horlogerie-suisse.com/Complications/Rolex/3135.html |date=2007-09-26 }} and [http://vintagepocketwatches.net/watchprincipals/gauge_rolex_3135.htm vintagepocketwatches.net] {{Webarchive|url=https://web.archive.org/web/20070930175228/http://vintagepocketwatches.net/watchprincipals/gauge_rolex_3135.htm |date=2007-09-30 }}.&lt;/ref&gt; (since 1988) (and variants 3155, 3175, 3185, 4130) and 2235, the [[ETA SA|ETA]] 2892A2&lt;ref&gt;Movement as described at [http://www.horlogerie-suisse.com/Complications/2892/2892-A2.html horlogerie-suisse.com] {{webarchive|url=https://web.archive.org/web/20070305075713/http://www.horlogerie-suisse.com/Complications/2892/2892-A2.html |date=2007-03-05 }}.&lt;/ref&gt; (and variants) and [[Valjoux]] 7750,&lt;ref&gt;Movement as described at [http://www.horlogerie-suisse.com/Complications/7750/7750.html horlogerie-suisse.com] {{webarchive|url=https://web.archive.org/web/20070926224817/http://www.horlogerie-suisse.com/Complications/7750/7750.html |date=2007-09-26 }}.&lt;/ref&gt; each of which operates at 28,800 beats per hour.  Tag Heuer &lt;ref&gt;{{Cite web |url=http://www.tagheuer.com/int-en/watch-movement/cosc-certification |title=Archived copy |access-date=2013-10-25 |archive-url=https://web.archive.org/web/20131029204428/http://www.tagheuer.com/int-en/watch-movement/cosc-certification |archive-date=2013-10-29 |url-status=dead }}&lt;/ref&gt; and Ball watches &lt;ref&gt;[http://www.ballwatch.com/html5/index.php?option=com_collections&amp;task=6&amp;mid=151&amp;lang=en_US]&lt;/ref&gt; both have select watches designated as chronometers which are sent to COSC for certification.
+
+== Standards and methods ==
+Each officially COSC [[certified chronometer]] is identified by a [[serial number]] engraved on its movement and a certification number given by the COSC. 
+
+Testing criteria are based on [[ISO 3159]]&lt;ref&gt;[http://www.qualite-fleurier.ch/COSC-ISO-3159.pdf PDF file] {{Webarchive|url=https://web.archive.org/web/20070925200236/http://www.qualite-fleurier.ch/COSC-ISO-3159.pdf |date=2007-09-25 }} (of 1976 version)&lt;/ref&gt; which defines a wrist chronometer with spring-balance oscillator. Only movements which meet the precision criteria established under ISO 3159 are granted an official chronometer certificate. (Compare ISO 3158.&lt;ref&gt;[http://www.seiko-watch.co.jp/resource/pdf/manual/9S56_02.pdf ISO 3158] {{Webarchive|url=https://web.archive.org/web/20070925200233/http://www.seiko-watch.co.jp/resource/pdf/manual/9S56_02.pdf |date=2007-09-25 }} (PDF file).&lt;/ref&gt;)
+
+Each uncased movement is individually tested for fifteen days, in five positions, at three different temperatures. The movements are fitted with a seconds hand and the automatic winding mechanisms are disengaged for the tests.  Measurements are made daily with the aid of cameras. Based on these measurements, seven eliminatory criteria are calculated, each of which must be met (e.g., for movements of a diameter over 20 mm, the requirements, indicated in seconds/day, are noted in the table below). There is no ISO standard for quartz timepieces, but there is development in this field. ISO 10553:2003 specifies the procedure for evaluating the accuracy of quartz watches, individually and by lot, and the relationship between the accuracy tested and the accuracy classification given by the manufacturer. It applies to quartz watches having accompanying documents on which the accuracy classification is indicated. Nevertheless, COSC has also developed its own standard for testing quartz chronometers with eight eliminatory criteria, also noted in the table below.
+
+{| class="wikitable"
+|+ '''COSC standards''' &lt;br/&gt;all units in seconds unless specified
+! Mechanical&lt;ref&gt;[https://www.cosc.swiss/en/certification/mechanical-movements COSC mechanical movements]&lt;/ref&gt; !! Quartz&lt;ref&gt;[https://www.cosc.swiss/en/certification/quartz-movements COSC quartz movements]&lt;/ref&gt;
+|-
+| Average daily rate: −4/+6&lt;ref&gt;this is the average rate over the first ten testing days.&lt;/ref&gt;
+| Average daily rate at 23 °C: ±0.07 
+|-
+| Mean variation in rates: 2&lt;ref&gt;this figure shows if a watch tends to run fast or slow; a good quality watch will be consistent, whether it is fast, slow or correct.&lt;/ref&gt;
+| Rate at 8 °C: ±0.20
+|-
+| Greatest variation in rates: 5&lt;ref&gt;This is the largest difference between any two days' readings in a single position.&lt;/ref&gt;
+| Rate at 38 °C: ±0.20
+|-
+| Difference between rates in H &amp; V positions: −6/+8&lt;ref&gt;calculated by subtracting the average of the rates in the vertical (V) position (first and second days) from the average of the rates in the horizontal(H) position (ninth and tenth days).&lt;/ref&gt;
+| Rate stability: 0.05 
+|-
+| Largest variation in rates: 10&lt;ref&gt;the largest difference between the mean daily rate (see test number 1) and any individual rate during the first 10 days of positional testing.&lt;/ref&gt;
+| Dynamic rate: ±0.05 
+|-
+| Thermal variation: ±0.60&lt;ref&gt;the temperature error of the movement, expressed in seconds/degree.&lt;/ref&gt;
+| Temporary effect of mechanical shocks: ±0.05 
+|-
+| Rate resumption: ±5&lt;ref&gt;figure obtained by subtracting the average mean daily rate of the first two days of testing from the mean daily rate of the last test day.&lt;/ref&gt;
+| Rate resumption: ±0.05
+|-
+| n/a
+| Residual effect of mechanical shocks: ±0.05;
+200 shocks equivalent to 100 [[Gravity of Earth|''g'']] (981&amp;nbsp;m/s², 3,217&amp;nbsp;ft/s²)
+|-
+| n/a
+| Humidity: ±0.10 (temporary effect)
+|}
+
+A COSC certified mechanical chronometer is tested for 15 days and checked with two key pieces of data:
+* temperature 
+* the position of the movement (3 o’clock, 6 o’clock, 9 o’clock, dial on top, dial on the bottom)
+A COSC certified quartz chronometer is tested for 13 days, in one position, at 3 different temperatures and 4 different relative humidity levels.
+
+Measurements are compared with a time base established by two independent [[atomic clocks]] synchronized on GPS time. Not all chronometers are supplied with the report issued by the COSC as the reports are optional to the brand or maker. Each manufacturer may decide whether to reveal the results gathered during the certification process of the movement. For example, Breitling do supply all their watches with COSC certificates (all Breitling watches since 2000 are certified chronometers) however Rolex and Omega do not supply even their chronometer certified watches (not all their watches are certified chronometers) with the COSC certificates. Omega however can provide the COSC chronometer certificate if asked.{{Citation needed|date=July 2015}}
+
+==Observatory trials and standards before 1973==
+While competitive chronometer testing took place at the observatories in Neuchâtel (1866–1975) and Geneva (1873–1967), testing of large numbers of watches intended for public sale was conducted by the independent ''Bureaux officiels de contrôle de la marche des montres'' (B.O.s) established between 1877 and 1956. Between 1961 and 1973,&lt;ref&gt;F. von Osterhausen, Wristwatch Chronometers: Mechanical Precision Watches and Their Testing (Schiffer; 2ed., Atglen, 1997)&lt;/ref&gt; “a chronometer [was] a precision watch, which [was] regulated in several positions and at different temperatures and which had received a certificate [from the  (“B.O.)]." Collective certificates, rather than individual certificates, were usually issued. The 1961–73 standard required a mean daily rate in five positions of −1/+10. In 1973, the B.O.’s came under the C.O.S.C. which specified a daily rate of −4/+6 sec.
+
+==The value of COSC certification==
+===Only 3% of Swiss Watch production are COSC certified===
+Over a million official chronometer certificates are delivered each year, representing only 3% of the Swiss watch production. To earn chronometer certification, a movement must not only be made from the highest quality components, but also be the object of special care on part of the finest watchmakers and timers during assembly.&lt;ref&gt;Source: courtesy of "Contrôle Officiel Suisse des Chronomètres", CH-2301 La Chaux-de-Fonds, Switzerland&lt;/ref&gt;
+
+===Meaningful test or marketing gimmick?===
+There is a debate among watch enthusiasts as to whether the COSC chronometer certification for a Swiss watch is a meaningful test or a simple marketing gimmick. On the one hand, when a watch maker intends to submit a movement for COSC testing, they frequently employ additional jewelling (i.e. to the barrel) and better quality&lt;ref&gt;Better quality as explained [http://www.eta.ch/d/produkte/Mecaline/pdf/ETA_2824_2.pdf here] {{Webarchive|url=https://web.archive.org/web/20070710041751/http://www.eta.ch/d/Produkte/mecaline/pdf/ETA_2824_2.pdf |date=2007-07-10 }} (PDF file).&lt;/ref&gt; "[[Ébauche]]" parts (i.e. higher quality hairsprings, mainsprings, balance wheels; regulators, etc.) all aimed at the coveted chronometer certification.&lt;ref&gt;Compare, Can a non-certified watch meet the precision criteria of a chronometer? No, as the components of a chronometer are of a better quality and the care granted to its assembly and its setting cannot be compared. See [http://www.cosc.ch/faq2.php?lang=en cosc.ch FAQ] {{Webarchive|url=https://web.archive.org/web/20070625024419/http://www.cosc.ch/faq2.php?lang=en |date=2007-06-25 }}.&lt;/ref&gt; On the other hand, it is likely that most good quality movements on the market today are capable of being tweaked, and timed to fall comfortably within the benchmark -4/+6 average daily rate criteria of the COSC. However, movements so submitted to COSC are more likely to be submitted with better quality parts in order to be confident of a successful test, and as a consequence may be more likely to maintain better timekeeping rates over the service life of the time piece.&lt;ref&gt;{{Cite web |url=http://www.cosc.ch/faq2.php?lang=en |title=Can a non-certified watch meet the precision criteria of a chronometer? |access-date=2007-06-03 |archive-url=https://web.archive.org/web/20070625024419/http://www.cosc.ch/faq2.php?lang=en |archive-date=2007-06-25 |url-status=dead }}&lt;/ref&gt;
+
+Therefore, some of the ″Haute Horlogerie″ Swiss Watch Manufacturers have created on 5 June 2001, [http://www.fleurier-quality.com ″The Fleurier Quality Foundation″] to establish new aesthetic and technical criteria dedicated to the certification of finished watches. Their certification meets a normative requirement for the market and the final customer to have a better definition of quality watchmaking, adapted to today's demands and technological advances. Geneva's have created along similar criteria the [[Geneva seal]].
+
+====Exemplar brands submitting to COSC====
+[[Rolex]] by far submits the largest number of movements to COSC followed by [[Omega SA|Omega]], [[Breitling SA|Breitling]], [[TAG Heuer]] and [[Panerai]].
+&lt;ref&gt;[http://www.watchtime.com/2010/09/who-are-switzerlands-top-chronometer-producers/ Who are Switzerland’s Top Chronometer Producers]&lt;/ref&gt; Rolex and Breitling submit all movements for certification, but other manufacturers only submit certain models.
+
+===Certification in perspective===
+Fine regulation and chronometer characteristics of a watch can be destroyed in seconds by a rough and inexperienced hand.&lt;ref&gt;F. von Osterhausen, ''Wristwatch Chronometers: Mechanical Precision Watches and Their Testing'' (Schiffer; 2ed., Atglen, 1997), at page 28, table 38; page 59.&lt;/ref&gt;
+Considering the fact that mechanical watches are almost never used for real timekeeping and navigation anymore, certification may be considered a historic relic by some, but it verifies the accuracy and quality of a mechanical movement.{{Citation needed|date=January 2013}}
+
+==See also==
+* [[British Horological Institute]]
+* [[Geneva seal]]
+* [[Science and technology in Switzerland]]
+
+==External links==
+*{{in lang|fr}} [https://web.archive.org/web/20070925200236/http://www.qualite-fleurier.ch/COSC-ISO-3159.pdf ISO 3159 (1976) Standard]
+*[http://www.cosc.ch/ Contrôle Officiel Suisse des Chronomètres]
+*[http://www.fhs.ch/en/ Federation of the Swiss Watch Industry FH]
+*[http://forums.timezone.com/index.php?t=tree&amp;goto=1555&amp;rid=2 How to read a COSC Certificate]
+*[http://www.cosc.swiss/en/faq Is a non-certified watch likely to meet the precision criteria of a chronometer?]
+*[http://velociphilewatch.blogspot.com/2006/02/master-control-1000-hours-test-versus.html Master Control 1000 hours Test Versus COSC]
+*[https://web.archive.org/web/20070608035845/http://www.timezone.com/library/wbore/wbore631733384647656250 Inside the COSC]
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Cosc}}
+[[Category:Science and technology in Switzerland]]
+[[Category:Non-profit organisations based in Switzerland]]
+[[Category:Horological organizations]]
+[[Category:Watches]]
+[[Category:Organizations established in 1973]]</text>
+      <sha1>3prvqmppipiy36n8copu26r99sugqv3</sha1>
+    </revision>
+  </page>
+</mediawiki>

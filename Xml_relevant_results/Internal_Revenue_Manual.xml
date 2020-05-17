@@ -1,0 +1,94 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Internal Revenue Manual</title>
+    <ns>0</ns>
+    <id>36890127</id>
+    <revision>
+      <id>858175020</id>
+      <parentid>794839179</parentid>
+      <timestamp>2018-09-05T15:45:36Z</timestamp>
+      <contributor>
+        <username>Gene Wilson</username>
+        <id>6713489</id>
+      </contributor>
+      <comment>/* top */AccessDate parameter removed.....  No URL in citation.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2759" xml:space="preserve">The '''Internal Revenue Manual''' (IRM) is an official compendium of internal guidelines for personnel of the [[United States]] [[Internal Revenue Service]] (IRS).&lt;ref name='Parnell'&gt;{{cite journal | title = The Internal Revenue Manual: Its Utility and Legal Effect | journal = The Tax Lawyer | year = 1979 | first = Archie W. Jr. | last = Parnell | volume = 32 | issue = 5 | pages = 687 }}&lt;/ref&gt;&lt;ref&gt;[https://www.irs.gov/irm/ Internal Revenue Manual Table of Contents], Internal Revenue Service United States Department of the Treasury, Retrieved November 7, 2013&lt;/ref&gt;
+
+==History==
+The IRM was made publicly available through the [[Freedom of Information Act (United States)|Freedom of Information Act]].
+
+==Legal status==
+
+According to CCH (formerly known as Commerce Clearing House, Inc.):
+
+::The IRS Internal Revenue Manual is the official source of instructions to IRS personnel relating to the organization, administration and operation of the IRS. The IRM contains directions IRS employees need to carry out their responsibilities in administering IRS obligations, such as detailed procedures for processing and examining tax returns.
+
+::Procedures set forth in the IRM are not mandatory and are not binding on the IRS. The provisions are not issued pursuant to a mandate or delegation of authority by Congress and do not have the effect of a rule of law. Nonetheless, IRM offers insights into IRS procedures, and many tax practitioners use the IRM for guidance.&lt;ref&gt;"Tax Research: Understanding Sources of Tax Law", p. 7 (CCH).&lt;/ref&gt;
+
+In the Internal Revenue Manual, the IRS states:
+
+::The IRM is the primary, official source of "instructions to staff" that relate to the administration and operation of the IRS. It details the policies, delegations of authorities, procedures, instructions and guidelines for daily operations for all IRS organizations. The IRM ensures that employees have the approved policy and guidance they need to carry out their responsibilities in administering the tax laws or other agency obligations.&lt;ref&gt;"IRM Standards," Internal Revenue Manual, IRM 1.11.2.2, Internal Revenue Service, U.S. Dep't of the Treasury (May 8, 2014) (quotation marks in original).&lt;/ref&gt;
+
+The Internal Revenue Manual itself is not the law. The general rule is that neither the taxpayer nor the IRS is bound by the Internal Revenue Manual. See, e.g., ''United States v. Horne''&lt;ref&gt;714 F.2d 206 (1st Cir. 1983) (''per curiam'').&lt;/ref&gt; and ''First Federal Savings &amp; Loan Ass'n v. Goldman''.&lt;ref&gt;644 F. Supp. 101, 86-2 U.S. Tax Cas. (CCH) ¶ 9624 (W.D. Pa. 1986).&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.irs.gov/irm/ Official site]
+
+
+[[Category:Internal Revenue Service]]
+[[Category:United States tax law]]
+
+
+{{tax-stub}}</text>
+      <sha1>odaluk6mdwztgseojpxj0wsvm4sya3u</sha1>
+    </revision>
+  </page>
+</mediawiki>

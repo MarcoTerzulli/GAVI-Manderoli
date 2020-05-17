@@ -1,0 +1,465 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Office 365</title>
+    <ns>0</ns>
+    <id>29273223</id>
+    <revision>
+      <id>956028831</id>
+      <parentid>954844024</parentid>
+      <timestamp>2020-05-11T04:05:12Z</timestamp>
+      <contributor>
+        <ip>2405:204:A10C:65AB:713D:CDF7:FE25:67E9</ip>
+      </contributor>
+      <comment>/* Plans */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="52868" xml:space="preserve">{{mergeto|Microsoft 365|discuss=Talk:Microsoft 365#Merger proposal|date=April 2020}}
+{{short description|Microsoft software product}}
+{{Use mdy dates|date=May 2012}}
+{{Infobox software
+| name = Office 365
+| logo = Microsoft Office logo (2019–present).svg
+| logo caption = 
+| screenshot = 
+| caption = 
+| collapsible = 
+| developer = [[Microsoft]]
+| released = {{Start date and age|2011|06|28}}
+| discontinued = 
+| operating system = [[Windows]], [[macOS]], [[Android (operating system)|Android]], [[iOS]]
+| platform = 
+| size = 
+| language = 
+| language count = 
+| language footnote = 
+| genre = [[Software as a service]] contract
+| license = &lt;!--It is a form of license itself--&gt;
+| alexa = 
+| website = [https://office365.com/ office365.com]
+| standard = 
+| AsOf = 
+}}
+'''Office 365''' is a line of [[subscription business model|subscription]] services offered by [[Microsoft]] as part of the [[Microsoft Office]] product line. The brand encompasses plans that allow use of the Microsoft Office software suite over the life of the subscription, as well as [[Cloud computing|cloud-based]] [[software as a service]] products for business environments, such as hosted [[Exchange Server]], [[Skype for Business Server]], and [[SharePoint]], among others. All Office 365 plans include automatic updates to their respective software at no additional charge, as opposed to conventional [[software license|licenses]] for these programs—where new versions require purchase of a new license.
+
+After a [[beta test]] that began in October 2010, Microsoft launched Office 365 on June 28, 2011,&lt;ref name=pcmag-office365launch&gt;{{cite web|first= Julius |last=Motal |title= Microsoft Office 365 Launching June 28 |url=https://www.pcmag.com/article2/0,2817,2386447,00.asp |work=[[PC Magazine]] |publisher=[[Ziff Davis]] |date=6 June 2011 |accessdate=14 March 2013}}&lt;/ref&gt; originally aimed at [[corporate]] users, as a successor to [[Microsoft Online Services#Product Suite: Business Productivity Online Standard Suite (BPOS)|Microsoft Business Productivity Online Suite]] (BPOS). With the release of [[Microsoft Office 2013]], Microsoft expanded Office 365 to include new plans aimed at different types of businesses, along with new plans aimed at general consumers, including benefits tailored towards Microsoft consumer services such as [[OneDrive]] (whose integration with Office was a major feature of the 2013 suite).&lt;ref name=pcw-buyorrent/&gt; 
+
+On April 21, 2020, the consumer and small business plans of Office 365 were renamed [[Microsoft 365|'''Microsoft 365''']], which emphasizes productivity features and services outside of the core Microsoft Office software suite. The Office 365 brand remains in use for plans catered towards enterprise markets.
+
+In the fourth quarter of fiscal year 2017, Office 365 revenue overtook that of conventional license sales of Microsoft Office software for the first time.&lt;ref&gt;{{Cite news |url=https://arstechnica.com/information-technology/2017/07/microsoft-4q17-office-365-revenue-surpasses-traditional-licenses/ |title=Microsoft 4Q17: Office 365 revenue surpasses traditional licenses |work=[[Ars Technica]] |publisher=[[Condé Nast]] |date=21 July 2017 |access-date=July 21, 2017 |archive-url=https://web.archive.org/web/20190201110644/https://arstechnica.com/information-technology/2017/07/microsoft-4q17-office-365-revenue-surpasses-traditional-licenses/ |archive-date=February 1, 2019 |url-status=dead }}&lt;/ref&gt;
+
+== History ==
+[[File:Office 365 2010.svg|thumb|Old 2010 Office 365 logo]]
+[[File:Office 365 2013.svg|thumb|2013 logo]]
+[[File:Office365RetailPack.JPG|thumb|Office 365 retail pack]]
+Microsoft first announced Office 365 in October 2010, beginning with a private beta with various organizations, leading into a public beta in April 2011, and reaching general availability on June 28, 2011. Facing growing competition from [[Google]]'s similar service [[Google Apps]], Microsoft designed the Office 365 platform to "bring together" its existing online services (such as the [[Microsoft Online Services|Business Productivity Online Suite]]) into "an always-up-to-date cloud service" incorporating [[Microsoft Exchange Server|Exchange Server]] (for e-mail), [[Microsoft SharePoint|SharePoint]] (for internal social networking, collaboration, and a public web site), and [[Microsoft Lync Server|Lync]] (now Skype for Business) (for communication, [[Voice over IP|VoIP]], and conferencing). Plans were initially launched for small business and enterprises; the small business plan offered Exchange e-mail, SharePoint Online, Lync Online, web hosting via SharePoint, and the [[Office Web Apps]], with the enterprise plan also adding per-user licenses for the Office 2010 Professional Plus software and 24/7 phone support.&lt;ref name=nw-office365beta&gt;{{cite web|title=Microsoft takes aim at Google Apps with Office 365|url=http://www.networkworld.com/news/2010/101810-microsoft-office-365.html|work=Network World|accessdate=15 March 2013|url-status=dead|archiveurl=https://web.archive.org/web/20130501200751/http://www.networkworld.com/news/2010/101810-microsoft-office-365.html|archivedate=May 1, 2013|df=mdy-all}}&lt;/ref&gt; Following the official launch of the service, Business Productivity Online Suite customers were given 12 months to migrate from BPOS to the Office 365 platform.&lt;ref name="pcw-bpos migration"&gt;{{cite web|title=BPOS Customers Face Transition to Office 365|url=http://www.pcworld.com/article/231220/article.html|work=PC World|accessdate=18 June 2013}}&lt;/ref&gt;
+
+With the release of [[Microsoft Office 2013|Office 2013]], an updated version of the Office 365 platform was launched on February 27, 2013. The server components were updated to their respective 2013 versions, and Microsoft expanded the Office 365 service with new plans, such as Small Business Premium, Midsize Premium, and Pro Plus.&lt;ref name=ars-office3652013&gt;{{cite web |title=Microsoft Office 2013 Pro released to the masses, Office 365 updated |url=https://arstechnica.com/information-technology/2013/02/microsoft-office-2013-pro-released-to-the-masses-office-365-updated/ |work=[[Ars Technica]] |publisher=[[Condé Nast]] |date=27 February 2013 |first=Sean |last=Gallagher}}&lt;/ref&gt; A new Office 365 Home Premium plan aimed at home users offers access to the Office 2013 suite for up to five computers, along with expanded [[OneDrive]] storage and 60 minutes of Skype calls monthly. The plan is aimed at mainstream consumers, especially those who want to install Office on multiple computers.&lt;ref name=ars-365-hp&gt;{{cite web |title=Review: Microsoft Office 365 Home Premium Edition hopes to be at your service |url=https://arstechnica.com/information-technology/2013/01/hands-on-with-microsofts-office-365-home-premium-edition/ |work=[[Ars Technica]] |publisher=[[Condé Nast]] |date=29 January 2013 |first=Sean |last=Gallagher}}&lt;/ref&gt;&lt;ref name=cw-365new&gt;{{cite web|title=Office 365 for businesses gets upgraded, new bundles added|url=http://www.computerworld.com/s/article/9237191/Office_365_for_businesses_gets_upgraded_new_bundles_added |work=[[ComputerWorld]] |publisher=[[IDG]] |first=Juan Carlos |last=Perez |date=27 February 2013}}&lt;/ref&gt; A University plan was introduced, targeted at post-secondary students. With these new offerings, Microsoft began to offer prepaid Office 365 subscriptions through retail outlets alongside the normal, non-subscription-based editions of Office 2013, which, in comparison, are only licensed for use on one computer.&lt;ref name=verge-office2013cloud/&gt;
+
+On March 19, 2013, Microsoft detailed its plans to provide integration with the enterprise [[social networking service|social networking]] platform [[Yammer]] (which they had acquired in 2012) for Office 365, such as the ability to use a [[single sign-on]] between the two services, shared feeds and document aggregation, and the ability to entirely replace the SharePoint news feed and social functionality with Yammer.&lt;ref name=cnet-365-yammer&gt;{{cite web|title=Office 365 and Yammer integration: What's coming|url=http://news.cnet.com/8301-1001_3-57575193-92/office-365-and-yammer-integration-whats-coming/|work=CNET|accessdate=20 March 2013}}&lt;/ref&gt; The ability to provide a link to a Yammer network from an Office 365 portal was introduced in June 2013, with heavier integration (such as a Yammer app for SharePoint and single sign-on) to be introduced in July 2013.&lt;ref name=cwuk-yammer365&gt;{{cite web|title=Office 365 customers can replace SharePoint newsfeed with Yammer|url=http://www.computerworlduk.com/news/cloud-computing/3452158/office-365-customers-can-replace-sharepoint-newsfeed-with-yammer/|work=Computerworld UK|accessdate=12 June 2013}}&lt;/ref&gt;
+
+On July 8, 2013, Microsoft unveiled [[Power BI]], a suite of [[business intelligence]] and self-serve [[data mining]] tools for Office 365, to be released later in the year. Power BI is primarily incorporated into Excel, allowing users to use the Power Query tool to create spreadsheets and graphs using public and private data, and also perform [[geovisualization]] with [[Bing Maps]] data using the Power Map tool (previously available as a beta plug-in known as GeoFlow). Users will also be able to access and publish reports, and perform natural language queries on data.&lt;ref name=cio-powerbi&gt;{{cite web|title=Microsoft Makes Data Mining Self-Service With BI for Office 365|url=http://www.cio.com/article/736026/Microsoft_Makes_Data_Mining_Self_Service_With_BI_for_Office_365|work=CIO|accessdate=9 July 2013}}&lt;/ref&gt;&lt;ref name=pcw-powerbi&gt;{{cite web|title=Microsoft adds business intelligence tools to Office 365|url=http://www.pcworld.com/article/2043844/microsoft-adds-business-intelligence-to-office-365.html|work=PCWorld|accessdate=9 July 2013}}&lt;/ref&gt; As a limited-time offer for certain markets (but notably excluding the U.S.), Microsoft also announced that those who purchased an Office 365 Home Premium or University subscription before September 28, 2013 would receive a free one-year [[Xbox Live]] Gold subscription.&lt;ref name=tnw-365gold&gt;{{cite web|title=Microsoft throws in 12 months of Xbox Live Gold for free with every annual Office 365 subscription|url=https://thenextweb.com/microsoft/2013/07/18/microsoft-will-throw-in-12-months-of-xbox-live-gold-for-free-if-you-buy-an-office-365-subscription/|work=TheNextWeb|accessdate=18 July 2013}}&lt;/ref&gt;
+
+In March 2014, Microsoft announced that it would rename the "Home Premium" plan to "Home", and add a new "Personal" plan for single users; these new options officially launched on April 15, 2014.&lt;ref name=pcw-365personal&gt;{{cite web|title=Microsoft adds personal Office 365 subscription|url=http://www.pcworld.com/article/2107941/microsoft-adds-personal-office-365-subscription.html|work=PC World|accessdate=13 March 2014}}&lt;/ref&gt;&lt;ref name=cnet-office365personal&gt;{{cite web|title=Microsoft releases Office 365 Personal -- for iPad too|url=https://www.cnet.com/news/microsoft-releases-office-365-personal-for-ipad-too/|work=CNET|accessdate=16 April 2014}}&lt;/ref&gt;
+
+In June 2014, the amount of OneDrive storage offered to Office 365 subscribers was increased to 1 [[terabyte]] from 20 GB.&lt;ref name=verge-365terabyte&gt;{{cite web|title=Microsoft kicks off Google 'productivity war' by doubling free OneDrive storage|url=https://www.theverge.com/2014/6/23/5833808/onedrive-free-storage-increase-pricing-productivity-war|website=The Verge|accessdate=23 June 2014}}&lt;/ref&gt; On October 27, 2014, Microsoft announced that Office 365 subscribers would receive "unlimited" OneDrive storage.&lt;ref name=verge-onedrive365unlimited&gt;{{cite web|title=Microsoft targets Dropbox and Google with unlimited OneDrive storage for Office 365 subscribers|url=https://www.theverge.com/2014/10/27/7078397/microsoft-unlimited-onedrive-storage-office-365|website=The Verge|accessdate=27 October 2014}}&lt;/ref&gt; Due to abuse and a general reduction in storage options implemented by Microsoft, the 1 TB cap was reinstated in November 2015.&lt;ref name=verge-unlimitedremoved/&gt;
+
+In June 2016, Microsoft made [[Microsoft Planner|Planner]] available for general release. It is considered to be a competitor to [[Trello]] and to other agile team collaboration cloud services.&lt;ref&gt;{{cite web|url=https://techcrunch.com/2016/06/06/microsoft-officially-launches-planner-its-trello-competitor |title=Microsoft officially launches Planner, its Trello competitor |publisher=TechCrunch |accessdate=9 June 2016}}&lt;/ref&gt;
+
+In April 2017, Microsoft announced that when [[Office 2016]] loses mainstream support on October 13, 2020, access to [[OneDrive for Business]], and Office 365-hosted servers for Skype for Business will become unavailable to those who are not using Office 365 ProPlus or Office perpetual in mainstream support.&lt;ref name="officeblog-announcement"&gt;{{cite web|title=Office 365 ProPlus updates announcement|url=https://blogs.office.com/2017/04/20/office-365-proplus-updates/|website=Office Blog|accessdate=20 April 2017}}&lt;/ref&gt; In July 2019, Microsoft announced that the hosted [[Skype for Business]] Online service would be discontinued on July 31, 2021, with users being redirected to the [[Microsoft Teams]] collaboration platform as its replacement. Since September 2019, Skype for Business Online is no longer offered to new subscribers.&lt;ref&gt;{{Cite web|url=https://www.zdnet.com/article/microsoft-will-drop-skype-for-business-online-on-july-31-2021/|title=Microsoft will drop Skype for Business Online on July 31, 2021|last=Foley|first=Mary Jo|website=ZDNet|language=en|access-date=2020-02-09}}&lt;/ref&gt;&lt;ref name="teams-replacement-announce"&gt;{{Cite news|url=https://www.theverge.com/2017/9/25/16360072/microsoft-teams-replacing-skype-for-business|title=Microsoft Teams is replacing Skype for Business to put more pressure on Slack|work=The Verge|access-date=September 26, 2017}}&lt;/ref&gt;
+
+On March 30, 2020, Microsoft announced that the consumer plans of Office 365 would be rebranded as "[[Microsoft 365]]" (a brand also used by Microsoft for an enterprise subscription bundle of Windows, Office 365, and security services) on April 21.&lt;ref&gt;{{Cite web|url=https://www.theverge.com/2020/4/21/21229303/microsoft-365-subscriptions-launch-price-release-date-features|title=Microsoft 365 consumer subscriptions now available, most new features coming later|last=Warren|first=Tom|date=2020-04-21|website=The Verge|language=en|access-date=2020-04-21}}&lt;/ref&gt; Microsoft 365 is being positioned as a "subscription service for your life", as a superset of the existing Office 365 service with additional productivity tools for family and life management. In particular, Microsoft announced an upcoming [[Microsoft Family Safety|Family Safety]] app, the addition of [[Microsoft Teams]] (which will add additional features catering towards use by families), and partnerships with third-parties such as [[Adobe Inc.|Adobe]], [[Blinkist]], [[CreativeLive]], [[Experian]], and [[Headspace (company)|Headspace]] to include trial offers for their services for subscribers. The two Microsoft 365 plans succeed the existing Office 365 Personal and Home subscriptions (with the latter being renamed to "Family"), with no change in pricing.&lt;ref&gt;{{Cite web|url=https://www.theverge.com/2020/3/30/21199376/microsoft-365-subscriptions-office-family-safety-app-teams-features-price|title=Microsoft aims to win back consumers with new Microsoft 365 subscriptions|last=Warren|first=Tom|date=2020-03-30|website=The Verge|language=en|access-date=2020-03-30}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.cnet.com/news/microsofts-office-365-is-now-microsoft-365-a-subscription-for-your-life/|title=Microsoft's Office 365 is now Microsoft 365, a 'subscription for your life'|last=Sherr|first=Ian|website=CNET|language=en|access-date=2020-03-30}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.zdnet.com/article/microsoft-rebrands-office-365-consumer-subscriptions-to-m365-adds-more-new-features-for-same-price/|title=Microsoft rebrands Office 365 consumer subscriptions to M365; adds more new features for same price|last=Foley|first=Mary Jo|website=ZDNet|language=en|access-date=2020-03-30}}&lt;/ref&gt; 
+
+Microsoft similarly announced that the Office 365 plans for small and medium-sized businesses would also be renamed Microsoft 365. The Office 365 branding remains in use for plans targeting enterprise markets.&lt;ref&gt;{{Cite web|url=https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/30/new-microsoft-365-offerings-small-and-medium-sized-businesses/|title=New Microsoft 365 offerings for small and medium-sized businesses|last=Spataro|first=Jared|last2=|first2=|date=2020-03-30|website=Microsoft 365 Blog|language=en-US|url-status=live|archive-url=|archive-date=|access-date=2020-04-23}}&lt;/ref&gt;
+
+==Features==
+The Office 365 service consists of a number of products and services. All of Office 365's components can be managed and configured through an online portal; users can be added manually, imported from a [[Comma-separated values|CSV file]], or Office 365 can be set up for [[single sign-on]] with a local [[Active Directory]] using [[Active Directory Federation Services]].&lt;ref name="pcw-bpos migration"/&gt;&lt;ref name=techradar-365review&gt;{{cite web|title=Office 365 review: The cloud route to new desktop features|url=http://www.techradar.com/reviews/pc-mac/software/home-and-reference-software/office-365-980626/review/1#articleContent|work=TechRadar Pro|accessdate=31 May 2013}}&lt;/ref&gt;  More advanced setup and features requires the use of [[PowerShell]] scripts.&lt;ref name=ms-office365-powershell&gt;{{cite web|title=Connect to Office 365 PowerShell|url=https://docs.microsoft.com/en-us/office365/enterprise/powershell/connect-to-office-365-powershell|work=Microsoft|accessdate=26 January 2018}}&lt;/ref&gt;
+
+=== Outlook ===
+{{Main|Outlook on the web}}
+
+The email service, task management, calendar application, and contacts manager included with business and enterprise Office 365 subscriptions are under the Outlook on the web brand. It includes Outlook Mail, Outlook Calendar, Outlook People, and Outlook Tasks.
+
+Microsoft introduced an email feature called ''Clutter'' with Office 365. ''Clutter'' remembers user's preferences as it comes to the relevance and importance of emails. It analyses user's pattern of behavior about email topics, if user keeps ignoring emails about a certain topic, ''Clutter'' moves those emails to a folder with the same name in Outlook. Users can enable and disable this feature by logging on to Office 365 portal.&lt;ref&gt;{{cite book |first1=Rosemarie |last1=Withee|first2=Ken |last2=Withee|first3=Jennifer |last3=Reed|url=https://books.google.com/books?id=erknDAAAQBAJ&amp;pg=PT78|title=Office 365 For Dummies|date=9 May 2016|publisher=[[John Wiley &amp; Sons]]|isbn=978-1-11-926353-1|p=78}}&lt;/ref&gt;
+
+===Hosted services===
+Business and enterprise-oriented plans for Office 365 offer access to [[Cloud computing|cloud-hosted]] versions of Office's server platforms on a [[software as a service]] basis, including Exchange, Skype for Business, SharePoint, and the browser-based [[Office Web Apps]] suite.&lt;ref name=pcmag-office365launch /&gt;  Through SharePoint's OneDrive for Business functionality (formerly known as SharePoint MySites and SkyDrive Pro, and distinct from the consumer-oriented [[OneDrive|OneDrive service]]), each user also receives 1 TB of online storage.  Certain plans also include unlimited personal cloud storage per user.&lt;ref name=pt-365skydrivepro&gt;{{cite web|title=Office 365: SkyDrive Pro - SkyDrive Pro replaces SharePoint MySites and provides business users with cloud-based document storage|url=http://winsupersite.com/office-2013/office-365-skydrive-pro|work=Supersite for Windows|accessdate=20 March 2013}}&lt;/ref&gt;&lt;ref name=tnw-onedrivename&gt;{{cite web|title=Microsoft SkyDrive becomes OneDrive, gets camera backup for Android, real-time co-authoring, and easier video sharing|url=https://thenextweb.com/microsoft/2014/02/19/skydrive-becomes-onedrive-gets-camera-backup-android-real-time-co-authoring-easier-video-sharing/|work=The Next Web|accessdate=16 April 2014}}&lt;/ref&gt;
+
+In lieu of Microsoft's enterprise software, Home plans for Office 365 include premium enhancements for Microsoft's consumer-level online services, including 1&amp;nbsp;terabyte of OneDrive storage for each user,&lt;ref name=verge-unlimitedremoved&gt;{{cite news|title=Microsoft reduces free OneDrive storage and removes unlimited option|url=https://www.theverge.com/2015/11/3/9662414/microsoft-reduces-free-onedrive-storage-15-to-5-gb-removes-unlimited|accessdate=3 November 2015|work=The Verge}}&lt;/ref&gt; along with 60 minutes of phone calls per month on the Microsoft-owned [[Skype]] [[voice over IP|VoIP]] service.&lt;ref name=pcw-buyorrent&gt;{{cite web|title=Office 2013 vs. Office 365: Should you buy or rent?|url=http://www.pcworld.com/article/2026703/office-365-vs-office-2013-should-you-rent-or-own-.html|accessdate=15 March 2013}}&lt;/ref&gt;
+
+On business plans, Office 365 also includes cloud-based collaboration services such as [[Microsoft Office shared tools#Delve|Delve]], [[Microsoft Teams]], and [[Yammer]]
+
+=== Office applications ===
+Some plans for Office 365 also include access to the current versions of the Office desktop applications for both Windows ([[Microsoft Office 2019|Office 2019]]) and [[OS X|macOS]] ([[Microsoft Office for Mac 2016|Office for Mac 2016]]) for the period of the subscription. On Windows, it is installed using a "click-to-run" system which allows users to begin using the applications almost instantaneously, while files are [[Application streaming|downloaded in the background]]. Updates to the software are installed automatically, covering both security and feature updates.&lt;ref name=pcw-buyorrent/&gt;&lt;ref name=cw-365new/&gt;&lt;ref name=verge-office2013cloud&gt;{{cite web|title=Office 2013 available now: Microsoft ditches DVDs in push for cloud subscriptions|url=https://www.theverge.com/2013/1/29/3927866/office-2013-pricing-office-365-subscriptions-available-now|work=The Verge|accessdate=15 March 2013}}&lt;/ref&gt;&lt;ref name="Office 2013: Pricing and Packaging"&gt;{{cite web|author=Paul Thurrott |url=http://www.winsupersite.com/article/office-2013-beta2/office-2013-pricing-packaging-144267 |title=Office 2013: Pricing and Packaging |work=SuperSite for Windows |date=2012-09-17 |accessdate=2012-11-21}}&lt;/ref&gt; If an Office 365 subscription lapses, the applications enter a [[read-only access|read-only]] mode where editing functionality is disabled. Full functionality is restored once a new subscription is purchased and activated.&lt;ref name=zdnet-expires&gt;{{cite web|title=Microsoft's Office 365 Home Premium: What happens when subscriptions expire?|url=https://www.zdnet.com/article/microsofts-office-365-home-premium-what-happens-when-subscriptions-expire/|website=ZDNet|publisher=CBS Interactive|accessdate=14 October 2015}}&lt;/ref&gt;  Publisher, Access and InfoPath are available on Windows only, and are not available for install on Mac operating systems.
+
+Access to the [[Microsoft Office Mobile|Office Mobile]] apps for [[Android (operating system)|Android]] and [[iOS]] devices (including both [[smartphone]]s and [[tablet computer|tablets]]) were originally limited to Office 365 subscribers&lt;ref name=gsma-officeandroid&gt;{{cite web|title=Microsoft releases Office Mobile for Office 365 Android app|url=http://www.gsmarena.com/microsoft_releases_office_mobile_for_office_365_android_app-news-6495.php|work=GSMArena|accessdate=9 August 2013}}&lt;/ref&gt;&lt;ref name=thurrott-iosoffice&gt;{{cite web|title=Office Mobile for iPhone Review|url=http://winsupersite.com/office-365/office-mobile-iphone-review|work=Supersite for Windows|accessdate=15 June 2013}}&lt;/ref&gt;&lt;ref name=verge-officeipad&gt;{{cite web|title=Microsoft unveils Office for iPad, free for reading and presenting|url=https://www.theverge.com/2014/3/27/5553364/microsoft-office-for-ipad-features|work=The Verge|accessdate=27 March 2014}}&lt;/ref&gt; but basic editing and document creation has since been made free for personal use. However, Office 365 is still required to unlock certain advanced editing features, use the apps on devices with screens larger than 10.1 inches, or to use the apps for business use.&lt;ref&gt;{{cite news|last1=Weir|first1=Andy|title="The world has changed," says Microsoft, as it makes Office free for everyone on mobile|url=http://www.neowin.net/news/the-world-has-changed-says-microsoft-as-it-makes-office-free-for-everyone-on-mobile|accessdate=18 December 2014|agency=NeoWin|date=6 November 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = http://products.office.com/en-us/office-resources|title = Microsoft Office Resources|date = January 13, 2015|accessdate = February 1, 2015|website = Office.com|publisher = Microsoft|last = |first = }}&lt;/ref&gt;&lt;ref name=ars-ipadpro365&gt;{{cite web |title=Want to use Office on your new iPad Pro? Then you’ll need an Office 365 subscription |url=https://arstechnica.com/apple/2015/09/want-to-use-office-on-your-new-ipad-pro-then-youll-need-an-office-365-subscription/ |website=[[Ars Technica]] |publisher=[[Condé Nast]] |date=22 September 2015 |first=Peter |last=Bright}}&lt;/ref&gt; [[Outlook Groups]] was also made available as an app on Windows 10 Mobile.
+
+===Updates===
+The Office 365 platform uses a [[rolling release]] model; updates to the online components of the service are provided once per quarter. On launch, the [[Microsoft Office 2010|2010 versions]] of server components were used with Office 365. These services were automatically upgraded to their [[Microsoft Office 2013|Office 2013]] counterparts upon its release in February 2013.&lt;ref name=cnet-365-yammer/&gt; With the introduction of Office 2013, Office division head Kurt DelBene stated that minor and incremental updates to the Office desktop software would be provided on a similarly periodic basis to all Office 365 users by means of the streaming system, as opposed to the three-year cycle for major releases of Office that had been used in the past.&lt;ref name=cnet-365-yammer/&gt;&lt;ref name=cw-365updates&gt;{{cite web|title=Microsoft: We can update Office-by-subscription every 90 days|url=http://www.computerworld.com/s/article/9237260/Microsoft_We_can_update_Office_by_subscription_every_90_days |work=Computerworld |accessdate=12 June 2013}}&lt;/ref&gt;
+
+Although there are still "on-premises" or "perpetual" releases of Office on the three-year cycle used before, these versions do not receive new features or access to new cloud-based services as they are released on Office 365.&lt;ref&gt;{{Cite web|url=https://venturebeat.com/2019/02/06/microsoft-office-2019-office-365-comparison-twins/|title=Microsoft really doesn’t want you to buy Office 2019|date=2019-02-06|website=VentureBeat|language=en-US|access-date=2019-02-06}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.pcworld.com/article/3228116/software-productivity/microsoft-announces-office-2019-for-customers-who-dont-want-to-pay-forever-for-office-365.html|title=Microsoft announces Office 2019 for customers who don't want to pay forever for Office 365|date=2017-09-26|website=PCWorld|language=en|access-date=2019-02-06}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.zdnet.com/article/microsoft-office-has-changed-how-you-use-it-should-too/|title=Microsoft Office has changed, how you use it should too|last=Branscombe|first=Mary|website=ZDNet|language=en|access-date=2019-02-06}}&lt;/ref&gt;
+
+===Office 365 Education===
+[[Image:Live at Edu Screenshot.png|thumb|The Microsoft Outlook Web App, a part of the Live@edu service, displayed as a pinned site in [[Windows Internet Explorer 9]]]]
+
+'''Office 365 Education''', formerly '''Office 365 for Education''' and '''Microsoft Live@edu''', is a free suite of hosted Microsoft services and applications that is intended for educational needs.&lt;ref&gt;{{cite web|url=https://www.zdnet.com/blog/igeneration/liveedu-rebranded-introducing-office-365-for-education/6470|title=Live@edu rebranded: Introducing Office 365 for Education|accessdate=June 23, 2011}}&lt;/ref&gt;
+
+The program provides education institutions with a set of hosted collaboration services, communication tools, and mobile, desktop, and web-based applications, as well as data storage capabilities. The suite includes Microsoft applications for collaboration including: [[Microsoft Office Live#Office Live Workspace|Office Live Workspace]],&lt;ref&gt;{{cite web|url=http://www.readwriteweb.com/archives/office_live_workspace_vs_google_docs_feature_by_feature.php|title=Office LIve Workspace vs Google Docs Feature-by-Feature|accessdate=June 23, 2011|url-status=dead|archiveurl=https://web.archive.org/web/20080306014513/http://www.readwriteweb.com/archives/office_live_workspace_vs_google_docs_feature_by_feature.php|archivedate=March 6, 2008|df=mdy-all}}&lt;/ref&gt; [[SkyDrive|Windows Live SkyDrive]], [[Windows Live Spaces]], [[Microsoft SharedView]] Beta, Microsoft Outlook Live, [[Windows Live Messenger]], and [[Windows Live Alerts]].&lt;ref&gt;{{cite web|url=https://archive.codeplex.com/|title=CodePlex Archive|website=CodePlex Archive|accessdate=January 30, 2018}}&lt;/ref&gt;
+
+The suite is part of Microsoft Education Solutions. With the Microsoft Live ID, the student can sign-in and access multiple Microsoft applications such as Outlook Live, [[Windows Live Messenger]], Windows Live Spaces, Windows Live SkyDrive, [[Windows Live Mobile]], and others. Universities, colleges, and schools can enroll in the program through a free registration process.&lt;ref&gt;{{cite web|url=https://www.microsoft.com/liveatedu/free-hosted-student-email.aspx|title=Preparing Students for the Future
+|accessdate=June 23, 2011}}&lt;/ref&gt;
+
+In 2012, Live@edu moved under the umbrella of the Microsoft Office 365 service. The former Outlook Live Answers portal, a forum for asking questions on the Live@edu service, was discontinued on December 17, 2012.&lt;ref&gt;[http://outlookliveanswers.com Outlook Live Answers portal], retrieved December 2, 2012&lt;/ref&gt; Transition was intended to be complete by September 2013.&lt;ref&gt;[https://www.microsoft.com/liveatedu/upgrade-center/upgrade-center-home.aspx Microsoft Live@edu Upgrade Center], retrieved December 2, 2012&lt;/ref&gt;
+
+[[Image:Live at Edu light Screenshot.png|thumb|The "light" version of the Outlook Web App, displayed to users using an unsupported web browser.]]
+
+== Security ==
+In December 2011, Microsoft announced that the Office 365 platform was now compliant with the [[ISO/IEC 27001]] security standards, the [[European Union]]'s [[Data Protection Directive]] (through the signing of [[International arbitration|model clauses]]), and the [[Health Insurance Portability and Accountability Act]] for [[health care]] environments in the United States. At the same time, Microsoft also unveiled a new "Trust Center" portal, containing further information on its privacy policies and security practices for the service.&lt;ref name=seattletimes-365security&gt;{{cite web|title=Microsoft touts Office 365 security compliance|url=http://seattletimes.com/html/microsoftpri0/2017025551_microsoft_touts_office_365_security_compliance.html|work=Seattle Times|accessdate=16 March 2013}}&lt;/ref&gt;&lt;ref name=crn-o365security&gt;{{cite web|title=Microsoft Boosts Office 365 Security To Meet European Data Protection Requirements|url=http://www.crn.com/news/applications-os/232300531/microsoft-boosts-office-365-security-to-meet-european-data-protection-requirements.htm|work=CRN|accessdate=16 March 2013}}&lt;/ref&gt; In May 2012, Microsoft announced that Office 365 was now compliant with the [[Federal Information Security Management Act of 2002|Federal Information Security Management Act]]: compliance with the act would now allow Office 365 to be used by U.S. government agencies.&lt;ref name=register-fisma&gt;{{cite web|title=Office 365 hard enough to penetrate US government|url=https://www.theregister.co.uk/2012/05/11/office_365_fisma/|work=The Register|accessdate=16 March 2013}}&lt;/ref&gt;
+
+In spite of claiming to comply with European data protection standards, and in spite of existing [[International Safe Harbor Privacy Principles|Safe Harbor]] agreements, Microsoft has admitted that it will not refrain from handing over data stored on its European servers to US authorities under the [[Patriot Act]].&lt;ref name=zdnet-accesseudata&gt;{{cite web|title=Microsoft admits Patriot Act can access EU-based cloud data|url=https://www.zdnet.com/article/microsoft-admits-patriot-act-can-access-eu-based-cloud-data/|work=ZDNet|date=28 June 2011|accessdate=26 January 2015}}&lt;/ref&gt;
+
+In [[Finland]], [[FICORA]] has warned Office 365 users of phishings and break-ins, diverting millions of euros to criminals.&lt;ref&gt;{{cite web|url=https://www.viestintavirasto.fi/kyberturvallisuus/varoitukset/2018/varoitus-2018-03.html|title=Finnish Communications Regulatory Authority|accessdate=June 12, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.mtv.fi/uutiset/rikos/artikkeli/office-365-huijarit-onnistuivat-ohjaamaan-miljoonien-eurojen-maksun-vaaralle-tilille-helsingissa/6946716|title=Finnish TV channel's web news|accessdate=June 12, 2018}}&lt;/ref&gt; In September 2019, NCSC-FI (National Cyber Security Centre of Finland) created a detailed guide on how to protect Microsoft Office 365 against phishing attempts and any data breaches.&lt;ref&gt;{{cite web |last1=Gatlan |first1=Sergiu |title=Finnish Govt. Releases Guide on Securing Microsoft Office 365 |url=https://www.bleepingcomputer.com/news/security/finnish-govt-releases-guide-on-securing-microsoft-office-365/ |website=bleeping computer |publisher=bleeping computer |accessdate=24 September 2019}}&lt;/ref&gt;
+
+In July 2019, [[Hesse]] has outlawed the use of Office 365 in educational institutions, citing privacy risks.&lt;ref&gt;{{Cite web|url=https://arstechnica.com/information-technology/2019/07/germany-threatens-to-break-up-with-microsoft-office-again/|title=Office 365 declared illegal in German schools due to privacy risks|last=Salter|first=Jim|date=2019-07-15|website=Ars Technica|language=en-us|access-date=2019-07-15}}&lt;/ref&gt;
+
+==Plans==
+Office 365 (now [[Microsoft 365]]) is available in a number of different subscription plans aimed at different needs and market segments, providing different sets of features at different price points.&lt;ref&gt;{{cite web|url=http://www.smallbusinesstechtips.com/small-business-computer-tips/is-microsoft-office-365-right-for-your-business/|archive-url=https://web.archive.org/web/20111015014531/http://www.smallbusinesstechtips.com/small-business-computer-tips/is-microsoft-office-365-right-for-your-business/|url-status=dead|archive-date=October 15, 2011|title=Is Office 365 Right for your Business|accessdate=October 20, 2011|publisher=Everon Technology}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://office.microsoft.com/en-us/products/redir/FX102886268.aspx|title=Office 365 Home Premium|accessdate=March 8, 2013|publisher=Microsoft}}&lt;/ref&gt;  These include:
+
+*'''Microsoft 365 Personal''' (formerly Office 365 Personal): Includes access to [[Microsoft Word]], [[Microsoft Excel]], [[Microsoft PowerPoint]], [[Microsoft OneNote]], [[Microsoft Outlook]], [[Microsoft Publisher]] &amp; [[Microsoft Access]] for home/non-commercial use on one computer ([[Personal computer|PC]] or [[Mac OS|Mac]]) plus access to premium features on one tablet ([[Android (operating system)|Android]], [[iOS]] or [[Windows RT]], as full [[Windows]] counts as a computer) or phone. Additional benefits include 1 TB of additional [[OneDrive]] storage and 60 minutes of [[Skype]] international calls per month (subject to area).&lt;ref name=zdnet-o365personal&gt;{{cite web|title=Microsoft adds a new $70 'Personal' SKU to its Office 365 line-up|url=https://www.zdnet.com/microsoft-adds-a-new-70-personal-sku-to-its-office-365-line-up-7000027305/|work=ZDnet|accessdate=16 April 2014}}&lt;/ref&gt;&lt;ref name=engadget-365personal&gt;{{cite web|title=Office 365 Personal now available for $7 per month|url= https://www.engadget.com/2014/04/15/office-365-personal/?ncid=rss_truncated |work=Engadget|accessdate=16 April 2014}}&lt;/ref&gt; A version of Personal purchased on a discounted four-year plan, known as '''Office 365 University''', allowing use on two devices by one user, is available for those in [[higher education|post-secondary institutions]].&lt;ref name=engadget-365uni&gt;{{cite web|title=Microsoft launches four-year, $80 Office 365 University subscription for students |url= https://www.engadget.com/2012/10/19/microsoft-launches-office-365-university/ |work=Engadget |accessdate=21 March 2013}}&lt;/ref&gt; Microsoft has also offered Office 365 subscriptions to students of institutions who have licensed Office software for their faculty.&lt;ref name="FreeOffice365-1"&gt;{{cite web|author=Mariella Moon |url=https://www.engadget.com/2015/02/24/microsoft-office-365-free-students-worldwide/ |title=Microsoft gives eligible students free Office 365 subscriptions |work=Engadget |date=2015-02-25 |accessdate=2015-02-26}}&lt;/ref&gt;&lt;ref name="FreeOffice365-2"&gt;{{cite web|author=Mark Hachman |url=http://www.pcworld.com/article/2888354/microsoft-rolls-out-free-office-for-students-worldwide.html |title=Microsoft rolls out free Office for students, worldwide |work=PC World |date=2015-02-24 |accessdate=2015-02-26}}&lt;/ref&gt;
+*'''Microsoft 365 Family''' (formerly Office 365 Home): Aimed at mainstream consumers and families; same as Personal, but for use on up to six devices by up to six users.&lt;ref&gt;{{Cite web|url=https://products.office.com/en-au/buy/office?ms.officeurl=opc-compare-redir|title=Download Office {{!}} Office 365 Home &amp; Personal subscriptions|website=products.office.com|language=en-au|access-date=2019-06-03}}&lt;/ref&gt;
+* '''Microsoft 365 Business Basic''' (formerly Office 365 Business Essentials): Offers access to hosted e-mail (Exchange), SharePoint, and [[Microsoft Teams]] services, and access to the mobile app and Office Online versions of Outlook, Word, Excel, PowerPoint and OneNote.&lt;ref name=":0"&gt;{{cite web|url = http://winsupersite.com/office-365/now-available-new-office-365-plans-small-and-medium-businesses|title = Now Available: The New Office 365 Plans for Small and Medium Businesses|date = 2 October 2014|accessdate =12 October 2016 |website = SuperSite for Windows|publisher = [[Penton Media]]|last = Thurrott|first = Paul}}&lt;/ref&gt;
+* '''Microsoft 365 Apps for business''' (formerly Office 365 Business): Offers Office applications for Windows, Mac, and mobile platforms for up to five computers, tablets, and smartphones per user.&lt;ref name=":0" /&gt;
+*'''Microsoft 365 Business Standard''' (formerly Office 365 Business Premium): Offers Office applications for Windows, Mac, and mobile platforms for up to five computers, tablets, and smartphones per user, as well as hosted Exchange, [[MileIQ]], [[Microsoft Bookings]], SharePoint, and Teams services.&lt;ref name=":0" /&gt;&lt;ref name="OppSec" /&gt;&lt;ref name="pt-365smallbusiness"&gt;{{cite web|title=The New Office 365: What’s a Small Business to Do?|url=http://winsupersite.com/office-365/new-office-365-what-s-small-business-do|work=SuperSite for Windows|accessdate=21 March 2013}}&lt;/ref&gt; 
+*'''Microsoft 365 Apps for enterprise''' (formerly Office 365 Professional Plus, or ProPlus): Offers access to the Office Professional Plus applications on up to five devices per user.&lt;ref name="pcw-365newplans" /&gt;
+*'''Midsize Business''': Aimed at businesses with 10-300 employees. Offered access to the Office 2013 applications from ProPlus, plus hosted [[Microsoft Exchange (disambiguation)|Exchange]], [[SharePoint]], and [[Skype for Business]] services.&lt;ref name="pcw-365newplans"&gt;{{cite web|title=Microsoft Updates Office 365 for Business, Adds New Plans|url=https://www.pcmag.com/article2/0,2817,2416012,00.asp|work=PC Magazine|accessdate=21 March 2013}}&lt;/ref&gt; No longer available. 
+*'''Office 365 Enterprise''': Intended for use in enterprise environments. Offers access to all Office applications and hosted services, plus enterprise-specific legal compliance features and support.&lt;ref name="nw-office365beta" /&gt;&lt;ref name="OppSec"&gt;{{cite web |author=Paul Thurrott |url=http://www.winsupersite.com/article/office-2013-beta2/office-365-public-preview-office-365-home-businesses-143706 |title=Office 2013 Public Preview: Office 365 for Home and Businesses |work=SuperSite for Windows |date=2012-07-16 |accessdate=2012-11-21 |archive-url=https://www.webcitation.org/6BHw4fqHc?url=http://www.winsupersite.com/article/office-2013-beta2/office-365-public-preview-office-365-home-businesses-143706 |archive-date=October 9, 2012 |url-status=dead }}&lt;/ref&gt;
+*'''Office 365 operated by 21Vianet''': Microsoft has licensed [[21Vianet]] to provide Office 365 services to its [[China]] customers. Microsoft does not operate Office 365 in China instead 21Vianet does. The service differs in features from the service offered elsewhere.&lt;ref&gt;{{cite web|url=https://support.office.com/en-us/article/Learn-about-Office-365-operated-by-21Vianet-a8ab5061-3346-4da0-bb7c-5260822b53ae|title=Learn about Office 365 operated by 21Vianet|work=office.com|accessdate=January 26, 2016}}&lt;/ref&gt;
+
+===Comparison===
+{{update|section|date=April 2020}}
+{| class="wikitable" style="font-size: 90%; text-align:center"
+|+ Comparison of features per licensing plan&lt;ref&gt;{{cite web|title=Get the most from Office with Office 365|url=https://products.office.com/en-us/compare-all-microsoft-office-products|accessdate=12 May 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Compare all Office 365 for business plans|url=https://products.office.com/en-us/business/compare-more-office-365-for-business-plans|website=office.com|publisher=[[Microsoft]]|accessdate=28 August 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Buy Office 365|url=https://products.office.com/en-us/buy/office|website=office.com|publisher=[[Microsoft]]|accessdate=28 August 2014}}&lt;/ref&gt;
+|-
+! Feature !! [[Office Online]]  !! Business&lt;br /&gt;Essentials !! Enterprise&lt;br /&gt;E1 !! Personal !! Home !! Business !! Business&lt;br /&gt;Premium !! Enterprise&lt;br /&gt;E3 !! Enterprise&lt;br /&gt;E4&lt;br /&gt;(discontinued)
+!Enterprise E5!! Exchange&lt;br /&gt;Online&lt;br /&gt;Plan 1!! ProPlus
+|-
+| colspan=13 {{rh}} | Subscription
+|-
+| style="text-align:left" | Payment terms
+| Free
+| Per user&lt;br/&gt;per month
+| Per user&lt;br/&gt;per month
+| Monthly or&lt;br/&gt;annually
+| Monthly or&lt;br/&gt;annually
+| Per user&lt;br/&gt;per month
+| Per user&lt;br/&gt;per month
+| Per user&lt;br/&gt;per month
+| Per user&lt;br/&gt;per month
+| Per user&lt;br/&gt;per month
+| Per user&lt;br/&gt;per month
+| Per user&lt;br/&gt;per month
+|-
+| style="text-align:left" | Number of users licensed
+| Unlimited
+| 300
+| Unlimited
+| 1
+| 6
+| 300
+| 300&lt;ref&gt;{{cite web|title=Office 365 Business Premium|url=https://products.office.com/en-us/business/office-365-business-premium|website=office.com|publisher=[[Microsoft]]|accessdate=10 June 2016}}&lt;/ref&gt;
+| Unlimited
+| Unlimited
+| Unlimited
+| Unlimited
+| Unlimited
+|-
+| style="text-align:left" | [[OneDrive]] storage per user
+| 5 GB
+| 1 TB
+| 1 TB
+| 1 TB
+| 1 TB
+| 1 TB
+| 1 TB
+| unlimited
+| 1 TB
+| unlimited
+| None
+| 1 TB
+|-
+| colspan=13 {{rh}} | Software
+|-
+| style="text-align:left" | [[Microsoft Word|Word]]
+| {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{No}} || {{Yes}} 
+|-
+| style="text-align:left" | [[Microsoft Excel|Excel]]
+| {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{No}} || {{Yes}} 
+|-
+| style="text-align:left" | [[Microsoft PowerPoint|PowerPoint]]
+| {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{No}} || {{Yes}} 
+|-
+| style="text-align:left" | [[Microsoft OneNote|OneNote]]|| {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{No}} || {{Yes}} 
+|-
+| style="text-align:left" | [[Microsoft Outlook|Outlook]]
+| {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{No}} || {{Yes}} 
+|-
+| style="text-align:left" | [[Microsoft Publisher|Publisher]]{{efn|name=winclint}} || {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{No}} || {{Yes}} 
+|-
+| style="text-align:left" | [[Microsoft Access|Access]]{{efn|name=winclint}} || {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{No}} || {{Yes}} 
+|-
+| style="text-align:left" | [[Skype for Business]]
+| {{No}} || {{Yes}} || {{No}} || {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{No}} || {{Yes}} 
+|-
+| style="text-align:left" | [[Microsoft Planner|Planner]]
+| {{No}} || {{Yes}} || {{Yes}} || {{No}} || {{No}} || {{No}} || {{Yes}}  || {{Yes}}  || {{Yes}} ||{{Yes}}|| {{No}}|| {{No}} 
+|-
+| style="text-align:left" | [[Microsoft InfoPath|InfoPath]]{{efn|name=winclint}} || {{No}} || {{No}} || {{No}} || {{No}} || {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{No}} || {{No}} 
+|-
+| style="text-align:left" | [[Office Online]] apps
+| {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{Partial|View attachments only}} || {{Yes}} 
+|-
+| style="text-align:left" | [[Microsoft Teams|Teams]]
+| {{No}} || {{Partial|Q1 2017}} || {{Partial|Q1 2017}} || {{No}} || {{No}} || {{No}} || {{Partial|Q1 2017}}  || {{Partial|Q1 2017}}  || {{Partial|Q1 2017}} ||{{Yes}}|| {{No}}|| {{No}} 
+|-
+| colspan=13 {{rh}} | Services
+|-
+| style="text-align:left" | [[Microsoft Exchange Server|Exchange Server]]
+| {{No}} || {{Yes}} || {{Yes}} || {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{Yes}} || {{No}} 
+|-
+| style="text-align:left" | [[Skype for Business Server]]
+| {{No}} || {{Yes}} || {{Yes}} || {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{No}} || {{No}} 
+|-
+| style="text-align:left" | [[Yammer|Yammer Enterprise]]
+| {{No}} || {{No}} || {{Yes}} || {{No}} || {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{No}} || {{No}} 
+|-
+| style="text-align:left" | Public website
+| {{No}} || {{Yes}} || {{Yes}} || {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{No}} || {{No}} 
+|-
+| style="text-align:left" | File storage and sharing
+| {{No}} || {{Yes}} || {{Yes}} || {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{No}} || {{Yes}} 
+|-
+| style="text-align:left" |[[SharePoint]]
+| {{No}} || {{Yes}} || {{Yes}} || {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{No}} || {{Yes}} 
+|-
+| style="text-align:left" | [[Active Directory]] integration
+| {{No}} || {{Yes}} || {{Yes}} || {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{Yes}} || {{No}} 
+|-
+| style="text-align:left" | Site mailboxes
+| {{No}} || {{No}} || {{No}} || {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{No}} || {{No}} 
+|-
+| style="text-align:left" | [[Microsoft Office Mobile|Office mobile apps]]
+| {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{No}} || {{Yes}} 
+|-
+| style="text-align:left" | Advanced email {{clarify|reason=Clarification needed for information rights management, archiving and legal hold capabilities and unlimited storage.|text=|date=October 2014}}|| {{No}} || {{No}} || {{No}} || {{No}} || {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{No}} || {{No}} 
+|-
+| style="text-align:left" | Email storage per user
+|15 GB
+|50 GB
+|50 GB
+|50 GB
+|50 GB
+|none
+|50 GB
+|100 GB
+|Unknown
+|100 GB
+|50 GB
+|50 GB
+|-
+| style="text-align:left" | eDiscovery Center
+| {{No}} || {{No}} || {{No}} || {{No}} || {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{No}} || {{No}} 
+|-
+| style="text-align:left" | Self-Service-Business Intelligence
+| {{No}} || {{No}} || {{No}} || {{No}} || {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{No}} || {{No}} 
+|-
+| style="text-align:left" | Voicemail
+| {{No}} || {{No}} || {{No}} || {{No}} || {{No}} || {{No}} || {{No}} || {{Yes}} || {{Yes}} ||{{Yes}}|| {{No}}|| {{No}} 
+|-
+| style="text-align:left" | Custom Domain
+| {{Unknown}} || {{Yes}} || {{Unknown}} || {{Unknown}} || {{Unknown}} || {{Unknown}} || {{Yes}} ||{{Yes}} || {{Unknown}} ||{{Yes}}|| {{Yes}}|| {{No}} 
+|-
+| colspan="13" style="text-align: center;" | {{Notelist|notes={{efn|name=winclint|Windows only}} }}
+|}
+
+==Reception==
+[[TechRadar]] gave the 2013 update of Office 365 a 4.5 out of 5, praising its administration interfaces for being accessible to users with any level of expertise, the seamless integration of SkyDrive Pro into the Office 2013 desktop applications, and the service as a whole for being suitable in small business environments, while still offering "powerful" options for use in larger companies (such as [[Data loss prevention software|data loss protection]] and the ability to integrate with a local [[Active Directory]] instance). However, the service was severely criticized for how it handled its 2013 update for existing users, and its lack of integration with services such as [[Skype]] and [[Yammer]].&lt;ref name=techradar-365review/&gt;
+
+==References==
+{{reflist|colwidth=30em}}
+
+==Further reading==
+{{refbegin|colwidth=30em}}
+* {{cite web
+  |url = https://www.microsoft.com/Presspass/press/2010/oct10/10-19Office365.mspx
+  |title = Microsoft Announces Office 365
+  |work = Microsoft News Center
+  |publisher = [[Microsoft Corporation]]
+  |date = October 19, 2010
+  |accessdate =October 25, 2010
+  |location = Redmond, WA
+  }}
+* {{cite web
+  |url = http://news.cnet.com/8301-13860_3-20020029-56.html
+  |title = Microsoft Office 365 bets on the cloud
+  |work = [[CNET News]]
+  |publisher = [[CBS Interactive]]
+  |date = October 19, 2010
+  |accessdate =October 25, 2010
+  |first = Ina
+  |last = Fried
+  }}
+* {{cite web
+  |url = http://www.cloudhypermarket.com/services/productivity/microsoft-office-365
+  |title = Microsoft unveils Microsoft Office 365
+  |work = Cloud Hypermarket
+  |publisher = Hypermarket Ventures Ltd.
+  |date = October 19, 2010
+  |accessdate =January 24, 2011
+  |first = Andrew
+  |last = Gradwell
+  }}
+* {{cite web
+  |url = http://www.infoworld.com/t/desktop-productivity/what-office-365-says-about-microsoft-736
+  |title = What Office 365 says about Microsoft
+  |work = [[InfoWorld]]
+  |publisher = Infoworld, Inc.
+  |date = October 25, 2010
+  |accessdate =October 25, 2010
+  |first = Eric
+  |last = Knor
+  }}
+* {{cite web
+  |url = http://www.infoworld.com/d/applications/microsoft-unveils-office-365-cloud-platform-146
+  |title = Microsoft unveils Office 365 cloud platform
+  |work = [[InfoWorld]]
+  |publisher = Infoworld, Inc.
+  |date = October 19, 2010
+  |accessdate =October 25, 2010
+  |first = Paul
+  |last = Krill
+  }}
+* {{cite web
+  |url = http://www.eweek.com/c/a/Cloud-Computing/Microsoft-Office-365-Profiled-at-Gartner-Conference-776455/
+  |title = Microsoft Office 365 Profiled at Gartner Conference
+  |work = [[eWeek]]
+  |publisher = Ziff Davis Enterprise Holdings Inc.
+  |date = October 20, 2010
+  |accessdate =October 25, 2010
+  |first = Nicholas
+  |last = Kolakowski
+  }}
+* {{cite web
+  |url = http://www.eweek.com/c/a/Windows/Office-365-Ozzie-Departure-Ballmer-Tablet-Talk-Marked-Microsoft-Week-224674/
+  |title = Office 365, Ozzie Departure, Ballmer Tablet Talk Marked Microsoft Week
+  |work = [[eWeek]]
+  |publisher = Ziff Davis Enterprise Holdings Inc.
+  |date = October 24, 2010
+  |accessdate =October 25, 2010
+  |first = Nicholas
+  |last = Kolakowski
+  }}
+* {{cite web
+  |url = http://www.computerworld.com/s/article/9191783/Microsoft_launches_Office_365_makes_cloud_move?source=rss_news
+  |title = Microsoft launches Office 365, makes cloud move
+  |work = [[Computerworld]]
+  |publisher = Computerworld Inc.
+  |date = October 19, 2010
+  |accessdate =October 25, 2010
+  |first = Juan Carlos
+  |last = Perez
+  }}
+* {{cite web
+  |url = https://techcrunch.com/2010/10/19/microsoft-rolls-up-cloud-services-into-office-365-takes-aim-at-google-apps/
+  |title = Microsoft Rolls Up Cloud Services Into Office 365, Takes Aim At Google Apps
+  |work = [[TechCrunch]]
+  |date = October 19, 2010
+  |accessdate =October 25, 2010
+  |first = Jason
+  |last = Kincaid
+  }}
+* {{cite web
+  |url = https://www.zdnet.com/blog/igeneration/microsoft-admits-patriot-act-can-access-eu-based-cloud-data/11225
+  |title = Microsoft admits Patriot Act can access EU-based cloud data
+  |work = ZDNet
+  |date = June 28, 2011
+  |accessdate =August 15, 2011
+  |first = Zack
+  |last = Whittaker
+  }}
+* {{cite web
+  |url = http://www.netzwelt.de/news/87930-anleitung-eigene-domain-microsoft-office-365-konfigurieren.html
+  |title = Adding Domains in Microsoft Office 365
+  |work = Netzwelt
+  |date = August 17, 2011
+  |accessdate =September 12, 2011
+  |first = Markus
+  |last = Franz
+  }}
+* {{cite web
+  |url = http://onlinehelp.microsoft.com/office365-enterprises/ff652556.aspx 
+  |title = Prepare for email migration or Exchange hybrid deployment in office 365
+  |work = Netzwelt
+  |date = August 17, 2011
+  |accessdate =September 12, 2011
+  |first = Markus
+  |last = Franz
+  }}
+{{refend}}
+
+==External links==
+*{{Official website}}
+
+{{Microsoft}}
+{{Microsoft Office}}
+{{Cloud computing}}
+
+[[Category:Microsoft cloud services]]
+[[Category:Microsoft Office|365]]
+[[Category:Office 365| ]]
+[[Category:Subscription services]]</text>
+      <sha1>d3qob04o8k556jpcdeh6zldz5bif1tt</sha1>
+    </revision>
+  </page>
+</mediawiki>

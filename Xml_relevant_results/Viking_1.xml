@@ -1,0 +1,320 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Viking 1</title>
+    <ns>0</ns>
+    <id>82968</id>
+    <revision>
+      <id>955459970</id>
+      <parentid>955429459</parentid>
+      <timestamp>2020-05-07T22:58:37Z</timestamp>
+      <contributor>
+        <username>JustinTime55</username>
+        <id>11561890</id>
+      </contributor>
+      <minor/>
+      <comment>/* Mission */ Try reading the article aloud: "an 11-month", not "a 11-month".</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="30339" xml:space="preserve">{{about|the mission to Mars|other uses|Viking One (disambiguation){{!}}Viking One}}
+{{italic title}}
+{{Use mdy dates|date=July 2019}}
+{{Infobox spaceflight
+| name = ''Viking 1''
+| names_list = &lt;!--list of previous names if the spacecraft has been renamed.
+Include the dates applicable if possible, and separate each name with a linebreak.
+Omit if the spacecraft has only ever been known by one name.
+Do not include Harvard, COSPAR/NSSDC or SATCAT/NORAD/NASA designations as alternative names--&gt;
+
+&lt;!--image of the spacecraft/mission--&gt;| image = File:Viking spacecraft.jpg
+| image_caption = ''Viking'' orbiter
+| image_alt = &lt;!--image alt text--&gt;
+| image_size = 250px
+| mission_type = Orbiter and lander
+| operator = [[NASA]]
+| Harvard_designation = &lt;!--spacecraft launched 1962 and earlier only (eg. 1957 Alpha 2)--&gt;
+| COSPAR_ID = Orbiter: 1975-075A&lt;br /&gt;Lander: 1975-075C
+| SATCAT = Orbiter: 8108&lt;br /&gt;Lander: 9024
+| website = [http://nssdc.gsfc.nasa.gov/planetary/viking.html Viking Project Information]
+| mission_duration = Orbiter: {{Age in days|1975|07|19|1980|08|07}}&amp;nbsp;days&amp;nbsp; ({{Age in sols|1975|07|19|1980|08|07}}&amp;nbsp;sols) &lt;br /&gt; Lander: 2306&amp;nbsp;days&amp;nbsp; (2245&amp;nbsp;sols)&lt;br /&gt;Launch to last contact: 2642 days
+| distance_travelled = &lt;!--How far the spacecraft travelled (if known)--&gt;
+| orbits_completed = &lt;!--number of times the spacecraft orbited the Earth - see below for spacecraft beyond Earth orbit--&gt;
+| suborbital_range = &lt;!--downrange distance reached if spacecraft did not enter orbit--&gt;
+| suborbital_apogee = &lt;!--altitude reached if spacecraft did not enter orbit--&gt;
+
+&lt;!--Spacecraft properties--&gt;| spacecraft = &lt;!--Spacecraft name/serial number (eg. Space Shuttle ''Discovery'', Apollo CM-118), etc--&gt;
+| spacecraft_type = &lt;!--eg. GPS Block II, Kobalt-M, US-K, etc--&gt;
+| spacecraft_bus = &lt;!--eg. A2100M, Star-2, etc--&gt;
+| manufacturer = Orbiter: [[Jet Propulsion Laboratory|NASA JPL]]&lt;br /&gt;Lander: [[Martin Marietta]]
+| launch_mass = "The fully fueled orbiter-lander pair had a mass of 3530 kg"&lt;ref name="SSDC"&gt;{{cite web |title=Viking 2 Lander |url=https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-075C |work=[[NASA]] }}&lt;/ref&gt;
+| BOL_mass = &lt;!--spacecraft mass in orbit at beginning of operational life, after LEOP phase--&gt;
+| landing_mass = &lt;!--Mass after landing (recovered spacecraft only)--&gt;
+| dry_mass = &lt;!--spacecraft mass in orbit without fuel--&gt;Orbiter: {{convert|883|kg|abbr=on}}&lt;br /&gt;Lander: {{convert|572|kg|abbr=on}}
+| payload_mass = &lt;!--Mass of cargo carried by spacecraft (eg. for Space Shuttle), or total mass of instrumentation/equipment/experiments for mission--&gt;
+| dimensions = &lt;!--body dimensions and solar array span--&gt;
+| power = Orbiter: 620&amp;nbsp;W&lt;br /&gt;Lander: 70&amp;nbsp;W
+
+&lt;!--Launch details--&gt;| launch_date = {{start date|1975|08|20|21|22|7=Z}}&lt;ref name="NASA-20061218"/&gt;&lt;ref name="Viking 1"&gt;{{cite web |title=Viking 1 | website=NASA Jet Propulsion Laboratory (JPL)| date=October 19, 2016 | url=https://www.jpl.nasa.gov/missions/viking-1/ | access-date=November 27, 2018|publisher=[[NASA]]}}&lt;/ref&gt;
+| launch_rocket = [[Titan IIIE]]/[[Centaur (rocket stage)|Centaur]]
+| launch_site = [[Cape Canaveral Air Force Station Space Launch Complex 41|LC-41]], [[Cape Canaveral Air Force Station|Cape Canaveral]]
+| launch_contractor = &lt;!--organisation(s) that conducted the launch (eg. United Launch Alliance, Arianespace, etc)--&gt;
+| deployment_from = &lt;!--place where deployed from--&gt;
+| deployment_date = &lt;!--date deployed--&gt;
+| entered_service = &lt;!--date on which the spacecraft entered service, if it did not do so immediately after launch--&gt;
+&lt;!-- * - e.g. Proton-M/Briz-M not Proton-M, but Titan IV(401)A not Titan IV(401)A-Centaur--&gt;
+
+&lt;!--end of mission--&gt;| disposal_type = &lt;!--Whether the spacecraft was deorbited, decommissioned, placed in a graveyard orbit, etc--&gt;
+| deactivated = &lt;!--when craft was decommissioned--&gt;
+| destroyed = &lt;!--when craft was destroyed (if other than by re-entry)--&gt;
+| last_contact = {{end date|1982|11|11}}&lt;ref&gt;{{Cite web|url=http://www.nasa.gov/connect/ebooks/beyond_earth_detail.html|title=Beyond Earth: A Chronicle of Deep Space Exploration|first=Garrett|last=Shea|date=September 20, 2018|website=NASA}}&lt;/ref&gt;
+| recovery_by = &lt;!--recovered by--&gt;
+| recovery_date = &lt;!--recovery date--&gt;
+| decay_date = &lt;!--when craft re-entered the atmosphere, not needed if it landed--&gt;
+| landing_date = &lt;!--when the spacecraft made a controlled landing, not needed if it did not return intact--&gt;
+| landing_site = &lt;!--where the craft landed; site/runway or coordinates--&gt;
+&lt;!--
+    The following template should be used for ONE of the three above fields "end_of_mission", "decay" or "landing" if the spacecraft is no longer operational.
+    If it landed intact, use it for the landing time, otherwise for the date it ceased operations, or the decay date if it was still operational when it re-entered.
+    {{end date|YYYY|MM|DD|hh|mm|ss|TZ=Z}} (for Zulu/UTC) or {{end date|YYYY|MM|DD}} (if time unknown)
+--&gt;
+
+&lt;!--orbit parameters--&gt;
+&lt;!--as science-related articles, SI units should be the principal units of measurement, however we usually use {{convert}} to display imperial units in parentheses after the initial values--&gt;| orbit_reference = [[Areocentric orbit|Areocentric]]
+| orbit_regime = &lt;!--high, low, medium, molniya, GSO - please link (e.g. [[Low Earth orbit|Low Earth]] - please don't use acronyms--&gt;
+| orbit_longitude = &lt;!--geosynchronous satellites only--&gt;
+| orbit_slot = &lt;!--Designation of orbital position or slot, if not longitude (e.g plane and position of a GPS satellite)--&gt;
+| orbit_semimajor = &lt;!--semimajor axis--&gt;
+| orbit_eccentricity = &lt;!--orbital eccentricity--&gt;
+| orbit_periapsis = &lt;!--periapsis altitude--&gt;
+| orbit_apoapsis = &lt;!--apoapsis altitude--&gt;
+| orbit_inclination = &lt;!--orbital inclination--&gt;
+| orbit_period = &lt;!--time taken to complete an orbit--&gt;
+| orbit_RAAN = &lt;!--right ascension of the ascending node--&gt;
+| orbit_arg_periapsis = &lt;!--argument of perigee/periapsis--&gt;
+| orbit_mean_anomaly = &lt;!--mean anomaly at epoch, only use in conjunction with an epoch value--&gt;
+| orbit_mean_motion = &lt;!--mean motion of the satellite, usually measured in orbits per day--&gt;
+| orbit_repeat = &lt;!--repeat interval/revisit time--&gt;
+| orbit_velocity = &lt;!--speed at which the spacecraft was travelling at epoch - only use for spacecraft with low orbital eccentricity--&gt;
+| orbit_epoch = &lt;!--the date at which the orbit parameters were correct--&gt;
+| orbit_rev_number = &lt;!--revolution number--&gt;
+| apsis = areion
+| interplanetary = &lt;!--Infobox spaceflight/IP can be called multiple times for missions with multiple targets or combined orbiter/lander missions, etc--&gt;
+ {{Infobox spaceflight/IP
+   |type                = orbiter
+   |object              = [[Mars]]
+   |orbits              = &lt;!--number of orbits completed at target body (if applicable and known)--&gt;
+   |component           = ''Viking 1'' Orbiter
+   |arrival_date        = June 19, 1976&lt;ref name="NASA-20061218"&gt;{{cite web |last=Williams |first=David R. Dr. |title=Viking Mission to Mars |url=http://nssdc.gsfc.nasa.gov/planetary/viking.html |date=December 18, 2006 |work=[[NASA]] |accessdate=February 2, 2014 }}&lt;/ref&gt;&lt;ref name="NASA-Viking1"&gt;{{cite web |last=Nelson |first=Jon |title=Viking 1 |url=http://www.jpl.nasa.gov/missions/viking-1/ |work=[[NASA]] |accessdate=February 2, 2014 }}&lt;/ref&gt;
+
+   |departure_date      = &lt;!--Date of leaving orbit for orbiters, date of launch for landers which took off again--&gt;
+   |location            = &lt;!--landing/impact site, including EOM impacts for atmospheric probes and lunar/asteroid orbiters--&gt;
+   |distance            = &lt;!--closest approach distance for flybys, distance travelled on surface for rovers, omit for others--&gt;
+   |sample_mass         = &lt;!--mass of samples returned (sample return missions only)--&gt;
+   |surface_EVAs        = &lt;!--number of EVAs on the surface--&gt;
+   |surface_EVA_time    = &lt;!--time spent on surface EVAs--&gt;
+
+   &lt;!--Orbit parameters, ONLY USE IF THE ABOVE ORBIT PARAMETERS SECTION DOESN'T APPLY TO THE TARGET--&gt;
+   |periapsis           = {{convert|320|km|abbr=on}}
+   |apoapsis            = {{convert|56000|km|abbr=on}}
+   |inclination         = 39.3°
+   |apsis               = areion
+ }}
+
+{{Infobox spaceflight/IP
+   |type                = lander
+   |object              = Mars
+   |orbits              = &lt;!--number of orbits completed at target body (if applicable and known)--&gt;
+   |component           = ''Viking 1'' Lander
+   |arrival_date        = July 20, 1976&lt;ref name="NASA-20061218"/&gt; &lt;br /&gt;11:53:06 ([[UTC]] 36455 00:34 [[Airy Mean Time|AMT]])
+   |departure_date      = &lt;!--Date of leaving orbit for orbiters, date of launch for landers which took off again--&gt;
+   |location            = {{Coord|22.27|N|312.05|E|globe:Mars|name=Viking 1 lander}}&lt;ref name="NASA-20061218"/&gt;
+   |distance            = &lt;!--closest approach distance for flybys, distance travelled on surface for rovers, omit for others--&gt;
+ }}
+
+&lt;!--transponder parameters--&gt;| trans_band = &lt;!--Transponder frequency bands--&gt;
+| trans_frequency = &lt;!--specific frequencies--&gt;
+| trans_bandwidth = &lt;!--bandwidth--&gt;
+| trans_capacity = &lt;!--capacity of the transponders--&gt;
+| trans_coverage = &lt;!--area covered--&gt;
+| trans_TWTA = &lt;!--TWTA output power--&gt;
+| trans_EIRP = &lt;!--equivalent isotropic power--&gt;
+| trans_HPBW = &lt;!--half-power beam width--&gt;
+
+&lt;!--Only use where a spacecraft/mission is part of a clear programme of sequential missions.
+If in doubt, leave it out--&gt;| programme = [[Flagship Program|Flagship]]
+| previous_mission = None
+| next_mission = ''[[Viking 2]]''
+
+&lt;!--mission insignia or patch--&gt;| insignia = &lt;!--omit the "file" prefix--&gt;
+| insignia_caption = &lt;!--image caption--&gt;
+| insignia_alt = &lt;!--image alt text--&gt;
+| insignia_size = &lt;!--include px/em; defaults to 180px--&gt;
+}}
+
+'''''Viking 1''''' was the first of two [[spacecraft]] (along with ''[[Viking 2]]'') sent to [[Mars]] as part of [[NASA]]'s [[Viking program]].&lt;ref name="NASA-20061218"/&gt; On July 20, 1976, it became the second spacecraft to [[soft landing (rocketry)|soft-land]] on Mars, and the first to successfully perform its mission. (The first spacecraft to soft-land on Mars was the Soviet Union's [[Mars 3]] on December 2, 1971, which stopped transmitting after 14.5 seconds.) ''Viking 1'' held the record for the longest Mars surface mission of {{age in days|1976|07|20|1982|11|13}} days (over 6{{frac|1|4}} years)&lt;ref name="NASA-20061218"/&gt; or {{age in sols|1976|07|20|1982|11|13}} [[Timekeeping on Mars#Sols|Martian solar days]],&lt;ref name="NASA-20061218"/&gt; until that record was broken by the [[Opportunity (rover)|''Opportunity'']] rover on May 19, 2010.&lt;ref&gt;{{cite web|url=http://mars.nasa.gov/mer/newsroom/pressreleases/20100519a.html|title=Mars Exploration Rover|last=mars.nasa.gov|website=mars.nasa.gov}}&lt;/ref&gt;
+
+== Mission ==
+Following launch using a [[Titan IIIE|Titan]]/[[Centaur (rocket stage)|Centaur]] launch vehicle on August 20, 1975, and an 11-month cruise to Mars,&lt;ref&gt;{{Cite web|url=http://www.nasa.gov/image-feature/august-20-1975-launch-of-viking-1|title=August 20, 1975, Launch of Viking 1|last=Loff|first=Sarah|date=2015-08-20|website=NASA|access-date=2019-07-18}}&lt;/ref&gt; the orbiter began returning global images of Mars about 5 days before orbit insertion. The ''Viking 1'' Orbiter was inserted into Mars orbit on June 19, 1976,&lt;ref name=":0"&gt;{{Cite book|url=https://books.google.com/books?id=VUWno1sOwnUC&amp;pg=PA641|title=Encyclopedia of Space and Astronomy|last=Angelo|first=Joseph A.|date=2014-05-14|publisher=Infobase Publishing|isbn=9781438110189|pages=641|language=en}}&lt;/ref&gt; and trimmed to a 1513 x 33,000&amp;nbsp;km, 24.66 h site certification orbit on June 21. Landing on Mars was planned for July 4, 1976, the [[United States Bicentennial]], but imaging of the primary landing site showed it was too rough for a safe landing.&lt;ref name=":1"&gt;{{Cite book|url=https://books.google.com/books?id=9YkMOHsVyUYC&amp;pg=PA23|title=Magnificent Mars|last=Croswell|first=Ken|date=2003-10-21|publisher=Simon and Schuster|isbn=9780743226011|pages=23|language=en}}&lt;/ref&gt; The landing was delayed until a safer site was found,&lt;ref name=":1" /&gt; and took place instead on July 20,&lt;ref name=":0" /&gt; the seventh anniversary of the [[Apollo 11]] Moon landing.&lt;ref&gt;{{Cite book|url=https://books.google.com/books?id=Q8P3CwAAQBAJ&amp;pg=PA19-IA43|title=The International Atlas of Mars Exploration: Volume 1, 1953 to 2003: The First Five Decades|last=Stooke|first=Philip J.|date=2012-09-24|publisher=Cambridge University Press|isbn=9781139560252|language=en}}&lt;/ref&gt; The lander separated from the orbiter at 08:51 [[UTC]] and landed at [[Chryse Planitia]] at 11:53:06 UTC.&lt;ref name="NSSDCA"&gt;{{Cite web|url=https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-075A|title=NASA - NSSDCA - Spacecraft - Details|website=nssdc.gsfc.nasa.gov|access-date=2019-07-18}}&lt;/ref&gt; It was the first attempt by the United States at landing on Mars.&lt;ref&gt;{{Cite web|url=https://history.nasa.gov/marschro.htm|title=Chronology of Mars Exploration|website=history.nasa.gov|access-date=2019-08-16}}&lt;/ref&gt;
+
+=== Orbiter ===
+The instruments of the [[orbiter]] consisted of two [[vidicon]] cameras for imaging (VIS), an infrared spectrometer for water vapor mapping (MAWD) and infrared radiometers for thermal mapping (IRTM).&lt;ref name="Soffen &amp; Snyder"&gt;{{cite journal|author=Soffen, G.A.|author2=Snyder, C.W.|date=August 1976|title=The First Viking Mission to Mars|journal=Science|series=New Series|volume=193|issue=4255|pages=759–766|bibcode=1976Sci...193..759S|doi=10.1126/science.193.4255.759|jstor=1742875|pmid=17747776}}&lt;!--|accessdate= 2008-01-17--&gt;
+&lt;/ref&gt; The [[orbiter]] primary mission ended at the beginning of [[solar conjunction]] on November 5, 1976. The extended mission commenced on December 14, 1976, after solar conjunction.{{Citation needed|date=July 2019}} Operations included close approaches to [[Phobos (moon)|Phobos]] in February 1977.&lt;ref&gt;{{Cite journal|last=R.E. Diehl|first=M.J. Adams|last2=Rinderle|first2=E.a.|date=1979-03-01|title=Phobos Encounter Trajectory and Maneuver Design|journal=Journal of Guidance and Control|volume=2|issue=2|pages=123–129|doi=10.2514/3.55847|issn=0162-3192|bibcode=1979JGCD....2..123.}}&lt;/ref&gt; The [[apsis|periapsis]] was reduced to 300&amp;nbsp;km on March 11, 1977.&lt;ref&gt;{{Cite book|url=https://books.google.com/books?id=Fi1mCYJWBwAC&amp;pg=PA251|title=Robotic Exploration of the Solar System: Part I: The Golden Age 1957-1982|last=Ulivi|first=Paolo|last2=Harland|first2=David M.|date=2007-12-08|publisher=Springer Science &amp; Business Media|isbn=9780387739830|location=|pages=251|language=en}}&lt;/ref&gt; Minor orbit adjustments were done occasionally over the course of the mission, primarily to change the walk rate — the rate at which the areocentric longitude changed with each orbit, and the periapsis was raised to 357&amp;nbsp;km on July 20, 1979. On August 7, 1980, ''Viking 1'' Orbiter was running low on attitude control gas and its orbit was raised from 357 × 33943&amp;nbsp;km to 320 × 56000&amp;nbsp;km to prevent impact with Mars and possible contamination until the year 2019. Operations were terminated on August 17, 1980, after 1485 orbits. A 2009 analysis concluded that, while the possibility that ''Viking 1'' had impacted Mars could not be ruled out, it was most likely still in orbit.&lt;ref name=Jefferson&gt;{{cite conference |url=http://enu.kz/repository/2009/AIAA-2009-6002.pdf |title=An Investigation of the Orbital Status of Viking-1 |first=David C |last=Jefferson |first2=Stuart W|last2=Demcak |first3= Pasquale B|last3= Esposito |first4=Gerhard L |last4=Kruizinga |date=August 10–13, 2009 |conference=AIAA Guidance, Navigation, and Control Conference }}&lt;/ref&gt; More than 57,000 images were sent back to Earth.
+
+===Lander===
+[[File:Viking Aeroshell - GPN-2000-001903.jpg|left|thumb|''Viking'' Aeroshell]]
+The lander and its [[aeroshell]] separated from the orbiter on July 20 at 08:51 UTC. At the time of separation, the lander was orbiting at about {{convert|5|km/s|abbr=off|sp=us}}. The aeroshell's retrorockets fired to begin the lander de-orbit maneuver. After a few hours at about {{convert|300|km|abbr=off|sp=us}} altitude, the lander was reoriented for atmospheric entry. The aeroshell with its ablative [[heat shield]] slowed the craft as it plunged through the [[Atmosphere of Mars|atmosphere]]. During this time, entry science experiments were performed by using a retarding potential analyzer, a [[mass spectrometer]], as well as pressure, temperature, and density sensors.&lt;ref name="Soffen &amp; Snyder" /&gt; At {{convert|6|km|abbr=on}} altitude, traveling at about {{convert|250|m/s|abbr=off|sp=us}}, the 16 m diameter lander parachutes deployed. Seven seconds later the aeroshell was jettisoned, and 8 seconds after that the three lander legs were extended. In 45 seconds the [[parachute]] had slowed the lander to {{convert|60|m/s|abbr=off|sp=us}}. At  {{convert|1.5|km|abbr=on}} altitude, retrorockets on the lander itself were ignited and, 40 seconds later at about {{convert|2.4|m/s|abbr=on}}, the lander arrived on Mars with a relatively light jolt. The legs had honeycomb aluminum shock absorbers to soften the landing.&lt;ref name="Soffen &amp; Snyder"/&gt;
+[[File:Documentary clip of Viking 1 landing (JPL-19760720-VIKINGf-0002-AVC2002151).webm|thumb|Documentary clip recounting the ''Viking 1'' landing with animation and video footage of the control center]]
+The landing rockets used an 18-nozzle design to spread the hydrogen and nitrogen exhaust over a large area. NASA calculated that this approach would mean that the surface would not be heated by more than one 1&amp;nbsp;°C (1.8&amp;nbsp;°F), and that it would move no more than {{convert|1|mm|sigfig=1|abbr=off|sp=us}} of surface material.&lt;ref name="NSSDCA" /&gt; Since most of Viking's experiments focused on the surface material a more straightforward design would not have served.{{Citation needed|date=July 2019}}
+
+The ''Viking 1'' lander touched down in western [[Chryse Planitia]] ("Golden Plain") at {{Coord|22.697|N|312.05|E|globe:Mars}}&lt;ref name="NASA-20061218"/&gt;&lt;ref name="NSSDCA" /&gt; at a reference altitude of {{convert|−2.69|km|sp=us}} relative to a reference ellipsoid with an equatorial radius of {{convert|3,397|km|sp=us}} and a flatness of 0.0105 (22.480° N, 47.967° W planetographic) at 11:53:06 UTC (16:13 local Mars time).&lt;ref&gt;{{Cite web|url=http://www.tsgc.utexas.edu/spacecraft/viking/profile_vik1lan.html|title=Viking 1 Lander Mission Profile|website=Texas Space Grant Consortium|publisher=The University of Texas at Austin|access-date=2019-07-18}}&lt;/ref&gt; Approximately {{convert|22|kg}} of propellants were left at landing.&lt;ref name="NSSDCA" /&gt;
+
+Transmission of the first surface image began 25 seconds after landing and took about four minutes (see below). During these minutes the lander activated itself. It erected a high-gain antenna pointed toward Earth for direct communication and deployed a meteorology boom mounted with sensors. In the next seven minutes the second picture of the 300° panoramic scene (displayed below) was taken.&lt;ref&gt;{{cite journal|author=Mutch, T.A.|display-authors=etal|date=August 1976|title=The Surface of Mars: The View from the Viking 1 Lander|journal=Science|series=New Series|volume=193|issue=4255|pages=791–801|bibcode=1976Sci...193..791M|doi=10.1126/science.193.4255.791|jstor=1742881|pmid=17747782}}&lt;!--|accessdate= 2008-01-17 --&gt;&lt;/ref&gt; On the day after the landing the first color picture of the surface of Mars (displayed below) was taken. The seismometer failed to uncage, and a sampler arm locking pin was stuck and took five days to shake out. Otherwise, all experiments functioned normally. The lander had two means of returning data to Earth: a relay link up to the orbiter and back, and by using a direct link to Earth. The data capacity of the relay link was about 10 times higher than the direct link.&lt;ref name="Soffen &amp; Snyder"/&gt;
+{{Wide image|Mars Viking 12a001.png|800px|First "clear" image ever transmitted from the surface of Mars – shows [[List of rocks on Mars#Viking|rocks]] near the ''Viking 1'' Lander (July 20, 1976). The haze on the left is possibly dust that had recently been kicked up by the landing rockets. Because of the "slow scan" facsimile nature of the cameras, the dust since settled by mid-image.}}
+The lander had two facsimile cameras; three analyses for metabolism, growth or photosynthesis; a gas chromatograph-mass spectrometer (GCMS); an x-ray fluorescence spectrometer; pressure, temperature and wind velocity sensors; a three-axis seismometer; a magnet on a sampler observed by the cameras; and various engineering sensors.&lt;ref name="Soffen &amp; Snyder"/&gt;
+
+The ''Viking 1'' lander was named the '''Thomas Mutch Memorial Station''' in January 1982 in honor of [[Thomas A. Mutch]], the leader of the Viking imaging team. The lander operated for 2245 [[Timekeeping on Mars#Sols|sol]]s (about 2306 Earth days or 6 years) until November 11, 1982, (sol  {{age in sols|1975|07|20|1982|11|11}}), when a faulty command sent by ground control resulted in loss of contact. The command was intended to uplink new battery charging software to improve the lander's deteriorating battery capacity, but it inadvertently overwrote data used by the antenna pointing software. Attempts to contact the lander during the next four months, based on the presumed antenna position, were unsuccessful.&lt;ref&gt;{{cite journal|author=D. J. Mudgway|publisher=[[NASA]] [[Jet Propulsion Laboratory]]|date=1983|title=Telecommunications and Data Acquisition Systems Support for the Viking 1975 Mission to Mars|url=http://www.atmos.washington.edu/~mars/LFEM/lfemstep/lfemstep_slides/viking_documents/Pdf/JPL_Publication_82-107.pdf|accessdate=2009-06-22}}&lt;/ref&gt; In 2006 the ''Viking 1'' lander was imaged on the Martian surface by the ''[[Mars Reconnaissance Orbiter]]''.&lt;ref&gt;{{cite journal|publisher=[[NASA]]|date=2006|title=NASA Mars Orbiter Photographs Spirit and Vikings on the Ground|url=http://www.nasa.gov/mission_pages/MRO/news/mro-20061204.html|accessdate=2011-07-20}}&lt;/ref&gt;
+
+== Mission results ==
+
+=== Search for life ===
+''Viking 1'' carried a biology experiment whose purpose was to look for evidence of life.  The [[Viking spacecraft biological experiments|''Viking'' spacecraft biological experiments]] weighed 15.5&amp;nbsp;kg (34&amp;nbsp;lbs) and consisted of three subsystems: the [[Viking lander biological experiments#Pyrolytic release|pyrolytic release]] experiment (PR), the labeled release experiment (LR), and the gas exchange experiment (GEX).  In addition, independent of the biology experiments, Viking carried a gas chromatograph-mass spectrometer (GCMS) that could measure the composition and abundance of organic compounds in the Martian soil.&lt;ref&gt;{{Cite web|url=http://www.msss.com/http/ps/life/life.html|archiveurl=https://web.archive.org/web/20141020034248/http://www.msss.com/http/ps/life/life.html|url-status=dead|title=Life on Mars|archivedate=October 20, 2014|website=www.msss.com}}&lt;/ref&gt;  The results were surprising and interesting: the GCMS gave a negative result; the PR gave a negative result, the GEX gave a negative result, and the LR gave a positive result.&lt;ref&gt;[http://www.spacedaily.com/news/mars-life-00g.html Viking Data May Hide New Evidence For Life.] Barry E. DiGregorio, July 16, 2000.&lt;/ref&gt;  Viking scientist Patricia Straat stated in 2009, "Our (LR) experiment was a definite positive response for life, but a lot of people have claimed that it was a false positive for a variety of reasons."&lt;ref&gt;[http://dsc.discovery.com/news/2009/09/28/viking-lander-mars.html Viking 2 Likely Came Close to Finding H2O.] {{webarchive |url=https://web.archive.org/web/20090930025048/http://dsc.discovery.com/news/2009/09/28/viking-lander-mars.html |date=September 30, 2009 }} Irene Klotz, Discovery News, September 28, 2009.&lt;/ref&gt;  Most scientists now believe that the data were due to inorganic chemical reactions of the soil; however, this view may be changing after the recent discovery of near-surface ice near the ''Viking'' landing zone.&lt;ref&gt;{{cite journal|last1=Stuurman|first1=C.M.|last2=Osinski|first2=G.R.|last3=Holt|first3=J.W.|last4=Levy|first4=J.S.|last5=Brothers|first5=T.C.|last6=Kerrigan|first6=M.|last7=Campbell|first7=B.A.|title=SHARAD detection and characterization of subsurface water ice deposits in Utopia Planitia, Mars|journal=Geophysical Research Letters|date=September 28, 2016|volume=43|issue=18|pages=9484–9491|doi=10.1002/2016gl070138|bibcode=2016GeoRL..43.9484S|doi-access=free}}&lt;/ref&gt;  Some scientists still believe the results were due to living reactions.  No organic chemicals were found in the soil.  However, dry areas of [[Antarctica]] do not have detectable organic compounds either, but they have organisms living in the rocks.&lt;ref&gt;Friedmann, E.  1982.  Endolithic Microorganisms in the Antarctic Cold Desert.  Science: 215. 1045–1052.&lt;/ref&gt;  Mars has almost no ozone layer, unlike the Earth, so UV light sterilizes the surface and produces highly reactive chemicals such as peroxides that would oxidize any organic chemicals.&lt;ref&gt;Hartmann, W.  2003.  ''A Traveler's Guide to Mars''.  Workman Publishing.  NY NY.&lt;/ref&gt;  The [[Phoenix Lander|''Phoenix'' Lander]] discovered the chemical [[perchlorate]] in the Martian soil. Perchlorate is a strong oxidant so it may have destroyed any organic matter on the surface.&lt;ref&gt;[http://www.planetary.org/news/2008/0806_Alien_Rumors_Quelled_as_NASA_Announces.html Alien Rumors Quelled as NASA Announces Phoenix Perchlorate Discovery.] {{webarchive |url=https://web.archive.org/web/20100904132551/http://www.planetary.org/news/2008/0806_Alien_Rumors_Quelled_as_NASA_Announces.html |date=September 4, 2010 }} A.J.S. Rayl, August 6, 2008.&lt;/ref&gt; If it is widespread on Mars, [[carbon-based life]] would be difficult at the soil surface.
+
+===First panorama by ''Viking 1'' lander===
+{{Wide image|Mars_Viking_12a002.png|1500px|First panoramic view by ''Viking 1'' from the surface of Mars. Captured on July 20, 1976}}
+
+===''Viking 1'' image gallery===
+&lt;gallery class="center"&gt;
+File:Titan 3E-Centaur launches with Viking 1.jpg|Launch of the ''Viking 1'' probe (August 20, 1975).
+File:Viking lander model.jpg|Model of ''Viking'' Lander
+File:Mars Viking 12a001.png|First image by the ''Viking 1'' lander from the surface of Mars, showing lander's footpad.
+File:Mars Viking 12a240.png|''Viking 1'' lander image of a martian sunset over [[Chryse Planitia]].
+File:Mars Viking 11d128.png|Trenches dug by soil sampler device.
+File:PIA00563-Viking1-FirstColorImage-19760721.jpg|First color image taken by the ''Viking 1'' lander (July 21, 1976).
+File:Mars Viking 11h016.png|''Viking 1'' lander site (February 11, 1978).
+File:PSP 001521 2025 RED VL-1 lander.png|''Viking 1'' lander taken by [[Mars Reconnaissance Orbiter]] (December 2006).
+File:Mars Viking 11a097.png|Dunes and large boulder. Pole in the center is an instrument boom.
+File:12e189(Sol379-7.84).jpg|''Viking 1'' Lander Camera 2 SKY AT SUNRISE (Low Resolution Color) Sol 379 07:50
+&lt;/gallery&gt;
+
+== Test of general relativity ==
+{{main|Introduction to general relativity}}
+[[File:Cassini-science-br.jpg|thumb|right|150px|High-precision test of general relativity by the ''[[Cassini-Huygens|Cassini]]'' space probe (artist's impression)]]
+[[Gravitational time dilation]] is a phenomenon predicted by the theory of [[General Relativity]] whereby time passes more slowly in regions of lower [[gravitational potential]]. Scientists used the lander to test this hypothesis, by sending radio signals to the lander on Mars, and instructing the lander to send back signals, in cases which sometimes included the signal passing close to the Sun. Scientists found that the observed [[Shapiro delay]]s of the signals matched the predictions of General Relativity.&lt;ref&gt;{{cite journal
+|display-authors=  6
+|author=  Reasenberg, R. D.
+|author2=  Shapiro, I. I.
+|author3=  MacNeil, P. E.
+|author4=  Goldstein, R. B.
+|author5=  Breidenthal, J. C.
+|author6=  Brenkle, J. P.
+|author7=  Cain, D. L.
+|author8=  Kaufman, T. M.
+|author9=  Komarek, T. A.
+|author10=  Zygielbaum, A. I.
+|date=December 1979
+|title= Viking relativity experiment – Verification of signal retardation by solar gravity
+|journal= Astrophysical Journal Letters
+|volume= 234
+|pages= L219–L221
+|bibcode= 1979ApJ...234L.219R
+|doi= 10.1086/183144
+}}&lt;/ref&gt;
+
+==Orbiter shots==
+&lt;gallery&gt;
+File:PIA17940-MartianMorningClouds-VikingOrbiter1-1976-20140212.jpg|[[Climate of Mars#Clouds|Morning Clouds]] on [[Mars]] - [[Viking 1#Orbiter|''Viking 1'' Orbiter]] (taken in 1976) - (February 12, 2014).
+File:Streamlined Islands in Maja Valles.jpg|Streamlined islands in [[Lunae Palus quadrangle]].
+File:Viking Teardrop Islands.jpg|Tear-drop shaped islands at [[Oxia Palus quadrangle]].
+File:Chryse Planitia Scour Patterns.jpg|Scour patterns located in [[Lunae Palus quadrangle]].
+File:Detail of Maja Valles Flow.jpg|[[Lunae Palus quadrangle]] was eroded by large amounts of liquid water.
+File:Phobos-viking1.jpg|[[Phobos (moon)|Phobos]], a mosaic of images taken in 1978.
+&lt;/gallery&gt;
+
+== Lander location ==
+{{Clear}}
+{{Features and artificial objects on Mars}}
+{{Clear}}
+
+== See also ==
+{{Portal|Spaceflight}}
+{{cmn|colwidth=30em|
+* [[Exploration of Mars]]
+* [[List of missions to Mars]]
+* [[List of Mars orbiters]]
+* [[List of rocks on Mars]]
+* [[Space exploration]]
+* [[Timeline of artificial satellites and space probes]]
+* [[Unmanned space mission]]
+* [[U.S. Space Exploration History on U.S. Stamps]]
+* [[Viking program]]
+* ''[[Viking 2]]''
+}}
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+* [https://web.archive.org/web/20061002000557/http://solarsystem.nasa.gov/missions/profile.cfm?MCode=Viking_01 ''Viking 1'' Mission Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+*[http://www.planetary.org/multimedia/space-images/mars/viking-1-approaches-mars.html Image – ''Viking 1'' Approaches Mars]
+
+{{NASA navbox|state=collapsed}}
+{{Mars spacecraft}}
+{{Orbital launches in 1975}}
+{{Portal bar|Solar System}}
+
+[[Category:Missions to Mars]]
+[[Category:Viking program]]
+[[Category:1975 in spaceflight]]
+[[Category:1975 in the United States]]
+[[Category:Derelict landers (spacecraft)]]
+[[Category:Lunae Palus quadrangle]]
+[[Category:Nuclear-powered robots]]
+[[Category:Spacecraft launched by Titan rockets]]
+[[Category:Soft landings on Mars]]
+[[Category:Spacecraft launched in 1975]]</text>
+      <sha1>2lq8oyo9nf5zzwznh2esd3koubsbrqj</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,281 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>DNA computing</title>
+    <ns>0</ns>
+    <id>253418</id>
+    <revision>
+      <id>951214110</id>
+      <parentid>949655510</parentid>
+      <timestamp>2020-04-16T01:46:17Z</timestamp>
+      <contributor>
+        <username>OAbot</username>
+        <id>28481209</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="37921" xml:space="preserve">{{Multiple issues|
+{{peacock|date=September 2015}}
+{{weasel|date=September 2015}}
+}}
+
+'''DNA computing''' is a branch of [[computing]] which uses [[DNA]], [[biochemistry]], and [[molecular biology]] hardware, instead of the traditional silicon-based [[computer]] [[technology|technologies]].  Research and development in this area concerns theory, experiments, and applications of DNA computing. The term "molectronics" has sometimes been used, but this term has already been used for an earlier technology, a then-unsuccessful rival of the first [[integrated circuit]]s;&lt;ref&gt;"Molectronic Computer Shown by [[Texas Instruments|Texas Instr.]]", unknown publication, circa 1963, in Box 2, Folder 3, listed in ''[[Jack Kilby]] Papers: A Guide to the Collection'', Southern Methodist University. [http://lib.texas.edu/taro/smu/00116/smu-00116.html]{{Dead link|date=July 2015}}.&lt;/ref&gt; this term has also been used more generally, for molecular-scale electronic technology.&lt;ref&gt;"Application-specific methods for testing molectronic or nanoscale devices" (filed April 1, 2004), Patent US 7219314 B1.  [http://google.com/patents/US7219314] .&lt;/ref&gt;
+
+== History ==
+[[File:Len-mankin-pic.jpg|thumb|200 px|[[Leonard Adleman]], the inventor of DNA computing|alt=A photograph of Loenard Aldeman, the inventor of DNA computing]]
+[[Leonard Adleman]] of the [[University of Southern California]] initially developed this field in 1994.&lt;ref&gt;{{Cite journal | last1 = Adleman | first1 = L. M. | title = Molecular computation of solutions to combinatorial problems | doi = 10.1126/science.7973651 | journal = Science | volume = 266 | issue = 5187 | pages = 1021–1024 | year = 1994 | pmid =  7973651| pmc = | bibcode = 1994Sci...266.1021A | citeseerx = 10.1.1.54.2565 }} &amp;mdash; The first DNA computing paper. Describes a solution for the directed [[Hamiltonian path problem]]. Also available here: {{cite web |url= http://www.usc.edu/dept/molecular-science/papers/fp-sci94.pdf |title= Archived copy |accessdate= 2005-11-21 |url-status= dead |archiveurl= https://web.archive.org/web/20050206144827/http://www.usc.edu/dept/molecular-science/papers/fp-sci94.pdf |archivedate= 2005-02-06 }}&lt;/ref&gt; Adleman demonstrated a [[proof-of-concept]] use of DNA as a form of computation which solved the seven-point [[Hamiltonian path problem]]. Since the initial Adleman experiments, advances have occurred and various [[Turing machine]]s have been proven to be constructible.&lt;ref&gt;{{Cite journal | last1 = Boneh | first1 = D. | last2 = Dunworth | doi = 10.1016/S0166-218X(96)00058-3 | first2 = C. | last3 = Lipton | first3 = R. J. | last4 = Sgall | first4 = J. Í. | title = On the computational power of DNA | journal = Discrete Applied Mathematics | volume = 71 | issue = 1–3 | pages = 79–94 | year = 1996 | pmid =  | pmc = }} &amp;mdash; Describes a solution for the [[boolean satisfiability problem]]. Also available here: {{cite web |url= http://www.cs.tau.ac.il/~kempe/TEACHING/SEMINAR-LENS-SPRING08/boneh95DNAcomputational.pdf |title= Archived copy |accessdate=2011-10-14 |url-status= dead |archiveurl= https://web.archive.org/web/20120406103849/http://www.cs.tau.ac.il/~kempe/TEACHING/SEMINAR-LENS-SPRING08/boneh95DNAcomputational.pdf |archivedate= 2012-04-06 }}
+&lt;/ref&gt;&lt;ref&gt;{{cite journal |author1= Lila Kari |author2= Greg Gloor |author3= Sheng Yu | date= January 2000 | title = Using DNA to solve the Bounded Post Correspondence Problem | journal = Theoretical Computer Science | volume = 231 | issue = 2 | pages = 192&amp;ndash;203 | url = http://citeseer.ist.psu.edu/kari00using.html | doi=10.1016/s0304-3975(99)00100-0 }} &amp;mdash; Describes a solution for the bounded [[Post correspondence problem]], a hard-on-average NP-complete problem. Also available here: [http://www.csd.uwo.ca/~lila/pdfs/Using%20DNA%20to%20solve%20the%20Bounded%20Post%20Correspondence%20Problem.pdf]&lt;/ref&gt;
+
+While the initial interest lay in using this novel approach to tackle [[NP-hard]] problems, researchers soon realized that DNA computing may not be best suited for this type of computation, and several proposals have been made to find a "[[killer application]]" for this approach. In 1997, computer scientist Mitsunori Ogihara, working with biologist Animesh Ray, suggested one to be the evaluation of [[Boolean circuit]]s and described an implementation.&lt;ref&gt;M. Ogihara and A. Ray, [http://wwwcp.tphys.uni-heidelberg.de/comp-phys/handouts/Boolean2.pdf "Simulating Boolean circuits on a DNA computer"].
+Algorithmica 25:239–250, 1999.&lt;/ref&gt;&lt;ref&gt;[http://partners.nytimes.com/library/cyber/week/052197dna.html "In Just a Few Drops, A Breakthrough in Computing"], ''[[The New York Times]]'', May 21, 1997&lt;/ref&gt;
+
+In 2002, researchers from the [[Weizmann Institute of Science]] in Rehovot, Israel, unveiled a programmable molecular computing machine composed of enzymes and DNA molecules instead of silicon microchips.&lt;ref&gt;{{cite web|url= http://news.nationalgeographic.com/news/2003/02/0224_030224_DNAcomputer.html |title= Computer Made from DNA and Enzymes |accessdate= 2009-11-26 |last= Lovgren |first= Stefan |date= 2003-02-24 |work= National Geographic }}&lt;/ref&gt; On April 28, 2004, [[Ehud Shapiro]], Yaakov Benenson, Binyamin Gil, Uri Ben-Dor, and Rivka Adar at the [[Weizmann Institute]] announced in the journal [[Nature (journal)| ''Nature'']] that they had constructed a DNA computer coupled with an input-and-output module which would theoretically be capable of diagnosing [[cancer]]ous activity within a cell and of releasing an anti-cancer drug upon diagnosis.&lt;ref name="shapiro_cancer"&gt;{{Cite journal | last1 = Benenson | first1 = Y. | last2 = Gil | first2 = B. | last3 = Ben-Dor | first3 = U. | last4 = Adar | first4 = R. | last5 = Shapiro | first5 = E. | title = An autonomous molecular computer for logical control of gene expression | doi = 10.1038/nature02551 | journal = Nature | volume = 429 | issue = 6990 | pages = 423–429 | year = 2004 | pmid =  15116117| pmc =3838955 | bibcode = 2004Natur.429..423B }}. Also available here: [https://web.archive.org/web/20131023055858/http://www.wisdom.weizmann.ac.il/~udi/papers/automoleculcomp_nat04.pdf An autonomous molecular computer for logical control of gene expression]&lt;/ref&gt;
+
+In January 2013, researchers were able to store a JPEG [[photograph]], a set of Shakespearean sonnets, and an audio file of [[Martin Luther King, Jr.]]'s "[[I Have a Dream]]" speech on [[DNA digital data storage]].&lt;ref&gt;[http://www.sciencenews.org/view/generic/id/347702/description/DNA_stores_poems_a_photo_and_a_speech DNA stores poems, a photo and a speech | Science News&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+In March 2013, researchers built a [[transcriptor]] (a biological transistor).&lt;ref&gt;{{cite journal | last1 = Bonnet | first1 = Jerome | last2 = Yin | first2 = Peter | last3 = Ortiz | first3 = Monica E. | last4 = Subsoontorn | first4 = Pakpoom | last5 = Endy | first5 = Drew | year = 2013 | title = Amplifying Genetic Logic Gates | journal = Science | volume = 340 | issue = 6132| pages = 599–603 | doi= 10.1126/science.1232758| pmid = 23539178 | bibcode = 2013Sci...340..599B }}&lt;/ref&gt;
+
+In August 2016, researchers used the [[CRISPR gene editing | CRISPR gene-editing]] system to insert a GIF of a galloping horse and rider into the DNA of living bacteria.&lt;ref&gt;{{cite journal|last1= Shipman|first1= Seth L.|last2= Nivala|first2= Jeff|last3= Macklis|first3= Jeffrey D.|last4= Church|first4= George M.|title= CRISPR–Cas encoding of a digital movie into the genomes of a population of living bacteria|journal= Nature|date= 12 July 2017|volume= 547|issue= 7663|pages= 345–349|doi= 10.1038/nature23017|pmid= 28700573|pmc= 5842791|language= en|bibcode= 2017Natur.547..345S}}&lt;/ref&gt;
+
+Subsequent research on DNA computing has produced reversible DNA computing, bringing the technology one step closer to the silicon-based computing used in (for example) [[Personal computer | PC]]s. &lt;ref&gt;
+{{Cite journal
+|last= Eshra|first= A.|last2= Shah|first2= S.
+|last3= Song|first3= T.|last4= Reif|first4= J.
+|date= 2019
+|title= Renewable DNA hairpin-based logic circuits
+|journal= IEEE Transactions on Nanotechnology
+|volume= 18|pages= 252–259
+|doi= 10.1109/TNANO.2019.2896189|issn= 1536-125X
+|arxiv= 1704.06371
+|bibcode= 2019ITNan..18..252E}}
+&lt;/ref&gt;&lt;ref&gt;{{Cite journal|last= Garg|first= Sudhanshu|last2= Shah|first2= Shalin|last3= Bui|first3= Hieu|last4= Song|first4= Tianqi|last5= Mokhtar|first5= Reem|last6= Reif|first6= John|date= 2018|title= Renewable Time-Responsive DNA Circuits|journal= Small|language= en|volume= 14|issue= 33|pages= 1801470|doi= 10.1002/smll.201801470|pmid= 30022600|issn= 1613-6829}}&lt;/ref&gt;
+
+== Idea ==
+The organisation and complexity of all living beings is based on a coding system functioning with four key components of the [[DNA molecule]]. Because of this, the DNA is very suited as a medium for data processing.&lt;ref&gt;{{cite journal | last1 = Amos | first1 = Martyn |display-authors=etal | year = 2002 | title = Topics in the theory of DNA computing | url = | journal = Theoretical Computer Science | volume = 287 | issue = 1| pages = 3–38 | doi=10.1016/s0304-3975(02)00134-2}}&lt;/ref&gt; According to different calculations a DNA-computer with one liter of fluid containing six grams of DNA could potentially have a memory capacity of 3072 [[exabyte]]s. The theoretical maximum data transfer speed would also be enormous due to the massive [[Parallel computing|parallelism]] of the calculations. Therefore, about 1000 [[FLOPS|petaFLOPS]] could be reached, while today's most powerful computers do not go above much (200 petaFLOPS being the current record).&lt;ref&gt;{{cite journal |last1=Pierce|display-authors=et al |title=Current resolution of data in DNA computing |journal=Bioinformatics Research |date=2016 |volume=88 |issue=34 |pages=435–451}}&lt;/ref&gt;
+
+== Pros and cons ==
+The slow processing speed of a DNA computer (the response time is measured in minutes, hours or days, rather than milliseconds) is compensated by its potential to make a high amount of multiple parallel computations. This allows the system to take a similar amount of time for a complex calculation as for a simple one. This is achieved by the fact that millions or billions of molecules interact with each other simultaneously. However, it is much harder to analyze the answers given by a DNA computer than by a digital one.
+
+== Examples/Prototypes ==
+In 1994 [[Leonard Adleman]] presented the first prototype of a DNA computer. The [[:de:TT-100|TT-100]] was a test tube filled with 100 microliters of a DNA solution. He managed to solve an instance of the directed [[Hamiltonian path]] problem.&lt;ref&gt;Braich, Ravinderjit S., et al. "Solution of a satisfiability problem on a gel-based DNA computer." ''DNA Computing''. Springer Berlin Heidelberg, 2001. 27-42.&lt;/ref&gt;
+
+In Adleman's experiment, the Hamiltonian Path Problem was implemented notationally as “[[travelling salesman problem]]”. For this purpose, different DNA fragments were created, each one of them representing a city that had to be visited. Every one of these fragments is capable of a linkage with the other fragments created. These DNA fragments were produced and mixed in a [[test tube]]. Within seconds, the small fragments form bigger ones, representing the different travel routes. Through a chemical reaction, the DNA fragments representing the longer routes were eliminated. The remains are the solution to the problem, but overall, the experiment lasted a week.&lt;ref&gt;Adleman, Leonard M. "Computing with DNA." Scientific American 279.2 (1998): 54-61.&lt;/ref&gt; However, current technical limitations prevent the evaluation of the results. Therefore, the experiment isn’t suitable for the application, but it is nevertheless a [[proof of concept]].
+
+=== Combinatorial problems ===
+First results to these problems were obtained by [[Leonard Adleman]] ([[NASA]] [[JPL]])
+* In 1994: Solving a [[Hamiltonian path problem|Hamiltonian path]] in a graph with 7 summits.
+* In 2002: Solving a [[NP-complete]] problem as well as a [[3-satisfiability|3-SAT]] problem with 20 variables.
+
+=== Tic-tac-toe game ===
+In 2002, J. Macdonald, D. Stefanovic and M. Stojanovic created a DNA computer able to play [[tic-tac-toe]] against a human player.&lt;ref&gt;[FR] - J. Macdonald, D. Stefanovic et M. Stojanovic, ''Des assemblages d'ADN rompus au jeu et au travail'', [[:fr:Pour la Science|Pour la Science]], {{n°|375}}, January 2009, {{p.|68-75}}&lt;/ref&gt; The calculator consists of nine bins corresponding to the nine squares of the game. Each bin contains a substrate and various combinations of DNA enzymes. The substrate itself is composed of a DNA strand onto which was grafted a fluorescent chemical group at one end, and the other end, a repressor group. Fluorescence is only active if the molecules of the substrate are cut in half. The DNA enzymes simulate [[Logic function|logical functions]]. For example, such a DNA will unfold if two specific types of DNA strand are introduced to reproduce the logic function AND.
+
+By default, the computer is considered to have played first in the central square. The human player starts with eight different types of DNA strands corresponding to the eight remaining boxes that may be played. To play box number i, the human player pours into all bins the strands corresponding to input #i. These strands bind to certain DNA enzymes present in the bins, resulting, in one of these bins, in the deformation of the DNA enzymes which binds to the substrate and cuts it. The corresponding bin becomes fluorescent, indicating which box is being played by the DNA computer. The DNA enzymes are divided among the bins in such a way as to ensure that the best the human player can achieve is a draw, as in real tic-tac-toe.
+
+=== Neural network based computing ===
+Kevin Cherry and Lulu Qian at Caltech developed a DNA-based artificial neural network that can recognize 100-bit hand-written digits. They achieve this by programming on computer in advance with appropriate set of weights represented by varying concentrations weight molecules which will later be added to the test tube that holds the input DNA strands.&lt;ref&gt;{{Cite journal|last=Qian|first=Lulu|last2=Winfree|first2=Erik|last3=Bruck|first3=Jehoshua|date=July 2011|title=Neural network computation with DNA strand displacement cascades|journal=Nature|language=En|volume=475|issue=7356|pages=368–372|doi=10.1038/nature10262|pmid=21776082|issn=0028-0836}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|last=Cherry|first=Kevin M.|last2=Qian|first2=Lulu|date=2018-07-04|title=Scaling up molecular pattern recognition with DNA-based winner-take-all neural networks|journal=Nature|language=En|volume=559|issue=7714|pages=370–376|doi=10.1038/s41586-018-0289-6|pmid=29973727|issn=0028-0836|bibcode=2018Natur.559..370C}}&lt;/ref&gt;
+
+=== Fast localized computing ===
+One of the challenges of DNA computing is its speed. While DNA as a substrate is biologically compatible i.e. it can be used at places where silicon technology cannot, its computation speed is still painfully slow. For example, the square-root circuit used as a benchmark in field took over 100 hours to complete.&lt;ref&gt;{{Cite journal|last=Qian|first=L.|last2=Winfree|first2=E.|date=2011-06-02|title=Scaling Up Digital Circuit Computation with DNA Strand Displacement Cascades|journal=Science|volume=332|issue=6034|pages=1196–1201|doi=10.1126/science.1200520|pmid=21636773|issn=0036-8075|bibcode=2011Sci...332.1196Q|url=https://semanticscholar.org/paper/14919d08b9129eb91774bc57702cd20c2c0e860f}}&lt;/ref&gt; While newer ways with external enzyme sources are reporting faster and more compact circuits&lt;ref&gt;{{Cite journal|last=Song|first=Tianqi|last2=Eshra|first2=Abeer|last3=Shah|first3=Shalin|last4=Bui|first4=Hieu|last5=Fu|first5=Daniel|last6=Yang|first6=Ming|last7=Mokhtar|first7=Reem|last8=Reif|first8=John|date=2019-09-23|title=Fast and compact DNA logic circuits based on single-stranded gates using strand-displacing polymerase|journal=Nature Nanotechnology|volume=14|issue=11|pages=1075–1081|doi=10.1038/s41565-019-0544-5|pmid=31548688|issn=1748-3387|bibcode=2019NatNa..14.1075S}}&lt;/ref&gt;, an interesting idea in the field to speedup computation includes localized DNA circuits&lt;ref&gt;{{Cite journal|last=Chatterjee|first=Gourab|last2=Dalchau|first2=Neil|last3=Muscat|first3=Richard A.|last4=Phillips|first4=Andrew|last5=Seelig|first5=Georg|date=2017-07-24|title=A spatially localized architecture for fast and modular DNA computing|journal=Nature Nanotechnology|volume=12|issue=9|pages=920–927|doi=10.1038/nnano.2017.127|pmid=28737747|issn=1748-3387|bibcode=2017NatNa..12..920C}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|last=Bui|first=Hieu|last2=Shah|first2=Shalin|last3=Mokhtar|first3=Reem|last4=Song|first4=Tianqi|last5=Garg|first5=Sudhanshu|last6=Reif|first6=John|date=2018-01-25|title=Localized DNA Hybridization Chain Reactions on DNA Origami|journal=ACS Nano|volume=12|issue=2|pages=1146–1155|doi=10.1021/acsnano.7b06699|pmid=29357217|issn=1936-0851}}&lt;/ref&gt;. This idea, while originally proposed in the field computer architecture, has been adopted in this field as well. In computer architecture, it is very well-known that if the instructions are executed in sequence, having them loaded in the cache will inevitably lead to fast performance, also called as the principle of localization. This is because with instructions in fast cache memory, there is no need swap them in and out of main memory which can be slow. Similarly, in [https://pubs.acs.org/doi/abs/10.1021/acsnano.7b06699 localized DNA computing], the DNA strands responsible for computation are fixed on a breadboard like substrate ensuring physical proximity of the computing gates. Such localized DNA computing techniques have show to reduce the computation time by [https://pubs.acs.org/doi/abs/10.1021/acsnano.7b06699 as high as an order of magnitude].
+
+=== Renewable (or reversible) DNA computing ===
+Subsequent research on DNA computing has produced reversible DNA computing, bringing the technology one step closer to the silicon-based computing used in (for example) [[Personal computer | PC]]s. In particular, [https://users.cs.duke.edu/~reif/index.htm John Reif] and his group at Duke University have proposed two different techniques to reuse the computing DNA complexes. The first design uses dsDNA gates,&lt;ref&gt;{{Cite journal|last= Garg|first= Sudhanshu|last2= Shah|first2= Shalin|last3= Bui|first3= Hieu|last4= Song|first4= Tianqi|last5= Mokhtar|first5= Reem|last6= Reif|first6= John|date= 2018|title= Renewable Time-Responsive DNA Circuits|journal= Small|language= en|volume= 14|issue= 33|pages= 1801470|doi= 10.1002/smll.201801470|pmid= 30022600|issn= 1613-6829}}&lt;/ref&gt; while the second design uses DNA hairpin complexes.&lt;ref&gt;
+{{Cite journal
+|last= Eshra|first= A.|last2= Shah|first2= S.
+|last3= Song|first3= T.|last4= Reif|first4= J.
+|date= 2019
+|title= Renewable DNA hairpin-based logic circuits
+|journal= IEEE Transactions on Nanotechnology
+|volume= 18|pages= 252–259
+|doi= 10.1109/TNANO.2019.2896189|issn= 1536-125X
+|arxiv= 1704.06371
+|bibcode= 2019ITNan..18..252E}}
+&lt;/ref&gt;
+While both the designs face some issues (such as reaction leaks), this appears to represent a significant breakthrough in the field of DNA computing.
+
+== Capabilities ==
+
+DNA computing is a form of [[parallel computing]] in that it takes advantage of the many different molecules of DNA to try many different possibilities at once.&lt;ref&gt;
+{{Cite journal | last1 = Lewin | first1 = D. I. | title = DNA computing | doi = 10.1109/5992.998634 | journal = Computing in Science &amp; Engineering | volume = 4 | issue = 3 | pages = 5–8 | year = 2002 | pmid =  | pmc = | bibcode = 2002CSE.....4c...5L }}
+&lt;/ref&gt; For certain specialized problems, DNA computers are faster and smaller than any other computer built so far. Furthermore, particular mathematical computations have been demonstrated to work on a DNA computer.  As an example, [[DNA]] molecules have been utilized to tackle the [[assignment problem]].&lt;ref&gt;{{cite journal | title = DNA-based computing of strategic assignment problems | journal = Physical Review Letters | date = 2011 | first1 = Jian-Jun | last1 = Shu | first2 = Q.-W. | last2 = Wang | first3 = K.-Y. | last3 = Yong | volume = 106 | issue = 18 | pages = 188702 | doi = 10.1103/PhysRevLett.106.188702 | pmid=21635133| bibcode = 2011PhRvL.106r8702S | url = https://semanticscholar.org/paper/d459a85297a2f8004e5dcf03806207ce2f076beb }}&lt;/ref&gt;
+
+Jian-Jun Shu and colleagues built a [[DNA]] [[GPS]]&lt;ref name="ShuDNAGPS"&gt;{{cite journal | title = Programmable DNA-mediated multitasking processor | journal = Journal of Physical Chemistry B | date = 2015 | first1 = Jian-Jun | last1 = Shu | first2 = Q.-W. | last2 = Wang | first3 = K.-Y. | last3 = Yong | first4 = F. | last4 = Shao | first5 = K.J. | last5 = Lee | volume = 119 | issue = 17 | pages = 5639–5644 | doi = 10.1021/acs.jpcb.5b02165 | pmid = 25874653 | arxiv = 1508.03509 | bibcode = 2015arXiv150803509S }}&lt;/ref&gt; system and also conduct an experiment to show that magnetic fields can enhance charge transport through [[DNA]]&lt;ref&gt;{{cite journal | title = Magnetic fields facilitate DNA-mediated charge transport | journal = Biochemistry | date = 2015 | first1 = J.R. | last1 = Wong | first2 = K.J. | last2 = Lee | first3 = Jian-Jun | last3 = Shu | first4 = F. | last4 = Shao | volume = 54 | issue = 21 | pages = 3392–3399 | doi = 10.1021/acs.biochem.5b00295 | pmid=25946473| arxiv = 1508.03512 | bibcode = 2015arXiv150803512W }}&lt;/ref&gt; (or protein), which may allow organisms to sense magnetic fields.
+
+DNA computing does not provide any new capabilities from the standpoint of [[Computability theory (computer science)|computability theory]], the study of which problems are computationally solvable using different models of computation.
+For example,
+if the space required for the solution of a problem grows exponentially with the size of the problem ([[EXPSPACE]] problems) on [[von Neumann architecture|von Neumann machines]], it still grows exponentially with the size of the problem on DNA machines.
+For very large EXPSPACE problems, the amount of DNA required is too large to be practical.
+
+==Methods==
+There are multiple methods for building a computing device based on DNA, each with its own advantages and disadvantages. Most of these build the basic logic gates ([[Logical AND|AND]], [[Logical OR|OR]], [[Logical NOT|NOT]]) associated with [[digital logic]] from a DNA basis. Some of the different bases include DNAzymes, [[oligonucleotide|deoxyoligonucleotides]], enzymes, toehold exchange.
+
+===DNAzymes===
+Catalytic DNA ([[deoxyribozyme]] or DNAzyme) catalyze a reaction when interacting with the appropriate input, such as a matching [[oligonucleotide]]. These DNAzymes are used to build logic gates analogous to digital logic in silicon; however, DNAzymes are limited to 1-, 2-, and 3-input gates with no current implementation for evaluating statements in series.
+
+The DNAzyme logic gate changes its structure when it binds to a matching oligonucleotide and the fluorogenic substrate it is bonded to is cleaved free. While other materials can be used, most models use a fluorescence-based substrate because it is very easy to detect, even at the single molecule limit.&lt;ref name="weiss"&gt;
+{{Cite journal | last1 = Weiss | first1 = S. | title = Fluorescence Spectroscopy of Single Biomolecules | doi = 10.1126/science.283.5408.1676 | journal = Science | volume = 283 | issue = 5408 | pages = 1676–1683 | year = 1999 | pmid =  10073925| pmc = |bibcode = 1999Sci...283.1676W | url = https://semanticscholar.org/paper/3fa92069d55d68c83cce55a508fd2153e5f42aa2 }}. Also available here: http://www.lps.ens.fr/~vincent/smb/PDF/weiss-1.pdf
+&lt;/ref&gt; The amount of fluorescence can then be measured to tell whether or not a reaction took place. The DNAzyme that changes is then “used,” and cannot initiate any more reactions. Because of this, these reactions take place in a device such as a continuous stirred-tank reactor, where old product is removed and new molecules added.
+
+Two commonly used DNAzymes are named E6 and 8-17. These are popular because they allow cleaving of a substrate in any arbitrary location.&lt;ref&gt;
+{{Cite journal | last1 = Santoro | first1 = S. W. | last2 = Joyce | first2 = G. F. | title = A general purpose RNA-cleaving DNA enzyme | doi = 10.1073/pnas.94.9.4262 | journal = Proceedings of the National Academy of Sciences | volume = 94 | issue = 9 | pages = 4262–4266 | year = 1997 | pmid =  9113977| pmc = 20710|bibcode = 1997PNAS...94.4262S }}. Also available here: [http://www.pnas.org/content/94/9/4262.full.pdf]
+&lt;/ref&gt; Stojanovic and MacDonald have used the E6 DNAzymes to build the [[MAYA I]]&lt;ref&gt;
+{{Cite journal | last1 = Stojanovic | first1 = M. N. | last2 = Stefanovic | first2 = D. | doi = 10.1038/nbt862 | title = A deoxyribozyme-based molecular automaton | journal = Nature Biotechnology | volume = 21 | issue = 9 | pages = 1069–1074 | year = 2003 | pmid =  12923549| pmc = }}. Also available here: [https://web.archive.org/web/20120401132040/http://www.cs.duke.edu/courses/cps296.6/current/papers/SS03.pdf]
+&lt;/ref&gt; and [[MAYA II]]&lt;ref&gt;
+{{Cite journal | last1 = MacDonald | first1 = J. | last2 = Li | first2 = Y. | last3 = Sutovic | first3 = M. | last4 = Lederman | first4 = H. | last5 = Pendri | first5 = K. | last6 = Lu | first6 = W. | last7 = Andrews | first7 = B. L. | last8 = Stefanovic | first8 = D. | last9 = Stojanovic | first9 = M. N. | doi = 10.1021/nl0620684 | title = Medium Scale Integration of Molecular Logic Gates in an Automaton | journal = Nano Letters | volume = 6 | issue = 11 | pages = 2598–2603 | year = 2006 | pmid =  17090098| pmc = |bibcode = 2006NanoL...6.2598M }}. Also available here: [http://www.ece.gatech.edu/research/labs/bwn/nanos/papers/Medium_Scale_Integration_of_Molecular.pdf]
+&lt;/ref&gt; machines, respectively; Stojanovic has also demonstrated logic gates using the 8-17 DNAzyme.&lt;ref&gt;
+{{Cite journal | last1 = Stojanovic | first1 = M. N. | last2 = Mitchell | first2 = T. E. | last3 = Stefanovic | first3 = D. | doi = 10.1021/ja016756v | title = Deoxyribozyme-Based Logic Gates | journal = Journal of the American Chemical Society | volume = 124 | issue = 14 | pages = 3555–3561 | year = 2002 | pmid =  11929243| pmc = | url = https://figshare.com/articles/Deoxyribozyme-Based_Logic_Gates/3638808 }}. Also available at [http://www.dna.caltech.edu/courses/cs191/paperscs191/stojanovic_mitchell_stefanovic2002.pdf]
+&lt;/ref&gt; While these DNAzymes have been demonstrated to be useful for constructing logic gates, they are limited by the need for a metal cofactor to function, such as Zn&lt;sup&gt;2+&lt;/sup&gt; or Mn&lt;sup&gt;2+&lt;/sup&gt;, and thus are not useful [[in vivo]].&lt;ref name="weiss" /&gt;&lt;ref&gt;
+{{Cite journal | last1 = Cruz | first1 = R. P. G. | last2 = Withers | first2 = J. B. | last3 = Li | first3 = Y. | title = Dinucleotide Junction Cleavage Versatility of 8-17 Deoxyribozyme | doi = 10.1016/j.chembiol.2003.12.012 | journal = Chemistry &amp; Biology | volume = 11 | issue = 1 | pages = 57–67 | year = 2004 | pmid =  15112995| pmc = | doi-access = free }}
+&lt;/ref&gt;
+
+A design called a ''stem loop'', consisting of a single strand of DNA which has a loop at an end, are a dynamic structure that opens and closes when a piece of DNA bonds to the loop part. This effect has been exploited to create several [[logic gate]]s. These logic gates have been used to create the computers MAYA I and [[MAYA II]] which can play [[tic-tac-toe]] to some extent.&lt;!--
+--&gt;&lt;ref&gt;Darko Stefanovic's Group, [https://digamma.cs.unm.edu/wiki/bin/view/McogPublicWeb/MolecularLogicGates Molecular Logic Gates] {{Webarchive|url=https://web.archive.org/web/20100618033006/https://digamma.cs.unm.edu/wiki/bin/view/McogPublicWeb/MolecularLogicGates |date=2010-06-18 }} and [https://digamma.cs.unm.edu/wiki/bin/view/McogPublicWeb/MolecularAutomataMAYAII MAYA II, a second-generation tic-tac-toe playing automaton] {{Webarchive|url=https://web.archive.org/web/20100618001044/https://digamma.cs.unm.edu/wiki/bin/view/McogPublicWeb/MolecularAutomataMAYAII |date=2010-06-18 }}.&lt;/ref&gt;
+
+===Enzymes===
+Enzyme based DNA computers are usually of the form of a simple [[Turing machine]]; there is analogous hardware, in the form of an enzyme, and software, in the form of DNA.&lt;ref&gt;{{cite journal  | last = Shapiro
+  | first = Ehud  | authorlink = Ehud Shapiro  | title = A Mechanical Turing Machine: Blueprint for a Biomolecular Computer  | journal = Interface Focus | publisher = [[Weizmann Institute of Science]]  | date = 1999-12-07
+  | volume = 2 | issue = 4 | pages = 497–503 | url = http://www.wisdom.weizmann.ac.il/~udi/DNA5/scripps_short/index.htm  | doi =  10.1098/rsfs.2011.0118| pmid = 22649583 | pmc = 3363030 | archive-url=https://web.archive.org/web/20090103224150/http://www.wisdom.weizmann.ac.il/~udi/DNA5/scripps_short/index.htm  |archive-date=2009-01-03 | accessdate = 2009-08-13 }}&lt;/ref&gt;
+    
+Benenson, Shapiro and colleagues have demonstrated a DNA computer using the [[FokI]] enzyme&lt;ref name="shapiro"&gt;{{Cite journal | last1 = Benenson | first1 = Y. | last2 = Paz-Elizur | first2 = T. | last3 = Adar | first3 = R. | last4 = Keinan | first4 = E. | last5 = Livneh | first5 = Z. | last6 = Shapiro | first6 = E. | doi = 10.1038/35106533 | title = Programmable and autonomous computing machine made of biomolecules | journal = Nature | volume = 414 | issue = 6862 | pages = 430–434 | year = 2001 | pmid =  11719800| pmc = 3838952| bibcode = 2001Natur.414..430B }}. Also available here: [http://www.technion.ac.il/~keinanj/pub/110.pdf] {{Webarchive|url=https://web.archive.org/web/20120510194658/http://www.technion.ac.il/~keinanj/pub/110.pdf |date=2012-05-10 }}&lt;/ref&gt; and expanded on their work by going on to show automata that diagnose and react to [[prostate cancer]]: under expression of the genes [[PPAP2B]] and [[GSTP1]] and an over expression of [[PIM1]] and [[HPN (gene)|HPN]].&lt;ref name="shapiro_cancer" /&gt; Their automata evaluated the expression of each gene, one gene at a time, and on positive diagnosis then released a single strand DNA molecule (ssDNA) that is an antisense for [[MDM2]]. MDM2 is a repressor of [[p53|protein 53]], which itself is a tumor suppressor.&lt;ref&gt;
+{{Cite journal | last1 = Bond | first1 = G. L. | last2 = Hu | first2 = W. | last3 = Levine | first3 = A. J. | doi = 10.2174/1568009053332627 | title = MDM2 is a Central Node in the p53 Pathway: 12 Years and Counting | journal = [[Current Cancer Drug Targets]] | volume = 5 | issue = 1 | pages = 3–8 | year = 2005 | pmid =  15720184| pmc = }}
+&lt;/ref&gt; On negative diagnosis it was decided to release a suppressor of the positive diagnosis drug instead of doing nothing. A limitation of this implementation is that two separate automata are required, one to administer each drug. The entire process of evaluation until drug release took around an hour to complete. This method also requires transition molecules as well as the FokI enzyme to be present. The requirement for the FokI enzyme limits application ''in vivo'', at least for use in "cells of higher organisms".&lt;ref name="kahan08"&gt;
+{{Cite journal | last1 = Kahan | first1 = M. | last2 = Gil | first2 = B. | last3 = Adar | first3 = R. | last4 = Shapiro | first4 = E. | title = Towards molecular computers that operate in a biological environment | doi = 10.1016/j.physd.2008.01.027 | journal = Physica D: Nonlinear Phenomena | volume = 237 | issue = 9 | pages = 1165–1172 | year = 2008 | pmid =  | pmc = |bibcode = 2008PhyD..237.1165K }}. Also available here: [http://www.ece.gatech.edu/research/labs/bwn/nanos/papers/Towards_molecular_computers_that_operate_in_a_biological_environment.pdf]
+&lt;/ref&gt; It should also be pointed out that the 'software' molecules can be reused in this case.
+
+=== Toehold exchange ===
+DNA computers have also been constructed using the concept of toehold exchange. In this system, an input DNA strand binds to a [[sticky end]], or toehold, on another DNA molecule, which allows it to displace another strand segment from the molecule. This allows the creation of modular logic components such as AND, OR, and NOT gates and signal amplifiers, which can be linked into arbitrarily large computers. This class of DNA computers does not require enzymes or any chemical capability of the DNA.&lt;!--
+--&gt;&lt;ref&gt;{{Cite journal | last1 = Seelig | first1 = G.| last2 = Soloveichik | first2 = D. | last3 = Zhang | first3 = D. Y. | last4 = Winfree | first4 = E.| title = Enzyme-free nucleic acid logic circuits | doi = 10.1126/science.1132493 | journal = Science | volume = 314 | issue = 5805 | pages = 1585–1588 | date = 8 December 2006 | pmid =  17158324| pmc = |bibcode = 2006Sci...314.1585S | url = https://semanticscholar.org/paper/27d5f9f72ef18581a2e28baec30c2cf307b94100}}&lt;/ref&gt;
+
+=== Algorithmic self-assembly ===
+[[Image:Rothemund-DNA-SierpinskiGasket.jpg|thumb|300px|DNA arrays that display a representation of the [[Sierpinski gasket]] on their surfaces. Click the image for further details. Image from Rothemund ''et al.'', 2004.&lt;ref name="rothemund04winfree"/&gt;]]
+
+{{main|DNA nanotechnology#Algorithmic self-assembly|l1=DNA nanotechnology: Algorithmic self-assembly}}
+
+DNA nanotechnology has been applied to the related field of DNA computing. DNA tiles can be designed to contain multiple sticky ends with sequences chosen so that they act as [[Wang tile]]s. A DX array has been demonstrated whose assembly encodes an [[Exclusive or|XOR]] operation; this allows the DNA array to implement a [[cellular automaton]] which generates a [[fractal]] called the [[Sierpinski gasket]]. This shows that computation can be incorporated into the assembly of DNA arrays, increasing its scope beyond simple periodic arrays.&lt;!--
+--&gt;&lt;ref name="rothemund04winfree"&gt;{{Cite journal | last1 = Rothemund | first1 = P. W. K. | last2 = Papadakis | first2 = N. | last3 = Winfree | first3 = E. | doi = 10.1371/journal.pbio.0020424 | title = Algorithmic Self-Assembly of DNA Sierpinski Triangles | journal = PLOS Biology | volume = 2 | issue = 12 | pages = e424 | year = 2004 | pmid =  15583715| pmc =534809 }}&lt;/ref&gt;
+
+== Alternative technologies ==
+A partnership between [[IBM]] and [[Caltech]] was established in 2009 aiming at "[[DNA chip]]s" production.&lt;ref&gt;[http://media.caltech.edu/press_releases/13284](Caltech's own article) {{webarchive |url=https://web.archive.org/web/20111014075545/http://media.caltech.edu/press_releases/13284 |date=October 14, 2011 }}&lt;/ref&gt; A Caltech group is working on the manufacturing of these nucleic-acid-based integrated circuits. One of these chips can compute whole square roots.&lt;ref&gt;[http://www.sciencemag.org/content/332/6034/1196.full Scaling Up Digital Circuit Computation with DNA Strand Displacement Cascades]&lt;/ref&gt; A compiler has been written&lt;ref&gt;[http://www.sciencemag.org/content/332/6034/1196.abstract] Online&lt;/ref&gt; in [[Perl]].
+
+==See also==
+{{colbegin}}  &lt;!-- seems inhibited by  the encroachment from above on the RHS --&gt;
+* [[Biocomputer]]
+* [[Computational gene]]
+* [[DNA code construction]]
+* [[DNA digital data storage]]
+* [[DNA sequencing]]
+* [[Membrane computing]]
+* [[Molecular electronics]]
+* [[Peptide computing]]
+* [[Parallel computing]]
+* [[Quantum computing]]
+* [[Transcriptor]]
+* [[Wetware computer]]
+{{colend}}
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+{{Refbegin}}
+
+*{{cite book
+ |    author = Martyn Amos
+ |date=June 2005
+ |     title = Theoretical and Experimental DNA Computation
+ | publisher = Springer
+ |        isbn = 978-3-540-65773-6
+ |       url = https://www.springer.com/computer/theoretical+computer+science/book/978-3-540-65773-6
+ |series=Natural Computing Series
+ |author-link=Martyn Amos
+ }} &amp;mdash; The first general text to cover the whole field.
+*{{cite book
+ |    author = Gheorge Paun, Grzegorz Rozenberg, [[Arto Salomaa]]
+ |date=October 1998
+ |     title = DNA Computing - New Computing Paradigms
+ | publisher = Springer-Verlag
+ |        isbn = 978-3-540-64196-4
+ }} &amp;mdash; The book starts with an introduction to DNA-related matters, the basics of biochemistry and language and computation theory, and progresses to the advanced mathematical theory of DNA computing.
+*{{cite book
+ |  author = JB. Waldner
+ |date=January 2007
+ |   title = Nanocomputers and Swarm Intelligence
+ |publisher = ISTE
+ |   page = 189
+ |      isbn = 978-2-7462-1516-0
+ }}
+*{{cite book
+ |author1=Zoja Ignatova |author2=Israel Martinez-Perez |author3=Karl-Heinz Zimmermann |date=January 2008
+ |   title = DNA Computing Models
+ |publisher = Springer
+ |   page = 288
+ |      isbn = 978-0-387-73635-8
+ |      url = https://www.springer.com/computer/bioinformatics/book/978-0-387-73635-8
+ }} &amp;mdash; A new general text to cover the whole field.
+{{Refend}}
+
+==External links==
+* [https://web.archive.org/web/20140726100148/http://www.alexpetty.com/index.php/2010/09/11/vortex-math-based-computing/ DNA modeled computing]
+* [http://computer.howstuffworks.com/dna-computer.htm How Stuff Works explanation]
+* [https://web.archive.org/web/20040825021955/http://physicsweb.org/article/news/6/3/11/ ‘DNA computer’ cracks code], Physics Web
+* [http://archive.arstechnica.com/reviews/2q00/dna/dna-1.html Ars Technica]
+* [https://www.nytimes.com/2004/04/29/science/29DNA.html - The New York Times DNA Computer for detecting Cancer]
+* [http://www.sciam.com/article.cfm?articleID=0005BC6A-97DF-1446-951483414B7F0101 Bringing DNA computers to life, in Scientific American]
+* [http://www.treehugger.com/clean-technology/e-coli-bacteria-could-become-our-next-computer-hard-drives.html Japanese Researchers store information in bacteria DNA]
+* [http://www.dna-computing.org/ International Meeting on DNA Computing and Molecular Programming]
+* [http://www.livescience.com/technology/dna-computers-100517.html LiveScience.com-How DNA Could Power Computers]
+
+{{DEFAULTSORT:Dna Computing}}
+[[Category:Classes of computers]]
+[[Category:Models of computation]]
+[[Category:Molecular biology]]
+[[Category:DNA]]
+[[Category:DNA nanotechnology]]
+[[Category:American inventions]]</text>
+      <sha1>c1vnd6wb64wilmusuujpp4cd1febjb2</sha1>
+    </revision>
+  </page>
+</mediawiki>

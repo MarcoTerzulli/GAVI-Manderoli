@@ -1,0 +1,172 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Microsoft Teams</title>
+    <ns>0</ns>
+    <id>52506938</id>
+    <revision>
+      <id>957082315</id>
+      <parentid>956882399</parentid>
+      <timestamp>2020-05-16T22:32:41Z</timestamp>
+      <contributor>
+        <username>Starzoner</username>
+        <id>37858148</id>
+      </contributor>
+      <comment>[[COVID-19]] || Bypass [[2019–20 coronavirus pandemic|redirect]] || see [[Talk:COVID-19_pandemic#Requested_move_26_April_2020|here]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="16704" xml:space="preserve">{{short description|Team collaboration application}}
+{{Use American English|date=December 2016}}
+{{Use mdy dates|date=February 2020}}
+{{Infobox software
+| name = Microsoft Teams
+| logo = Microsoft Office Teams (2018–present).svg
+| screenshot = Microsoft Teams Desktop Application Screenshot.png
+| caption = Microsoft Teams's channel tab, as seen on [[Microsoft Windows]] application
+| developer = [[Microsoft]]
+| released = 
+| latest release version &lt;!-- List platforms that are still being officially developed by Microsoft --&gt; = {{Multiple releases
+|branch1 = Android
+|version1 = 1416/1.0.0.2020041602
+|date1 = {{Start date and age|2020|04|20}}&lt;ref&gt;{{Cite web|url=https://www.apkmirror.com/apk/microsoft-corporation/microsoft-teams/|title=Microsoft Teams APKs|website=APKMirror|access-date=April 24, 2020}}&lt;/ref&gt;
+|branch2 = iOS
+|version2 = 2.0.8
+|date2 = {{Start date and age|2020|04|23}}&lt;ref&gt;{{Cite web|url=https://apps.apple.com/app/id1113153706|title=Microsoft Teams|website=App Store|language=en-us|access-date=April 24, 2020}}&lt;/ref&gt;
+|branch3 = Windows, macOS, Linux
+|version3 = 1.3.00.12058
+|date3 = {{Start date and age|2020|05|07}}&lt;ref&gt;{{Cite web|url=https://support.office.com/en-us/article/what-s-new-in-microsoft-teams-d7092a6d-c896-424c-b362-a472d5f105de|title=What's new in Microsoft Teams|website=support.office.com|language=en-US|access-date=November 5, 2019}}&lt;/ref&gt;
+  }}
+| operating system = [[Windows]], [[Linux]], [[macOS]], [[iOS]], [[Android (operating system)|Android]]
+| size = 180.2 [[Megabyte|MB]] ([[iOS]]), 56.99 MB ([[Android (operating system)|Android]])
+| language = English, Akan, Czech, Danish, Dutch, Finnish, French, German, Italian, Japanese, Korean, Norwegian Bokmål, Norwegian Nynorsk, Polish, Portuguese, Russian, Simplified Chinese, Slovak, Spanish, Swedish, Thai, Traditional Chinese and Turkish
+| language count = 26
+| language footnote = &lt;ref&gt;{{Cite web|url=https://www.onmsft.com/news/microsoft-demos-vocal-translator-uses-your-own-voice|title=Microsoft demos vocal translator that uses your own voice|access-date=November 6, 2019}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.uctoday.com/collaboration/team-collaboration/microsoft-teams-review/|title=Microsoft Teams Review|access-date=November 6, 2019}}&lt;/ref&gt;
+| genre = [[Collaborative software]]
+| license = [[Proprietary software|Proprietary]] [[Commercial software|commercial]] cloud software
+| alexa = 
+| website = {{url|https://teams.microsoft.com}}
+}}
+
+'''Microsoft Teams''' is a unified communication and collaboration platform that combines persistent workplace chat, video meetings, file storage (including collaboration on files), and application integration. The service integrates with the [[Office 365]] subscription office productivity suite and features extensions that can integrate with non-Microsoft products. Microsoft Teams is a competitor to services such as [[Slack (software)|Slack]]&lt;ref&gt;{{cite web|url=https://www.theverge.com/2016/11/2/13497992/microsoft-teams-slack-competitor-features|title=Microsoft Teams launches to take on Slack in the workplace|first=Tom|last=Warren|date=November 2, 2016|publisher=}}&lt;/ref&gt; and is the evolution and upgrade path from Microsoft [[Skype for Business]].&lt;ref&gt;{{Cite web|url=https://docs.microsoft.com/en-us/microsoftteams/upgrade-start-here|title=Getting started with your Microsoft Teams upgrade - Microsoft Teams|last=LanaChin|website=docs.microsoft.com|language=en-us|access-date=2020-04-15}}&lt;/ref&gt;
+
+[[Microsoft]] announced Teams at an event in New York, and launched the service worldwide on March 14, 2017.&lt;ref&gt;{{cite web|url=https://www.cnet.com/news/microsoft-teams-7-things-you-need-to-know/|title=Microsoft Teams: 7 things you need to know|publisher=}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://blogs.office.com/en-us/2017/03/14/microsoft-teams-rolls-out-to-office-365-customers-worldwide/|title=Microsoft Teams rolls out to Office 365 customers worldwide - Office Blogs|date=March 14, 2017|work=Office Blogs|access-date=September 30, 2017|language=en-US}}&lt;/ref&gt; It was created during an internal [[hackathon]] at the company, and is currently led by Brian MacDonald,&lt;ref&gt;{{cite web|url=https://www.theverge.com/2017/3/14/14920892/microsoft-teams-interview-behind-the-scenes-slack-competition|title=How Microsoft Built its Slack Competitor|first=Tom|last=Warren|publisher=}}&lt;/ref&gt; Corporate Vice President at Microsoft.
+
+== History ==
+On March 4, 2016, news broke that Microsoft had considered bidding $8 billion for [[Slack (software)|Slack]], but that [[Bill Gates]] was against the purchase, stating that the firm should instead focus on improving [[Skype for Business]].&lt;ref name="auto"&gt;{{Cite news|url=https://techcrunch.com/2016/03/04/source-microsoft-mulled-an-8-billion-bid-for-slack-will-focus-on-skype-instead/|title=Source: Microsoft mulled an $8 billion bid for Slack, will focus on Skype instead|last=Russell|first=Jon|work=TechCrunch|access-date=September 30, 2017|language=en}}&lt;/ref&gt; [[Qi Lu (computer scientist)|Qi Lu]], EVP of Applications and Services, was leading the push to purchase Slack.&lt;ref name="auto"/&gt; After the departure of Lu later that year, Microsoft announced Teams to the public as a direct competitor to Slack on November 2, 2016.&lt;ref&gt;{{Cite news|url=https://www.theverge.com/2016/11/2/13497992/microsoft-teams-slack-competitor-features|title=Microsoft Teams launches to take on Slack in the workplace|work=The Verge|access-date=September 30, 2017}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=http://www.zdnet.com/article/microsoft-launches-its-slack-competitor-microsoft-teams/|title=Microsoft launches its Slack competitor, Microsoft Teams {{!}} ZDNet|last=Foley|first=Mary Jo|work=ZDNet|access-date=September 30, 2017|language=en}}&lt;/ref&gt;
+
+Slack ran a full-page advertisement in the ''New York Times'' acknowledging the competing service. Though Slack is used by 28 companies in the [[Fortune 100]], ''[[The Verge]]'' wrote executives will question paying for the service if Teams provides a similar function in their company's existing Office 365 subscription at no added cost.&lt;ref&gt;{{cite web|url=https://www.theverge.com/2016/11/2/13497766/slack-microsoft-teams-new-york-times-ad|title=Slack shows it’s worried about Microsoft Teams with a full-page newspaper ad|first=Tom|last=Warren|date=November 2, 2016|publisher=}}&lt;/ref&gt; [[ZDNet]] reported that the companies were not competing for the same audience, as Teams, at the time, did not let members outside the subscription join the platform, and small businesses and freelancers would have been unlikely to switch.&lt;ref&gt;{{cite web|url=http://www.zdnet.com/article/slack-versus-microsoft-teams-its-really-no-contest/|title=Slack versus Microsoft Teams: It's really no contest - ZDNet|first=Ed|last=Bott|publisher=}}&lt;/ref&gt; Microsoft has since added this functionality.&lt;ref&gt;{{cite web|url=http://www.techrepublic.com/article/microsoft-teams-the-smart-persons-guide/|title=Microsoft Teams: The smart person's guide - TechRepublic|publisher=}}&lt;/ref&gt; In response to Teams' announcement, Slack deepened in-product integration with Google services.&lt;ref&gt;{{cite web|url=http://www.pcworld.com/article/3147797/software-productivity/google-and-slack-deepen-partnership-in-the-face-of-microsoft-teams.html|title=Google and Slack deepen partnership in the face of Microsoft Teams|publisher=}}&lt;/ref&gt;
+
+On May 3, 2017 Microsoft announced Microsoft Teams would replace [[Microsoft Classroom]] in Office 365 Education (formerly known as Office 365 for Education).&lt;ref&gt;{{Cite web|url=http://blog.salamandersoft.co.uk/index.php/2017/05/microsoft-classroom-to-be-replaced-by-microsoft-teams-in-office-365-for-education/|title=Microsoft Classroom to be replaced by Microsoft Teams in Office 365 for Education – SalamanderSoft – Education Integration|website=blog.salamandersoft.co.uk|language=en-US|access-date=June 21, 2017}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://techcommunity.microsoft.com/t5/Classroom/Microsoft-Classroom-Preview-has-officially-been-dropped/td-p/66657|title=Microsoft Classroom Preview has officially been 'dropped'|date=May 3, 2017|access-date=June 21, 2017|language=en}}&lt;/ref&gt; On September 7, 2017, users began noticing a message that stated "Skype for Business is now Microsoft Teams".&lt;ref&gt;{{Cite news|url=http://www.zdnet.com/article/microsoft-may-be-repositioning-some-or-all-of-skype-for-business-as-teams/|title=Microsoft may be repositioning some (or all) of Skype for Business as Teams {{!}} ZDNet|last=Foley|first=Mary Jo|work=ZDNet|access-date=September 26, 2017|language=en}}&lt;/ref&gt; This was confirmed on September 25, 2017, at Microsoft's annual Ignite conference.&lt;ref&gt;{{Cite web|url=https://www.theverge.com/2017/9/25/16360072/microsoft-teams-replacing-skype-for-business|title=Microsoft Teams is replacing Skype for Business to put more pressure on Slack|first=Tom|last=Warren|date=September 25, 2017|website=The Verge}}&lt;/ref&gt;
+
+On July 12, 2018, Microsoft announced a free version of Microsoft Teams, offering most of the platform's communication options for no charge but limiting the number of users and team file storage capacity.&lt;ref&gt;{{Cite news|url=https://venturebeat.com/2018/07/12/microsoft-launches-free-version-of-teams/|title=Microsoft launches free version of Teams|date=July 12, 2018|work=VentureBeat|access-date=July 16, 2018|language=en-US}}&lt;/ref&gt;
+
+In January 2019, Microsoft released an update targeting "Firstline Workers" in order to improve interoperability of Microsoft Teams between different computers for retail workers.&lt;ref&gt;{{Cite web|url=https://www.theregister.co.uk/2019/01/09/microsoft_teams_empowering_users/|title=Microsoft wins today's buzzword bingo with empowering set of updates to Teams|first=Richard Speed 9 Jan 2019|last=at 18:27|website=www.theregister.co.uk}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.onmsft.com/news/microsoft-demos-vocal-translator-uses-your-own-voice|title=Microsoft demos vocal translator that uses your own voice|date=Mar 12, 2012|website=OnMSFT.com|language=en|access-date=November 6, 2019}}&lt;/ref&gt;
+
+On November 19, 2019, Microsoft announced Microsoft Teams reached 20 million active users.&lt;ref&gt;{{Cite web|url=https://www.zdnet.com/article/microsoft-says-it-has-20-million-daily-active-teams-users/|title=Microsoft says it has 20 million daily active Teams users|last=Foley|first=Mary Jo|website=ZDNet|language=en|access-date=2020-04-15}}&lt;/ref&gt; This is an increase from 13 million in July.&lt;ref&gt;{{Cite news|url=https://in.reuters.com/article/microsoft-teams-idINKBN1XT22O|title=Microsoft Teams surpasses 20 million daily active users; rival Slack shares slip|date=November 20, 2019|work=Reuters|access-date=November 20, 2019|language=en}}&lt;/ref&gt; It announced a "Walkie Talkie" feature in early 2020 that uses push-to-talk on smartphones and tablets over Wi-Fi or cellular data. The feature was designed for employees who speak with customers or run day-to-day operations.&lt;ref&gt;{{cite web|url=https://www.theverge.com/2020/1/9/21058313/microsoft-teams-walkie-talkie-push-to-talk-feature-preview|title=Microsoft Teams is getting a Walkie Talkie feature so you can reach colleagues all day long|publisher=The Verge}}&lt;/ref&gt;
+
+On March 19, 2020, Microsoft announced Microsoft Teams had hit 44 million daily users, in part due to the [[COVID-19 pandemic]].&lt;ref&gt;{{Cite news|url=https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/19/microsoft-teams-3-everything-you-need-connect-teammates-be-more-productive/|title=Microsoft Teams at 3: Everything you need to connect with your teammates and be more productive|work=Microsoft|access-date=March 19, 2020|language=en}}&lt;/ref&gt;
+
+== Features ==
+
+=== Teams ===
+Teams &lt;!-- Teams within Microsoft Teams --&gt;allows communities, groups, or teams to join through a specific URL or invitation sent by a team administrator or owner. Teams for Education allows admins and teachers to set up specific teams for classes, professional learning communities (PLCs), staff members, and everyone.&lt;ref&gt;{{Cite news|url=https://www.onmsft.com/news/microsoft-teams-for-education-adds-assignments-and-grading-features|title=Microsoft Teams for Education adds assignments and grading features|last=|first=|date=May 11, 2018|work=On MSFT|access-date=June 4, 2018|language=en}}&lt;/ref&gt;
+
+=== Channels ===
+Within a team, members can set up channels. Channels are topics of conversation that allow team members to communicate without the use of email or group SMS (texting). Users can reply to posts with text as well as images, [[GIF]]s and custom made [[Internet meme|memes]].
+
+Direct messages allow users to send private messages to a specific user rather than a group of people.
+
+Connectors are third party services that can submit information to the channel. Connectors include [[MailChimp]], [[Facebook|Facebook Pages]], [[Twitter]], and [[Bing News]].
+
+=== Calling ===
+* [[Instant messaging]]
+* [[Voice over IP]] (VoIP)
+* [[Video conferencing]] inside the client software
+Teams supports [[public switched telephone network]] (PSTN) conferencing allowing users to call phone numbers from the client.
+
+=== Meeting ===
+Meetings can be scheduled or created ad-hoc and users visiting the channel will be able to see that a meeting is currently in progress. Teams also has a plugin for [[Microsoft Outlook]] to invite others into a Teams meeting.&lt;ref&gt;{{Cite news|url=https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Now-available-Outlook-add-in-to-schedule-meetings-in-Microsoft/ba-p/71157|title=Now available: Outlook add-in to schedule meetings in Microsoft Teams|date=July 31, 2017|work=TECHCOMMUNITY.MICROSOFT.COM|access-date=April 25, 2018|language=en}}&lt;/ref&gt;
+
+=== Education ===
+Microsoft Teams allows teachers to distribute, provide feedback, and grade student assignments turned-in via Teams using the Assignments tab, available to Office 365 for Education subscribers.&lt;ref&gt;{{Cite news|url=https://www.onmsft.com/news/microsoft-teams-for-education-adds-assignments-and-grading-features|title=Microsoft Teams for Education adds assignments and grading features|last=Anderson|first=Kareem|date=May 2018|work=OnMSFT|access-date=July 7, 2018}}&lt;/ref&gt; Quizzes can also be assigned to students through an integration with [[Office Forms]].&lt;ref&gt;{{Cite news|url=https://www.windowscentral.com/microsoft-teams-education-celebrates-first-year-batch-new-features|title=Microsoft Teams for Education celebrates first year with batch of new features|last=Thorp-Lancaster|first=Dan|date=June 5, 2018|work=Windows Central|access-date=July 7, 2018|publisher=[[Mobile Nations]]}}&lt;/ref&gt;
+
+=== Protocols ===
+Microsoft Teams is based on a number of Microsoft-specific protocols.&lt;ref&gt;{{cite web|title=Microsoft Teams and the protocols it uses, OPUS, MNP24, VBSS, ICE and WebRTC {{!}} Djeek's Blog|periodical=|publisher=|url=https://www.djeek.com/2018/01/microsoft-teams-and-the-protocols-it-uses-opus-and-mnp24/|url-status=|format=|access-date=|archive-url=|archive-date=|last=djeek in Internet, Microsoft, MNP24, Networks, Opus|date=|year=|language=en-US|pages=|quote=}}&lt;/ref&gt; Video conferences are realized over the protocol MNP24, known from the Skype consumer version. The protocol MS-SIP from Skype for Business is not used any more to connect Teams clients. VoIP and video conference clients based on SIP and H.323 need special gateways to connect to Microsoft Teams servers.&lt;ref&gt;{{cite web|title=RealConnect Service Network Communications Explained : Jeff Schertz's Blog|periodical=|publisher=|url=http://blog.schertz.name/2019/03/realconnect-service-network-communications-explained/|url-status=|format=|access-date=|archive-url=|archive-date=|last=|date=|year=|language=|pages=|quote=}}&lt;/ref&gt; With the help of [[Interactive Connectivity Establishment]] (ICE) also clients behind [[Network address translation]] routers and restrictive firewalls are able to connect, if peer to peer is not possible.
+
+==See also==
+* [[Slack (software)|Slack]]
+* [[Discord (software)|Discord]]
+* [[Trillian (software)|Trillian]]
+* [[Workplace by Facebook]]
+;Similar discontinued Microsoft products
+* [[Windows Meeting Space]]
+* [[Microsoft NetMeeting]]
+* [[Microsoft Office Live Meeting]]
+;Others 
+* [[Comparison of web conferencing software]]
+* [[List of Microsoft–Nortel Innovative Communications Alliance products]]
+
+== External links ==
+* [https://products.office.com/en-ca/microsoft-teams/group-chat-software Microsoft Teams home page]
+
+== References ==
+{{reflist}}
+
+{{Instant messaging}}
+{{Microsoft Office}}
+{{Microsoft|state=collapsed}}
+
+[[Category:Microsoft software]]
+[[Category:Microsoft Office]]
+[[Category:Cloud platforms]]
+[[Category:Application software]]
+[[Category:IOS software]]
+[[Category:Android (operating system) software]]
+[[Category:Windows software]]
+[[Category:Collaborative software]]</text>
+      <sha1>jvoxjapp1czybh3eq524kokyjjcatof</sha1>
+    </revision>
+  </page>
+</mediawiki>

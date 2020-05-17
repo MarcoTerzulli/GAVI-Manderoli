@@ -1,0 +1,134 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>ISteve</title>
+    <ns>0</ns>
+    <id>39137942</id>
+    <revision>
+      <id>935830463</id>
+      <parentid>917205157</parentid>
+      <timestamp>2020-01-15T00:25:04Z</timestamp>
+      <contributor>
+        <username>Donaldd23</username>
+        <id>1150898</id>
+      </contributor>
+      <comment>That does not belong in the intro, and it is covered in the NOTES section</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8235" xml:space="preserve">{{About|the Steve Jobs parody film|the journalist who uses "iSteve" as his online brand|Steve Sailer}}
+{{Use mdy dates|date=August 2016}}
+{{infobox film
+| name           = iSteve
+| italic title   = no
+| image          = ISteve_Film_Poster.jpg 
+| director       = [[Ryan Perez]]
+| writer         = Ryan Perez
+| starring       = [[Justin Long]]&lt;br/&gt;[[Jorge Garcia]]&lt;br/&gt;[[James Urbaniak]]&lt;br/&gt;[[Michaela Watkins]]
+| music          = 
+| cinematography = 
+| editing        = 
+| studio         = [[Funny or Die]]
+|distributor     = [[Funny or Die]] 
+| released       = April 17, 2013
+| runtime        = 79 minutes
+| country        = United States
+| language       = English
+| budget         = 
+| gross          = 
+}}{{DISPLAYTITLE:''iSteve''}}
+'''''iSteve''''' is a 2013 [[parody film]] released on April 17, 2013&lt;ref&gt;{{cite web|url=http://mashable.com/2013/04/02/funny-or-die-steve-jobs-trailer/|title=Funny or Die's Steve Jobs Biopic Releases April 15|accessdate=April 17, 2013|date=April 2, 2013|publisher=[[Funny or Die]]|author=Erickson, Christine}}&lt;/ref&gt; by producer [[Funny or Die]],&lt;ref name=RFoDi&gt;{{cite web|url=http://tech.fortune.cnn.com/2013/04/17/review-funny-or-die-isteve/|title=Review: Funny or Die's 'iSteve'|access-date=April 17, 2013|date=April 17, 2013|work=[[Fortune (magazine)|Fortune]]|author=Elmer-DeWitt, Philip|url-status=dead|archive-url=https://web.archive.org/web/20130418120442/http://tech.fortune.cnn.com/2013/04/17/review-funny-or-die-isteve/|archive-date=April 18, 2013|df=mdy-all}}&lt;/ref&gt; marking their first full-length movie.&lt;ref name=iFoDFLFTL&gt;{{cite web|url=https://variety.com/2013/digital/news/jobs-2-1200376470/|title=‘iSteve,’ Funny or Die’s First Long Form…Too Long?|accessdate=April 18, 2013|date=April 17, 2013|work=[[Variety (magazine)|Variety]]|author=Marechal, AJ}}&lt;/ref&gt; It claims to be the first biopic on the life of [[Steve Jobs]] after his death. The film stars [[Justin Long]], who had previously starred in Apple's ''[[Get a Mac]]'' ad campaign, as Jobs and [[Jorge Garcia]] as [[Steve Wozniak]].&lt;ref&gt;{{cite web|url=http://mashable.com/2013/04/17/funny-or-die-isteve/|title=Funny or Die's Steve Jobs Biopic 'iSteve' Debuts Online|accessdate=April 17, 2013|date=April 17, 2013|publisher=[[Funny or Die]]|author=Li, Anita}}&lt;/ref&gt; The film was written in three days and shot in five by Ryan Perez, a former [[Saturday Night Live]] writer.&lt;ref name=iFoDFLFTL/&gt;&lt;ref name=FODRSJM/&gt;
+
+==Cast==
+''In order of appearance''
+{{colbegin|colwidth=30em}}
+*[[Justin Long]] as [[Steve Jobs]]
+*[[Jorge Garcia]] as [[Steve Wozniak]]
+*[[James Urbaniak]] as [[Bill Gates]]
+*[[Michaela Watkins]] as [[Melinda Gates]]
+*[[Jill Donnelly]] as [[Annie Leibovitz]]
+*[[John Ross Bowie]] as [[John Sculley]]
+*[[Joe Hartzler]] as [[Robert Palmer (computer businessman)|Robert Palmer]]
+*[[Charles Ingram (writer)|Charles Ingram]] as [[George Lucas]]
+*[[Andrée Vermeulen]] as [[D'arcy Wretzky]]
+*[[Paul Rust]] as [[Billy Corgan]]
+*[[Anthony Gioe]] as [[Justin Long]]
+*[[Joe Ferrell]] as [[John Hodgman]]
+*[[Nick Corirossi]] as [[Ben Curtis (actor)|Dell Dude]]
+*[[Kyle Mooney]] as Steve Jobs's Father
+*[[Gavin Pierce]] as Young Steve Jobs
+*[[Paul Walter Hauser]] as Pastey Jones
+{{colend}}
+
+==Crew==
+*Directed by: [[Ryan Perez]]
+*Producer: [[Allison Hord]]
+*Written by: [[Ryan Perez]]
+*with additional material by: [[Danny Jelinek]], [[Anne Rieman]], [[Allison Hord]], [[Charles Ingram]], [[Nick Corirossi]] and [[Brad Schultz]]
+
+==Critical review==
+As a free release on the Internet, the movie went unseen by film critics, with most public reactions coming from tech and business bloggers.&lt;ref&gt;{{cite web|url=http://www.rottentomatoes.com/search/?search=isteve&amp;sitesearch=rt|title=Sorry, no results found for "isteve"|accessdate=May 3, 2013|publisher=[[Rotten Tomatoes]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.metacritic.com/search/all/isteve/results|title=No search results found. Did you mean Steve?|accessdate=May 3, 2013|publisher=[[Metacritic]]}}&lt;/ref&gt; According to ''[[Forbes]]'', early reviews are mixed.&lt;ref name=FODRSJM/&gt; ''[[Wired (magazine)|Wired]]'' reviewer Mat Honan stated that the movie was "profoundly unfunny" and that "If 'Funny or Die' is a promise, the crew should probably start coffin shopping."&lt;ref name=ARoiSA&gt;{{cite web|url=https://www.wired.com/underwire/2013/04/isteve-movie-review/|title=A Review of iSteve. Spoiler Alert: This Movie Sucks|accessdate=April 19, 2013|date=April 17, 2013|work=[[Wired (magazine)|Wired]]|author=Honan, Mat}}&lt;/ref&gt; Honan claims that the film has several inaccuracies but also notes that the film is a parody, which somewhat offsets that.&lt;ref name=ARoiSA/&gt; [[CNET]] reviewer Amanda Kooser also notes that the movie "cut a few corners as far as accuracy goes".&lt;ref name=Asipghw&gt;{{cite web|url=http://news.cnet.com/8301-17938_105-57580077-1/accuracy-schmaccuracy-isteve-props-go-hilariously-wrong/|title=Accuracy, schmaccuracy: 'iSteve' props go hilariously wrong: The makers of satirical Steve Jobs film "iSteve" take a liberal approach to computing and Apple history.|accessdate=April 19, 2013|date=April 17, 2013|publisher=[[CNET]]|author=Kooser, Amanda}}&lt;/ref&gt; Kooser notes that the film succeeded, in a sense, in beating [[Ashton Kutcher]]'s ''[[Jobs (film)|Jobs]]'' to market as the first Steve Jobs biopic after his death (''[[Pirates of Silicon Valley]]'' had been produced and released in 1999, 3 years after Jobs returned to Apple).&lt;ref name=Asipghw/&gt; Kooser also notes that the movie had rampant anachronistic technology term usage.&lt;ref name=Asipghw/&gt; ''[[Variety (magazine)|Variety]]'' reviewer AJ Marechal notes that the movie, which was written in three days and shot in five,&lt;ref name=iFoDFLFTL/&gt;&lt;ref name=FODRSJM/&gt; "has its funny moments", but that it may be "too long", especially for the Funny or Die viewership.&lt;ref name=iFoDFLFTL/&gt; ''[[The New York Times]]'' critic Brooks Barnes described the movie as a "biopic poking fun at biopics" and said that writer Ryan Perez said  "In true Internet fashion, it’s not based on very thorough research — essentially a cursory look at the Steve Jobs Wikipedia page".&lt;ref name=FoDMaSJM&gt;{{cite web|url=http://artsbeat.blogs.nytimes.com/2013/03/17/funny-or-die-makes-a-steve-jobs-movie/|title=Funny or Die Makes a Steve Jobs Movie|accessdate=April 19, 2013|date=March 17, 2013|work=[[The New York Times]]|author=Barnes, Brooks}}&lt;/ref&gt; Barnes also noted that the movie also bested a third Jobs movie in the works by [[Aaron Sorkin]] adapted from ''[[Steve Jobs (book)|Steve Jobs]]'' by [[Walter Isaacson]] with input from Wozniak to the market.&lt;ref name=FoDMaSJM/&gt; ''[[Fortune (magazine)|Fortune]]'' reviewer Philip Elmer-DeWitt describes the movie as " an over-long Saturday Night Live skit that never quite gets rolling", but noted it had a few things going for it.&lt;ref name=RFoDi/&gt;
+
+[[Macworld]] reviewers Dan Moren and Lex Friedman provided one of the few positive reviews describing the movie as a humorous Jobs biography that "...is surprisingly amusing, provided you are both a fan of Apple and of stupid comedy, and presuming you also don’t mind a little profanity sprinkled in for good measure."&lt;ref&gt;{{cite web|url=http://www.macworld.com/article/2035456/review-funny-or-dies-isteve-will-tickle-apple-fans.html|title=Review: Funny or Die's iSteve will tickle Apple fans|accessdate=April 19, 2013|date=April 17, 2013|publisher=[[Macworld]]|author=Moren, Dan and Lex Friedman}}&lt;/ref&gt; ''Forbes'' reviewer noted that the scheduled April 15 release was delayed 2 days due to the [[Boston Marathon bombings]].&lt;ref name=FODRSJM&gt;{{cite web|url=https://www.forbes.com/sites/connieguglielmo/2013/04/17/funny-or-die-releases-steve-jobs-mockumentary-called-isteve/|title=Funny Or Die Releases Steve Jobs' Mockumentary Called 'iSteve'|accessdate=April 19, 2013|date=March 17, 2013|work=[[Forbes]]|author=Guglielmo, Connie }}&lt;/ref&gt;
+
+==Notes==
+{{Reflist|33em}}
+
+==External links==
+*[http://www.funnyordie.com/videos/d2e0f617e3/isteve Official link]
+* {{IMDb title|2782834}}
+* {{Rotten Tomatoes|isteve}}
+
+{{Steve Jobs}}
+
+[[Category:2013 films]]
+[[Category:American films]]
+[[Category:English-language films]]
+[[Category:2010s parody films]]
+[[Category:Films about Steve Jobs]]
+[[Category:Funny or Die]]</text>
+      <sha1>6njl3808be4yeyvroezi9aj04wkgw5g</sha1>
+    </revision>
+  </page>
+</mediawiki>

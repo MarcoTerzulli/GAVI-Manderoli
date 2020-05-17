@@ -207,7 +207,7 @@ class WikiHandler(sax.handler.ContentHandler):
             raise ValueError
 
         # Inserisco la pagina nell'indice
-        print(self.__title)
+        print(f"Indexing of {self.__title}")
         self.__idx_writer.add_document(title=self.__title,
                                        identifier=self.__id,
                                        content=self.__text)

@@ -1,0 +1,163 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>G-test</title>
+    <ns>0</ns>
+    <id>914820</id>
+    <revision>
+      <id>950666706</id>
+      <parentid>914538756</parentid>
+      <timestamp>2020-04-13T07:28:27Z</timestamp>
+      <contributor>
+        <username>OAbot</username>
+        <id>28481209</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="12951" xml:space="preserve">{{DISPLAYTITLE:''G''-test}}
+In [[statistics]], '''''G''-tests''' are [[likelihood ratio test|likelihood-ratio]] or [[maximum likelihood]] [[statistical significance]] tests that are increasingly being used in situations where [[chi-squared test]]s were previously recommended.&lt;ref&gt;{{cite book|author=McDonald, J.H.|year=2014|title=Handbook of Biological Statistics|location=Baltimore, Maryland|publisher=Sparky House Publishing|edition=Third|chapter=G–test of goodness-of-fit|chapter-url=http://www.biostathandbook.com/gtestgof.html|pages=53–58}}&lt;/ref&gt;
+
+The general formula for ''G'' is
+:&lt;math&gt; G = 2\sum_{i} {O_{i} \cdot \ln\left(\frac{O_i}{E_i}\right)}, &lt;/math&gt;
+
+where &lt;math display="inline"&gt;O_i \geq 0&lt;/math&gt; is the observed count in a cell, &lt;math display="inline"&gt;E_i &gt; 0&lt;/math&gt; is the expected count under the [[null hypothesis]], &lt;math display="inline"&gt;\ln&lt;/math&gt; denotes the [[natural logarithm]], and the sum is taken over all non-empty cells. Furthermore, the total observed count should be equal to the total expected count:&lt;math display="block"&gt;\sum_i O_i = \sum_i E_i = N&lt;/math&gt;where &lt;math display="inline"&gt;N&lt;/math&gt; is the total number of observations.
+
+''G''-tests have been recommended at least since the 1981 edition of ''Biometry'', a statistics textbook by [[Robert R. Sokal]] and [[F. James Rohlf]].&lt;ref&gt;{{cite book |last=Sokal |first=R. R. |last2=Rohlf |first2=F. J. |year=1981 |title=Biometry: The Principles and Practice of Statistics in Biological Research |location=New York |publisher=Freeman |edition=Second |isbn=978-0-7167-2411-7 |url-access=registration |url=https://archive.org/details/biometryprincipl00soka_0 }}&lt;/ref&gt;
+
+==Derivation==
+We can derive the value of the ''G''-test from the [[Likelihood-ratio test|log-likelihood ratio test]] where the underlying model is a multinomial model.
+
+Suppose we had a sample &lt;math display="inline"&gt;x = (x_1, \ldots, x_m)&lt;/math&gt; where each &lt;math display="inline"&gt;x_i&lt;/math&gt; is the number of times that an object of type &lt;math display="inline"&gt;i&lt;/math&gt; was observed. Furthermore, let &lt;math display="inline"&gt;n = \sum_{i=1}^m x_i&lt;/math&gt; be the total number of objects observed. If we assume that the underlying model is multinomial, then the test statistic is defined by&lt;math display="block"&gt;\ln \left( \frac{L(\tilde{\theta}|x)}{L(\hat{\theta}|x)} \right)
+= \ln \left( \frac{\prod_{i=1}^m \tilde{\theta}_i^{x_i}}{\prod_{i=1}^m \hat{\theta}_i^{x_i}} \right)&lt;/math&gt;where &lt;math display="inline"&gt;\tilde{\theta}&lt;/math&gt; is the null hypothesis and &lt;math&gt;\hat{\theta}&lt;/math&gt; is the [[maximum likelihood estimate]] (MLE) of the parameters given the data. Recall that for the multinomial model, the MLE of &lt;math display="inline"&gt;\hat{\theta}_i&lt;/math&gt; given some data is defined by&lt;math display="block"&gt;\hat{\theta}_i = \frac{x_i}{n}&lt;/math&gt;Furthermore, we may represent each null hypothesis parameter &lt;math&gt;\tilde{\theta}_i&lt;/math&gt; as&lt;math display="block"&gt;\tilde{\theta}_i = \frac{e_i}{n}&lt;/math&gt;Thus, by substituting the representations of &lt;math display="inline"&gt;\tilde{\theta}&lt;/math&gt; and &lt;math display="inline"&gt;\hat{\theta}&lt;/math&gt; in the log-likelihood ratio, the equation simplifies to&lt;math display="block"&gt;\begin{align}
+\ln \left( \frac{L(\tilde{\theta}|x)}{L(\hat{\theta}|x)} \right)
+&amp;= \ln \prod_{i=1}^m \left(\frac{e_i}{x_i}\right)^{x_i} \\
+&amp;= \sum_{i=1}^m x_i \ln\left(\frac{e_i}{x_i}\right) \\
+\end{align}&lt;/math&gt;Relabel the variables &lt;math display="inline"&gt;e_i&lt;/math&gt; with &lt;math display="inline"&gt;E_i&lt;/math&gt; and &lt;math display="inline"&gt;x_i&lt;/math&gt; with &lt;math display="inline"&gt;O_i&lt;/math&gt;. Finally, multiply by a factor of &lt;math display="inline"&gt;-2&lt;/math&gt; (used to make the G test formula [[#Relation to the chi-squared test|asymptotically equivalent to the Pearson's chi-squared test formula]]) to achieve the form
+
+&lt;math&gt;\begin{alignat}{2}
+G &amp; = &amp; \; -2 \sum_{i=1}^m O_i \ln\left(\frac{E_i}{O_i}\right) \\
+  &amp; = &amp;     2 \sum_{i=1}^m O_i \ln\left(\frac{O_i}{E_i}\right)
+\end{alignat}&lt;/math&gt;
+
+==Distribution and usage==
+
+Given the null hypothesis that the observed frequencies result from random sampling from a distribution with the given expected frequencies, the [[probability distribution|distribution]] of ''G'' is approximately a [[chi-squared distribution]], with the same number of [[degrees of freedom (statistics)|degrees of freedom]] as in the corresponding chi-squared test.
+
+For very small samples the [[multinomial test]] for goodness of fit, and [[Fisher's exact test]] for contingency tables, or even Bayesian hypothesis selection are preferable to the ''G''-test.&lt;ref&gt;{{cite book|author=McDonald, J.H.|year=2014|title=Handbook of Biological Statistics|location=Baltimore, Maryland|publisher=Sparky House Publishing|edition=Third|chapter=Small numbers in chi-square and ''G''–tests|chapter-url=http://www.biostathandbook.com/small.html|pages=86–89}}&lt;/ref&gt; McDonald recommends to always use an exact test (exact test of goodness-of-fit, [[Fisher's exact test]]) if the total sample size is less than 1000.
+{{Quote
+|text=There is nothing magical about a sample size of 1000, it's just a nice round number that is well within the range where an exact test, chi-square test and ''G''–test will give almost identical P values. Spreadsheets, web-page calculators, and SAS shouldn't have any problem doing an exact test on a sample size of 1000.
+|author=John H. McDonald
+|source=Handbook of Biological Statistics
+}}
+
+==Relation to the chi-squared test==
+The commonly used [[chi-squared test]]s for goodness of fit to a distribution and for independence in [[contingency table]]s are in fact approximations of the [[log-likelihood ratio]] on which the ''G''-tests are based. The general formula for Pearson's chi-squared test statistic is
+:&lt;math&gt; \chi^2 = \sum_{i} {\frac{\left(O_i - E_i\right)^2}{E_i}} .&lt;/math&gt;
+The approximation of ''G'' by chi squared is obtained by a second order [[Taylor series|Taylor expansion]] of the natural logarithm around 1. With the advent of electronic calculators and personal computers, this is no longer a problem.  A derivation of how the chi-squared test is related to the ''G''-test and likelihood ratios, including to a full Bayesian solution is provided in Hoey (2012).&lt;ref&gt;{{cite arXiv |last=Hoey |first=J. |year=2012 |eprint=1206.4881|title=The Two-Way Likelihood Ratio (G) Test and Comparison to Two-Way Chi-Squared Test |class=stat.ME }}&lt;/ref&gt;
+
+For samples of a reasonable size, the ''G''-test and the chi-squared test will lead to the same conclusions.  However, the approximation to the theoretical chi-squared distribution for the ''G''-test is better than for the [[Pearson's chi-squared test]].&lt;ref&gt;{{cite book |last=Harremoës |first=P. |last2=Tusnády |first2=G. |year=2012 |arxiv=1202.1125 |chapter=Information divergence is more chi squared distributed than the chi squared statistic |title=Proceedings ISIT 2012 |pages=538–543 |bibcode=2012arXiv1202.1125H }}&lt;/ref&gt; In cases where &lt;math&gt; O_i  &gt;2 \cdot E_i &lt;/math&gt; for some cell case the ''G''-test is always better than the chi-squared test.{{citation needed|date=August 2011}}
+
+For testing goodness-of-fit the ''G''-test is infinitely more [[Efficiency (statistics)|efficient]] than the chi squared test in the sense of Bahadur, but the two tests are equally efficient in the sense of Pitman or in the sense of Hodges and Lehmann.&lt;ref&gt;{{cite journal |last=Quine |first=M. P. |last2=Robinson |first2=J. |year=1985 |title=Efficiencies of chi-square and likelihood ratio goodness-of-fit tests |journal=[[Annals of Statistics]] |volume=13 |issue= 2|pages=727–742 |doi=10.1214/aos/1176349550|doi-access=free }}&lt;/ref&gt;&lt;ref&gt;{{cite journal |last=Harremoës |first=P. |last2=Vajda |first2=I. |year=2008 |title=On the Bahadur-efficient testing of uniformity by means of the entropy |journal=[[IEEE Transactions on Information Theory]] |volume=54 |issue= |pages=321–331 |doi=10.1109/tit.2007.911155|citeseerx=10.1.1.226.8051 }}&lt;/ref&gt;
+
+==Relation to Kullback–Leibler divergence==
+The ''G''-test statistic is proportional to the [[Kullback–Leibler divergence]] of the theoretical distribution from the empirical distribution:
+
+:&lt;math&gt;
+\begin{align}
+G &amp;= 2\sum_{i} {O_{i} \cdot \ln\left(\frac{O_i}{E_i}\right)} 
+ = 2 N \sum_{i} {o_i \cdot \ln\left(\frac{o_i}{e_i}\right)} \\
+ &amp;= 2 N \, D_{\mathrm{KL}}(o\|e),
+\end{align}&lt;/math&gt;
+
+where ''N'' is the total number of observations and &lt;math&gt;o_i&lt;/math&gt; and &lt;math&gt;e_i&lt;/math&gt; are the empirical and theoretical frequencies, respectively.
+
+==Relation to mutual information==
+For analysis of [[contingency table]]s the value of ''G'' can also be expressed in terms of [[mutual information]].
+
+Let
+:&lt;math&gt;N = \sum_{ij}{O_{ij}} \; &lt;/math&gt; , &lt;math&gt; \; \pi_{ij} = \frac{O_{ij}}{N} \;&lt;/math&gt; , &lt;math&gt;\; \pi_{i.} = \frac{\sum_j O_{ij}}{N} \; &lt;/math&gt;, and &lt;math&gt;\; \pi_{. j} = \frac{\sum_i O_{ij}}{N} \;&lt;/math&gt;.
+
+Then ''G'' can be expressed in several alternative forms:
+
+:&lt;math&gt; G = 2 \cdot N \cdot \sum_{ij}{\pi_{ij} \left( \ln(\pi_{ij})-\ln(\pi_{i.})-\ln(\pi_{.j}) \right)} ,&lt;/math&gt;
+
+:&lt;math&gt; G = 2 \cdot N \cdot \left[ H(r) + H(c) - H(r,c) \right] , &lt;/math&gt;
+
+:&lt;math&gt; G = 2 \cdot N \cdot \operatorname{MI}(r,c) \, ,&lt;/math&gt;
+
+where the [[Entropy (information theory)|entropy]] of a discrete random variable &lt;math&gt;X \,&lt;/math&gt; is defined as
+:&lt;math&gt; H(X) = - {\sum_{x \in \text{Supp}(X)} p(x) \log p(x)} \, ,&lt;/math&gt;
+and where
+:&lt;math&gt; \operatorname{MI}(r,c)= H(r) + H(c) - H(r,c) \, &lt;/math&gt;
+is the [[mutual information]] between the row vector ''r'' and the column vector ''c'' of the contingency table.
+
+It can also be shown{{citation needed|date=August 2011}} that the inverse document frequency weighting commonly used for text retrieval is an approximation of ''G'' applicable when the row sum for the query is much smaller than the row sum for the remainder of the corpus.  Similarly, the result of Bayesian inference applied to a choice of single multinomial distribution for all rows of the contingency table taken together versus the more general alternative of a separate multinomial per row produces results very similar to the ''G'' statistic.{{citation needed|date=August 2011}}
+
+==Application==
+* The [[McDonald–Kreitman test]] in [[statistical genetics]] is an application of the ''G''-test.
+* Dunning&lt;ref&gt;Dunning, Ted (1993). "[http://acl.ldc.upenn.edu/J/J93/J93-1003.pdf Accurate Methods for the Statistics of Surprise and Coincidence] {{Webarchive|url=https://web.archive.org/web/20111215212356/http://acl.ldc.upenn.edu/J/J93/J93-1003.pdf |date=2011-12-15 }}", ''[[Computational Linguistics (journal)|Computational Linguistics]]'', Volume 19, issue 1 (March, 1993).&lt;/ref&gt; introduced the test to the [[computational linguistics]] community where it is now widely used.
+
+==Statistical software==
+* In [[R programming language|R]] fast implementations can be found in the [http://cran.r-project.org/package=AMR AMR] and [http://cran.r-project.org/package=Rfast Rfast] packages. For the AMR package, the command is &lt;code&gt;g.test&lt;/code&gt; which works exactly like &lt;code&gt;chisq.test&lt;/code&gt; from base R. R also has the [http://rforge.net/doc/packages/Deducer/likelihood.test.html likelihood.test] function in the [http://rforge.net/doc/packages/Deducer/html/00Index.html Deducer] package. '''Note:''' Fisher's ''G''-test in the [https://cran.r-project.org/web/packages/GeneCycle/ GeneCycle Package] of the [[R programming language]] (&lt;code&gt;fisher.g.test&lt;/code&gt;) does not implement the ''G''-test as described in this article, but rather Fisher's exact test of Gaussian white-noise in a time series.&lt;ref&gt;{{cite journal | last1 = Fisher | first1 = R. A. | year = 1929 | title = Tests of significance in harmonic analysis | url = | journal = Proceedings of the Royal Society of London A | volume = 125 | issue = 796| pages = 54–59 | doi=10.1098/rspa.1929.0151| bibcode = 1929RSPSA.125...54F| doi-access = free }}&lt;/ref&gt;
+* In [[SAS System|SAS]], one can conduct ''G''-test by applying the &lt;code&gt;/chisq&lt;/code&gt; option after the &lt;code&gt;proc freq&lt;/code&gt;.&lt;ref&gt;[http://www.biostathandbook.com/gtestind.html G-test of independence], [http://www.biostathandbook.com/gtestgof.html G-test for goodness-of-fit] in Handbook of Biological Statistics, University of Delaware. (pp. 46–51, 64–69 in: McDonald, J. H. (2009) ''Handbook of Biological Statistics'' (2nd ed.). Sparky House Publishing, Baltimore, Maryland.)&lt;/ref&gt;
+* In [[Stata]], one can conduct a ''G''-test by applying the &lt;code&gt;lr&lt;/code&gt; option after the &lt;code&gt;tabulate&lt;/code&gt; command.
+* In [[Java (programming language)|Java]], use &lt;code&gt;org.apache.commons.math3.stat.inference.GTest&lt;/code&gt;.&lt;ref&gt;[https://commons.apache.org/proper/commons-math/javadocs/api-3.3/org/apache/commons/math3/stat/inference/GTest.html org.apache.commons.math3.stat.inference.GTest]&lt;/ref&gt;
+
+==References==
+&lt;references/&gt;
+
+==External links==
+* [http://ucrel.lancs.ac.uk/llwizard.html G&lt;sup&gt;2&lt;/sup&gt;/Log-likelihood calculator]
+
+{{Statistics}}
+
+{{DEFAULTSORT:G-test}}
+[[Category:Statistical tests for contingency tables]]</text>
+      <sha1>eyaptfu3s775iar4p6xy17hirvalzzt</sha1>
+    </revision>
+  </page>
+</mediawiki>

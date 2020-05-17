@@ -1,0 +1,96 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of Welsh Nobel laureates</title>
+    <ns>0</ns>
+    <id>28716184</id>
+    <revision>
+      <id>955437471</id>
+      <parentid>955436382</parentid>
+      <timestamp>2020-05-07T20:16:02Z</timestamp>
+      <contributor>
+        <username>Vouliagmeni</username>
+        <id>10328124</id>
+      </contributor>
+      <comment>/* Sir Martin Evans */ add links</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3691" xml:space="preserve">{{short description|Wikipedia list article}}
+{{Use dmy dates|date=September 2011}}
+{{Use British English|date=September 2011}}
+Listed below are the [[Nobel laureate]]s born in [[Wales]], in alphabetical order. Wales is a country within the [[United Kingdom]], this means that [[Welsh people|Welsh]] Nobel laureates are included in the list of Nobel laureates for [[Great Britain]] by the [[Nobel Foundation]].
+
+Wales has a population of approximately 3 million people.&lt;ref name="Barwell2009"&gt;{{cite book|author=Richard Barwell|title=Multilingualism in Mathematics Classrooms: Global Perspectives|url=https://books.google.com/books?id=LzDXBQAAQBAJ&amp;pg=PA113|year=2009|publisher=Multilingual Matters|isbn=978-1-84769-204-7|pages=113–|quote=With a population of around 3 million, Wales is one of the smallest of the four nations that make up the United Kingdom. }}&lt;/ref&gt; On a [[per capita]] basis the number of Nobel laureates compares favourably with other leading Nobel Prize-winning countries.&lt;ref name="AU"&gt;[http://www.dfat.gov.au/facts/nobel_prize_winners.html/ Australian Nobel Prize winners] {{webarchive|url=https://web.archive.org/web/20110219181727/http://dfat.gov.au/facts/nobel_prize_winners.html |date=19 February 2011 }} Australian Government web site. URL referred on 5 September 2010&lt;/ref&gt;
+
+== Nobel laureates ==
+
+=== Sir Clive Granger ===
+
+Sir [[Clive Granger]] (4 September 1934 – 27 May 2009) was born in [[Swansea]] and was awarded the [[Nobel Memorial Prize in Economic Sciences]] in 2003, sharing the prize with [[Robert F. Engle]].&lt;ref name="WOL"&gt;[http://www.walesonline.co.uk/news/wales-news/2007/10/09/previous-welsh-nobel-prize-winners-91466-19923195/ Previous Welsh Nobel Prize winners] Wales On Line web site. URL referred 5 September 2010&lt;/ref&gt;
+
+=== Brian David Josephson ===
+
+[[Brian David Josephson]] is a Welsh physicist best known for his pioneering work on [[superconductivity]] and [[quantum tunnelling]] who was born in 1940 in [[Cardiff]] and won the [[Nobel Prize in Physics]] in 1973 for the prediction of the [[Josephson effect]].&lt;ref name="WOL" /&gt;
+
+=== Bertrand Russell ===
+
+The [[philosopher]] [[Bertrand Russell]] (18 May 1872 – February 1970) won the [[Nobel Prize in Literature]] in 1950 ‘in recognition of his varied and significant writings in which he champions [[humanitarian]] ideals and [[freedom of thought]]’.&lt;ref name="Nobel2"&gt;[http://nobelprize.org/nobel_prizes/literature/laureates/1950/russell-bio.html/ Nobel Prize literature laureates] Nobel Prize Foundation web site. URL referred 5 September 2010&lt;/ref&gt; He was born in [[Trellech]], [[Monmouthshire]], spent most of his time outside Wales, and died at his home at Plas Penrhyn, [[Penrhyndeudraeth]], [[Merionethshire]].
+
+=== Sir Martin Evans ===
+
+[[Sir Martin John Evans]] {{postnominals|country=GBR|FRS|FMedSci}}  (born 1 January 1941, [[Stroud]], [[Gloucestershire]]) is a Welsh scientist who, with [[Matthew Kaufman]], was the first to culture mice [[embryonic stem cell]]s and cultivate them in a laboratory in 1981. He is also known, along with [[Mario Capecchi]] and [[Oliver Smithies]], for his work in the development of the [[knockout mouse]] and the related technology of [[gene targeting]], a method of using embryonic stem cells to create specific gene modifications in mice. In 2007, the three shared the [[Nobel Prize in Physiology or Medicine]] in recognition of their discovery and contribution to the efforts to develop new treatments for illnesses in humans.
+
+== References ==
+&lt;references /&gt;
+
+{{Nobel Prizes}}
+
+[[Category:Welsh Nobel laureates|*]]
+[[Category:Lists of Welsh people|Nobel laureates]]
+[[Category:Lists of Nobel laureates by nationality|Welsh]]</text>
+      <sha1>f8hopou86yexnp6vpwhci6sl1uy1gm5</sha1>
+    </revision>
+  </page>
+</mediawiki>

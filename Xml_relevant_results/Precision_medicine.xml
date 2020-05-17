@@ -1,0 +1,131 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Precision medicine</title>
+    <ns>0</ns>
+    <id>40482196</id>
+    <revision>
+      <id>955917159</id>
+      <parentid>951377348</parentid>
+      <timestamp>2020-05-10T14:33:18Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19365" xml:space="preserve">'''Precision medicine''' ('''PM''') is a [[medical]] model that proposes the customization of [[healthcare]], with medical decisions, treatments, practices, or products being tailored to the individual patient, instead of a one‐drug‐fits‐all model.&lt;ref&gt;{{cite journal |last1=Yau |first1=TO |title=Precision treatment in colorectal cancer: Now and the future. |journal=JGH open : an open access journal of gastroenterology and hepatology |date=October 2019 |volume=3 |issue=5 |pages=361-369 |doi=10.1002/jgh3.12153 |pmid=31633039|doi-access=free }}&lt;/ref&gt; In precision medicine, diagnostic testing is often employed for selecting appropriate and optimal therapies based on the context of a patient’s genetic content or other molecular or cellular analysis.&lt;ref&gt;{{cite journal | vauthors = Lu YF, Goldstein DB, Angrist M, Cavalleri G | title = Personalized medicine and human genetic diversity | journal = Cold Spring Harbor Perspectives in Medicine | volume = 4 | issue = 9 | pages = a008581 | date = July 2014 | pmid = 25059740 | pmc = 4143101 | doi = 10.1101/cshperspect.a008581 }}&lt;/ref&gt; Tools employed in precision medicine can include [[molecular diagnostics]], imaging, and analytics.&lt;ref name="timmerman2013"&gt;{{cite news | author=Timmerman, Luke | title=What's in a Name? A Lot, When It Comes to 'Precision Medicine' | date=4 February 2013 | work=[[Xconomy]] | url=http://www.xconomy.com/national/2013/02/04/whats-in-a-name-a-lot-when-it-comes-to-precision-medicine/ }}&lt;/ref&gt;&lt;ref&gt;{{cite journal | vauthors = Jones DT, Banito A, Grünewald TG, Haber M, Jäger N, Kool M, Milde T, Molenaar JJ, Nabbi A, Pugh TJ, Schleiermacher G, Smith MA, Westermann F, Pfister SM | display-authors = 6 | title = Molecular characteristics and therapeutic vulnerabilities across paediatric solid tumours | journal = Nature Reviews. Cancer | volume = 19 | issue = 8 | pages = 420–438 | date = August 2019 | pmid = 31300807 | doi = 10.1038/s41568-019-0169-x }}&lt;/ref&gt;
+
+==Relationship to personalized medicine==
+In explaining the distinction from a similar common term of [[personalized medicine]], the National Research Council explains: {{quote|Precision Medicine refers to the tailoring of medical treatment to the individual characteristics of each patient. It does not literally mean the creation of drugs or medical devices that are unique to a patient, but rather the ability to classify individuals into subpopulations that differ in their susceptibility to a particular disease, in the biology or prognosis of those diseases they may develop, or in their response to a specific treatment. Preventive or therapeutic interventions can then be concentrated on those who will benefit, sparing expense and side effects for those who will not. Although the term 'personalized medicine' is also used to convey this meaning, that term is sometimes misinterpreted as implying that unique treatments can be designed for each individual.&lt;ref name="timmerman2013" /&gt;}}
+
+On the other hand, use of the term "precision medicine" can extend beyond treatment selection to also cover creating unique medical products for particular individuals—for example, "...patient-specific tissue or organs to tailor treatments for different people."&lt;ref&gt;{{cite web|url=https://www.latimes.com/brandpublishing/localplus/ucsandiego/la-ss-ucsd2015-3dbioprinting-dto-story.html|title=Changing medicine with 3-D bioprinting, where organs can be synthesized by technology|author=LAT Brand Publishing|date=23 February 2015|work=LATimes.com}}&lt;/ref&gt; Hence, the term in practice has so much overlap with "personalized medicine" that they are often used interchangeably.&lt;ref&gt;{{cite web|url=http://www.n-of-one.com/about/what-is-precision-medicine.php|title=N-of-One: Tailored Clinical Molecular Test Interpretation|work=n-of-one.com|access-date=2015-03-05|archive-url=https://archive.is/20150309083410/http://www.n-of-one.com/about/what-is-precision-medicine.php|archive-date=2015-03-09|url-status=dead}}&lt;/ref&gt;
+
+==Scientific basis==
+Precision medicine often involves the application of [[Panomics|panomic analysis]] and [[systems biology]] to analyze the cause of an individual patient's disease at the molecular level and then to utilize [[Targeted therapy|targeted treatments]] (possibly in combination) to address that individual patient's disease process. The patient's response is then tracked as closely as possible, often using surrogate measures such as tumor load (v. true outcomes, such as 5 year survival rate), and the treatment finely adapted to the patient's response.&lt;ref&gt;{{cite journal | vauthors = Blau CA, Liakopoulou E | title = Can we deconstruct cancer, one patient at a time? | journal = Trends in Genetics | volume = 29 | issue = 1 | pages = 6–10 | date = January 2013 | pmid = 23102584 | pmc = 4221262 | doi = 10.1016/j.tig.2012.09.004 }}&lt;/ref&gt;&lt;ref&gt;{{cite journal | vauthors = Tavassoly I, Hu Y, Zhao S, Mariottini C, Boran A, Chen Y, Li L, Tolentino RE, Jayaraman G, Goldfarb J, Gallo J, Iyengar R | display-authors = 6 | title = Genomic signatures defining responsiveness to allopurinol and combination therapy for lung cancer identified by systems therapeutics analyses | journal = Molecular Oncology | volume = 13 | issue = 8 | pages = 1725–1743 | date = August 2019 | pmid = 31116490 | pmc = 6670022 | doi = 10.1002/1878-0261.12521 }}&lt;/ref&gt; The branch of precision medicine that addresses cancer is referred to as "precision oncology".&lt;ref&gt;{{cite journal | vauthors = Garraway LA, Verweij J, Ballman KV | title = Precision oncology: an overview | journal = Journal of Clinical Oncology | volume = 31 | issue = 15 | pages = 1803–5 | date = May 2013 | pmid = 23589545 | doi = 10.1200/jco.2013.49.4799 | url = https://semanticscholar.org/paper/11c3d0a4e594c0a19615cec01f29ee50d8467306 }}&lt;/ref&gt;&lt;ref&gt;{{cite journal | vauthors = Shrager J, Tenenbaum JM | title = Rapid learning for precision oncology | journal = Nature Reviews. Clinical Oncology | volume = 11 | issue = 2 | pages = 109–18 | date = February 2014 | pmid = 24445514 | doi = 10.1038/nrclinonc.2013.244 | author2link = Marty Tenenbaum }}&lt;/ref&gt; The field of precision medicine that is related to psychiatric disorders and mental health is called "precision psychiatry." &lt;ref&gt;{{cite journal | vauthors = Fernandes BS, Williams LM, Steiner J, Leboyer M, Carvalho AF, Berk M | title = The new field of 'precision psychiatry' | journal = BMC Medicine | volume = 15 | issue = 1 | pages = 80 | date = April 2017 | pmid = 28403846 | pmc = 5390384 | doi = 10.1186/s12916-017-0849-x }}&lt;/ref&gt;&lt;ref&gt;{{cite journal | vauthors = Fernandes BS, Berk M | title = Staging in bipolar disorder: one step closer to precision psychiatry | journal = Revista Brasileira de Psiquiatria | volume = 39 | issue = 2 | pages = 88–89 | date = June 2017 | pmid = 28591270 | doi = 10.1590/1516-4446-2017-3902 | doi-access = free }}&lt;/ref&gt;
+
+Inter-personal difference of [[molecular pathology]] is diverse, so as inter-personal difference in the [[exposome]], which influence disease processes through the [[interactome]] within the [[Tissue (biology)|tissue]] [[Microenvironment (biology)|microenvironment]], differentially from person to person. As the theoretical basis of precision medicine, the "unique disease principle"&lt;ref name="pmid23307060"&gt;{{cite journal | vauthors = Ogino S, Lochhead P, Chan AT, Nishihara R, Cho E, Wolpin BM, Meyerhardt JA, Meissner A, Schernhammer ES, Fuchs CS, Giovannucci E | display-authors = 6 | title = Molecular pathological epidemiology of epigenetics: emerging integrative science to analyze environment, host, and disease | journal = Modern Pathology | volume = 26 | issue = 4 | pages = 465–84 | date = April 2013 | pmid = 23307060 | pmc = 3637979 | doi = 10.1038/modpathol.2012.214 }}&lt;/ref&gt; emerged to embrace the ubiquitous [[phenomenon]] of [[heterogeneity]] of [[disease]] [[etiology]] and [[pathogenesis]]. The unique disease principle was first described in neoplastic diseases as the unique tumor principle.&lt;ref&gt;Ogino S, Fuchs CS, Giovannucci E. How many molecular subtypes? Implications of the unique tumor principle in personalized medicine. Expert Rev Mol Diagn 2012; 12: 621-628.&lt;/ref&gt; As the exposome is a common [[concept]] of [[epidemiology]], precision medicine is intertwined with [[molecular pathological epidemiology]], which is capable of identifying potential [[biomarkers]] for precision medicine.&lt;ref name="pmid23792451"&gt;{{cite journal | vauthors = Ogino S, Lochhead P, Giovannucci E, Meyerhardt JA, Fuchs CS, Chan AT | title = Discovery of colorectal cancer PIK3CA mutation as potential predictive biomarker: power and promise of molecular pathological epidemiology | journal = Oncogene | volume = 33 | issue = 23 | pages = 2949–55 | date = June 2014 | pmid = 23792451 | pmc = 3818472 | doi = 10.1038/onc.2013.244 }}&lt;/ref&gt;
+
+==Practice==
+The ability to provide precision medicine to patients in routine clinical settings depends on the availability of molecular profiling tests, e.g. individual [[germline]] [[DNA]] sequencing.&lt;ref name=":0"&gt;{{cite journal | vauthors = Ashley EA, Butte AJ, Wheeler MT, Chen R, Klein TE, Dewey FE, Dudley JT, Ormond KE, Pavlovic A, Morgan AA, Pushkarev D, Neff NF, Hudgins L, Gong L, Hodges LM, Berlin DS, Thorn CF, Sangkuhl K, Hebert JM, Woon M, Sagreiya H, Whaley R, Knowles JW, Chou MF, Thakuria JV, Rosenbaum AM, Zaranek AW, Church GM, Greely HT, Quake SR, Altman RB | display-authors = 6 | title = Clinical assessment incorporating a personal genome | journal = Lancet | volume = 375 | issue = 9725 | pages = 1525–35 | date = May 2010 | pmid = 20435227 | pmc = 2937184 | doi = 10.1016/s0140-6736(10)60452-7 }}&lt;/ref&gt; While precision medicine currently individualizes treatment mainly on the basis of genomic tests (e.g. Oncotype DX&lt;ref&gt;{{cite web|url=http://www.breastcancer.org/symptoms/testing/types/oncotype_dx|title=Oncotype DX: Genomic Test to Inform Breast Cancer Treatment|date=2019-06-13}}&lt;/ref&gt;), several promising technology modalities are being developed, from techniques combining spectrometry and computational power to real-time imaging of drug effects in the body.&lt;ref&gt;Precision Medicine: Harnessing the Extraordinary Growth in Medical Data for Personalized Diagnosis and Treatment  http://claudiacopeland.com/uploads/3/6/1/4/3614974/hjno_novdec_2016_precision_medicine.pdf&lt;/ref&gt; Many different aspects of precision medicine are tested in research settings (e.g., proteome, microbiome), but in routine practice not all available inputs are used. The ability to practice precision medicine is also dependent on the knowledge bases available to assist clinicians in taking action based on test results.&lt;ref name="pm"&gt;{{cite journal | vauthors = Huser V, Sincan M, Cimino JJ | title = Developing genomic knowledge bases and databases to support clinical management: current perspectives | journal = Pharmacogenomics and Personalized Medicine | volume = 7 | pages = 275–83 | year = 2014 | pmid = 25276091 | pmc = 4175027 | doi = 10.2147/PGPM.S49904 }}&lt;/ref&gt;&lt;ref name="pm2"&gt;{{cite journal | vauthors = Ashley EA | title = The precision medicine initiative: a new national effort | journal = JAMA | volume = 313 | issue = 21 | pages = 2119–20 | date = June 2015 | pmid = 25928209 | doi = 10.1001/jama.2015.3595 }}&lt;/ref&gt;&lt;ref name="pmid27528417"&gt;{{cite journal | vauthors = Ashley EA | title = Towards precision medicine | journal = Nature Reviews. Genetics | volume = 17 | issue = 9 | pages = 507–22 | date = August 2016 | pmid = 27528417 | pmc =  | doi = 10.1038/nrg.2016.86 }}&lt;/ref&gt; Early studies applying omics-based precision medicine to cohorts of individuals with undiagnosed disease has yielded a diagnosis rate ~35% with ~1 in 5 of newly diagnosed receiving recommendations regarding changes in therapy.&lt;ref name="pmid30304647"&gt;{{cite journal | vauthors = Splinter K, Adams DR, Bacino CA, Bellen HJ, Bernstein JA, Cheatle-Jarvela AM, Eng CM, Esteves C, Gahl WA, Hamid R, Jacob HJ, Kikani B, Koeller DM, Kohane IS, Lee BH, Loscalzo J, Luo X, McCray AT, Metz TO, Mulvihill JJ, Nelson SF, Palmer CG, Phillips JA, Pick L, Postlethwait JH, Reuter C, Shashi V, Sweetser DA, Tifft CJ, Walley NM, Wangler MF, Westerfield M, Wheeler MT, Wise AL, Worthey EA, Yamamoto S, Ashley EA | display-authors = 6 | title = Effect of Genetic Diagnosis on Patients with Previously Undiagnosed Disease | journal = The New England Journal of Medicine | volume = 379 | issue = 22 | pages = 2131–2139 | date = November 2018 | pmid = 30304647 | pmc = 6481166 | doi = 10.1056/NEJMoa1714458 }}&lt;/ref&gt;
+
+On the treatment side, PM can involve the use of customized medical products such drug cocktails produced by pharmacy [[compounding]]&lt;ref&gt;{{cite web|url=http://www.pmlive.com/pharma_news/divining_your_future_in_healthcare_511068|title=Divining your future in healthcare|work=pmlive.com|date=2013-10-18}}&lt;/ref&gt; or customized devices.&lt;ref&gt;{{cite web|url=http://www.livescience.com/39339-how-fda-regulates-3d-printed-devices.html|title=3D-Printed Medical Devices Spark FDA Evaluation|work=LiveScience.com}}&lt;/ref&gt; It can also prevent harmful drug interactions, increase overall efficiency when prescribing medications, and reduce costs associated with healthcare.&lt;ref&gt;{{cite web|url=http://genetichealth.jax.org/personalized-medicine/what-is/benefits.html|title=Personalized Medicine Benefits - The Jackson Laboratory|work=jax.org}}&lt;/ref&gt;
+
+=== Artificial intelligence in Precision Medicine===
+[[Artificial intelligence]] is providing paradigm shift toward precision medicine.&lt;ref&gt;{{cite journal|last1=Mesko|first1=Bertalan | name-list-format = vanc |title=Expert Review of Precision Medicine and Drug Development|journal=Journal Expert Review of Precision Medicine and Drug Development|date=2017|volume=2|issue=5|pages=239–241|doi=10.1080/23808993.2017.1380516|doi-access=free}}&lt;/ref&gt; [[Machine learning]] [[algorithms]] are used for genomic sequence and to analyze and draw inferences from the vast amounts of data patients and healthcare institutions recorded in every moment.&lt;ref&gt;{{cite web |last1=Ray |first1=Amit | name-list-format = vanc |title=Artificial Intelligence and Blockchain for Precision Medicine|url=http://amitray.com/artificial-intelligence-and-blockchain-for-precision-medicine/|publisher=Inner Light Publishers|access-date=21 May 2018}}&lt;/ref&gt; AI techniques are used in precision cardiovascular medicine to understand genotypes and phenotypes in existing diseases, improve the quality of patient care, enable cost-effectiveness, and reduce readmission and mortality rates.&lt;ref&gt;{{cite journal | vauthors = Krittanawong C, Zhang H, Wang Z, Aydar M, Kitai T | title = Artificial Intelligence in Precision&amp;nbsp;Cardiovascular Medicine | journal = Journal of the American College of Cardiology | volume = 69 | issue = 21 | pages = 2657–2664 | date = May 2017 | pmid = 28545640 | doi = 10.1016/j.jacc.2017.03.571 | doi-access = free }}&lt;/ref&gt;
+
+===Precision Medicine Initiative===
+In his 2015 [[State of the Union]] address, U.S. President [[Barack Obama]] stated his intention to fund an amount of $215 million&lt;ref&gt;{{cite web|url=https://weillcornell.org/news/the-impact-of-precision-medicine-on-cancer|title=The Impact of Precision Medicine on Cancer|work=weillcornell.org}}&lt;/ref&gt; to the "Precision Medicine Initiative" of United States national.&lt;ref name="Neergard2015"&gt;{{cite news | agency=Associated Press | last=Neergard | first=Lauran | name-list-format = vanc | date=30 January 2015 | title=Obama Proposes 'Precision Medicine' to End One-Size-Fits-All | url=http://www.dddmag.com/news/2015/01/obama-proposes-precision-medicine-end-one-size-fits-all | work=[[Drug Discov. Dev.|Drug Discovery &amp; Development]] }}&lt;/ref&gt; A short-term goal of the Precision Medicine Initiative was to expand cancer genomics to develop better prevention and treatment methods.&lt;ref&gt;{{cite web|url=http://www.nih.gov/precisionmedicine/goals.htm|title=Near-term Goals|work=nih.gov}}&lt;/ref&gt; In the long-term, the Precision Medicine Initiative aimed to build a comprehensive scientific knowledge base by creating a national network of scientists and embarking on a national cohort study of one million Americans to expand our understanding of health and disease.&lt;ref&gt;{{cite web|url=http://www.nih.gov/precisionmedicine/future.htm|title=Longer-term Goals|work=nih.gov}}&lt;/ref&gt;
+The Mission Statement of the Precision Medicine Initiative read: "To enable a new era of medicine through research, technology, and policies that empower patients, researchers, and providers to work together toward development of individualized treatments".&lt;ref&gt;{{cite web |url=https://www.whitehouse.gov/precision-medicine |title=The White House Precision Medicine Initiative}}&lt;/ref&gt; In 2016 this initiative was renamed "All of Us" and an initial pilot project had enrolled about 10,000 people by January 2018.&lt;ref&gt;{{Cite news|url=https://www.washingtonpost.com/news/powerpost/paloma/the-health-202/2018/01/16/the-health-202-nih-wants-1-million-americans-to-contribute-to-new-pool-of-gene-data/5a5ba45a30fb0469e8840135/|title=The Health 202: NIH wants 1 million Americans to contribute to new pool of gene data|last=Cunningham|first=Paige Winfield | name-list-format = vanc |date=2018-01-16|work=Washington Post|access-date=2018-01-20|issn=0190-8286}}&lt;/ref&gt;
+
+'''&lt;big&gt;What are the benefits of Precision medicine ?&lt;/big&gt;'''
+
+Precision medicine helps health care providers better understand the many things — including environment, lifestyle, and heredity — that play a role in a patient's health, disease, or condition. This information lets them more accurately predict which treatments will be most effective and safe, or possibly how to prevent the illness from starting in the first place. In addition  benefits are
+
+* shift the emphasis in medicine from reaction to prevention
+
+* predict susceptibility to disease
+
+* improve disease detection
+
+* preempt disease progression
+
+* customize disease-prevention strategies
+
+* prescribe more effective drugs
+
+* avoid prescribing drugs with predictable side effects
+
+* reduce the time, cost, and failure rate of pharmaceutical clinical trials
+
+* eliminate trial-and-error inefficiencies that inflate health care costs and undermine patient care
+
+== See also ==
+*[[Precision Medicine Initiative|All of Us (initiative)]]
+*[[Cancer genome sequencing]]
+* [[Companion diagnostic]]
+* [[Elective genetic and genomic testing]]
+* [[Evidence-based medicine]]
+* [[Molecular medicine]]
+* [[Personalized medicine]]
+*[[Swiss Personalized Health Network|Swiss Personalized Health Network (initiative)]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://oncologypro.esmo.org/Education-Library/Glossary-of-Precision-Medicine ESMO Precision Medicine Glossary] at OncologogyPRO.org by the [[European Society for Medical Oncology]]
+* [http://www.esmo.org/Patients/Patient-Guides/Personalised-Cancer-Medicine-Guide Personalised Cancer Medicine Guide for Patients] at Esmo.org by the [[European Society for Medical Oncology]]
+* [https://precisionmedicinealliance.org/index.php/alliance-overview/ Precision Medicine Alliance]
+* [https://academic.oup.com/pcm/ Precision Clinical Medicine]
+*[https://www.ted.com/talks/matt_might_being_an_accidental_pioneer_in_precision_medicine TEDX talk by Matt Might into his move into precision medicine in order to save his sons life]
+
+[[Category:Evidence-based medicine]]
+[[Category:Systems biology]]</text>
+      <sha1>t4y8r845vquz1bkvi29900kghy0fs3i</sha1>
+    </revision>
+  </page>
+</mediawiki>

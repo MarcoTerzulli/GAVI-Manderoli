@@ -1,0 +1,110 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>ATHLETE</title>
+    <ns>0</ns>
+    <id>16771282</id>
+    <revision>
+      <id>836338507</id>
+      <parentid>808264110</parentid>
+      <timestamp>2018-04-14T04:37:10Z</timestamp>
+      <contributor>
+        <username>EdmundT</username>
+        <id>285130</id>
+      </contributor>
+      <minor/>
+      <comment>/* Goals */ Spelling</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4964" xml:space="preserve">{{About|the robot||Athlete (disambiguation){{!}}Athlete}}
+[[File:ATHLETE robot climbing a hill.jpg|thumb|300px|ATHLETE with tweel wheels, climbing a hill.]]
+[[File:AthleteRover-590.jpg|thumb|300px|Quarter-scale ATHLETE prototype, with principal investigator [[Brian Wilcox]] in foreground.]]
+
+'''ATHLETE''' (All-Terrain Hex-Limbed Extra-Terrestrial Explorer) is a six-legged robotic [[lunar rover]] under development by the [[Jet Propulsion Laboratory]] (JPL). ATHLETE is a [[testbed]] for systems, and is designed for [[exploration of the Moon|use on the Moon]].&lt;ref name="JPL1"&gt;{{cite web | url=
+https://www-robotics.jpl.nasa.gov/systems/system.cfm?System=11 | title= The ATHLETE Rover | date=2010-02-25 | publisher=[[JPL]] }}&lt;/ref&gt;
+
+The system is in development along with [[NASA]]'s Johnson and Ames Centers, [[Stanford University]] and [[Boeing]].&lt;ref name="NASA1"&gt;{{cite web | url=
+http://www.nasa.gov/multimedia/imagegallery/image_feature_748.html | title= The ATHLETE Rover | date=2010-02-25 | publisher=[[NASA]] }}&lt;/ref&gt;
+ATHLETE is designed, for maximum efficiency, to be able to both roll and walk over a wide range of terrains.&lt;ref name="JPL1" /&gt;
+
+==Systems==
+The project aims to develop a multi-purpose system capable of docking or mating with special-purpose devices including refueling stations, excavation implements and/or special end effectors. The legs have 6 [[degrees of freedom (mechanics)|degrees of freedom]]&lt;ref name="JPL1"/&gt; for generalized robotic manipulation. Each ATHLETE is intended to have a payload capacity of {{convert|450|kg}},&lt;ref name="JPL1" /&gt; in Earth's gravity with the capability of docking multiple ATHLETE vehicles together to support larger loads.
+
+The ATHLETE is much larger than robotic systems previously used and has a diameter of around {{convert|4|m}} and a reach of around {{convert|6|m}}.&lt;ref name="JPL1" /&gt; Even with this larger size the project has allowed the facility for multiple units to be stowed and docked compactly for launch into an annular ring. This would mean that many vehicles can be efficiently stacked around a main payload on a single lander.&lt;ref name="JPL1" /&gt;
+
+The six [[six degrees of freedom|6-DOF]] legs allow more capabilities than other robotic systems such as [[Mars Pathfinder#Sojourner rover|Sojourner]] or the [[Mars Exploration Rover]]s. These mean that the slopes it could climb would be up to 35° on solid surfaces and 25° on soft surfaces,&lt;ref name="JPL1" /&gt; such as the soft deposits of [[lunar regolith|dust found on the Moon]]. Plans are to develop the system's capability of travel over rougher terrain and to increase the speed of ATHLETE to {{convert|10|km}} per hour, 100 times faster than the [[Spirit rover|Spirit]] and [[Opportunity rover]]s.&lt;ref name="JPL1" /&gt;
+
+==Future improvements==
+[[Image:ATHLETE (robot).jpg|thumb|right|400px|The ATHLETE rover in a test facility at [[JPL]]. Taken August, 2008.]]
+Planning for the future of the ATHLETE include the ability to scale difficult obstacles by means of employing a launchable/releasable [[grappling hook]] and line which it will use to haul itself up even vertical slopes. There are also plans to introduce provisions for voice and gesture commands from suited astronauts in proximity to the ATHLETE, the ability to self deploy from their storage facilities and the capability for "''autonomous footfall placement''".&lt;ref name="JPL1" /&gt; Work was also done to adapt the [[Tweel]] technology for use with the rover.
+
+==Goals==
+The JPL is aiming for a 10-year life span&lt;ref name="JPL1" /&gt; and the capability for re-usable [[space logistics|delivery vehicles]] would mean that the goal of "''an affordable lunar-surface flight experiment that demonstrates this technology on the Moon and subsequently uses it as part of the Human Lunar Return campaign to perform the needed robotic or human vehicle functions on the lunar surface.''"&lt;ref name="JPL1" /&gt;
+
+ATHLETE's purpose is to support [[exploration of the Moon|lunar exploration]] operations. One hypothetical mission scenario features a mobile, manned "base" supported by ATHLETEs capable of traversing thousands of kilometers and setting down temporarily to study interesting features along the way.&lt;ref name="Newscientist1"&gt;{{cite news | url=https://www.newscientist.com/article/dn13590 | title= Giant robots could carry lunar bases on their backs |date=April 4, 2008 |publisher=[[New Scientist]] |first=David |last=Shiga}}&lt;/ref&gt;
+
+==References==
+{{Portal |Astronomy |Spaceflight}}
+{{Reflist}}
+
+{{Clear}}
+
+==External links==
+{{Commons category|ATHLETE program|ATHLETE}}
+* [https://www-robotics.jpl.nasa.gov/systems/system.cfm?System=11 JPL Robotics: System: The ATHLETE Rover]
+* [http://www.nasa.gov/pdf/390539main_Athlete%20Fact%20Sheet.pdf ATHLETE Rover Fact Sheet]
+
+{{Lunar Rovers}}
+
+[[Category:NASA vehicles]]
+[[Category:Lunar rovers]]
+[[Category:Hexapod robots]]
+[[Category:Six-wheeled robots]]
+[[Category:Robots of the United States]]
+[[Category:2000s robots]]</text>
+      <sha1>617xhn66g5z4cduafna2c9h76eluuf0</sha1>
+    </revision>
+  </page>
+</mediawiki>

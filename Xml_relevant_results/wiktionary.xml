@@ -1,0 +1,406 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Wiktionary</title>
+    <ns>0</ns>
+    <id>156658</id>
+    <revision>
+      <id>955578133</id>
+      <parentid>954650589</parentid>
+      <timestamp>2020-05-08T15:56:07Z</timestamp>
+      <contributor>
+        <username>User-duck</username>
+        <id>28568042</id>
+      </contributor>
+      <comment>Fix ref=</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="30855" xml:space="preserve">{{For|Wikipedia's guidance on linking to sister projects|Wikipedia:Wikimedia sister projects#How to link|selfref=yes}}
+{{selfref|To go directly to the Wikipedia sister project, see [//www.wiktionary.org/ www.wiktionary.org]}}
+{{pp-semi-indef|small-yes}}
+{{short description|Free online dictionary that anyone can edit}}
+{{Use mdy dates|date=November 2019}}
+{{Use American English|date=January 2019}}
+{{Infobox website
+|name             = Wiktionary
+|logo             = WiktionaryEn - DP Derivative.svg
+|logo_caption     = English Wiktionary logo
+|logo_size        = 125px
+|screenshot       = English Wiktionary Main Page.png
+|caption          = Main Page of the English Wiktionary on January 14, 2019
+|collapsible      = yes
+|url              = {{URL|wiktionary.org}}
+|commercial       = No
+|type             = [[Dictionary|Online dictionary]]
+|language         = [[Multilingual]]
+|registration     = Optional
+|owner            = [[Wikimedia Foundation]]
+|author           = [[Jimmy Wales]] and the [[Wikimedia Foundation|Wikimedia]] community
+|launch_date      = {{Start date and age|2002|12|12}}
+|current_status   = active
+|alexa            = {{DecreasePositive}} 561 ({{as of|2020|01|13|alt=January 2020}})&lt;ref name="alexa"&gt;{{cite web |title=wiktionary.org Competitive Analysis, Marketing Mix and Traffic - Alexa |url=https://www.alexa.com/siteinfo/wiktionary.org |website=www.alexa.com |accessdate=13 January 2020}}&lt;/ref&gt;
+}}
+
+'''Wiktionary''' is a multilingual, [[World Wide Web|web]]-based project to create a [[free content]] [[dictionary]] of terms (including words, phrases, proverbs, etc.) in all [[natural language]]s and a number of [[Constructed language|artificial language]]s. These entries may contain definitions, pronunciation guides, inflections, usage examples, related terms, images for illustration, among other features. It is [[collaborative editing|collaboratively edited]] via a [[wiki]]. Its name is a [[portmanteau]] of the words ''wiki'' and ''dictionary''. It is available in 171 languages and in [[Basic English|Simple English]]&lt;!--piped like that because "Simple English" is the name of the Wiktionary in question; see [[:wikt:simple:Main Page]]--&gt;. Like its sister project [[Wikipedia]], Wiktionary is run by the [[Wikimedia Foundation]], and is written collaboratively by [[volunteering|volunteers]], dubbed "Wiktionarians". Its [[wiki software]], [[MediaWiki]], allows almost anyone with access to the website to create and edit entries.
+
+Because Wiktionary is not limited by print space considerations, most of Wiktionary's language editions provide definitions and translations of words from many languages, and some editions offer additional information typically found in [[thesauri]].
+
+Wiktionary data is frequently used in various [[#Wiktionary data in natural language processing|natural language processing tasks]].
+
+== History and development ==
+Wiktionary was brought online on December 12, 2002,&lt;ref&gt;{{cite web|url=http://lists.wikimedia.org/pipermail/wikipedia-l/2002-December/008311.html|title= Wikipedia mailing list archive discussion announcing the opening of the Wiktionary project|access-date=May 3, 2011}}&lt;/ref&gt; following a proposal by Daniel Alston and an idea by [[Larry Sanger]], co-founder of Wikipedia.&lt;ref&gt;[http://lists.wikimedia.org/pipermail/wikipedia-l/2001-April/000076.html Wikipedia mailing list archive discussion from Larry Sanger giving the idea on Wiktionary] – Retrieved May 3, 2011&lt;/ref&gt; On March 28, 2004, the first non-[[English language|English]] Wiktionaries were initiated in [[French language|French]] and [[Polish language|Polish]]. Wiktionaries in numerous other languages have since been started. Wiktionary was hosted on a temporary [[domain name]] (wiktionary.wikipedia.org) until May 1, 2004, when it switched to the current domain name.{{efn|Wiktionary's current URL is [http://www.wiktionary.org/ www.wiktionary.org].}} {{As of|2016|11|url=http://meta.wikimedia.org/wiki/Wiktionary}}, Wiktionary features over 25.9 million entries across its editions.&lt;ref&gt;https://www.wiktionary.org/&lt;/ref&gt; The largest of the language editions is the English Wiktionary, with over 6.2 million entries, followed by the [[Malagasy language|Malagasy]] Wiktionary with over 5.9 million [[Internet bot|bot]]-generated entries and the French Wiktionary with over 3.6 million. Forty-one Wiktionary language editions now contain over 100,000 entries each.{{efn|Wiktionary total article counts are [[meta:Wiktionary|here.]]  Detailed statistics by word type are available here [http://en.wiktionary.org/wiki/Wiktionary:Statistics#Detail].}}
+
+[[File:Wiktionary growth.png|thumb|left|250px|The use of [[Internet bot|bot]]s to generate large numbers of articles is visible as "growth spurts" in this graph of article counts at the largest eight Wiktionary editions. (Data {{As of|2009|12|lc=on}})]]
+
+Most of the entries and many of the definitions at the project's largest language editions were created by bots that found creative ways to generate entries or (rarely) automatically imported thousands of entries from previously published dictionaries. Seven of the 18 bots registered at the English Wiktionary{{efn|1=The [https://en.wiktionary.org/w/index.php?title=Special%3AListUsers&amp;username=&amp;group=bot&amp;limit=60 user list] at the English Wiktionary identifies accounts that have been given "bot status".}} created 163,000 of the entries there.&lt;ref name="Edit counter"&gt;[http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=TheDaveBot&amp;dbname=enwiktionary_p TheDaveBot] {{webarchive|url=https://web.archive.org/web/20071011064312/http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=TheDaveBot&amp;dbname=enwiktionary_p |date=October 11, 2007 }}, [http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=TheCheatBot&amp;dbname=enwiktionary_p TheCheatBot] {{webarchive|url=https://web.archive.org/web/20071011064411/http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=TheCheatBot&amp;dbname=enwiktionary_p |date=October 11, 2007 }}, [http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=Websterbot&amp;dbname=enwiktionary_p Websterbot] {{webarchive|url=https://web.archive.org/web/20071011064313/http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=Websterbot&amp;dbname=enwiktionary_p |date=October 11, 2007 }}, [http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=PastBot&amp;dbname=enwiktionary_p PastBot] {{webarchive|url=https://web.archive.org/web/20071011064300/http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=PastBot&amp;dbname=enwiktionary_p |date=October 11, 2007 }}, [http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=NanshuBot&amp;dbname=enwiktionary_p NanshuBot] {{webarchive|url=https://web.archive.org/web/20071011064233/http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=NanshuBot&amp;dbname=enwiktionary_p |date=October 11, 2007 }}&lt;/ref&gt;
+
+Another of these bots, "ThirdPersBot," was responsible for the addition of a number of [[Grammatical person|third-person]] [[Grammatical conjugation|conjugation]]s that would not have received their own entries in standard dictionaries; for instance, it defined "smoulders" as the "third-person singular simple present form of smoulder." Of the 648,970 definitions the English Wiktionary provides for 501,171 English words, 217,850 are "form of" definitions of this kind.&lt;ref&gt;[http://en.wiktionary.org/w/index.php?title=Wiktionary:Statistics/generated&amp;oldid=21321854 Detailed statistics] as of July 1, 2013&lt;/ref&gt; This means its coverage of English&lt;!--431,120 definitions are ''not'' "form of"--&gt; is slightly smaller than that of major monolingual print dictionaries. The ''[[Oxford English Dictionary]]'', for instance, has 615,000 headwords, while ''[[Webster's Dictionary#Webster's Third New International|Merriam-Webster's Third New International Dictionary]] of the English Language, Unabridged'' has 475,000 entries (with many additional embedded headwords). Detailed [[wikt:Wiktionary:Statistics#Detail|statistics]] exist to show how many entries of various kinds exist.
+
+The English Wiktionary does not rely on bots to the extent that some other editions do. The [[French language|French]] and [[Vietnamese language|Vietnamese]] Wiktionaries, for example, imported large sections of the Free Vietnamese Dictionary Project (FVDP), which provides free content bilingual dictionaries to and from Vietnamese.{{efn|Hồ Ngọc Đức, [http://www.informatik.uni-leipzig.de/~duc/Dict/ Free Vietnamese Dictionary Project]. [[:vi:wikt:Wiktionary:Nguồn gốc/FVDP|Details]] at the Vietnamese Wiktionary.}} These imported entries make up virtually all of the Vietnamese edition's contents. Almost all non-Malagasy-language entries of the Malagasy Wiktionary were copied by bot from other Wiktionaries. Like the English edition, the French Wiktionary has imported the approximately 20,000 entries from the [[Han unification|Unihan]] database of [[CJK characters|Chinese, Japanese, and Korean characters]]. The French Wiktionary grew rapidly in 2006 thanks in large part to bots copying many entries from old, freely licensed dictionaries, such as the eighth edition of the ''[[Dictionnaire de l'Académie française]]'' (1935, around 35,000 words), and using bots to add words from other Wiktionary editions with French translations. The [[Russian language|Russian]] edition grew by nearly 80,000 entries as "LXbot" added boilerplate entries (with headings, but without definitions) for words in English and [[German language|German]].&lt;ref name="LXbot"&gt;[http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=LXbot&amp;dbname=ruwiktionary_p LXbot] {{webarchive |url=https://web.archive.org/web/20080524015303/http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=LXbot&amp;dbname=ruwiktionary_p |date=May 24, 2008 }}&lt;/ref&gt;
+
+As of December 2019, en.wiktionary has over 700,000 gloss definitions and over 1,100,000 total definitions (including different forms) for English entries alone, with a total of over 6,100,000 entries across all languages.&lt;ref&gt;[https://en.wiktionary.org/wiki/Wiktionary:Statistics Wiktionary statistics]&lt;/ref&gt;
+
+===Logos===
+Wiktionary has historically lacked a uniform logo across its numerous language editions. Some editions use logos that depict a dictionary entry about the term "Wiktionary", based on the previous English Wiktionary logo, which was designed by Brion Vibber, a [[MediaWiki]] developer.&lt;ref&gt;"[[wikt:Wiktionary talk:Wiktionary Logo|Wiktionary talk:Wiktionary Logo]]", English Wiktionary, Wikimedia Foundation.&lt;/ref&gt; Because a purely textual logo must vary considerably from language to language, a four-phase contest to adopt a uniform logo was held at the Wikimedia Meta-Wiki from September to October 2006.{{efn|name=Wiktionary logo|"[[m:Wiktionary/logo|Wiktionary/logo]]", Meta-Wiki, [[Wikimedia Foundation]].}} Some communities adopted the winning entry by "Smurrayinchester", a 3×3 grid of wooden tiles, each bearing a character from a different writing system. However, the poll did not see as much participation from the Wiktionary community as some community members had hoped, and a number of the larger wikis ultimately kept their textual logos.{{efn|name=Wiktionary logo}}
+
+In April 2009, the issue was resurrected with a new contest. This time, a depiction by "AAEngelman" of an open hardbound dictionary won a head-to-head vote against the 2006 logo, but the process to refine and adopt the new logo then stalled.&lt;ref&gt;"[[m:Wiktionary/logo/refresh/voting|Wiktionary/logo/refresh/voting]]", Meta-Wiki, Wikimedia Foundation.&lt;/ref&gt; In the following years, some wikis replaced their textual logos with one of the two newer logos. In 2012, 55 wikis that had been using the English Wiktionary logo received localized versions of the 2006 design by "Smurrayinchester".{{efn|[[mailarchive:translators-l/2012-December/002193.html|[Translators-l] 56 Wiktionaries got a localised logo]]}} In July 2016, the English Wiktionary adopted a variant of this logo.&lt;ref&gt;[[phab:T139255]]&lt;/ref&gt; {{As of|2016|07|04}}, 135 wikis, representing 61% of Wiktionary's entries, use a logo based on the 2006 design by "Smurrayinchester", 33 wikis (36%) use a textual logo, and three wikis (3%) use the 2009 design by "AAEngelman".&lt;ref&gt;[[m:Wiktionary/logo#Logo use statistics]].&lt;/ref&gt;
+
+== Accuracy ==
+To ensure accuracy, the English Wiktionary has a policy requiring that terms be ''attested''.&lt;ref name="CFI"&gt;{{cite web|url=https://en.wiktionary.org/wiki/Wiktionary:Criteria_for_inclusion|title=Wiktionary:Criteria for inclusion|work=Wiktionary|accessdate=March 13, 2015}}&lt;/ref&gt; Terms in major languages such as English and Chinese must be verified by:
+
+# clearly widespread use, or
+# use in permanently recorded media, conveying meaning, in at least three independent instances spanning at least a year.
+
+For less-documented languages such as [[Muscogee language|Creek]] and extinct languages such as [[Latin]], one use in a permanently recorded medium or one mention in a reference work is sufficient verification.
+
+== Critical reception ==
+{{Update|inaccurate=yes|section|date=May 2013}}
+
+Critical reception of Wiktionary has been mixed. In 2006 Jill Lepore wrote in the article "Noah's Ark" for ''[[The New Yorker]],''{{efn|The full article is not available on-line.{{sfn|Lepore|2006}}}}
+
+&lt;blockquote&gt;There's no show of hands at ''Wiktionary''. There's not even an editorial staff. "Be your own lexicographer!", might be ''Wiktionary's'' motto. Who needs experts? Why pay good money for a dictionary written by lexicographers when we could cobble one together ourselves?&lt;br/&gt;&lt;br/&gt;
+
+''Wiktionary'' isn't so much republican or democratic as Maoist. And it's only as good as the [[Public domain#Expiration of copyright|copyright-expired]] books from which it pilfers.&lt;/blockquote&gt;
+
+[[Keir Graff]]'s review for ''[[Booklist]]'' was less critical:
+
+&lt;blockquote&gt;Is there a place for Wiktionary? Undoubtedly. The industry and enthusiasm of its many creators are proof that there's a market. And it's wonderful to have another strong source to use when searching the odd terms that pop up in today's fast-changing world and the online environment. But as with so many Web sources (including this column), it's best used by sophisticated users in conjunction with more reputable sources.{{Citation needed|date=November 2010}}&lt;/blockquote&gt;
+
+References in other publications are fleeting and part of larger discussions of Wikipedia, not progressing beyond a definition, although David Brooks in ''[[The Telegraph (Nashua)|The Nashua Telegraph]]'' described it as "wild and woolly".&lt;ref&gt;David Brooks, "Online, interactive encyclopedia not just for geeks anymore, because everyone seems to need it now, more than ever!" ''The Nashua Telegraph'' (August 4, 2004)&lt;/ref&gt; One of the impediments to independent coverage of Wiktionary is the continuing confusion that it is merely an extension of Wikipedia.{{efn|In this citation, the author refers to Wiktionary as part of the Wikipedia site: {{cite news
+ | author = Adapted from an article by Naomi DeTullio
+ | title = Wikis for Librarians
+ | url = http://www.netls.org/NewContent/NewsAndPictures/NEWSLETTERS/NEWS2006/142final.pdf
+ | archiveurl = https://web.archive.org/web/20070605203652/http://www.netls.org/NewContent/NewsAndPictures/NEWSLETTERS/NEWS2006/142final.pdf
+ | archivedate = June 5, 2007
+ | format = PDF newsletter | work = NETLS News #142 | publisher = Northeast Texas Library System
+ | page = 15 |date=2006 | accessdate = April 21, 2007
+ }}
+}}
+In 2005, ''[[PC Magazine]]'' rated Wiktionary as one of the Internet's "Top 101 Web Sites",{{sfn|PC Mag|2005}} although little information was given about the site.
+
+The measure of correctness of the inflections for a subset of the Polish words in the English Wiktionary showed that this grammatical data is very stable. Only 131 out of 4748 Polish words have had their inflection data corrected.{{sfn|Kurmas|2010}}
+
+== Wiktionary data in natural language processing==
+Wiktionary has [[semi-structured data]].{{sfn|Meyer|Gurevych|2012|p=140}} Wiktionary lexicographic data can be converted to [[Machine-readable data|machine-readable format]] in order to be used in [[natural language processing]] tasks.{{sfn|Zesch|Müller|Gurevych|2008|p=4|loc=Figure 1}}{{sfn|Meyer|Gurevych|2010|p=40}}{{sfn|Krizhanovsky, Transformation|2010|p=1}}
+
+Wiktionary data mining is a complex task. There are the following difficulties:{{sfn|Hellmann|Auer|2013|p=302|loc=p. 16 in PDF|name=HellmannAuer2013}} (1) the constant and frequent changes to data and schemata, (2) the heterogeneity in Wiktionary language edition schemata {{efn|E.g. compare the entry structure and formatting rules in [[wikt:Wiktionary:Entry layout explained|English Wiktionary]] and [[wikt:ru:Викисловарь:Правила оформления статей|Russian Wiktionary]].}} and (3) the human-centric nature of a [[wiki]].
+
+There are several [[Parsing|parsers]] for different Wiktionary language editions:{{sfn|Hellmann|Brekle|Auer|2012|p=3|loc=Table 1}}
+
+* DBpedia Wiktionary:&lt;ref&gt;[http://dbpedia.org/Wiktionary DBpedia Wiktionary] {{webarchive|url=https://web.archive.org/web/20130504235547/http://dbpedia.org/Wiktionary |date=May 4, 2013 }}&lt;/ref&gt; a subproject of [[DBpedia]], the data are extracted from English, French, German and Russian wiktionaries; the data includes language, part of speech, definitions, semantic relations and translations. The declarative description of the page schema,{{sfn|Hellmann|Brekle|Auer|2012|pp=8–9}} [[regular expression]]s{{sfn|Hellmann|Brekle|Auer|2012|p=10}} and [[finite state transducer]]{{sfn|Hellmann|Brekle|Auer|2012|p=11}} are used in order to extract information.
+* JWKTL (Java Wiktionary Library):&lt;ref&gt;[https://dkpro.github.io/dkpro-jwktl/ JWKTL]&lt;/ref&gt; provides access to English Wiktionary and German Wiktionary dumps via a Java [[Ubiquitous Knowledge Processing Lab#Wiktionary API|Wiktionary API]].{{sfn|Zesch|Müller|Gurevych|2008}} The data includes language, part of speech, definitions, quotations, semantic relations, etymologies and translations. JWKTL is distributed under the [[Apache License]].
+* wikokit:&lt;ref&gt;[https://github.com/componavt/wikokit wikokit]&lt;/ref&gt; the parser of English Wiktionary and Russian Wiktionary.{{sfn|Krizhanovsky, Transformation|2010}} The parsed data includes language, part of speech, definitions, quotations,{{sfn|Smirnov et al.|2012}}{{efn|Quotations are extracted only from Russian Wiktionary.{{sfn|Smirnov et al.|2012}}}} semantic relations{{sfn|Krizhanovsky, Comparison|2010}} and translations. This is a [[Multi-licensing#License compatibility|multi-licensed]] open-source software.
+* Etymological entries have been parsed in the Etymological [[WordNet]] project.&lt;ref&gt;[http://www.icsi.berkeley.edu/~demelo/etymwn/ Etymological WordNet]&lt;/ref&gt;
+
+Examples of [[natural language processing]] tasks which have been solved with the help of Wiktionary data include:
+
+* [[Rule-based machine translation]] between [[Dutch language]] and [[Afrikaans]]; data of English Wiktionary, Dutch Wiktionary and Wikipedia were used with the [[Apertium]] machine translation platform.{{sfn|Otte|Tyers|2011}}
+* Construction of [[machine-readable dictionary]] by the parser NULEX, which integrates open linguistic resources: English Wiktionary, [[WordNet]], and [[VerbNet]].{{sfn|McFate|Forbus|2011}} The parser NULEX [[Web scraping|scrapes]] English Wiktionary for tense information (verbs), plural form and part of speech (nouns).
+* [[Speech recognition]] and [[Speech synthesis|synthesis]], where Wiktionary was used to automatically create pronunciation dictionaries.{{sfn|Schlippe|Ochs|Schultz|2012}} Word-pronunciation pairs were retrieved from 6 Wiktionary language editions (Czech, English, French, Spanish, Polish, and German). Pronunciations are in terms of the [[International Phonetic Alphabet]].{{efn|If there are several IPA notations on a Wiktionary page – either for different languages or for pronunciation variants, then the first pronunciation was extracted.{{sfn|Schlippe|Ochs|Schultz|2012|p=4802}}}} The [[Speech recognition|ASR]] system based on English Wiktionary has the highest word error rate, where each third phoneme has to be changed.{{sfn|Schlippe|Ochs|Schultz|2012|p=4804}}
+* [[Ontology engineering]]{{sfn|Meyer|Gurevych|2012}} and [[semantic network]] constructing.&lt;ref&gt;http://conceptnet5.media.mit.edu&lt;/ref&gt;
+* [[Ontology alignment|Ontology matching]].{{sfn|Lin|Krizhanovsky|2011}}
+* [[Text simplification]]. Medero &amp; [[Mari Ostendorf|Ostendorf]]{{sfn|Medero|Ostendorf|2009}} assessed vocabulary difficulty ([[Readability|reading level]] detection) with the help of Wiktionary data. Properties of words extracted from Wiktionary entries (definition length and [[Part of speech|POS]], sense, and translation counts) were investigated. Medero &amp; Ostendorf expected that (1) very common words will be more likely to have multiple parts of speech, (2) common words to be more likely to have multiple senses, (3) common words will be more likely to have been translated into multiple languages. These features extracted from Wiktionary entries were useful in distinguishing word types that appear in [[Simple English Wikipedia]] articles from words that only appear in the Standard English comparable articles.
+* [[Part-of-speech tagging]]. Li et al. (2012){{sfn|Li|Graça|Taskar|2012}} built multilingual POS-taggers for eight resource-poor languages on the basis of English Wiktionary and [[Part-of-speech tagging#Use of Hidden Markov Models|Hidden Markov Models]].{{efn|The source code and the results of POS-tagging are available at https://code.google.com/p/wikily-supervised-pos-tagger}}
+* [[Sentiment analysis]].{{sfn|Chesley|Vincent|Xu|Srihari|2006}}
+
+==See also==
+*[[List of Wiktionaries]]
+
+==Notes==
+{{notelist|35em}}
+
+==References==
+;Specific
+{{reflist|30em}}
+
+;General
+{{refbegin}}
+* {{cite journal
+|last1= Chesley |first1= Paula
+|last2= Vincent |first2= Bruce
+|last3= Xu      |first3= Li
+|last4= Srihari |first4= Rohini K.
+|year           = 2006
+|title          = Using verbs and adjectives to automatically classify blog sentiment
+|journal        = Training
+|volume=580 |issue= |pages=233–235
+|url            = http://www.aaai.org/Papers/Symposia/Spring/2006/SS-06-03/SS06-03-005.pdf
+|accessdate     = May 9, 2013
+}}
+
+* {{cite conference
+|url= http://svn.aksw.org/papers/2012/JIST_Wiktionary/public.pdf
+|title= Leveraging the Crowdsourcing of Lexical Resources for Bootstrapping a Linguistic Data Cloud
+|last1=Hellmann |first1=Sebastian
+|last2=Brekle   |first2=Jonas
+|last3=Auer     |first3=Sören
+|year=2012
+|publisher=
+|booktitle= Proc. Joint Int. Semantic Technology Conference (JIST)
+|pages=
+|location= Nara, Japan
+}}
+
+* {{cite book
+|last1         = Hellmann |first1 = S.
+|last2         = Auer |first2 = S.
+|chapter       = Towards Web-Scale Collaborative Knowledge Extraction
+|chapterurl    = http://svn.aksw.org/papers/2012/PeoplesWeb/public_preprint.pdf
+|title         = The People's Web Meets NLP
+|series        = Theory and Applications of Natural Language Processing
+|editor1-last=Gurevych |editor1-first=Iryna
+|editor2-last=Kim      |editor2-first=Jungi
+|publisher     = [[Springer-Verlag]]
+|year          = 2013
+|pages         = 287–313
+|isbn          = 978-3-642-35084-9
+}}
+
+* {{wikicite
+|reference = {{cite arXiv |last=Krizhanovsky |first=Andrew |eprint=1011.1368 |class=cs |title=Transformation of Wiktionary entry structure into tables and relations in a relational database schema |year=2010}}
+|ref = {{harvid|Krizhanovsky, Transformation|2010}}
+}}
+* {{wikicite
+|reference = {{cite arXiv |last=Krizhanovsky |first=Andrew |eprint=1006.5040 |class=cs |title=The comparison of Wiktionary thesauri transformed into the machine-readable format |year=2010}}
+|ref = {{harvid|Krizhanovsky, Comparison|2010}}
+}}
+
+* {{cite conference
+|last1= Kurmas |first1= Zachary
+|date=July 2010
+| title = Zawilinski: a library for studying grammar in Wiktionary
+| conference = Proceedings of the 6th International Symposium on Wikis and Open Collaboration
+| location = Gdansk, Poland
+| url = http://portal.acm.org/citation.cfm?id=1832799
+| accessdate = July 29, 2011
+}}
+
+* {{cite conference
+|url            = http://newdesign.aclweb.org/anthology/D/D12/D12-1127.pdf
+|title          = Wiki-ly supervised part-of-speech tagging
+|last1=Li     |first1= Shen
+|last2=Graça  |first2= Joao V.
+|last3=Taskar |first3= Ben
+|year           = 2012
+|booktitle      = Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning
+|pages          = 1389–1398
+|publisher      = Association for Computational Linguistics
+|location       = Jeju Island, Korea
+}}
+
+*{{cite magazine
+|last1 = Lepore |first1= Jill |authorlink= Jill Lepore
+|title = Noah's Ark
+|url = http://www.newyorker.com/archive/2006/11/06/061106fa_fact_lepore
+|format = Abstract | magazine = The New Yorker
+|date=November 6, 2006 | accessdate = April 21, 2007
+}}
+
+* {{cite conference
+|arxiv            = 1109.0732|title          = Multilingual ontology matching based on Wiktionary data accessible via SPARQL endpoint
+|last1=Lin          |first1= Feiyu
+|last2=Krizhanovsky |first2= Andrew
+|year           = 2011
+|booktitle      = Proc. of the 13th Russian Conference on Digital Libraries RCDL'2011
+|pages          = 19–26
+|location       = Voronezh, Russia
+|bibcode= 2011arXiv1109.0732L}}
+
+* {{cite conference
+|url            = http://www.aclweb.org/anthology/P/P11/P11-2063.pdf
+|title          = NULEX: an open-license broad coverage lexicon
+|last1=McFate |first1=Clifton J.
+|last2=Forbus |first2=Kenneth D.
+|year           = 2011
+|publisher      = The Association for Computer Linguistics
+|booktitle      = The 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies, Proceedings of the Conference
+|pages          = 363–367
+|location       = Portland, Oregon, USA
+|isbn           = 978-1-932432-88-6
+}}
+
+* {{cite conference
+|url            = http://www.eee.bham.ac.uk/SLaTE2009/papers%5CSLaTE2009-41-v2.pdf
+|title          = Analysis of vocabulary difficulty using wiktionary
+|last1=Medero    |first1=Julie
+|last2=Ostendorf |first2=Mari
+|year           = 2009
+|booktitle      = Proc. SLaTE Workshop.
+}}
+
+* {{cite book
+|last1         = Meyer |first1 = C. M.
+|last2         = Gurevych |first2 = I.
+|chapter       = Worth its Weight in Gold or Yet Another Resource - A Comparative Study of Wiktionary, OpenThesaurus and GermaNet
+|chapterurl    = http://www.informatik.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2010/cicling2010-meyer-lsrcomparison.pdf
+|title         = Proc. 11th International Conference on Intelligent Text Processing and Computational Linguistics, Iasi, Romania
+|year = 2010
+|pages = 38–49
+}}
+
+* {{cite book
+|last1         = Meyer |first1 = C. M.
+|last2         = Gurevych |first2 = I.
+|chapter       = OntoWiktionary – Constructing an Ontology from the Collaborative Online Dictionary Wiktionary
+|chapterurl    = http://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2012/igi-saod2011-meyer-ontowiktionary.pdf
+|title         = Semi-Automatic Ontology Development: Processes and Resources
+|editor1-last  = Pazienza
+|editor1-first = M. T. 
+|editor2-last  = Stellato
+|editor2-first = A. 
+|publisher     = IGI Global
+|date          = 2012
+|pages         = 131–161
+|isbn          = 978-1-4666-0188-8
+|archive-url   = https://web.archive.org/web/20131009004135/http://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2012/igi-saod2011-meyer-ontowiktionary.pdf
+|archive-date  =October 9, 2013
+}}
+
+* {{cite conference
+|url           = http://www.mt-archive.info/EAMT-2011-Otte.pdf
+|title         = Rapid rule-based machine translation between Dutch and Afrikaans
+|last1         = Otte  |first1 = Pim
+|last2         = Tyers |first2 = F. M.
+|year          = 2011
+|editor1-last  = Forcada      |editor1-first = Mikel L.
+|editor2-last  = Depraetere   |editor2-first = Heidi
+|editor3-last  = Vandeghinste |editor3-first = Vincent
+|booktitle     = 16th Annual Conference of the European Association of Machine Translation, EAMT11
+|pages         = 153–160
+|location      = Leuven, Belgium
+}}
+
+* {{cite conference
+|url           = http://csl.ira.uka.de/~schlippe/pubs/ICASSP2012-Schlippe_G2PModelGenerationIndoEuropean.pdf
+|title         = Grapheme-to-phoneme model generation for Indo-European languages
+|last1=Schlippe |first1=Tim
+|last2=Ochs     |first2=Sebastian
+|last3=Schultz  |first3=Tanja | author3-link = Tanja Schultz
+|year          = 2012
+|booktitle     = Acoustics, Speech and Signal Processing (ICASSP)
+|pages         = 4801–4804
+|location      = Kyoto, Japan
+}}
+
+* {{cite journal
+|vauthors= Smirnov A, Levashova T, Karpov A, Kipyatkova I, Ronzhin A, Krizhanovsky A, Krizhanovsky N
+|date           = 2012
+|title          = Analysis of the quotation corpus of the Russian Wiktionary
+|journal        = Research in Computing Science
+|volume=56 |issue= |pages=101–112
+|doi = 10.13053/rcs-56-1-11
+|citeseerx      = 10.1.1.694.9627
+|arxiv          = 2002.00734
+|ref            = {{harvid|Smirnov et al.|2012}}
+}}
+
+* {{cite conference
+|url            = http://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2008/lrec08_camera_ready.pdf
+|title          = Extracting Lexical Semantic Knowledge from Wikipedia and Wiktionary
+|last1=Zesch    |first1=Torsten
+|last2=Müller   |first2=Christof
+|last3=Gurevych |first3=Iryna
+|year           = 2008
+|booktitle      = Proceedings of the Conference on Language Resources and Evaluation (LREC)
+|location       = Marrakech, Morocco
+}}
+
+* {{cite web
+|title=Wiktionary
+|url=https://www.pcmag.com/article2/0,1895,1786207,00.asp
+|publisher=PC Magazine
+|work=Top 101 Web Sites
+|date=April 6, 2005|accessdate=December 16, 2005
+|ref = {{harvid|PC Mag|2005}}
+}}
+{{refend}}
+
+==External links==
+{{Wiktionary|Wiktionary}}
+*[[m:Wiktionary/Table|List of all Wiktionary editions]]
+*[https://www.wiktionary.org/ Wiktionary front page]
+**[https://en.wiktionary.org/wiki/Wiktionary:Main_Page English Wiktionary]
+*{{F-Droid|org.wiktionary}}
+*{{Google Play|org.wiktionary}}
+*[//en.wiktionary.org/wiki/Wiktionary:Multilingual_statistics Wiktionary's multilingual statistics]
+*[[meta:List of Wiktionaries|Wikimedia's page on Wiktionary]] (including list of all existing Wiktionaries)
+*[[meta:Category:Wiktionary|Pages about Wiktionary in Meta]].
+*[http://OmegaWiki.org/Meta:Main_Page Meta:Main Page&amp;nbsp;– OmegaWiki]
+
+{{Wikimedia Foundation}}
+{{Dictionaries of English}}
+
+[[Category:Advertising-free websites]]
+[[Category:Etymological dictionaries]]
+[[Category:Free and open-source Android software]]
+[[Category:Internet properties established in 2002]]
+[[Category:MediaWiki websites]]
+[[Category:Multilingual websites]]
+[[Category:Online dictionaries]]
+[[Category:Wikimedia projects]]</text>
+      <sha1>6bv115h2rx5nc9x5iw0dvz0qrocb9q1</sha1>
+    </revision>
+  </page>
+</mediawiki>

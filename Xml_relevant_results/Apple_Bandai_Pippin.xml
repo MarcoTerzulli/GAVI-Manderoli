@@ -1,0 +1,304 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Apple Bandai Pippin</title>
+    <ns>0</ns>
+    <id>308880</id>
+    <revision>
+      <id>933044625</id>
+      <parentid>930544958</parentid>
+      <timestamp>2019-12-29T17:40:44Z</timestamp>
+      <contributor>
+        <ip>162.225.200.96</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11439" xml:space="preserve">{{Use mdy dates|date=October 2013}}
+{{Infobox information appliance
+| name         = Pippin
+| logo         = [[File:PIPPIN.svg|100px]]
+| image        = Pippin-Atmark-Console-Set.jpg
+| caption      = The Bandai Pippin (Atmark Player) and wireless controller
+| developer    = [[Apple Computer]] 
+| manufacturer = [[Bandai]]
+| carrier      = 
+| family       =
+| type         = Multimedia player, [[home video game console]]
+| generation   = [[History of video game consoles (fifth generation)|Fifth generation era]]
+| releasedate  = {{vgrelease|JP|March 28, 1996|NA|September 1, 1996}}
+| price        = US$599
+| discontinued = 1997&lt;ref name="gamepro"&gt;{{cite web|url=http://www.gamepro.com/gamepro/domestic/games/features/111823.shtml| title=The 10 Worst-Selling Consoles of All Time|accessdate=November 25, 2007|first=Blake|last=Snow| publisher=[[GamePro]].com|date=May 4, 2007|archiveurl=https://web.archive.org/web/20070508035815/http://www.gamepro.com/gamepro/domestic/games/features/111823.shtml|archivedate=May 8, 2007}}&lt;/ref&gt;
+| unitssold    = 42,000&lt;ref name="gamepro"/&gt;
+| unitsshipped =
+| media        = [[CD-ROM]]
+| os           = [[Classic Mac OS|Mac OS]]
+| power        = 
+| cpu          = [[PowerPC 603]] [[RISC]] (66 MHz)
+| memory       = 6 MB combined system and video memory,128kb [[NVRAM]]
+| display      = 
+| graphics     = "Taos" &lt;ref&gt;{{cite web|url=http://www.vintagemacworld.com/pip1.html| title=Hacking the Pippin|accessdate=July 23, 2013}}&lt;/ref&gt; (VGA/16-bit)
+| sound        = 
+| input        =
+| location     = &lt;!-- GPS or Wi-Fi based --&gt;
+| controllers  = "AppleJack": [[control pad]] with embedded [[trackball]]
+| output       =
+| camera       =
+| touchpad     =
+| connectivity = 14.4, 28.8, 33.6 kbit/s modems
+| service      = PSINet/@World
+| dimensions   = 
+| weight       = 4 KG
+
+| topgame      =
+| compatibility =
+| predecessor  = [[Playdia]]
+| successor    = [[Apple TV]] (4th generation)&lt;br /&gt;[[Apple Arcade]] (for video games)
+| related      = 
+| website      =
+}}
+
+The '''Apple Bandai Pippin''', stylized '''PiP P!N''', is a multimedia technology console, designed by [[Apple Computer]]. The console is based on the [[Apple Pippin]] platform – a derivative of the [[Apple Macintosh]] platform. Bandai produced the ATMARK and @WORLD consoles between 1996 and 1997. It was sold at $599.
+
+The goal of the Bandai Pippin was to create an inexpensive computer system aimed mostly at playing CD-based multimedia software, especially games, but also functioning as a [[thin client]]. The operating system is a version of [[System 7#Version history|System 7.5.2]], and is based on a 66 [[Hertz|MHz]] [[PowerPC 603]] processor and a 14.4 [[Kilobyte|kb]]/s [[modem]]. It features a 4×-speed [[CD-ROM]] drive&lt;ref&gt;{{cite journal|last= |first= |title=Pippin Debuts as Bandai's Power Player |journal=[[Next Generation (magazine)|Next Generation]]|issue=4|publisher=[[Imagine Media]]|date=April 1995|page=30}}&lt;/ref&gt; and a video output that can connect to a standard television display.
+
+==Marketing==
+In Japan, Bandai produced Pippin-based systems called the {{Nihongo|Pippin Atmark|ピピンアットマーク|Pipin Attomāku}}. Most of the Atmark systems use the same platinum color used on many of the Apple Macintosh models at the time.
+
+In the United States and most parts of Europe, Bandai named the system the Bandai Pippin @WORLD (pronounced "at-world"). The @WORLD has the same specifications as the Pippin Atmark, but runs an English version of Mac OS. Most of the western systems use a black color.
+
+==History==
+{{details|Apple Pippin}}
+Bandai manufactured fewer than 100,000 Pippins, but reportedly sold 42,000 systems before discontinuing the line. Production of the system was so limited, there were more keyboard and modem accessories produced than actual systems.&lt;ref&gt;Assembler (via Archive.org). ''[https://web.archive.org/web/20080321013705/http://assembler.roarvgm.com/Apple_Bandai_pippin/apple_bandai_pippin.html Apple Bandai Pippin]''. Retrieved March 21, 2008.&lt;/ref&gt;
+
+In May 2006, the Pippin placed 22nd in ''[[PC World (magazine)|PC World]]'''s list of the "25 Worst Tech Products of All Time."&lt;ref&gt;[http://www.pcworld.com/article/125772/worst_products_ever.html?page=6 The 25 Worst Tech Products of All Time: 22. Apple Pippin @World (1996)] (Dan Tynan, ''PCWorld'', May 26, 2006)&lt;/ref&gt;
+
+==Software==
+
+===Japan===
+Very little software was produced for the Japanese version on release in early 1996. While some promised software may not have been released, the number that was released is fewer than 80 games and applications.&lt;ref&gt;''[https://sebangulo.000webhostapp.com/Pippin/Game_Collection.html The most accurate list of Pippin titles]''. Retrieved February 13th, 2018.&lt;/ref&gt;
+
+===USA===
+When Bandai released the U.S. version, it had only 18 games and applications sold separately, and six CDs that came with the Pippin itself. Upgrades to the Pippin Browser were released as a new CD over time, and so was an update to ''TV Works'' (a text and drawing program).&lt;ref&gt;{{cite web |url=http://web.mac.com/sebangulo/Pippin/About_the_Pippin.html |title=About the Apple Pippin. Retrieved February 13th, 2018. |access-date=September 14, 2009 |archive-url=https://web.archive.org/web/20111109084743/http://web.mac.com/sebangulo/Pippin/About_the_Pippin.html |archive-date=November 9, 2011 |url-status=dead }}&lt;/ref&gt;
+
+===Europe===
+When the console was released, barely any software was produced for this side of the world. Only 2 out of the 23 games were ever released in Europe. Not much is known about what happened to it in this region.
+
+
+{| class="wikitable sortable" style="width:98%;font-size:90%;" id="softwarelist"
+|-
+!rowspan="2" width=28% data-sort-type="text"|Title
+!rowspan="2" width=18%|Developer(s)
+!rowspan="2" width=18%|Publisher(s)
+!colspan="3"|Regions released
+|-
+!style="width:12%;"|Japan
+!style="width:12%;"|Europe/PAL
+!style="width:12%;"|North America
+|-
+|''Anime Designer: [[Dragon Ball Z]]''
+|Magic Mouse
+|[[Bandai Digital Entertainment Corporation]]
+|{{dts|1996|06|18}}||{{unreleased}}||{{unreleased}}
+|-
+|''CineNoir''
+|DigiToy Entertainment
+|[[Bandai Digital Entertainment Corporation]]
+|{{unreleased}}||{{unreleased}}||{{dts|1996}}
+|-
+|''[[Compton's Encyclopedia#CD-ROM Editions|Compton's Interactive Encyclopedia:@World Edition]]''
+|Softkey Multimedia
+|[[Bandai Digital Entertainment Corporation]]
+|{{unreleased}}||{{unreleased}}||{{dts|1996}}
+|-
+|''Better Homes and Gardens Cool Crafts''
+|CD Vision
+|[[Bandai Digital Entertainment Corporation]]
+|{{unreleased}}||{{unreleased}}||{{dts|1996}}
+|-
+|''Exotic Sushi''
+|Electric Dreams
+|[[Bandai Digital Entertainment Corporation]]
+|{{unreleased}}||{{unreleased}}||{{dts|1996}}
+|-
+|''[[Gadget Invention, Travel, &amp; Adventure|Gadget: Invention, Travel, &amp; Adventure]]''
+|Synergy Interactive
+|[[Bandai Digital Entertainment Corporation]]
+||{{dts|1996}}||{{unreleased}}||{{unreleased}}
+|-
+|''Gundam Tactics: Mobility Fleet 0079''
+|DigiCube
+|[[Bandai Digital Entertainment Corporation]]
+|{{dts|1996|03}}||{{unreleased}}||{{unreleased}}
+|-
+|''Gus Goes to Cyberopolis''
+|[[Modern Media Ventures]]
+|[[Bandai Digital Entertainment Corporation]]
+|{{unreleased}}||{{unreleased}}||{{dts|1996|12}}
+|-
+|''Gus Goes to the Kooky Carnival in search of Rant''
+|[[Modern Media Ventures]]
+|[[Bandai Digital Entertainment Corporation]]
+|{{unreleased}}||{{unreleased}}||{{dts|1996|12}}
+|-
+|''Histoires d'Urologie''
+|MELOdY
+|[[Laboratoires Pierre Fabre| Éditions Médicales Pierre Fabre]]
+|{{unreleased}}||{{dts|1999}}||{{unreleased}}
+|-
+|''Home Improvement 1-2-3''
+|Multicom Publishing
+|[[Bandai Digital Entertainment Corporation]]
+|{{unreleased}}||{{unreleased}}||{{dts|1996|12}}
+|-
+|''Katz Pippin Demo CD 2.0''
+|?
+|?
+|{{unreleased}}||{{dts|1997}}||{{unreleased}}
+|-
+|''Movieoke''
+|DigiToy Entertainment
+|[[Bandai Digital Entertainment Corporation]]
+|{{unreleased}}||{{unreleased}}||{{unknown}}
+|-
+|''[[Mr. Potato Head Saves Veggie Valley]]''
+|[[Duck Soup Productions]] and [[Turning Point Software]]
+|[[Bandai Digital Entertainment Corporation]]
+|{{unreleased}}||{{unreleased}}||{{dts|1996|12}}
+|-
+|''[[The Journeyman Project: Pegasus Prime]]''
+|[[Presto Studios]]
+|[[Bandai Digital Entertainment Corporation]]
+|{{unreleased}}||{{unreleased}}||{{unknown}}
+|-
+|''[[Power Rangers Zeo]] Vs. The Machine Empire''
+|[[CyberFlix]]
+|[[Bandai Digital Entertainment Corporation]]
+|{{unreleased}}||{{unreleased}}||{{dts|1996|12}}
+|-
+|''[[Playskool Puzzles]]''
+|ImageBuilder Software
+|[[Bandai Digital Entertainment Corporation]]
+|{{unreleased}}||{{unreleased}}||{{dts|1996}}
+|-
+|''[[Play-Doh Creations]]''
+|[[ Hasbro Interactive]]
+|[[Bandai Digital Entertainment Corporation]]
+|{{unreleased}}||{{unreleased}}||{{unknown}}
+|-
+|''Racing Days''
+|[[Kitt Peak]]
+|[[Bandai Digital Entertainment Corporation]]
+|{{dts|1996|03}}||{{unreleased}}||{{dts|1996}}
+|-
+|''[[Shockwave Assault|Shock Wave: Invasion Earth: 2019]]
+|[[Electronic Arts]]
+|[[Bandai Digital Entertainment Corporation]]
+|{{unreleased}}||{{unreleased}}||{{dts|1996}}
+|-
+|''[[Super Marathon]]''
+|[[Bungie]]
+|[[Bandai Digital Entertainment Corporation]]
+|{{unreleased}}||{{unreleased}}||{{dts|1996}}
+|-
+|''Terror T.R.A.X.: Track of the Vampire''
+|Ground Zero Productions
+|[[Bandai Digital Entertainment Corporation]]
+|{{unreleased}}||{{unreleased}}||{{unknown}}
+|}
+
+==Accessories==
+[[Image:Pippinpaddle.jpg|250px|thumb|right|An AppleJack controller]]
+
+*AppleJack controller
+*AppleJack Wireless (IR) controller
+*Pippin keyboard with drawing tablet
+*Pippin Modems (14.4, 28.8, 33.6&amp;nbsp;kbit/s)
+*Pippin memory (2, 4, 8, 16&amp;nbsp;MB)
+*Pippin Floppy Dock
+*Pippin MO 256&amp;nbsp;MB optical disk
+*Pippin ADB adapter (for connecting Macintosh devices to Pippin)
+*Pippin to Macintosh (ADB) adapter (for connecting Pippin devices to Macintosh)
+
+==Printers==
+Pippin can use the [[StyleWriter|Apple Color StyleWriter]] 2400 and 2500 series through its serial port.
+
+==See also==
+* [[Apple TV]]
+* [[Apple Interactive Television Box]]
+* [[Mac gaming]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Apple Pippin}}
+*[https://web.archive.org/web/19970129095612/http://www.pippin.apple.com/ Apple's original Pippin site]
+*[https://web.archive.org/web/19970601023829/http://www.katzmedia.com/company.html Katz Media mission statement on the Pippin]
+*[http://www.macgeek.org/museum/pippin/ Bandai Pippin Museum &amp; Archive, including PDF Technical Notes]
+*[http://lowendmac.com/coventry/06/apple-pippin.html Overview]
+*[https://www.flickr.com/photos/mac-collection/sets/72157623547637210 Pippin screenshots]
+*[https://archive.org/details/CC1320_winter_ces_1996 The Computer Chronicles' coverage of CES 1996, including Apple's demonstration of the Pippin]
+*[http://www.computerhistory.org/revolution/computer-games/16/210/899 Gil Amelio's gold-finish Pippin at the Computer History Museum]
+*[http://www.newlaunches.com/archives/top_10_apple_products_which_flopped.php Top 10 Apple products that flopped]
+
+{{Bandai Namco Hardware}}
+{{Fifth generation game consoles}}
+{{Home video game consoles}}
+{{Apple hardware}}
+
+[[Category:Products introduced in 1995]]
+[[Category:Products and services discontinued in 1997]]
+[[Category:Apple Inc. hardware|Pippin]]
+[[Category:Bandai consoles]]
+[[Category:CD-ROM-based consoles]]
+[[Category:Fifth-generation video game consoles]]
+[[Category:Home video game consoles]]
+[[Category:PowerPC-based video game consoles]]
+[[Category:Digital media players]]
+[[Category:Apple Inc. partnerships]]</text>
+      <sha1>jptmntyr9ln2yjvo8opa96sv3ljkda5</sha1>
+    </revision>
+  </page>
+</mediawiki>

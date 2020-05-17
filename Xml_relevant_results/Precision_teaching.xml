@@ -1,0 +1,97 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Precision teaching</title>
+    <ns>0</ns>
+    <id>3205531</id>
+    <revision>
+      <id>955917219</id>
+      <parentid>918326909</parentid>
+      <timestamp>2020-05-10T14:33:40Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7210" xml:space="preserve">'''Precision teaching''' is a precise and systematic method of evaluating instructional tactics and curricula.  It is one of the few quantitative analyses of behavior forms of applied behavior analysis.  It comes from a very strong quantitative scientific basis and was pioneered by [[Ogden Lindsley]] in the 1960s based largely on [[B. F. Skinner|Skinner]]'s [[operant conditioning]]. Precision teaching is a type of [[programmed instruction]] that focuses heavily on frequency as its main datum.  By focusing on fluency, the teacher can then adjust the curricula for each learner to maximize the learning based on the learner's personal fluency measurements. The instruction can be by any method or approach. For example, the most effective applications of precision teaching have been when it is combined with [[direct instruction]].&lt;ref name=Lins1991&gt;{{cite journal | title = Precision Teaching's Unique Legacy from B. F. Skinner | journal = Journal of Behavioral Education | year = 1991 | first = Ogden R. | last = Lindsley | volume = 1 | issue = 2 | pages = 253–266 | id =  | url = http://www.fluency.org/lindsley1991.pdf | accessdate = 2012-02-28 | doi = 10.1007/bf00957007 | archive-url = https://web.archive.org/web/20160306132620/http://www.fluency.org/lindsley1991.pdf | archive-date = 2016-03-06 | url-status = dead }}&lt;/ref&gt; Children as young as five have charted their fluency measurements and utilized precision teaching to increase their learning.   According to Owen White,&lt;ref name=white86&gt;White, O. R. (1986). Precision teaching—Precision learning. Exceptional Children, 52, 522-534.&lt;/ref&gt; Precision teaching "has been used successfully to teach the progress of learners ranging from the severely disabled to university graduate students, from the very young to the very old".
+
+==Guiding principles==
+*'''Focus on Directly Observable Behavior'''
+:By focusing on directly observable behavior, teachers can avoid ambiguity.  Thus, it is important for the teacher to measure concrete, directly observable behaviors which can be counted and recorded.  Even if the learning deficit is a subtle or private one (such as reading silently), the teacher must find a way to make it public so that it may be counted and improved.&lt;ref name="white86"/&gt;
+*'''Frequency as a Measure of Performance'''
+:Frequency is specified as counts per minute.  There are well researched advantages to the use of frequency data over traditional measures in education such as percent correct &lt;ref name=Lins1991 /&gt;&lt;ref&gt;Binder, C. (1996). Behavioral fluency: Evolution of a new paradigm. The Behavior Analyst, 19, 163-197.&lt;/ref&gt;&lt;ref&gt;West, R. P., &amp; Young, K. R. (1992). Precision teaching. In R. P. West &amp; L. A. Hamerlynck (Eds.), Designs for excellence in education: The legacy of B. F. Skinner (pp. 113-146). Longmont, CO: Sopris West, Inc.&lt;/ref&gt;
+*'''The Standard Celeration Chart '''
+:Ogden Lindsley created the standard celeration chart because of a large amount of differences between the way each teacher was charting their learner's behavior at the University of Kansas Children's Rehabilitation unit.&lt;ref&gt;Lindsley, O. R. (1990b). Precision teaching: By teachers for children. [[Teaching Exceptional Children]], 22(3), 10-15.&lt;/ref&gt;  Lindsley indicated that it took 20 to 30 minutes to share one project because each chart had to be explained and described.  Thus, the standard celeration chart was developed in which the x-axis is an add scale to accommodate a full school semester (140 days).  The y-axis was on a multiply scale accommodating frequencies ranging from 1 per day to 1000 per minute.  The largest benefit was that with the new chart, different students being charted by different teachers will still have pictures of progress which can be compared and evaluated.&lt;ref name=white86 /&gt;
+*'''The Learner Knows Best'''
+:Ogden Lindsley explains how he coined this slogan:
+{{Quotation|"When I was a graduate student, I trained a rat whose behavior did not extinguish exactly as the charts in Skinner's book had shown. My rat at first had responded much more rapidly when his responding was no longer reinforced. The rapid responding went on for about 30 minutes, at which time the rat stopped abruptly. I took the cumulative record of the rat's unusual extinction to Dr. Skinner and asked him how this had happened. How could the rat do this when the book showed a very different gradual extinction curve? Skinner answered, "In this case, the book is wrong! The rat knows best! That's why we still have him in the experiment!"|Ogden Lindsley| Precision teaching: By teachers for children. Teaching Exceptional Children, 22(3) page 12}}
+:From this experience, Ogden realized that if a student is progressing according to plan, the program is good for the student.  If not, the program is flawed, and needs to be changed, therefore, there is no failure by the student as a product of the student&lt;ref&gt;Fan-Yu Lin and Kubina R.M. (2004) Learning Channels and Verbal Behavior, ''The Behavior Analyst Today, 5 (1),'' 1-14 {{cite web |url=http://www.baojournal.com/BAT%20Journal/VOL-5/BAT-5-1.pdf |title=Archived copy |accessdate=2012-02-28 |url-status=dead |archiveurl=https://web.archive.org/web/20121030031931/http://www.baojournal.com/BAT%20Journal/VOL-5/BAT-5-1.pdf |archivedate=2012-10-30 }} ,&lt;/ref&gt; but rather as a product of the teaching.
+
+==Instructional tools==
+*'''Standard Celeration Chart''':
+:To measure fluency, precision teaching utilizes a semi-logarithmic chart called a [[Standard Celeration Chart]].  This chart allows for demonstration of changes in rate of acquisition and allows the teacher to quickly assess a student’s performance accelerating through time.&lt;ref name=Lins1991 /&gt; By utilizing this chart, teachers are able to quickly adjust the curriculum to maximize the student's performance and learning. This chart was developed by Lindsley in the 1950s while at Metropolitan State Hospital and Harvard University.  It was not created in its current form until 1967.
+
+*'''SAFMEDS''':
+:SAFMEDS is a method of training to fluency and stands for Say All Facts a Minute Every Day Shuffled. This training has been shown to increase performance in college settings.&lt;ref&gt;Austin, J. L. (2000). Behavioral approaches to college teaching. In J. Austin and J. E. Carr (Eds.) Handbook of applied behavior analysis (p. 449-472). Reno, NV.&lt;/ref&gt;
+
+For a good introductory article on how to use precision teaching and celeration charts see &lt;ref&gt;Abigail B. Calkin (2005): Precision Teaching: The Standard Celeration Charts. The Behavior Analyst Today, 6.(4), Page 207 -235 {{cite web |url=http://www.baojournal.com/BAT%20Journal/VOL-6/BAT-6-4.pdf |title=Archived copy |accessdate=2012-02-28 |url-status=dead |archiveurl=https://web.archive.org/web/20101229162810/http://www.baojournal.com/BAT%20Journal/VOL-6/BAT-6-4.pdf |archivedate=2010-12-29 }}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+* http://psych.athabascau.ca/html/387/OpenModules/Lindsley/introa.shtml
+* http://precisionteaching.pbwiki.com
+* http://www.celeration.org/index.php?option=com_content&amp;task=category&amp;sectionid=5&amp;id=23&amp;Itemid=35
+* http://www.celeration.org
+
+{{DEFAULTSORT:Precision Teaching}}
+[[Category:Education theory]]</text>
+      <sha1>sg7lg4rdld7ddzq6v9zn5mhc0kdh120</sha1>
+    </revision>
+  </page>
+</mediawiki>

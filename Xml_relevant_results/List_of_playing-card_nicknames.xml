@@ -1,0 +1,2016 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of playing-card nicknames</title>
+    <ns>0</ns>
+    <id>18602659</id>
+    <revision>
+      <id>957119896</id>
+      <parentid>955523104</parentid>
+      <timestamp>2020-05-17T03:40:31Z</timestamp>
+      <contributor>
+        <username>ShelfSkewed</username>
+        <id>1152308</id>
+      </contributor>
+      <comment>Fixed/updated links</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="99060" xml:space="preserve">{{globalize|date=September 2018}}
+This '''list of playing card nicknames''' has some [[nickname]]s for the [[playing card]]s in a 52-card deck, as used in some common card games, such as [[poker]].
+{{wiktionarycat|type=Poker|category=Poker}}
+
+==Single cards==
+The following is a list of nicknames used for playing cards used in most card games which use the standard 52-card pack. Such games usually require the revealing or announcement of held cards, at which point the nicknames may be used.
+
+{| class="wikitable"
+! Card name !! Initial !! Alternative names
+! colspan="4"| Collective names
+|-
+| [[King (playing card)|King]] || K || Cowboy,&lt;ref&gt;{{cite web
+  | last = Casino City
+  | title = Definition of Cowboy
+  | year = 2009
+  | url = http://dictionary.pokerzone.com/Cowboy
+  | accessdate = 2009-02-03}}
+&lt;/ref&gt; K-Boy, Knight, Monarch,&lt;ref name="BridgeHands"/&gt; Sergeant, [[King (playing card)|Alexander]] ({{cards|K♣}}),&lt;ref name="kings"&gt;{{cite web
+  | last = snopes.com
+  | title = Four Kings in a Deck of Cards
+  | date = 2007-09-29
+  | url = http://www.snopes.com/history/world/cardking.asp
+  | accessdate = 2009-02-11}}
+&lt;/ref&gt; [[King (playing card)|Charlemagne]] ({{cards|K♥}}),&lt;ref name="kings"/&gt; [[King (playing card)|Charles]] ({{cards|K♥}}),&lt;ref&gt;{{cite web
+  | first = David
+  | last = Madore
+  | title = Courts on Playing Cards
+  | date = 2007-09-10
+  | url = http://www.madore.org/~david/misc/cards.html
+  | accessdate = 2009-02-11}}
+&lt;/ref&gt; [[King (playing card)|David]] ({{cards|K♠}}),&lt;ref name="kings"/&gt; [[King (playing card)|Julius Caesar]] ({{cards|K♦}}),&lt;ref name="kings"/&gt; [[One-eyed royals|One-Eyed King]] ({{cards|K♦}}),&lt;ref&gt;{{cite web
+  | last = Casino City
+  | title = Definition of One-eyed King
+  | year = 2009
+  | url = http://dictionary.pokerzone.com/One-eyed+King
+  | accessdate = 2009-02-06}}
+&lt;/ref&gt; the Man with the Ax ({{cards|K♦}}),&lt;ref&gt;{{cite book
+  | title = The Rules of Neighborhood Poker According to Hoyle
+  | year = 1990
+  | first = Stewart
+  | last = Wolpin
+  | page = [https://books.google.com/books?id=7srgkv_DSr8C&amp;pg=PA91 91]}}
+&lt;/ref&gt; [[King (playing card)|Suicide King]] ({{cards|K♥}}),&lt;ref&gt;{{cite web
+  | last = Casino City
+  | title = Definition of Suicide King
+  | year = 2009
+  | url = http://dictionary.pokerzone.com/Suicide+King
+  | accessdate = 2009-02-06}}
+&lt;/ref&gt; [[Saddam Hussein|The Butcher of Baghdad]] ({{cards|K♦}})&lt;ref&gt;{{cite episode
+ | title = Betfair World Series of Poker Europe
+ | episodelink = 2007 World Series of Poker Europe results
+ | series = World Series of Poker Europe
+ | serieslink = 2007 World Series of Poker Europe results
+ | airdate = 2007-09-15
+ | season = 1
+ | number = 5}}&lt;/ref&gt;
+| rowspan="3" colspan="3" |Coat Card,&lt;ref&gt;{{cite web
+  | last = Casino City
+  | title = Definition of Coat Card
+  | year = 2009
+  | url = http://dictionary.pokerzone.com/Coat+Card
+  | accessdate = 5 May 2015}}
+&lt;/ref&gt; Court Card,&lt;ref&gt;{{cite web
+  | last = Casino City
+  | title = Definition of Court Card
+  | year = 2009
+  | url = http://dictionary.pokerzone.com/Court+Card
+  | accessdate = 5 May 2015}}&lt;/ref&gt; [[Face card|Face Card]], Figure, Liner, Paint,&lt;ref&gt;{{cite web
+  | last = Casino City
+  | title = Definition of Paint
+  | year = 2009
+  | url = http://dictionary.pokerzone.com/Paint
+  | accessdate = 5 May 2015}}&lt;/ref&gt; Paintskin, Picture, Picture Card,&lt;ref&gt;{{cite web
+  | last = Casino City
+  | title = Definition of Picture Card
+  | year = 2009
+  | url = http://dictionary.pokerzone.com/Picture+Card
+  | accessdate = 5 May 2015}}&lt;/ref&gt; Redskin, [[Rembrandt]],&lt;ref&gt;{{cite web
+  | last = Casino City
+  | title = Definition of Rembrandt
+  | year = 2009
+  | url = http://dictionary.pokerzone.com/Rembrandt
+  | accessdate = 5 May 2015}}&lt;/ref&gt; Royal Cards, [[Picasso]], Monkey
+| rowspan="4" | Broadway Cards,&lt;ref name="broadway"&gt;{{cite web
+  | last = Casino City
+  | title = Definition of Broadway Card
+  | year = 2009
+  | url = http://dictionary.pokerzone.com/Broadway+Card
+  | accessdate = 2009-02-01}}
+&lt;/ref&gt; Honor Card
+|-
+| [[Queen (playing card)|Queen]] || Q || [[Queen (playing card)|Argine]] ({{cards|Q♣}}),&lt;ref name="kings"/&gt; Bedpost Queen (Q♠), Black Lady (Q♠),&lt;ref&gt;{{cite web|title=Common Playing Card Nicknames |date=2019-06-04 |url=https://playingcarddecks.com/blogs/all-in/common-playing-card-nicknames |accessdate=2019-01-31}}&lt;/ref&gt;  [[Hearts (card game)|Black Maria]] ({{cards|Q♠}}),&lt;ref name="BridgeHands"/&gt; Calamity Jane ({{cards|Q♠}}),&lt;ref name="BridgeHands"/&gt; Cowgirl, Dame, Dirty Gertie ({{cards|Q♠}}), [[Queen (playing card)|Fanny Kaplan]] ({{cards|Q♠}}), Flower Queen (Q♣),&lt;ref&gt;{{cite web|title=Common Playing Card Nicknames |date=2019-06-04 |url=https://playingcarddecks.com/blogs/all-in/common-playing-card-nicknames |accessdate=2019-01-31}}&lt;/ref&gt; Girl, [[Helen of Troy]] ({{cards|Q♥}}),&lt;ref name="kings"/&gt; Hen, Joy Girl, [[Queen (playing card)|Judith]] ({{cards|Q♥}}),&lt;ref name="kings"/&gt; Lady,&lt;ref&gt;{{cite web | last = Casino City | title = Definition of Lady | year = 2009 | url = http://dictionary.pokerzone.com/Lady | accessdate = 5 May 2015}}&lt;/ref&gt; Molly Hogan ({{cards|Q♠}}), Mop-squeezer, Painted Lady, [[Queen (playing card)|Pallas Athena]] ({{cards|Q♠}}),&lt;ref name="kings"/&gt; Stenographer&lt;ref name="BridgeHands"/&gt;
+|-
+| [[Jack (playing card)|Jack]] || J || Boy,&lt;ref name="BridgeHands"/&gt; Bower,&lt;ref&gt;name="Euchre"&lt;/ref&gt; Fishhook,&lt;ref&gt;{{cite web
+  | last = Casino City
+  | title = Definition of Fishhook
+  | year = 2009
+  | url = http://dictionary.pokerzone.com/Fishhook
+  | accessdate = 5 May 2015}}&lt;/ref&gt; Hook,&lt;ref&gt;{{cite web
+  | last = Casino City
+  | title = Definition of Hook
+  | year = 2009
+  | url = http://dictionary.pokerzone.com/Hook
+  | accessdate = 2009-02-03}}&lt;/ref&gt; J-Bird, J-Boy, Jackal, Jackson,&lt;ref name="BridgeHands"/&gt; Jacksonville, Jake,&lt;ref name="BridgeHands"/&gt; John, Johnny,&lt;ref name="BridgeHands"/&gt; Johnson{{Citation needed|date=February 2009}}, Knave, Valet,&lt;ref name="BridgeHands"/&gt; Fish Hook, Eunuch ({{cards|J♠}}), [[Jack (playing card)|Hector]] ({{cards|J♦}}),&lt;ref name="kings"/&gt; Laughing Boy ({{cards|J♦}}), [[Ogier the Dane|Ogier]] ({{cards|J♠}}),&lt;ref name="kings"/&gt; [[Jack (playing card)|La Hire]] ({{cards|J♥}}),&lt;ref name="kings"/&gt; [[Jack (playing card)|Lancelot]] ({{cards|J♣}}),&lt;ref name="kings"/&gt; Pam ({{cards|J♣}}), Roland ({{cards|J♦}})
+|-
+| 10 || T
+|| [[Cassino (card game)|Big Cassino]] ({{cards|10♦}}),&lt;ref name="BridgeHands"/&gt; Dime, Sawbuck, [[10 (film)|Bo Derek]]
+| rowspan="7" | Spotter
+| rowspan="10"| Whiteskin
+| rowspan="5" {{N/A}}
+|-
+| 9 || 9
+|| Neener, Nina Ross, Niner, [[Curse of Scotland]] ({{cards|9♦}}){{ref|9h}}, Pothook,&lt;ref name="BridgeHands"/&gt; Scourge of Scotland ({{cards|9♦}}){{ref|9h}}
+| rowspan="3" |Pusher,&lt;ref name="BridgeHands"/&gt; Spot&lt;ref name="BridgeHands"/&gt;
+|-
+| 8 || 8
+|| Fat Lady, Ocho, Snowman, 8 Land, Race track, Time travel, Hog Nads
+|-
+| 7 || 7
+|| [[Beer Card]] ({{cards|7♦}}),&lt;ref&gt;{{cite web
+  | last = New South Wales Bridge Association
+  | title = The Beer Card
+  | year = 1999
+  | url = http://www.nswba.com.au/youth/ybeer.html
+  | accessdate = 2009-02-11}}&lt;/ref&gt; Candy Cane, Hockey Stick, Mullet, Salmon,&lt;ref name="BridgeSlang"/&gt; Walking Stick
+|-
+| 6 || 6
+|| A Boot, [[Richard Grace|Grace's Card]] ({{cards|6♥}}){{ref|6h}}, Loyalty at the Risk of Death ({{cards|6♥}}){{ref|6h}}, Sax, Sex||rowspan="5" {{N/A}}
+|-
+| 5 || 5
+|| Fever, Five Spot, Nickel, [[Pedro (game)|Pedro]]
+| rowspan="5" |Wheelcard&lt;ref name="Wheelcard"&gt;{{cite web|last=Casino City |title=Definition of Wheelcard |year=2009 |url=http://dictionary.pokerzone.com/Wheel+Card |accessdate=2009-02-06 |url-status=dead |archiveurl=https://web.archive.org/web/20090109123602/http://dictionary.pokerzone.com/Wheel%2BCard |archivedate=January 9, 2009 }}&lt;/ref&gt;
+|-
+| 4 || 4
+|| Boat, Four Spot, One Legged Ace, Broken Ace, Sailboat, Sharp Top, The Devil's Bedpost ({{cards|4♣}})&lt;ref name="BridgeSlang"/&gt;
+|-
+| 3 || 3
+|| Butts, Crab,&lt;ref&gt;{{cite web  | last = Casino City  | title = Definition of Crab  | year = 2009  | url = http://dictionary.pokerzone.com/Crab  | accessdate = 5 May 2015}}&lt;/ref&gt; Trey&lt;ref&gt;{{cite web
+  | last = Casino City
+  | title = Definition of Trey
+  | year = 2009
+  | url = http://dictionary.pokerzone.com/Trey
+  | accessdate = 5 May 2015}}&lt;/ref&gt;
+| rowspan="3" | No-Spotter
+|-
+| 2 || 2
+|| Deuce,&lt;ref&gt;{{cite web
+  | last = Casino City
+  | title = Definition of Deuce
+  | year = 2009
+  | url = http://dictionary.pokerzone.com/Deuce
+  | accessdate = 5 May 2015}}&lt;/ref&gt; Dewey, Duck,&lt;ref&gt;{{cite web
+  | last = Casino City
+  | title = Definition of Ducks
+  | year = 2009
+  | url = http://dictionary.pokerzone.com/Ducks
+  | accessdate = 5 May 2015}}&lt;/ref&gt; [[Cassino (card game)|Little Cassino]] ({{cards|2♠}}),&lt;ref name="BridgeSlang"/&gt; The Curse of Mexico ({{cards|2♠}}),&lt;ref name="BridgeSlang"/&gt; Puppy Feet ({{cards|2♣}}), Swan
+|-
+| [[Ace (playing card)|Ace]] || A
+|| Alas, basto ({{cards|A♣}}),&lt;ref&gt;{{cite book|last1=Entick|first1=John|editor1-last=Crakelt|editor1-first=William|title=New Spelling Dictionary|date=1786|publisher=Charles DIlly|location=London}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last1=Perry|first1=William|title=Royal Standard English Dictionary|date=1793|publisher=Bell &amp; Bradfute|location=Edinburgh}}&lt;/ref&gt; [[Blackberry]] ({{cards|A♣}}), Bull,&lt;ref name="BridgeHands"/&gt; Bullet,&lt;ref&gt;{{cite web
+  | last = Casino City
+  | title = Definition of Bullet
+  | year = 2009
+  | url = http://dictionary.pokerzone.com/Bullet
+  | accessdate = 2009-02-03}}
+&lt;/ref&gt; Clover ({{cards|A♣}}), The Crispin ({{cards|A♥}}){{ref|Ah}},  [[Ace of spades|Death Card]] ({{cards|A♠}}),&lt;ref&gt;{{cite web
+ |first=SGM Herb 
+ |last=Friedman (ret.) 
+ |title=The Death Card 
+ |year=2007 
+ |url=http://www.newtscards.com/secret_weapon_death_playing_cards.asp 
+ |accessdate=2009-02-11 
+ |url-status=dead 
+ |archiveurl=https://web.archive.org/web/20071226120913/http://www.newtscards.com/secret_weapon_death_playing_cards.asp 
+ |archivedate=2007-12-26 
+}}
+&lt;/ref&gt; Eyes, [[Ace in the Hole (George Strait song)|George Strait]] (if hole card) , MasterCard, One Spot,&lt;ref name="BridgeHands"&gt;{{cite web
+  | last = Bridge Hands
+  | title = Card Name: Bridge (Colloquial Jargon)
+  | year = 2005
+  | url = http://www.bridgehands.com/C/Card_Names.htm
+  | accessdate = 2009-02-12}}
+&lt;/ref&gt; Pig's Eye ({{cards|A♦}}),&lt;ref name="BridgeSlang"&gt;{{cite web
+  | first = Marilyn
+  | last = Hemenway
+  | title = Bridge Slang
+  | year = 2006
+  | url = http://omahabridge.org/Library/mh_Colorful_Bridge_Slang.pdf
+  | accessdate = 2009-02-12}}
+&lt;/ref&gt; Puppy Foot ({{cards|A♣}}),&lt;ref name="BridgeHands"/&gt; Rocket, Seed,&lt;ref name="BridgeHands"/&gt; Sharp Top,&lt;ref name="BridgeHands"/&gt; Spadille ({{cards|A♠}}),&lt;ref&gt;{{cite book
+ |authorlink  = Webster's Dictionary
+ |title       = Webster Dictionary, 1913
+ |publisher   = Random House
+ |year        = 1913
+ |location    = New York, US
+ |pages       = 1377
+ |url         = http://machaut.uchicago.edu/cgi-bin/WEBSTER.sh?WORD=spadille
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20151019173251/http://machaut.uchicago.edu/cgi-bin/WEBSTER.sh?WORD=spadille
+ |archivedate = 2015-10-19
+}}&lt;/ref&gt; Spike, Spot, Tax Card ({{cards|A♠}})&lt;ref name="BridgeHands"/&gt;
+| Broadway Cards,&lt;ref name="broadway"/&gt; Honor Card
+|-
+|[[Joker (playing card)|Joker]]
+| ★
+| Best Bower, The Bird, The Fly, The Fool, Old Maid, Pagliacci, Trump Card, Wildcard
+|}
+
+===One-eyed royals===
+The phrase '''one-eyed royals''' is jargon referring to the three face cards showing only one eye: the Jack of Spades ({{cards|J♠}}), Jack of Hearts ({{cards|J♥}}) and King of Diamonds ({{cards|K♦}}). The terminology results from the depiction of the face on the card as being shown in profile, so only one eye is visible (all other face cards show two eyes). The jacks are also referred to, separately, as '''one-eyed jacks''': Jack of Spades ({{cards|J♠}}), Jack of Hearts ({{cards|J♥}}).
+
+They are frequently used in home games of [[draw poker]] as wildcards. Because the King of Diamonds is the only king card bearing an axe (the others show swords), a common phrase for the one-eyed royals is "One-eyed Jacks, the Man with the Axe". Another common phrase is "One-eyed Jacks and Suicide King" denoting the King of Hearts ({{cards|K♥}}) bearing a sword through his head. These four cards are the only cards of differing rank and [[Suit (cards)|suit]] in a common [[Deck (cards)|deck]] that share an identifying trait.  Apart from the bedside Queen (of Spades), of course.   She is the only one with a symbol beside her which looks a little like an old-fashioned wooden bedpost.
+
+==Texas hold 'em pocket card nicknames==
+The following is a list of nicknames for pairs of two playing cards, usually hole cards, used in poker derivatives such as [[Texas hold 'em]] and [[Omaha hold 'em]] poker. These nicknames are usually used by the player when announcing their hand or by spectators or commentators who are watching the game.
+&lt;!-- IF YOU CANNOT EDIT THE TABLE CORRECTLY, JUST POST YOUR ADDITION IN THE DISCUSSION TAB AND SOMEONE WHO CAN, WILL --&gt;
+&lt;!-- ENTRIES SHOULD ALL BE ALPHABETICAL --&gt;
+
+===Ace higher card===
+{| class="wikitable"
+! Card initials !! Alternative name !! Explanation
+|-
+| rowspan="23" align="center" | AA
+|-
+| Alan Alda ||An alliteration, [[Alan Alda]] was the star of the television version of ''[[M*A*S*H (TV series)|M*A*S*H]]''&lt;ref name="HoldemSecrets"&gt;{{cite web
+  | last = McComas
+  | first = Richard
+  | title = 400+ Hole Card Hand Names
+  | date = 2004-12-05
+  | url = http://www.holdemsecrets.com/handnames.htm
+  | accessdate = 2008-10-11}}
+&lt;/ref&gt;
+|-
+|[[Albert Anastasia]]||An alliteration, first mob boss killed gangland style in 1957&lt;ref&gt;{{cite newsgroup
+  | title = looking for new Poker Slang
+  | author = clevelandrounder
+  | date = 2004-03-25
+  | newsgroup = rec.gambling.poker
+  | url = http://groups.google.com/group/rec.gambling.poker/browse_thread/thread/23ff292676946c82/62ce8d762a7d974a?lnk=gst&amp;q=Albert+Anastasia+clevelandrounder#62ce8d762a7d974a
+  | accessdate = 2008-10-11}}
+&lt;/ref&gt;
+|-
+|[[American Airlines]] ({{cards|A♥|A♠}})||So called due to the commercial airline's acronym and logo, AA (the aces are of different colors to mimic the AA logo)&lt;ref&gt;{{cite web
+  | last = Casino City
+  | title = Definition of American Airlines
+  | date = 2009-01-01
+  | url = http://dictionary.pokerzone.com/American+Airlines
+  | accessdate = 2009-02-02}}
+&lt;/ref&gt;
+|-
+|[[Apollo 11]]||So called due to it being the first mission to the moon while ace is considered 1, or because the hand "AA" means "11"
+|-
+|Banditerna ({{cards|A♠|A♣}})||Swedish for "the Bandits"&lt;ref name="HoldemSecrets"/&gt;
+|-
+| Batteries ||AA like a [[AA battery]] commonly used in portable electronic devices
+|-
+| Big Smoke ||AA is a strong pre-flop favorite ("smokes") over Big Slick (AK) or any other two-card hand.
+|-
+|Bullets||Looks like bullets, possibly a reference to the [[Dead Man's Hand]], two pair of aces and eights, suggesting that [[Wild Bill Hickok|Wild Bill]] drew a third bullet in the back, which filled his hand in death&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Eyes||Probably from [[snake eyes]] in [[dice]]&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Eyes of Texas||From [[The Eyes of Texas|the song]], probably an elaboration on dice&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Flying Nazis&lt;ref name="1800sports"&gt;{{cite web
+  | last = 1800-sports.com
+  | title = Poker Hand Nicknames
+  | url = http://www.1800-sports.com/poker-hand-nicknames.shtml
+  | accessdate = 2008-12-02}}
+&lt;/ref&gt;||Probably because an A looks like a plane, and the Nazis had the most successful flying "aces" in their air force
+|-
+|Joe Louis ({{cards|A♠|A♣}})||Two black eyes, what you will get in the ring if you fight [[Joe Louis]]&lt;ref&gt;{{cite newsgroup
+  | title = Pocket rockets
+  | author = Gary Phillips
+  | date = 2002-02-01
+  | newsgroup = rec.gambling.poker
+  | url = http://groups.google.com/group/rec.gambling.poker/browse_thread/thread/63592919e93cc5fd/d309607b7783f985?lnk=gst&amp;q=Joe+Louis+Gary+Philips#d309607b7783f985
+  | accessdate = 2008-10-11}}
+&lt;/ref&gt;
+|-
+|Pocket Rockets||Looks like rockets&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Needles||Looks like needles&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Rocky Mountains||Looks like mountains, from Mat Rampson&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Sharp Tops||Sharp on top, see also A4&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Snake Eyes||From dice&lt;ref name="HoldemSecrets"/&gt; [[snake eyes]] is the outcome of rolling the [[dice]] in a game of [[craps]] and getting only one [[pip (counting)|pip]] on each die
+|-
+|Squirrel&lt;ref name="KillerPoker"/&gt;||Probably named because the hand is "[[Glossary of poker terms#N|the nuts]]". Possibly also a reference to the phrase "Even a blind squirrel can find a nut once in a while"&lt;ref&gt;{{cite web
+  | first = Dirty
+  | last = Stacks
+  | title = ALL IN from the Porch: Poker Catch Phrases
+  | date = 2005-06-12
+  | url = http://mikek628.blogspot.com/2005/06/poker-catch-phrases.html
+  | accessdate = 2009-03-16}}
+&lt;/ref&gt;
+|-
+|Sticks||Looks like sticks&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Teepees||Looks like [[Tipi|teepees]]&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Two Pips&lt;ref name="Dictionary"/&gt;||A pip is a mark indicating the suit or numerical value of a playing card
+|-
+|[[Visine]] ({{cards|A♥|A♦}})||Two red eyes, it gets the red out&lt;ref&gt;{{cite newsgroup|url=http://groups.google.com/group/rec.gambling.poker/browse_thread/thread/a6cd43c83b6a9268/6eb331db621fa61a?lnk=gst&amp;q=Visine+Gary+Philips#6eb331db621fa61a|title=Nicknames for hands|author=Gary Phillips|date=1999-05-17|newsgroup=rec.gambling.poker|accessdate=2008-10-11}}
+&lt;/ref&gt;
+|-
+| rowspan="14" align="center" | AK
+|[[Anna Kournikova]]||Initials; also looks good, but never wins.&lt;ref name="Songplayer"/&gt;
+|-
+|[[Annalise Keating]]||Initials;
+|-
+|[[Barry Greenstein]]({{cards|A♦|K♦}})||From 5th annual Jack Binion World Poker Open in Tunica MS, as per Hooter Huon&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Big Slick||It is a slippery hand that one can easily lose a fortune over&lt;ref name="Songplayer"&gt;{{cite web|last=Songplayer |title=Poker Hand Nicknames |date=2008-09-24 |url=http://www.spadeclub.com/profile/songplayer/blog/4966 |accessdate=2008-10-16 |url-status=dead |archiveurl=https://web.archive.org/web/20090108192831/http://www.spadeclub.com/profile/songplayer/blog/4966 |archivedate=January 8, 2009 }}
+&lt;/ref&gt;
+|-
+|Kalashnikov||Due to the name of a gun designed by [[Mikhail Kalashnikov]], AK-47.
+|-
+|Big Ugly (offsuit)&lt;ref name="Songplayer"/&gt;||Imitating Big Slick, but "Ugly" if offsuit
+|-
+|[[Exxon Valdez]] ({{cards|A♠|K♠}})|| Since it has a lot of black in it.&lt;ref&gt;{{cite newsgroup
+  | title = Big Slick of spades = an Exxon Valdez
+  | author = Peder Jakobsen
+  | date = 2004-03-24
+  | newsgroup = rec.gambling.poker
+  | url = http://groups.google.com/group/rec.gambling.poker/browse_thread/thread/c251292d9a2f9a50/e4d4ad41d99d4c9f?lnk=gst&amp;q=exxon+valdez+peder#e4d4ad41d99d4c9f
+  | accessdate = 2008-12-21}}
+&lt;/ref&gt;
+|-
+|[[King Arthur]]&lt;ref name="xanadu"&gt;{{cite web|last=pokerxanadu.com |title=Poker Hand Nicknames |url=http://www.pokerxanadu.com/pokerhandnicknames.htm |accessdate=2008-12-07 |url-status=dead |archiveurl=https://web.archive.org/web/20080907034809/http://www.pokerxanadu.com/pokerhandnicknames.htm |archivedate=September 7, 2008 }}
+&lt;/ref&gt;||Named after the legendary British leader.
+|-
+|[[Korean Air]]lines&lt;ref name="xanadu"/&gt;||Named after the South Korean Airline
+|-
+|Mike Haven ({{cards|A♦|K♦}})||Mike played two pre-flops all-in in a row with these cards to win the final table, coming from behind&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Salt Lake Pair&lt;ref name="Songplayer"/&gt;||No explanation found. The "pair" refers to the cards being well matched, rather than of equal value.
+|-
+|Santa Barbara||Due to a big [[Santa Barbara oil spill|oil spill off Santa Barbara]]&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Arian Kollen||Named after the Norwegian rapper Arian Kollen. His initials are A K, and he has also won some considerable pots with this hand.
+|-
+|Walking Back to Houston||Gamblers who played this hand too strongly were often left with no getaway money.&lt;ref name="HoldemSecrets"/&gt; Although other sources state its name was derived because the old time poker players would play this hand so well that they'd leave their opponents walking back to Houston&lt;ref name="Songplayer"/&gt;
+|-
+|align="center" rowspan="7"| AQ
+|[[Antony &amp; Cleopatra]]&lt;ref name="HoldemSecrets"/&gt;||A for [[Mark Antony|Antony]] and [[Cleopatra VII|Cleopatra]] his queen. Named after the famous lovers and Shakespearian works
+|-
+|Big Chick||Imitating Big Slick&lt;ref name="HoldemSecrets"/&gt;(AK)
+|-
+|Big Slut&lt;ref name="drneau"&gt;{{cite web
+  | last = drneau.com
+  | title = Poker Hand Nicknames
+  | url = http://www.drneau.com/poker_hand_nicknames.htm
+  | accessdate = 2008-12-21}}
+&lt;/ref&gt;||Imitating Big Slick (AK). Hands involving Queens are often derogatory, especially if they don't win.
+|-
+|Doyle Brunson||In his book, Doyle said he would never play AQ, and busted out of the 2008 WSOP Main Event holding AQ offsuit.
+|-
+|Little Slick&lt;ref name="drneau"/&gt;||Imitating Big Slick (AK)
+|-
+|Mrs Slick&lt;ref name="HodgesGuide"&gt;{{cite book
+  | last = Hodges
+  | first = Jim
+  | title = Texas Hold 'em Fish 'n' Chips
+  | page = 96
+  | publisher = Trafford Publishing
+  | ISBN = 9781466957138
+  | year = 2012}}
+&lt;/ref&gt;||Imitating Big Slick (AK)
+|-
+|[[Rocket Queen]]||A song made popular from Guns N'Roses
+|-
+|align="center" rowspan="9"| AJ
+|Armani Jeans||AJ is the acronym used by the brand Armani Jeans
+|-
+|The Unrare||n/a
+|-
+|Apple Jacks&lt;ref name="1800sports"/&gt;||[[Backronym]] of AJ
+|-
+|[[Wiktionary:Ajax|Ajax]]&lt;ref name="Dictionary"&gt;{{cite book
+ |last=Weisenberg 
+ |first=Michael 
+ |title=The Official Dictionary of Poker 
+ |publisher=MGI/Mike Caro University 
+ |date=2000-03-01 
+ |pages=278 
+ |url=http://www.poker1.com/mcu/pokerdictionary/mculib_dictionary_info.asp 
+ |isbn=978-1-880069-52-3 
+ |url-status=dead 
+ |archiveurl=https://web.archive.org/web/20070701225836/http://www.poker1.com/mcu/pokerdictionary/mculib_dictionary_info.asp 
+ |archivedate=2007-07-01 
+}}
+&lt;/ref&gt;||Named after the foam cleaner due to the phonetic similarity between "Ajax" and "Ace-Jack", or "A-Jacks"
+|-
+|[[Blackjack#History|Blackjack]]&lt;ref name="UKpokerrooms"&gt;
+{{cite web
+  | last = ukpokerrooms.com
+  | title = Online Poker Lingo
+  | url = http://www.ukpokerrooms.com/ukpokerrooms/terms/poker-nicknames.php
+  | accessdate = 2008-12-22
+  | archive-url = https://web.archive.org/web/20090811033620/http://www.ukpokerrooms.com/ukpokerrooms/terms/poker-nicknames.php
+  | archive-date = 2009-08-11
+  | url-status = dead
+  }}
+&lt;/ref&gt;||Named after the card game in which AJ (Or an Ace with a picture card or 10) is the highest possible hand
+|-
+|[[Wiktionary:Ajax|Foamy Cleanser]]||Ajax&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Hijack&lt;ref&gt;{{cite episode
+ | title = PartyPoker.com Premier League Poker
+ | series = Premier League Poker
+ | episodelink = PartyGaming
+ | airdate = 2009-02-25
+ | number = 5}}
+&lt;/ref&gt;|| As in "High-Jack"
+|-
+|[[Wiktionary:Jackass|Jackass]]&lt;ref name="PokerCasinoFans"&gt;{{cite web
+  | last = pokercasinofan.com
+  | title = Cards and Poker Hand Nicknames
+  | url = http://pokercasinosfan.com/poker-hand-nicknames.htm
+  | accessdate = 2008-12-22}}
+&lt;/ref&gt;||Imitative of "Jack-Ace"
+|-
+|Trapasso&lt;ref name="TellPoker"&gt;{{cite web
+ |last         = tellpoker.com
+ |title        = Poker Hand Nicknames
+ |url          = https://tellpoker.com/pg-handnicknames.htm
+ |accessdate   = 2008-12-22
+ |archive-url  = https://web.archive.org/web/20060502234136/http://www.tellpoker.com/pg-handnicknames.htm
+ |archive-date = 2006-05-02
+ |url-status     = dead
+}}&lt;/ref&gt;||Likely to be named after the [[American Football]] player [[A.J. Trapasso]]
+|-
+|align="center" rowspan="2"| AT
+|[[Wiktionary:Bookends|Bookends]]||2 ends of the highest straight&lt;ref name="DarkCity"&gt;{{cite web
+  | last = darkcitypokerleague.com
+  | title = Poker Hand Nicknames
+  | url = http://darkcitypokerleague.com/poker-hand-nicknames.html
+  | accessdate = 2008-12-22}}
+&lt;/ref&gt;
+|-
+|Johnny Moss||It's speculated that [[Johnny Moss]] is associated with this hand because he began playing poker at the age of 10&lt;ref name="flapokertours"&gt;{{cite web
+ |last=flapokertours.com 
+ |title=The Hands – Poker Hand Nicknames 
+ |url=http://www.flapokertours.com/thehands.html 
+ |accessdate=2009-01-01 
+ |archiveurl=https://web.archive.org/web/20080822214514/http://www.flapokertours.com/thehands.html 
+ |archivedate=2008-08-22 
+ |url-status=dead 
+}}
+&lt;/ref&gt;
+|-
+|align="center" rowspan="4"| A9
+|[[Rounders (film)|Rounders Hand]]||From the movie&lt;ref name="HoldemSecrets"/&gt;
+|-
+|McDerment ({{cards|A♣|9♣}})|| A corruption of the last name of Mike McDermott, the character played by [[Matt Damon]] in the movie ''[[Rounders (film)|Rounders]]'', whose fortune rode heavily on this hand.&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Jesus ([[Chris Ferguson]])||Chris Ferguson beat [[T. J. Cloutier]] at the final hand of the [[2000 World Series of Poker|2000 WSOP Championship]] event holding A9 against TJ's AQ&lt;ref name="flapokertours"/&gt;
+|-
+|Gimp Hand||Because it's so much weaker than Ace-Ten.
+|-
+|align="center" rowspan="2"| A8
+|[[Dead Man's Hand]]||See [[Dead man's hand]]
+|-
+|Asterix and Obelix&lt;ref name="holdem-wiki"&gt;{{cite web|last=holdem-wiki.com |title=Nicknames |url=http://holdem-wiki.com/tiki-index.php?page=nicknames |accessdate=2008-12-23 |url-status=dead |archiveurl=https://web.archive.org/web/20090425020752/http://holdem-wiki.com/tiki-index.php?page=nicknames |archivedate=April 25, 2009 }}
+&lt;/ref&gt;
+||Inspired by characters from [[René Goscinny]]'s [[The Adventures of Asterix]]. Asterix represents the Ace due to the matching initial with Obelix representing the 8 due to their similar shape.
+|-
+|align="center" rowspan="3"| A7
+|-
+|Slapshot||Nicknamed [[Slapshot]] as a hockey reference as sevens are sometimes called hockey sticks and aces are bullets&lt;ref name="xanadu"/&gt;
+|-
+|The Sonnert&lt;ref&gt;{{cite episode
+ | title = World Series of Poker Europe 2008
+ | episodelink = 2008 World Series of Poker Europe results
+ | series = World Series of Poker Europe
+ | serieslink = World Series of Poker Europe
+ | season = 2008
+ | airdate = 2009-02-28
+ | number = 5}}
+&lt;/ref&gt;||Named after poker player Bengt Sonnert for his success with it in the [[2008 World Series of Poker Europe results|World Series of Poker Europe 2008]]
+|-
+|align="center" rowspan="2"| A6
+|Mile High Club||Airplane and sex&lt;ref name="DarkCity"/&gt; (Aces are often nicknamed after planes due to their shape, "six" in German is pronounced as sechs similar to "sex")
+|-
+|[[Tennessee Ernie Ford]]||Singer famous for the song ''[[Sixteen Tons]]''&lt;ref name="yourpokerhands"&gt;{{cite web
+ |last         = yourpokerhands.com
+ |title        = Poker Hand Nicknames
+ |url          = http://www.yourpokerhands.com/nicknames.php
+ |accessdate   = 2009-02-02
+ |archive-url  = https://web.archive.org/web/20090215040859/http://yourpokerhands.com/nicknames.php
+ |archive-date = 2009-02-15
+ |url-status     = dead
+}}&lt;/ref&gt;
+|-
+|align="center" rowspan="1"| A5
+|High Five&lt;ref name="1800sports"/&gt;||An Ace is high, combined with a five gives us a [[high five]]
+|-
+| rowspan="4" align="center" | A4
+|Plane Crash&lt;ref name="1800sports"/&gt;||Aces are synonymous with flying (e.g., 'Flying Nazis', 'Pocket Rockets' and 'American Airlines') probably due to the shape of the 'A', a '4' is like an 'A', but with a missing 'wing', hence Plane Crash
+|-
+|[[Stu Ungar]] || Ungar won the last of his three World Series of Poker Main Event titles in [[1997 World Series of Poker|1997]] with this hand, making a straight.
+|-
+|Fake Aces
+|Since a 4 looks a bit like an A, the A4 can be called fake aces.
+|-
+|Transvestite||The disappointment inherent in seeing an Ace, then seeing the top half of the four and assuming it is another Ace. The unhappy surprise occurs when the player realizes he does not have two Aces.&lt;ref&gt;{{cite newsgroup
+  | title = Pocket Rockets
+  | author = Jonathan Kaplan
+  | date = 2002-02-01
+  | newsgroup = rec.gambling.poker
+  | url = http://groups.google.com/group/rec.gambling.poker/browse_thread/thread/63592919e93cc5fd/d309607b7783f985?lnk=gst&amp;q=Joe+Louis+Gary+Philips#d309607b7783f985
+  | accessdate = 2008-10-27}}
+&lt;/ref&gt;
+|-
+|align="center" rowspan="3"| A3
+|[[Wiktionary:Ashtray|Ashtray]]||Imitates Ace-trey&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[Wiktionary:Baskin-Robbins|Baskin-Robbins]]||Nicknamed [[Baskin-Robbins]] because of their 31 different flavors of ice cream.&lt;ref name="flapokertours"/&gt;
+|-
+|Thrace||A [[portmanteau]] of "''Thr''ee" and "''Ace''", also named after the historical and geographic area in southeast Europe [[Thrace]]&lt;ref name="TexasHoldem"/&gt;
+|-
+|align="center" rowspan="4"| A2
+|Acey-Deucey||From the game [[Acey Deucey (cards)|Acey Deucy]]&lt;ref&gt;{{cite newsgroup
+  | title = Slang terms for hole cards
+  | author = b_add9
+  | date = 2004-05-12
+  | newsgroup = rec.gambling.poker
+  | url = http://groups.google.com/group/rec.gambling.poker/browse_thread/thread/4b103fe4701d6f4/778cb0896b5d2f32?lnk=gst&amp;q=b_add9+Acey+Deucy#778cb0896b5d2f32
+  | accessdate = 2008-10-19}}
+&lt;/ref&gt;
+|-
+|Riewoldt|| Playing number of [[St Kilda Football Club|St. Kilda]] Captain, [[Nick Riewoldt]] (12)
+|-
+|Hunting Season||Aces are known as bullets and twos are known as ducks, hence hunting season&lt;ref name="flapokertours"/&gt;
+|-
+|Little Slick&lt;ref name="1800sports"/&gt;||Imitation of 'Big Slick' (AK)
+|}
+
+===King higher card===
+{| class="wikitable"
+! Card Initials !! Alternative Name !! Explanation
+|-
+|align="center" rowspan="14"| KK
+|Ace Magnets||Ace Magnets because the ace is the only card you don't want to see&lt;ref name="flapokertours"/&gt;
+|-
+|[[Brokeback Mountain|Brokeback]]&lt;ref name="welike-poker"&gt;{{cite web
+  | last = welike-poker.com
+  | title = Poker Hand Nicknames
+  | url = http://www.welike-poker.com/poker-hand-nicknames.html
+  | accessdate = 2009-01-02
+  | archive-url = https://web.archive.org/web/20090425141513/http://www.welike-poker.com/poker-hand-nicknames.html
+  | archive-date = 2009-04-25
+  | url-status = dead
+  }}&lt;/ref&gt;||Named after the film that depicts the complex romantic and sexual relationship between two cowboys (KK also being called "Cowboys")
+|-
+|Butchers of Baghdad||Reference to [[2003 invasion of Iraq]] and the [[most-wanted Iraqi playing cards]]
+|-
+|Cowboys&lt;ref name="1800sports"/&gt;||No explanation found. The nickname is probably given for a number of reasons, including the association between cowboys and playing poker, the similarity between the "K" of "King" and the "C" of "Cowboys" and both characters are male. It could also come from a common nickname of the King card- the "Cowboy".
+|-
+|[[Elvis Presley]]&lt;ref name="welike-poker"/&gt;||Named after the [[Honorific nicknames in popular music#P|"King" of Rock and Roll]]
+|-
+|Gorillas||From King Kong&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[Gorillas in the Mist]]||From the movie starring [[Sigourney Weaver]],&lt;ref name="HoldemSecrets"/&gt; a nickname taken from "King Kong" (Also KK)&lt;ref name="PokerNews"/&gt;
+|-
+|Kangaroos||Kangaroos are used on children's alphabet cards to illustrate a K&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[Kevin Keegan]]&lt;ref name="donkiedup"/&gt;||An alliteration
+|-
+|[[Kenny Dalglish|King Kenny]]||An alliteration; the nickname of former [[Liverpool F.C.|Liverpool]] player [[Kenny Dalglish]], who would soon be manager of [[Liverpool F.C.|Liverpool]], [[Blackburn Rovers F.C.|Blackburn Rovers]] and [[Newcastle United F.C.|Newcastle United]]
+|-
+|Knights&lt;ref name="donkiedup"/&gt;||An association with the feudal king images on the cards
+|-
+|King Kong&lt;ref name="1800sports"/&gt;||An alliteration
+|-
+|Kinkerbells&lt;ref&gt;{{cite episode | title = Celebrity Poker Showdown | series = 2004–2006 Series | airdate = 2004-01-13&lt;!-- – 2006-07-05 --&gt;| number = Vince Van Patten}}&lt;/ref&gt;||Courtesy of [[Vince Van Patten]] on ''[[Celebrity Poker Showdown|Celebrity Poker]]''
+|-
+|Krispy Kreme&lt;ref name="1800sports"/&gt;||An alliteration
+|-
+|align="center" rowspan="10"| KQ
+|Tito Hand (suited)||If Tito loses
+|-Divorce (suited)||If it loses&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[Ferdinand and Isabella]]||A Spanish King and Queen&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Lucy and Ricky||[[Lucille Ball]] and Ricky "the King and queen of television"&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Marriage (suited)||If it wins, comes from the game [[Pinochle]]&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Mixed marriage (offsuit)||Comes from the game Pinochle&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Othello (offsuit)&lt;ref name="1800sports"/&gt;||This is reference to Othello and Desdemona, the fated couple from [[William Shakespeare]]'s play [[Othello]]. Possibly also a reference to 'Mixed Marriage'
+|-
+|Royal couple||A King and Queen&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[The King of Queens|King of Queens]]||Popular American Sitcom starring [[Kevin James]] and [[Leah Remini]].
+|-
+|Throne||As befits a royal couple.
+|-
+|[[Valentine's Day]] ({{cards|K♥|Q♥}})&lt;ref name="flapokertours"/&gt;||A matched couple, both showing their hearts
+|-
+|align="center" rowspan="14"| KJ
+|Bachelor's hand (offsuit)||"Jack-King-Off"&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Bill Fillmaff (offsuit) || The "signature hand" of "Bill Fillmaff", a character parodying poker professionals in general and [[Phil Hellmuth]] in particular, portrayed by Internet personality Kevin Bowen&lt;ref&gt;{{cite video
+  | people = Kevin Bowen, Phil Hellmuth
+  | title = Phil Hellmuth: Bill vs Phil – Signature Hand
+  | url = http://www.billvsphil.com/old-stuff.php
+  | medium = video
+  | publisher = ultimatebet.com
+  | date = 2006
+  | access-date = 2009-03-05
+  | archive-url = https://web.archive.org/web/20081119220842/http://www.billvsphil.com/old-stuff.php
+  | archive-date = 2008-11-19
+  | url-status = dead
+  }}&lt;/ref&gt;
+|-
+|[[Harry Potter]]||Written by J.K. Rowling&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[Jamiroquai]]||A British band fronted by singer [[Jay Kay]]
+|-
+|Just kidding&lt;ref name="1800sports"/&gt;||[[Backronym]] of JK, from  the [[textspeak]] "j/k" (see below)
+|-
+|Joking||'Jo' referring to the Jack; in textspeak, "j/k" is a [[pseudo-emoticon]] meaning "joking" or "just kidding"
+|-
+|[[Jackie Kennedy]]||Wife of JFK
+|-
+|The rookie||As said by [[Daniel Negreanu]]
+|-
+|[[Jordy Kooistra]]||Initials of Dutch poker player
+|-
+|King John||KJ&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[Kojak]]||Mimics KJack,&lt;ref name="HoldemSecrets"/&gt; thanks to the '70s crime drama starring [[Telly Savalas]], who was himself a poker player and occasional participant in [[World Series of Poker|WSOP]] Main Events&lt;ref name="PokerNews"/&gt;
+|-
+|[[Ralph Perry (poker player)|Ralph Perry]]||[[2002 World Series of Poker]] Main Event finalist berated by Antanas Guoga for overplaying the hand
+|-
+|[[Starsky and Hutch]]&lt;ref name="pokerstrip2"&gt;{{cite web
+  | last = pokerstrip2.com
+  | title = Card and Poker Hand Nickname
+  | url = http://pokerstrip2.com/poker-hand-nickname.htm
+  | accessdate = 2008-12-31}}
+&lt;/ref&gt;
+||Named after the crime fighting duo from the series of the same name|
+|-
+|Tucson Monster&lt;ref name="1800sports"/&gt;||No explanation found
+|-
+|align="center" rowspan="5"| KT
+|Big Al||A reference to Wisconsin poker player [["Big Al" Emerson]]&lt;ref name="flapokertours"/&gt;
+|-
+|[[wiktionary:katie|Katie]]||Imitation of K-T&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Ken&lt;ref name="donkiedup"&gt;{{cite web
+ |last         = donkiedup.com
+ |title        = Poker Hand Nicknames
+ |url          = http://donkiedup.com/pokerhands.htm
+ |accessdate   = 2009-01-01
+ |archive-url  = https://web.archive.org/web/20081003051841/http://www.donkiedup.com/pokerhands.htm
+ |archive-date = 2008-10-03
+ |url-status     = dead
+}}&lt;/ref&gt;||A [[portmanteau]] of "''K''ing" and "T''en''"
+|-
+|Ike Turner||Beats QT (Tina Turner – see below)
+|-
+|Woodcutter (offsuit)||Possibly from the legend of [[King Edward and the Woodcutter]]&lt;ref name="HoldemSecrets"/&gt;
+|-
+| rowspan="11" align="center" | K9
+|Bow-wow&lt;ref name="1800sports"/&gt;||From canine
+|-
+|[[wiktionary:canine|Canine]]||"K"-nine&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Dogs||From canine&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Fido||A derivative of canine&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Mongrel (offsuit)||From canine&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Mutt (offsuit)||From canine&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Pedigree (suited)||From canine&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Michael Vick
+|From canine, in reference to the former NFL QB's dog fighting conviction
+|-
+|Rin Tin Tin&lt;ref name="donkiedup"/&gt;||From [[Rin Tin Tin]] K9 cop
+|-
+|The Doctor Who||K-9, the Robotic Dog from the British Television Series Doctor Who
+|-
+|Sawmill||[[Byron Wolford|Byron 'Cowboy' Wolford]] says:
+:''Milton Butts and I were playing poker in Bryan, Texas, where they had a good game going on the weekends. We'd been playing for a couple of days when a hand came up in which I had a K-9. I made a pretty good hand with it, but lost the pot and went broke. As I was driving back home to [[Houston]] with Milton, feeling kind of disgusted about going broke with that K-9, we passed by a sawmill where a man was sawing logs in the lumberyard. "As hard as that guy works for his money, I'll bet he would never go broke with a K-9", I told Milton. And that's how K-9 got named "Sawmill." Some of those names are still going around – [[Doyle Brunson]] mentioned the sawmill hand in his book, [[Super/System]]''&lt;ref name="Wolford1"&gt;{{cite web
+ |last='Cowboy' Wolford 
+ |first=Byron 
+ |authorlink=Byron Wolford 
+ |title=Aimsworth, Sawmill, and Everett 
+ |publisher=Card Player Magazine Volume 15, Number 24 
+ |date=2002-11-22 
+ |url=https://admin.corp.cardplayer.com/author/article/all/71/3836 
+ |accessdate=2009-01-01 
+}}{{dead link|date=May 2017 |bot=InternetArchiveBot |fix-attempted=yes }}
+&lt;/ref&gt;
+|-
+|align="center" rowspan="3"| K8
+|Kate||A [[portmanteau]] of "''K''ing" and "Eight''"&lt;ref name="TexasHoldem"/&gt;
+|-
+|Feast||What the 'King ate'&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Kokomo||Imitative&lt;ref name="HoldemSecrets"/&gt;
+|-
+|align="center" rowspan="2"| K7
+|[[Columbia River#Fish migration|Columbia River]]||The [[Columbia River]] is famous for its salmon runs. "King Seven" sounds like "King Salmon"&lt;ref name="flapokertours"/&gt;
+|-
+|Kevin||Sounds like Kevin&lt;ref name="Supe"&gt;{{cite newsgroup
+  | title = looking for new Poker Slang
+  | author = Supe
+  | date = 2004-03-24
+  | newsgroup = rec.gambling.poker
+  | url = http://groups.google.com/group/rec.gambling.poker/browse_thread/thread/23ff292676946c82/69d7b7a5fe3a5123?lnk=gst&amp;q=Supe+K7+Kevin#69d7b7a5fe3a5123
+  | accessdate = 2008-10-14}}
+&lt;/ref&gt;
+|-
+|align="center" rowspan="1"| K6
+|Kicks||Nicknamed "Kicks" (if [[Pig Latin]] is used) for phonetic reasons&lt;ref name="TexasHoldem"/&gt;
+|-
+|align="center" rowspan="2"| K5
+|Knives&lt;ref name="donkiedup"/&gt;||A combination of "''K''i''n''g" and "F''ive''"
+|-
+|Seattle Special/The Home Team||The nickname refers to Seattle's NBC affiliate, channel 5 with call letters KING [[KING-TV|Seattle TV channel 5]] based in King County, Washington, United States. Their news team's slogan is "The Home Team"&lt;ref name="TexasHoldem"/&gt;
+|-
+|align="center" rowspan="5"| K4
+|Core&lt;ref name="donkiedup"/&gt;||A  [[portmanteau]] of "''K''ing" and "F''our''"
+|-
+|Fork||4K sounds like "Fork"&lt;ref name="flapokertours"/&gt;
+|-
+|Fork Off (offsuit)&lt;ref name="donkiedup"/&gt;||4K sounds like "Fork" plus "Off" for offsuit
+|-
+|Forking Idiot&lt;ref name="donkiedup"/&gt;||From "Fork". Probably a suggestion that you would have to be an idiot to play the hand
+|-
+|Oppression of the Masses||The answer to the question: "What is a king for?"
+|-
+|align="center" rowspan="6"| K3
+|Alaska Hand||From Alaskan King Crab&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Commander Crab||A derivative of King Crab&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Swedish Meatballs||SWEDES&lt;ref name="HoldemSecrets"/&gt;
+|-
+|King Crab||3 looks like a crab&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Mortans Hand||Best hand he played &lt;ref name="HoldemSecrets"/&gt;
+|-
+|Sizzler||The home of all-you-can-eat King Crab&lt;ref name="HoldemSecrets"/&gt;
+|-
+|align="center" rowspan="4"| K2
+|Big Fritz (suited)||An unconfirmed reference to German poker player Andreas Fritz&lt;ref name="TexasHoldem"/&gt;
+|-
+|[[Donald Duck|Donald]]||A reference to Donald Duck,&lt;ref name="TexasHoldem"/&gt; the "King" of ducks (since 2s are also known as "ducks")
+|-
+|The Tracey||Originated by a 1-2 no limit crusher at Parks poker room
+|-
+|Hand of the Night||A reference created by Chris Hinst during his weekly poker night.  Named because he kept getting this same hand.
+|-
+|}
+
+===Queen higher card===
+{| class="wikitable"
+! Card Initials !! Alternative Name !! Explanation
+|-
+|align="center" rowspan="15"| QQ
+|-
+|Bitches&lt;ref name="TexasHoldem"/&gt;
+|-
+|Calamity Jane&lt;ref name="1800sports"/&gt;||No explanation found, but the nickname is likely to come from ''Cowgirls'' the female equivalent of ''Cowboys'' (KK). [[Calamity Jane]] was also a friend of [[Wild Bill Hickok]], a gunfighter who died during a poker game.
+|-
+|P-CO ||The last two queens of England
+|-
+|Canadian Aces||Because [[Canada|Canadians]] revere [[Monarchy of Canada|the Queen]]&lt;ref name="DarkCity"/&gt;
+|-
+|Canadian Rockets||Because [[Canada|Canadians]] revere [[Monarchy of Canada|the Queen]]&lt;ref name="DarkCity"/&gt;
+|-
+|Four Tits||Vulgar&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Hilton Sisters||Jetset party girls [[Paris Hilton|Paris]] &amp; [[Nicky Hilton]]&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Anna Kournikova||Very pretty but seldom win.&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Ladies&lt;ref name="yourpokerhands"/&gt;||Because they're the only female cards. Queens tend to have derogatory names, especially when they lose, so ''Ladies'' is more likely to be used when they win.
+|-
+|Pair of Wire Cutters||Dykes&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Pocket Tubmans ({{cards|Qs|Qc}})||Reference to [[Harriet Tubman]]&lt;ref name="HoldemSecrets"/&gt;
+|-
+|San Francisco Wedding||A gay reference&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[Siegfried &amp; Roy]]||Two Queens&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Snowshoes&lt;ref name="yourpokerhands"/&gt;||Probably because they're the shape of a traditional [[snowshoe]]
+|-
+|align="center" rowspan="6"| QJ
+|Quack&lt;ref name="yourpokerhands"/&gt;||Combination of Queen and Jack
+|-
+|Maverick||From the ''[[Maverick (TV series)|Maverick]]'' TV show theme song, "Livin' on jacks and queens. Maverick is a legend of the west"&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Hawaii||According to the pros if you don't play QJ for a year you'll save enough money to go there.
+|-
+|Oedipus||an allusion to Sophocles' Oedipus the King, the ancient Greek tragedy in which [[Oedipus]] (the "J" in this pairing) unwittingly kills his father and marries his mother, Jocasta (the "Q")&lt;ref name="PokerNews"/&gt;
+|-
+|Pinochle ({{cards|Q♠|J♦}})||The big hand in the game [[Pinochle]]&lt;ref name="HoldemSecrets"/&gt;
+|-
+|JQuery||JQuery never loses
+|-
+|align="center" rowspan="7"| QT
+|Cutie&lt;ref&gt;{{cite newsgroup
+  | title = Suggestions for improving memory
+  | author = Dan
+  | date = 1995-07-09
+  | newsgroup = rec.gambling.poker
+  | url = http://groups.google.com/group/rec.gambling.poker/browse_thread/thread/dc1ee89877dee3ed/4b70d8ab89c513df?lnk=gst&amp;q=cutie+QT#4b70d8ab89c513df
+  | accessdate = 2009-01-05}}
+&lt;/ref&gt;||For phonetic reasons
+|-
+|Goolsby||Named for Everett Goolsby, well known Texas gambler. Crony of [[Doyle Brunson]], [[Byron Wolford|Cowboy Wolford]] and [[Benny Binion]]&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Tarantino||[[Quentin Tarantino]], a famous movie maker&lt;ref name="PokerNews"/&gt;
+|-
+|Q-Tip&lt;ref name="learntowin"/&gt;||A [[backronym]] of QT. A [[Cotton swab|Q-tip]] is a cotton swab.
+|-
+|Tina Turner||It always gets beat.&lt;ref&gt;{{cite web|last1=Card Player News Team|title=The Poker Ten -- Hand Nicknames|url=http://www.cardplayer.com/poker-news/12644-the-poker-ten-hand-nicknames|website=Cardplayer.com|accessdate=17 January 2012}}&lt;/ref&gt;
+|-
+|Quint||Imitative&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Robert Varkonyi||In the [[2002 World Series of Poker|2002 WSOP]], [[Robert Varkonyi|Varkonyi]] knocked out [[Phil Hellmuth]] and eventually won the final event with this hand&lt;ref name="HoldemSecrets"/&gt;
+|-
+|align="center" rowspan="1"| Q9
+| Quinine||"Queen Nine" sounds like "[[Quinine]]", an early anti malarial drug,&lt;ref name="flapokertours"/&gt; from lowball&lt;ref name="HoldemSecrets"/&gt;
+|-
+|align="center" rowspan="6"| Q8
+|-
+|Snow and a Ho||8 is a snowman, Q is a ho
+|-
+|Frigid Bitch||From "Snow and a Ho"
+|-
+|Face Sitter||A vulgar reference to [[analingus]], what the 'queen ate'&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Bitch Called Hope||Tempting to try for a straight, but rarely succeeds
+|-
+|Kuwait||Nicknamed "[[Kuwait]]" for phonetic reasons&lt;ref name="flapokertours"/&gt;
+|-
+|align="center" rowspan="2"| Q7
+| Computer Hand (offsuit)||From an apocryphal story that a computer proved that these were the most commonly occurring cards on the Flop.&lt;ref name="OPG"/&gt;
+There is also a story of an early computer simulation in which Q7 was a break-even hand&lt;ref name="HoldemSecrets"/&gt;&lt;ref name="PLP6"/&gt;
+Nickname for the [[AN/FSQ-7|IBM Q7 (AN/FSQ-7) SAGE computer]]. This type of vacuum tube computer was physically the world's largest computer ever built.
+|-
+|Dike||a lady with a mullet
+|-
+|align="center" rowspan="4"| Q6
+|[[Arnold Palmer]]'s ex-wife||Palmer was nicknamed the King.
+|-
+|[[Nesquik]]||From "quix"
+|-
+|Quix||Phonetic similarity.
+|-
+|Sad Ole Bess||A play on Queen [[Elizabeth I]]'s other nickname, "The Virgin Queen," AKA the Cherry Queen
+|-
+|align="center" rowspan="1"| Q5
+|Granny Mae||If both spades, an old-time player, Granny=Queen, Mae=5th Month, some say Q5 spades was her favorite&lt;ref name="HoldemSecrets"/&gt;
+|-
+|align="center" rowspan="3"| Q4
+|Housework||A joking response to the question, "What's a queen for?"
+|-
+|Prince Maker||A joking response to the question, "What's a queen for?"
+|-
+|Shuli||Popularized in the notorious underground "Emergency Poker League" or "EPL", frequented by elite players of the Canadian circuit
+|-
+|align="center" rowspan="3"| Q3
+|Gay Waiter||'Queen' with a 'tray'&lt;ref name="HoldemSecrets"/&gt;
+|-
+|San Francisco Busboy||'Queen' with a 'tray'&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Windsor Waiter||'Queen' with a 'tray'&lt;ref name="HoldemSecrets"/&gt;
+|-
+|align="center" rowspan="2"| Q2
+|Daisy||A reference to [[Daisy Duck]],&lt;ref name="TexasHoldem"/&gt; the "Queen" of ducks (since 2s are also known as "ducks"). See also "Donald" – K2
+|-
+|Queen Liz||A reference to [[Queen Elizabeth II]]
+|-
+|}
+
+===Jack higher card===
+{| class="wikitable"
+! Card Initials !! Alternative Name !! Explanation
+|-
+| rowspan="12" align="center" | JJ
+|Brothers&lt;ref name="TellPoker"/&gt;||Two similar looking males, i.e. brothers
+|-
+|Fishhooks||They look like them, and because fish get beat with overpairs&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Jar Jars|| Jar Jar Binks is one of the most hated Star Wars characters, just as JJ is for many experienced poker players
+|-
+|Ice-JJ-Fish||Like the rapper, they rock&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Jaybirds||Starts with J&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Bowers||Named after the Jacks from the card game Euchre where jacks are the highest trumps and are called bowers, in turn from the German ''Bauer'' (literally, farmer)
+|-
+|[[Jonatan Johansson (footballer)|Jonatan Johansson]]||An alliteration, former [[Finland|Finnish]] footballer and [[Charlton Athletic F.C.|Charlton Athletic]] forward, nicknamed 'JJ' by the fans
+|-
+|John Juanda&lt;ref name="1800sports"/&gt;||An alliteration, [[John Juanda]] is an American professional poker player
+|-
+|[[Colostomy Bag]]||Vulgar, from "Pocket Jacks", 'Jacks' being a UK/Irish slang term for a toilet
+|-
+|Rentboys||Two young men, similar to pocket queen's "Prostitutes" nickname
+|-
+|Knaves Aplenty||Literally, a plethora of jacks, a knave being an alternative term for a jack.
+|-
+|[[Good Times|Kid Dy-no-mite]]||Signature expression of the character JJ from the TV show [[Good Times]]&lt;ref name="xanadu"/&gt;
+|-
+|[[One-eyed jack|One Eyed Jacks]] ({{cards|J♠|J♥}})||Both side views&lt;ref name="HoldemSecrets"/&gt;
+|
+|-
+|align="center" rowspan="5" | JT
+| align="left" |[[Justin Timberlake]]
+|Justin Timberlake's initials||
+|-
+|[[The Two Jakes]]||The movie sequel to ''[[Chinatown (1974 film)|Chinatown]]'' starring [[Jack Nicholson]] and [[Harvey Keitel]]&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[Greek Passport]]||A Greek immigrant won with this to buy an Australian Residency
+|-
+|[[John Terry]]||Named after the England Football Captain.
+|-
+|[[T.J. Hooker]]||After the '80s action drama starring [[William Shatner]]&lt;ref name="PokerNews"&gt;{{cite web
+  | first = Martin
+  | last = Harris
+  | title = Poker &amp; Pop Culture: Hold'em Hand Nicknames
+  | date = 2009-03-03
+  | url = http://www.pokernews.com/news/2009/03/poker-and-pop-culture-holdem-hand-nicknames-1185.htm
+  | accessdate = 2009-03-16}}
+&lt;/ref&gt;
+|-
+|align="center" rowspan="2"| J9
+|Braggars||Jacks and nines are wild in the game of braggars&lt;ref name="HoldemSecrets"/&gt;
+|-
+|T. J. Cloutier ({{cards|J♣|9♣}})||[[T. J. Cloutier|T.J.]] flopped three straight flushes with this hand in one year&lt;ref name="learntowin"/&gt;
+|-
+|align="center" rowspan="2"| J8
+|[[Jeffrey Dahmer]]||He 'ate Jack', serial killer who ate his victims&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[Jacket]]||Sounds like jacket&lt;ref name="HoldemSecrets"/&gt;
+align="center" rowspan="1"| J7
+|-
+|align="center" rowspan="1"| J7
+|Jack Daniels&lt;ref name="learntowin"/&gt;||Named after [[Jack Daniel's]] Old No. 7 [[Tennessee whiskey]]
+|-
+|align="center" rowspan="1"| J6
+|Coop Deville
+|&lt;ref name="HoldemSecrets"/&gt;Named after the legend of Houston, Tx.
+|-
+|align="center" rowspan="2"| J5
+|[[Jackson Five]]||[[Michael Jackson]]'s childhood group&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Motown||Record label for ''[[Jackson Five]]''&lt;ref name="HoldemSecrets"/&gt;
+|-
+|align="center" rowspan="4"| J4
+|The New Motown||Motown was named for the Jackson Five, but now there's only four
+|-
+|Austin Squatty||Named after [[John Holmes Jenkins|John "Austin Squatty" Jenkins]] due to his penchant for raising and reraising with this hand&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Flat tire||What's a 'jack for'?&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Kid Grenade||After a poker dealer who when he played was "liable to go off at any moment"&lt;ref name="Badger"&gt;{{cite web
+ |first        = Steve
+ |last         = Badger
+ |title        = Poker Hand Nicknames – Texas Holdem Hand Names
+ |url          = http://www.playwinningpoker.com/poker/hands/nicknames/
+ |accessdate   = 2009-01-03
+ |archive-url  = https://web.archive.org/web/20080511204422/http://www.playwinningpoker.com/poker/hands/nicknames/
+ |archive-date = 2008-05-11
+ |url-status     = dead
+}}&lt;/ref&gt;
+|-
+|align="center" rowspan="3"| J3
+|J Lo||As in "J-lo", "lo" meaning "low card" or perhaps the resemblance the 3 has to a derrière&lt;ref&gt;{{cite newsgroup
+  | title = Hole card slang... what's your favorite?
+  | author = Richard Serton
+  | date = 2004-04-07
+  | newsgroup = rec.gambling.poker
+  | url = http://groups.google.com/group/rec.gambling.poker/browse_thread/thread/caf76a0cfdbba226/dd4d6f8e9d216e88?lnk=gst&amp;q=jennifer+lopez+J3#dd4d6f8e9d216e88
+  | accessdate = 2008-10-19}}
+&lt;/ref&gt;
+|-
+|[[Lumberjack]]||A Tree and a Jack
+|-
+|Minus Michael and Jermaine||Jackson 5 without two members, preferably clubs to resemble afros.
+|-
+|align="center" rowspan="4"| J2
+|[[The Prince and the Pauper]] (suited)||After Mark Twain's novel set in 1547, which tells the story of two young boys who are identical in appearance: [[Tom Canty]], a [[pauperism|pauper]] who lives with his abusive father in Offal Court off [[Pudding Lane]] in [[London]], and [[Edward VI of England|Prince Edward]], son of [[Henry VIII of England|King Henry VIII]]. They end up changing places.
+|-
+|Heckle and Jeckle||Nicknamed [[Heckle and Jeckle]] after twin cartoon jaybirds (2 Jays) that first appeared on television in 1946.  (Heckle and Jeckle were, in fact, magpies).&lt;ref name="TexasHoldem"/&gt;
+|-
+|Jack Shit|| Popular English phrase referring to "nothing", in this context referring to the fact there is a Jack with the worst possible kicker and also something widely regarded among poker players as a "nothing" hand.
+|
+|-
+|}
+
+===Ten higher card===
+{| class="wikitable"
+! Card Initials !! Alternative name !! Explanation
+|-
+|align="center" rowspan="9"| TT
+|Audi&lt;ref name="KillerPoker"/&gt;||Named after the famous [[Audi TT]] car
+|-
+|Binary&lt;ref name="learntowin"/&gt;||In [[Binary code|Binary]], 1010 equal 10 (in [[decimal|decimal notation]])
+|-
+|[[Bo Derek]]||Actress from movie [[10 (film)|10]]&lt;ref name="xanadu"/&gt;
+|-
+|Dimes&lt;ref name="TexasHoldem"/&gt;||A [[Dime (United States coin)|dime]] is a coin worth ten [[Cent (currency)|cents]] or one tenth of a [[United States dollar]]
+|-
+|Dynamite&lt;ref name="welikepoker"&gt;{{cite web
+  | last = welike-poker.com
+  | title = Poker Hand Nicknames
+  | year = 2008
+  | url = http://www.welike-poker.com/poker-hand-nicknames.html
+  | accessdate = 2009-03-19
+  | archive-url = https://web.archive.org/web/20090425141513/http://www.welike-poker.com/poker-hand-nicknames.html
+  | archive-date = 2009-04-25
+  | url-status = dead
+  }}&lt;/ref&gt;||Comes from T and T sounding like the explosive TNT
+|-
+|McDonald's||Named after the ten piece McNugget
+|-
+|Tension||Imitative&lt;ref name="HoldemSecrets"/&gt;
+|-
+|TNT&lt;ref name="welikepoker"/&gt;||Comes from T and T sounding like the explosive TNT
+|-
+|Train Tracks||An alliteration
+|-
+|align="center" rowspan="2"| T9
+|Mobile Hand||Named after the "Text on 9 Keys" mode on mobile phones
+|-
+|Countdown||Countdowns usually start at ten, nine...&lt;ref name="flapokertours"/&gt;
+|-
+|align="center" rowspan="1"| T8
+|Tetris||Imitative&lt;ref name="HoldemSecrets"/&gt;
+|-
+|align="center" rowspan="3"| T7
+|Bowling Hand||The difficult [[Split (ten pin bowling)#7–10 split|Seven-ten split]]&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[Daniel Negreanu]] (suited)||His favorite hand&lt;ref name="yourpokerhands"/&gt;
+|-
+|[[Split (ten pin bowling)#7–10 split|Split]]||A bowling reference, a [[Split (ten pin bowling)#7–10 split|seven-ten split]]&lt;ref name="HoldemSecrets"/&gt;
+|-
+|align="center" rowspan="1"| T6
+|Sweet Sixteen||Six and Ten. Should be mumbled with sarcasm as you fold it&lt;ref&gt;{{cite newsgroup
+  | title = Hole card slang... what's your favorite?
+  | author = M Lindon
+  | date = 2004-04-08
+  | newsgroup = rec.gambling.poker
+  | url = http://groups.google.com/group/rec.gambling.poker/browse_thread/thread/caf76a0cfdbba226/31a27c0cbab77499?lnk=gst&amp;q=sweet+sixteen+%22M+Lindon%22#31a27c0cbab77499
+  | accessdate = 2008-11-12}}
+&lt;/ref&gt;
+|-
+|align="center" rowspan="5"| T5
+|Dime Store||From 5 &amp; dime&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Homosexual||A gay reference, as you cannot make a straight with a ten and a five in your hand.
+|-
+|Five and Dime&lt;ref name="planetstacked"&gt;{{cite web
+ |last         = IGN Entertainment INC
+ |authorlink   = IGN
+ |title        = Hand Nicknames
+ |year         = 2009
+ |url          = http://www.planetstacked.com/poker/nicknames/
+ |accessdate   = 2009-03-19
+ |archive-url  = https://web.archive.org/web/20090317040559/http://www.planetstacked.com/poker/nicknames/
+ |archive-date = 2009-03-17
+ |url-status     = dead
+}}&lt;/ref&gt;||From nickname "Dimes" as a dime is a [[Dime (United States coin)|United States coin]] worth 10 cents. A [[Variety store|Five and Dime]] is a type of variety store.
+|-
+|Merfs||A draw poker game where tens and fives are wild&lt;ref name="TexasHoldem"/&gt;
+|-
+|Woolworths||The Five and Dime store chain&lt;ref name="HoldemSecrets"/&gt;
+|-
+|align="center" rowspan="9"| T4
+|Ex-Girlfriend||Named after a Las Vegas local's highschool girlfriend, because it sounds like the last name "fortin"
+|-
+||Broderick Crawford||From 50s "[[Highway Patrol (U.S. TV series)|Highway Patrol]]", who said "[[Ten-code#Official APCO Ten Signals by era|10-4]]" into radio&lt;ref name="HoldemSecrets"/&gt;
+|-
+|CB Hand||[[Ten-four#10-0s|Ten-four]] is CB radio language for OK&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Convoy||From the old trucker song, [[Ten-four#10-0s|ten-four]] good buddy&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Good Buddy||Old trucker radio language, [[Ten-four#10-0s|ten-four]] is CB language for OK&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Over and Out||Two-way radio language for end of conversation, [[Ten-four#10-0s|ten-four]] is radio language for OK&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Roger That||Two-way radio language for OK, [[Ten-four#10-0s|ten-four]] is also radio language for OK&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[Ten-code|Truckers' Hand]]||Following the CB radio craze of the '70s, for the same reasons as "Broderick Crawford"&lt;ref name="PokerNews"/&gt;
+|-
+|The Trucker&lt;ref&gt;{{cite newsgroup
+  | title = looking for new Poker Slang
+  | author = Supe
+  | date = 2004-03-24
+  | newsgroup = rec.gambling.poker
+  | url = http://groups.google.com/group/rec.gambling.poker/browse_thread/thread/23ff292676946c82/69d7b7a5fe3a5123?lnk=gst&amp;q=the+trucker+supe#69d7b7a5fe3a5123
+  | accessdate = 2008-11-13}}
+&lt;/ref&gt;
+|From CB radio&lt;ref name="HoldemSecrets"/&gt;
+|-
+| rowspan="4" align="center" | T3
+|Kitchies||The T3 must be offsuit; refer to Dipthrong's kitchen for origin&lt;ref name="TexasHoldem"/&gt;
+|-
+|[[Digital Signal 3|Fast Connection]]||Refers to the T3 telecommunications connection&lt;ref name="TexasHoldem"/&gt;
+|-
+|Alexisdg8
+|A famous Canadian player from Quebec won his first tournament with this hand
+|-
+|Hot Waitress||Ten with a tray (trey)&lt;ref name="TexasHoldem"/&gt;
+|-
+|align="center" rowspan="3"| T2
+|[[Terminator 2: Judgment Day|Terminator 2]]||T2 is abbreviation for [[Terminator 2: Judgment Day|Terminator II]]&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Whirlygig||Contemporary&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[Doyle Brunson]] (aka Texas Dolly)||[[Doyle Brunson|Doyle "Texas Dolly" Brunson]] twice won the [[World Series of Poker|WSOP]] in 1976 and 1977 turning these hole cards into full [houses]&lt;ref name="HoldemSecrets"/&gt;
+|-
+|}
+
+===Nine higher card===
+{| class="wikitable"
+! Card Initials !! Alternative Name !! Explanation
+|-
+|align="center" rowspan="8"| 99
+|[[Agent 99|Barbara Feldon]]||Played Agent 99 on Get Smart&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Hitlers||Nein, nein!
+|-
+|German Virgin|| What a German Virgin would say. Nein, nein!
+|-
+|[[Phil Hellmuth]] ({{cards|9♣|9♠}})||He won the 1989 WSOP with this hand&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Red Balloons ({{cards|9♦|9♥}})||From the 80s song [[99 Luftballons|99 Red Balloons]] by [[Nena]]
+|-
+|Popeyes||Look like [[Popeye]]'s arm muscles&lt;ref name="xanadu"/&gt;
+|-
+|Pothooks&lt;ref&gt;{{cite web
+  | last = Casino City
+  | title = Definition of Pothooks
+  | date = 2009-01-01
+  | url = http://dictionary.pokerzone.com/Pothooks
+  | accessdate = 5 May 2015}}
+&lt;/ref&gt;||The 9 looks like a traditional [[pothook]]
+|-
+|[[Wayne Gretzky]]||Hockey player's uniform number&lt;ref name="HoldemSecrets"/&gt;
+|-
+|align="center" rowspan="1"| 98
+|[[Oldsmobile 98|Oldsmobile]]||The Olds 98 car&lt;ref name="HoldemSecrets"/&gt;
+|-
+|align="center" rowspan="1"| 97
+|Persian Carpet Ride||A term [[Antonio Esfandiari]] coined for his favorite hand, making joking reference to his Persian heritage. He used the term on ''[[Poker After Dark]]'', apparently after his friends teased him about the hand, no further explanation given.&lt;ref&gt;{{cite episode
+ | title = Poker After Dark
+ | episodelink = Poker_After_Dark#Season_2_.282007.29
+ | series = Poker After Dark
+ | serieslink = Poker After Dark
+ | airdate = 2007-09-24
+ | season = 2
+ | number = 6}}
+&lt;/ref&gt; However, Esfandiari also used the term on the commentary track of the World Poker Tour Season 2 DVD set, so the term dates back to at least 2004.
+|-
+|align="center" rowspan="12"| 96
+|[[69 (sex position)|The Dirty]]||69, sexual reference&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[69 (sex position)|Big Lick]]||69, sexual reference to Big Slick&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[69 (sex position)|Breakfast of Champions]]||69, sexual reference&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[69 (sex position)|Dinner For Two]]||69, sexual reference&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[69 (sex position)|Good Lover]]||69, sexual reference&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[69 (sex position)|Happy Meal]]||69, sexual reference&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[69 (sex position)|Mighty Meal]]||69, sexual reference, 96 suited, stronger than a Happy Meal (see above)
+|-
+|[[69 (sex position)|Big Love]]||69, sexual reference
+|-
+|[[Joe Bernstein (poker player)|Joe Bernstein]]||A gambler from the 30s, a sharp road gambler. Joe was known as a dapper dresser at the poker table&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Jaka Šubic||Famous Slovenian improv comedian and poker player.
+|-
+|[[69 (sex position)|Percy]] (offsuit)||69, sexual reference&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[69 (sex position)|Prom Night]] (suited)||If suited because they wear a tux on prom night, 69 sexual reference&lt;ref name="HoldemSecrets"/&gt;
+|-
+|align="center" rowspan="3"| 95
+|Betty Hutton||From a version of stud with nines &amp; fives wild&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[9 to 5 (Dolly Parton song)|Dolly Parton]]||From the movie 9 to 5&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Hard Working Man||Works 9 to 5&lt;ref name="HoldemSecrets"/&gt;
+|-
+|align="center" rowspan="3"| 94
+|[[Joe Montana]]||49ers quarterback, borrowed from 92 Montana Banana; when he was benched, the joke was 49 unsuited&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Lost World Series||Refers to the [[1994 Major League Baseball strike|lost baseball World Series of 1994]]. Could also refer to the fate of a player who plays these cards incorrectly.&lt;ref name="yourpokerhands"/&gt;
+|-
+|[[San Francisco 49ers|San Francisco]]||49 refers to San Francisco's Football team, the 49ers, which in turn refers to men of the 1849 gold rush in the Sierra Nevada mountains east of San Francisco&lt;ref name="flapokertours"/&gt;
+|-
+|align="center" rowspan="2"| 93
+|Jack Benny||For years [[Jack Benny]] claimed to be 39 years old&lt;ref name="TexasHoldem"/&gt;
+|-
+|The Sandy||Sandy Dunlop became 2013 champion of the Black Cat Poker tournament with these hole cards
+|-
+|align="center" rowspan="2"| 92
+|Montana Banana||It is a widely asserted myth that this nickname originates from the legalization of poker in [[Montana]] by Proposition 92. However, poker was legalized in Montana by the Card Games Act, 23-5-311.&lt;ref&gt;{{cite web
+  | last = Casino City
+  | title = Definition of Montana Banana
+  | date = 2009-01-01
+  | url = http://dictionary.pokerzone.com/Montana+Banana
+  | accessdate = 5 May 2015}}
+&lt;/ref&gt; The nickname is referring to how it is more likely that bananas will grow in chilly Montana than that this hand will make money.&lt;ref name="OPG"&gt;{{cite web|last=The OPG |title=Official Poker Guide – Hold 'em Hand Nicknames |url=http://theopg.org/page12.html |url-status=dead |archiveurl=https://web.archive.org/web/20080502044200/http://www.theopg.org/page12.html |archivedate=May 2, 2008 }}
+&lt;/ref&gt;
+Other sources suggest it is [[Joe Montana]]'s quarterback rating&lt;ref name="xanadu"/&gt;
+|-
+|[[Twiggy]]||From the 70s model's top measurement of 29&lt;ref name="HoldemSecrets"/&gt;
+|-
+|}
+
+===Eight higher card===
+{| class="wikitable"
+! Card Initials !! Alternative Name !! Explanation
+|-
+|align="center" rowspan="14"| 88
+|Dawg Balls/Doggie Balls||Looks like them&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Piano Keys||There are 88 keys on a piano&lt;ref name="learntowin"/&gt;
+|-
+|[[Oldsmobile 88|Rocket 88]]||Big was Olds 98, smaller car called Olds 88&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Racetracks||Goes round and round like a race track&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Snowmen||Looks like two snowmen&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Lindros||[[Eric Lindros]] wore Jersey #88
+|-
+|Dale Jr. || [[Dale Earnhardt Jr.]] drove the #88 car in NASCAR 
+|-
+|Two Fat Ladies&lt;ref name="EPT51"/&gt;||Looks like two fat ladies&lt;ref name="HoldemSecrets"/&gt; taken from [[Bingo (non-US)|bingo]]&lt;ref name="ildado"/&gt;
+|-
+|Lacey||Looks like shoe laces
+|-
+|Pretzels||Looks like two pretzels&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Wurlitzer||The number of keys on the [[Wurlitzer electric piano]]&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Time Travel||The time travel speed (88&amp;nbsp;mph) used in the ''[[Back to the Future]]'' trilogy&lt;ref name="HoldemSecrets"/&gt;
+|-
+| Infinity on the side
+| Looks like two infinity symbols on their side
+|-
+|Ovechkin||A reference to the hockey player, #8 [[Alexander Ovechkin]].
+|-
+|align="center" rowspan="3"| 87
+|[[Gramophone record#78 rpm disc sizes|RPM]]||The very first record format was a 10&amp;nbsp;inch disc that spun 78 revolutions per minute&lt;ref name="TexasHoldem"/&gt;
+|-
+|Tahoe||From the seven/8 variation of holdem&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Crosby||A reference to the hockey player, #87 [[Sidney Crosby]].
+|-
+|align="center" rowspan="7"| 86
+|Pooch||Bill Puccio swears these cards win every time
+|-
+|Jagr||Named after hockey player [[Jaromír Jágr]], who wore number 68 his entire career.
+|-
+|Rick James||Named after Singer/Celeb [[Rick James]], who died on 8/6.
+|-
+|Eubie||If you play these, you be broke&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[Henry Bowen]]||A Texas gambler&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Maxwell Smart||From TV show ''[[Get Smart]]'', [[Agent 86#Characters|Agent 86]], see also [[Agent 99#Characters|99]]&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Pacheco Nuts (offsuit)&lt;ref name="VegasPokerPro"&gt;{{cite web
+  | last = VegasPokerPro.com
+  | title = Poker Hand Nicknames
+  | year = 2008
+  | url = http://www.vegaspokerpro.com/poker-hand-nicknames.asp
+  | accessdate = 2009-03-06}}
+&lt;/ref&gt;||The California Grand, in Pacheco is right alongside Highway 680.
+|-
+|align="center" rowspan="2"| 85
+|The Hamilton||This hand is so named after a well known Scottish player. It is of course not a powerful hand but can on occasion make a well disguised straight. Its main function, though, is to tilt other players.&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Chad||Football player [[Chad Ochocinco]] wears uniform number 85. Ochocinco, translated literally from Spanish, means "Eight Five."
+|-
+|align="center" rowspan="3"| 84
+|Big Brother||From [[George Orwell]]'s book titled ''[[Nineteen Eighty-Four|1984]]''&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Boris Backhand||From boris89 winning 217,752.13 on this hand &lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[George Orwell|Orwell]]||Author of the book titled ''[[Nineteen Eighty-Four|1984]]''&lt;ref name="HoldemSecrets"/&gt;
+|-
+|align="center" rowspan="2"| 83
+|Most Feared Hand in Hold'em&lt;ref name="HoldemSecrets"/&gt;||A tongue in cheek reference to it being the third worst hand in poker
+|-
+|Raquel Welch||[[Raquel Welch]] still claims to be 38&lt;ref name="flapokertours"/&gt;
+|-
+|align="center" rowspan="1"| 82
+|Tadpole||An answer to the statement, "What the duck ate."
+|-
+|}
+
+===Seven higher card===
+{| class="wikitable"
+!Card Initials !! Alternative Name !! Explanation
+|-
+|align="center" rowspan=9| 77
+|Axes|| Looks like them
+|-
+|Scythes|| Seven look like a Scythe
+|-
+|[[Len Goodman]]|| Renowned judge from ''[[Strictly Come Dancing]]'',  known for his famous catchphrase, "Seven!"
+|-
+|Candy Canes||Looks like them&lt;ref name="learntowin"/&gt;
+|-
+|Hockey Sticks||Looks like them&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Mullets||Because of the hair style, flat in front, long in back&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Saturn||Saturn VII Rocket&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Sunset Strip||From ''[[77 Sunset Strip]]'' a TV series that aired from '58-'64 starring [[Efrem Zimbalist Jr]]&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Walking Sticks&lt;ref name="learntowin"/&gt;||Looks like them
+|-
+|align="center" rowspan="2"| 76
+|Trombones||From the song [[Seventy-six Trombones|76 Trombones]], from the musical ''[[The Music Man]]'' and [[The Music Man (1962 film)|its film adaptation]]&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Union Oil||[[Union 76]] gas stations&lt;ref name="HoldemSecrets"/&gt;
+|-
+|align="center" rowspan="5"| 75
+|007 ({{cards|7♠|5♠}})||Reference to James Bond's winning hand in the 2006 movie ''[[Casino Royale (2006 film)|Casino Royale]]''
+|-
+|Vietnamese Slick||Year the Vietnam War ended
+|-
+|[[H. J. Heinz Company|Heinz]]||The H. J. Heinz Company in Pittsburgh, Pennsylvania has [[Heinz 57|57]] varieties of condiments, the most famous being ketchup&lt;ref name="flapokertours"/&gt;
+|-
+|Pickle Man||A reference to Heinz of 57 sauces fame&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Pistol||A reference to the famous pistol made by [[Fabrique Nationale]] the [[FN Five-seven]]
+|-
+|align="center" rowspan="3"| 74
+|Double Down&lt;ref name="pokerpotspoker"&gt;{{cite web
+  | last = pokerpotspoker.com
+  | title = Hand Nicknames
+  | url = http://www.pokerpotspoker.com/Tools/Hand_Nicknames.php
+  | accessdate = 2008-12-21}}
+&lt;/ref&gt;||A [[Blackjack#Player decisions|Double Down]] is a player decision in Blackjack, in which you are betting that your hand can be won with one more card.  A player may only double down on his first two cards dealt. When a player doubles down, the original bet is automatically doubled (a second chip appears) and the player receives one more card.&lt;ref&gt;{{cite web
+ |last         = bwin.com
+ |title        = Lucky 7 Blackjack
+ |url          = https://help.bwin.com/Casino/InstantPlayCasino/Card_Games/Lucky7_Blackjack.aspx
+ |accessdate   = 2008-12-02
+ |archive-url  = https://web.archive.org/web/20090124043245/http://help.bwin.com/Casino/InstantPlayCasino/Card_Games/Lucky7_Blackjack.aspx
+ |archive-date = 2009-01-24
+ |url-status     = dead
+}}&lt;/ref&gt; Since there are more 10 point cards than any other, doubling down is most worthwhile on an 11-point hand, 7-4 being worth 11 points.
+|-
+|Ghost Dog&lt;ref name="TellPoker"/&gt;||Almost undoubtedley from the film [[Ghost Dog: The Way of the Samurai]] starring [[Forest Whitaker]], but no explanation found
+|-
+|Kalashnikov||Most likely refers to the famous [[AK-47]] and [[AK-74]] assault rifles designed by [[Mikhail Kalashnikov]]
+|-
+|align="center" rowspan="3"| 73
+|Dutch Waiter||Sven with a Tray
+|-
+|[[Joe Hachem]] || Joseph Hachem won the 2005 World Series main event holding {{cards|7♣|3♠}} when the flop came {{cards|4♦|5♦|6♥}}&lt;ref name="flapokertours"/&gt;
+|-
+|Swedish Busboy||Sven with a Tray, see also San Francisco Busboy and Dutch Waiter&lt;ref name="HoldemSecrets"/&gt;
+|-
+|align="center" rowspan="4"| 72
+|Beer Hand (offsuit)||It's called the [[Beer Hand]] because it's either time for a beer; or if you win with this you need to get other players a beer; or only a person full of beers would play this hand.&lt;ref name="flapokertours"/&gt;
+The beer hand has the worst chance of winning of all possible pocket cards in a full table playing Texas Hold'em. It is slightly better in short-handed games because the fact that it is not possible to make a straight or flush without hitting four appropriate community cards is less important in short-handed games.&lt;ref&gt;{{cite web
+  | last = Casino City
+  | title = Definition of Beer Hand
+  | url = http://dictionary.pokerzone.com/Beer+Hand
+  | accessdate = 2009-02-02}}
+&lt;/ref&gt;
+|-
+|Hammer (offsuit)&lt;ref name="EPT51"&gt;{{cite episode
+ | title = Pokerstars.com EPT London Highrollers
+ | episodelink = European Poker Tour season 5 results
+ | series = European Poker Tour
+ | serieslink = European Poker Tour season 5 results
+ | airdate = 2008-12-27
+ | season = 5
+ | number = 1}}&lt;/ref&gt;||The Hammer isn't specifically the 72 hand. At least not officially. In poker, the hammer is defined as the last position (the cut-off), particularly when you're heads-up. The 72 offsuit got the nickname as a result of a competition to play "The Hammer" on "The Hammer" and has been adopted into legitimate Oxford Dictionary poker parlance&lt;ref name="PokerGrub"&gt;{{cite web
+  | last = Grubby
+  | title = Poker Grub
+  | date = 2004-04-09
+  | url = http://pokergrub.com/hammer.html
+  | accessdate = 2009-01-14}}
+&lt;/ref&gt;
+|-
+|W.H.I.P. (offsuit)||Worst Hand In Poker&lt;ref name="Supe"/&gt;
+|}
+
+===Six higher card===
+{| class="wikitable"
+! Card Initials !! Alternative Name !! Explanation
+|-
+|align="center" rowspan="4"| 66
+|Boots||Looks like boots&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Cherries||Nicknamed because of similarity to the shape of the number 6&lt;ref name="TexasHoldem"&gt;{{cite web
+ |last        = texasholdem-poker.com
+ |title       = Hand Nicknames
+ |url         = http://www.texasholdem-poker.com/hand_nicknames
+ |accessdate  = 2009-02-02
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20090119153816/http://www.texasholdem-poker.com/hand_nicknames
+ |archivedate = 2009-01-19
+}}
+&lt;/ref&gt;
+|-
+|[[Route 66 (song)|Kicks]]||Get your kicks on Route 66&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[U.S. Route 66|Route 66]]||The road from Chicago to LA&lt;ref name="HoldemSecrets"/&gt;
+|-
+|align="center" rowspan="2"| 65
+|Bus Pass&lt;ref name="KillerPoker"/&gt;||UK bus passes are often available to citizens over the age of 65 (although this age varies)&lt;ref&gt;{{cite web
+ |last         = DirectGov
+ |title        = Bus passes and coach travel for over 60s
+ |url          = http://www.direct.gov.uk/en/Over50s/TravelAndLeisure/TravellingAtHomeAndAbroad/DG_10026845
+ |accessdate   = 2009-03-16
+ |archive-url  = https://web.archive.org/web/20090310162032/http://www.direct.gov.uk/en/Over50s/TravelAndLeisure/TravellingAtHomeAndAbroad/DG_10026845
+ |archive-date = 2009-03-10
+ |url-status     = dead
+}}&lt;/ref&gt;
+|-
+|Ken Warren||Won with this hand at [[World Series of Poker]]&lt;ref name="HoldemSecrets"/&gt;
+|-
+|align="center" rowspan="3"| 64
+|Billion Dollar Hand&lt;ref name="KillerPoker"&gt;{{cite web
+ |last         = killerpoker.com
+ |title        = Poker Hand Nicknames
+ |url          = http://www.killerpoker.co.uk/online_poker/poker_nicknames.asp
+ |accessdate   = 2009-03-16
+ |archive-url  = https://web.archive.org/web/20090425182016/http://www.killerpoker.co.uk/online_poker/poker_nicknames.asp
+ |archive-date = 2009-04-25
+ |url-status     = dead
+}}&lt;/ref&gt;||In reference to [[The $64,000 Question]]
+|-
+|Gilchrist||Named after the Australian cricketer [[Adam Gilchrist]] for his ability to always hit [[Boundary (cricket)|6's and 4's]]&lt;ref name="TexasHoldem"/&gt;
+|-
+|Arlo||Royal Arlo if suited, named after Arlo Payne, a long time regular poster to the [[usenet]] newsgroup rec.gambling.poker{{Citation needed|date=May 2009}}
+|-
+|align="center" rowspan="3"| 63
+|Blocky||Another nickname of Broomcorn from the story in [[Doyle Brunson]]'s [[Super/System]]. He used to play 63 as an ambush hand&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Jimmy Summerfield (offsuit)||Kevin Larsen says:
+:''One time while playing with Jimmy, she [the dealer] had noticed that trash cards were hitting the flop quite often especially 6's and 3's, so Jimmy wins a huge pot after she told him to play the 63 off he was holding. Thus was born the "Jimmy Sommerfield".''
+:''Once, while playing down on the coast, a player wins a big pot. He slaps his cards down on the table and announces "I've got a Jimmy Somerfield!". Then Jimmy says "Let me introduce myself", and shows the player his ID.''
+:''I was dealing a four eight game one night to Jimmy, a few other dealers and a bunch of locals. A fairly loose game. The pot is capped six or eight way action. Jimmy announces preflop "I've got my hand !" Nobody believes him when the flop comes 6 6 3 He gets four or five callers to the river. Monster Pot!''&lt;ref name="Smiley"&gt;{{cite web
+  | last = Larsen
+  | first = Kevin
+  | title = Poker Slang
+  | url = http://www.angelfire.com/ms/yelims/.html
+  | accessdate = 2009-01-03}}/&lt;/ref&gt;
+|-
+|Spanish Inquisition||Nickname given to this starting hand by Iron Men of Poker.  Refers to the fact that "[[The Spanish Inquisition (Monty Python)|Nobody Expects the Spanish Inquisition]]", a reference to the classic [[Monty Python]] quote.&lt;ref name="IMOP"&gt;{{cite web
+  | last = allvegaspoker.com
+  | title = Poker Slang
+  | url = http://www.allvegaspoker.com/forum/viewtopic.php?f=17&amp;t=12085&amp;start=20&amp;st=0&amp;sk=t&amp;sd=a
+  | accessdate = 2011-06-03}}&lt;/ref&gt;
+|-
+|align="center" rowspan="1"| 62
+|Aimsworth||[[Byron Wolford|Byron 'Cowboy' Wolford]] says:
+:''I was in San Antone playing a big no-limit game with [[Jack Straus]], [[Red Berry (Texas politician)|Sen. Red Berry]], and a bunch of the old-time players. Jack was on top of you all the time, but in full ring games, he wasn't as tough as he was shorthanded or heads up. He had two aces and I took the flop with a 6-2. A deuce came on the flop, he made a bet, and I called him. Off came another deuce on the turn, he bet, and I called him. A third deuce came on the river and we got all in. When I showed him that 6-2, he said, "What the hell were you drawing at there, Cowboy?"''
+:''"Oh, I wasn't drawing at nothing", I answered. "Just aiming at another deuce. I guess I'm Aimsworth."''&lt;ref name="Wolford1"/&gt;
+|-
+|}
+
+===Five higher card===
+{| class="wikitable"
+! Card Initials !! Alternative Name !! Explanation
+|-
+|align="center" rowspan="5"| 55
+|[[Sammy Hagar]]||After Hagar's song, "I Can't Drive 55"&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Nickels||Five cents per nickel&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Presto||There is debate as to where this term originated. The most commonly accepted source of the nickname is that many years ago, before Rec.gambling&lt;ref&gt;{{cite web|url=http://groups.google.com/group/rec.gambling.poker/topics|title=Google Groups|publisher=}}&lt;/ref&gt; was split into several groups, followers of the group who were [[blackjack]] players were fond of saying "Presto!" as they turned up a 21.  This became a sign of recognition of fellow travelers. Around this time (circa 1991), the World Rec Gambling Poker Tournament(WRGPT), of which the first few were played slowly over email, came into being.  During WRGPT2(92-93), the attribution of pocket fives as the "Presto Hand" was made by the player Howard Simonson, after using pocket fives to knock out several players from the tournament some number of times. [If a copy of the table-talk from WRGPT2 can be found and cited, this can be absolutely confirmed]  Consequently, the term stuck among the rec.gambling minions, and has become a common poker term today.&lt;ref&gt;{{cite newsgroup
+  | title = Presto!
+  | author = foldem
+  | date = 2003-05-14
+  | newsgroup = rec.gambling.poker
+  | url = http://groups.google.com/group/rec.gambling.poker/browse_thread/thread/6a04a35b791714f7/481de7999cc1cf85?#481de7999cc1cf85
+  | accessdate = 2008-11-29}}
+&lt;/ref&gt; There is also suggestion that the hand won more often than it should due to a computer glitch.&lt;ref name="xanadu"/&gt;
+However, there is a counter-argument that there used to be a club in London called the Presto Club. The address was 55 [[Victoria, London|Victoria Street]], London. Therefore, whenever someone was dealt 55 in hold'em, they'd say they were dealt "Presto", because of the club's street address. When English players played events worldwide, the word spread, and it caught on everywhere.&lt;ref&gt;{{cite newsgroup
+  | title = Presto!
+  | author = Andrew Lacey
+  | date = 2003-05-14
+  | newsgroup = rec.gambling.poker
+  | url = http://groups.google.com/group/rec.gambling.poker/browse_thread/thread/6a04a35b791714f7/481de7999cc1cf85?#481de7999cc1cf85
+  | accessdate = 2008-11-29}}
+&lt;/ref&gt;
+|-
+|- Wheelchairs&gt;|  looksl like 2 wheel chairs
+|Snakes&lt;ref name="xanadu"/&gt;||Looks like two snakes
+|-
+|Speed Limit||55 MPH,&lt;ref name="HoldemSecrets"/&gt; the maximum speed limit in the US in the [[National Maximum Speed Law]] era
+|-
+|align="center" rowspan="3"| 54
+|Colt 45||The gun, and the beer&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[Jesse James]]||Because the outlaw was rumored to have been shot by a .45&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Moneymaker||Winning hand of [[Chris Moneymaker]], 2003 [[World Series of Poker]] Main Event champion&lt;ref name="flapokertours"/&gt;
+|-
+|align="center" rowspan="2"| 53
+|Bully Johnson||A poker player that [[Doyle Brunson]] described as being "laid back and quiet". He played this hand after being raised preflop and caught a straight on the flop to beat another guy's trip aces&lt;ref name="TexasHoldem"/&gt;
+|-
+|Juggernaut||Well-known ''[[Magic: The Gathering]]'' artifact card with power of five and toughness of three.
+|-
+|align="center" rowspan="6"| 52
+|Bomber||[[B-52 Stratofortress|B-52 bomber]]&lt;ref name="flapokertours"/&gt;
+|-
+|Pick-up||As in [[52 Pickup|52 card pick up]]&lt;ref name="flapokertours"/&gt;
+|-
+|Quarter||25 cents&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Two Bits||25 cents&lt;ref name="HoldemSecrets"/&gt;
+|-
+
+|Ivey||Named for one of the greatest bluffs on High Stakes Poker, when [[Phil Ivey]] raised pre-flop with a five-deuce offsuit, was re-raised by [[Lex Veldhuis]] with KJ suited, and then went all in causing Lex to fold his hand.
+|}
+
+===Four higher card===
+{| class="wikitable"
+! Card Initials !! Alternative Name !! Explanation
+|-
+|align="center" rowspan="12"| 44
+|-
+|Sailboats || The fours look like sails on a boat.
+|-
+|Obama || [[Barack Obama]] is the 44th President of the United States
+|-
+|Dark Force ({{cards|4♠|4♣}})||Dark Side Of The Fours&lt;ref name="flapokertours"/&gt;
+|-
+|Darth Vader ({{cards|4♠|4♣}})||The two black fours are the [[Dark side (Star Wars)|"Dark Side of the Fours"]]&lt;ref name="HoldemSecrets"/&gt;
+|-
+|[[Diana Dors]]||Her top measurement&lt;ref name="HoldemSecrets"/&gt;
+|-
+|The Harley ({{cards|4♠|4♣}})||Favorite hand of BCP pro Harley Quin after flopping quads with these hole cards: "The Fours are strong with this one..."
+|-
+|Luke Skywalker||"May the Fours be with you." Usually referenced with one black four, and one red four.&lt;ref name="learntowin"&gt;{{cite web
+  | last = learntowinholdem.com
+  | title = Poker Nicknames
+  | year = 2007
+  | url = http://www.learntowinholdem.com/poker-nicknames.html
+  | accessdate = 2009-01-11}}
+&lt;/ref&gt;
+|-
+|Princess Leia ({{cards|4♥|4♦}})||An extension of the Luke Skywalker and Darth Vader reference&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Fourtale||n/a
+|-
+| [[.44 Magnum|Magnum]] || The .44 cal gun&lt;ref name="HoldemSecrets"/&gt;
+|-
+| Midlife Crisis&lt;ref name="OffShore"&gt;{{cite web
+  | last = offshorepokerroom.com
+  | title = Poker Hand Nicknames
+  | year = 2006
+  | url = http://www.offshorepokerroom.com/poker-hand-nicknames.html
+  | accessdate = 2009-03-16}}&lt;/ref&gt;||Likely to be named after the approximate age of the average [[midlife crisis]] (actually given as 46)&lt;ref&gt;{{cite web
+ |last         = Greg
+ |title        = More On The Midlife Crisis You May Never Have
+ |date         = 2006-06-10
+ |url          = http://lifetwo.com/production/node/20060710_more_on_the_midlife_crisis_you_may_never_have
+ |accessdate   = 2009-03-16
+ |archive-url  = https://web.archive.org/web/20090219103456/http://lifetwo.com/production/node/20060710_more_on_the_midlife_crisis_you_may_never_have
+ |archive-date = 2009-02-19
+ |url-status     = dead
+}}&lt;/ref&gt;
+|-
+|align="center" rowspan="2"| 43
+|Waltz||In music, [[waltz]]es are always in 3/4 meter&lt;ref name="flapokertours"/&gt;
+|-
+|Books||"What's a tree for ?"
+|-
+|align="center" rowspan="4"| 42
+|[[Jack Bauer]]&lt;ref name="flapokertours"/&gt;|| The main character in ''[[24 (TV series)|24]]''
+|-
+|Lumberman's Hand||A common piece of lumber is a [[Lumber#Dimensional lumber|two by four]]&lt;ref name="flapokertours"/&gt;
+|-
+|The Principle&lt;ref name="flapokertours"/&gt;|| Canadian Politician, Steven Hicks Favorite hand. He always said he played it ''On Principle''
+|-
+| The Answer || In ''[[The Hitchhiker's Guide to the Galaxy]]'', the computer decided that [[Phrases from The Hitchhiker's Guide to the Galaxy#The Answer to the Ultimate Question of Life, the Universe, and Everything is 42|the answer to everything in the universe]] was 42&lt;ref name="HoldemSecrets"/&gt;
+|-
+|}
+
+===Three higher card===
+{| class="wikitable"
+! Card Initials !! Alternative Name !! Explanation
+|-
+|align="center" rowspan="3"| 33
+|Crabs||Because a 3 looks like it has pincers&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Lucky Dragon||Favorite chinese hand that "never loses"
+|-
+|Treys||"Trey" dates back to the 14th century, and is a name for a card or a [[Dice|die]] showing three points; originally from [[Old French]] ''treis''.&lt;ref&gt;{{cite web|url=http://www.merriam-webster.com/dictionary/trey|title=Definition of TREY|publisher=}}&lt;/ref&gt;
+|-
+|align="center" rowspan="8"| 32
+|-
+|Can of Corn&lt;ref name="HoldemSecrets"/&gt;||This nickname likely comes from baseball where a "[[List of baseball jargon (C)#can of corn|Can of Corn]]" is an easily caught [[List of baseball jargon (F)#fly ball|fly ball]]. Supposedly comes from a general store clerk reaching up and dropping a can from a high shelf.&lt;ref&gt;{{cite web
+  | last = Jim
+  | title = The Phrase Finder: Re: Can of corn
+  | date = 2001-11-01
+  | url = http://www.phrases.org.uk/bulletin_board/11/messages/625.html
+  | accessdate = 2009-03-17}}
+&lt;/ref&gt; Likely to be analogized due to the ease in which 32 is caught since it is the lowest possible non-hand (22 being a pair).
+|-
+|Little Pete&lt;ref name="HoldemSecrets"/&gt;||No explanation found
+|-
+|The Diaper&lt;ref name="HoldemSecrets"/&gt;||”The Dirty Diaper” if offsuit.
+|-
+|[[Michael Jordan]]||From his jersey number (23)&lt;ref name="PokerNews"/&gt;
+|-
+|-
+|Polish Big Slick||A bad Polish joke mimicking AK Big Slick&lt;ref name="HoldemSecrets"/&gt;
+|-
+|The Nut Low&lt;ref&gt;{{cite episode
+ | title = Poker Nations Cup 2008
+ | episodelink = PartyGaming
+ | series = Poker Nations Cup
+ | airdate = 2008-10-07
+ | number = 5}}
+&lt;/ref&gt;||In this instance 'nut' meaning 'most' rather than 'best', low hand (i.e., the lowest hand)
+|-
+|Hooter Hand (suited)||Named after famous poker dealer Houth "Hooter" Houn who played this hand as aggressively as AK.
+|-
+|Crubs (if clubs)||From the card game Hearts&lt;ref name="HoldemSecrets"/&gt;
+|}
+
+===Pocket Twos===
+{| class="wikitable"
+! Card Initials !! Alternative Name !! Explanation
+|-
+|align="center" rowspan="5"| 22
+|Desmond&lt;ref name="KillerPoker"/&gt;||Named after [[Desmond Tutu|Archbishop Desmond Tutu]]
+|-
+|Ducks&lt;ref name="EPT52"&gt;{{cite episode
+ | title = Pokerstars.com EPT London Highrollers
+ | episodelink = European Poker Tour season 5 results
+ | series = European Poker Tour
+ | serieslink = European Poker Tour season 5 results
+ | airdate = 2008-12-30
+ | season = 5
+ | number = 2}}&lt;/ref&gt;||From deux, French word for two, also a 2 looks like a duck,&lt;ref name="HoldemSecrets"/&gt; also used in [[Bingo (non-US)|bingo]]&lt;ref name="ildado"/&gt;
+|-
+|Quack Quack&lt;ref name="learntowin"/&gt;||From two little ducks, also bingo reference to the number 22&lt;ref name="ildado"&gt;{{cite web
+  | last = il dado
+  | title = Bingo Number-calling Nicknames
+  | url = http://www.ildado.com/bingo_nicknames.html
+  | accessdate = 2009-02-02}}
+&lt;/ref&gt;
+|-
+|Swans/Swarovskis||Looks like [[Swarovski Crystal]] swans&lt;ref name="HoldemSecrets"/&gt;
+|-
+|Richard Nixon||From the famous photo of Nixon getting on a helicopter giving two victory signs
+|}
+
+==Poker hand nicknames==
+The following sets of playing cards can be referred to by the corresponding names in card games that include sets of three or more cards, particularly [[Draw Poker|3 and 5 card draw]], [[Texas Hold 'em]] and [[Omaha Hold 'em]]. The nicknames would often be used by players when revealing their hands, or by spectators and commentators watching the game. With TV and web broadcasting of Poker tournaments, nicknames became much more popular all over the world.
+
+{| class="wikitable"
+! Card Initials !! Alternative Names
+|-
+| {{cards|♣}} flush|| Golf Bag (set of clubs), Puppy Feet, Puppy Prints (from the design of the club)
+|-
+| {{cards|♦}} flush|| Well-Dressed, Decked Out
+|-
+| {{cards|♥}} flush|| [[Valentine's Day]], All My Hearts, Heart-breaker (if it loses)
+|-
+| {{cards|♠}} flush|| Laborers, Digging Deep, In The Hole (if it loses)
+|-
+| AA235, 2358K || [[Fibonacci number|Fibonacci]]
+|-
+| A3579, 3579J, 579JK || What Are The Odds
+|-
+| 2357J, 357JK || All The Primes
+|-
+| 2468T, 468TQ, 68TQA || Even Stevens
+|-
+| AAAAK || [[Round Table|Knights of the Round Table]], [[Monty Python and the Holy Grail]]
+|-
+| AAAA || [[List of Pokémon characters#Team Rocket|Team Rocket]], [[Thunderbirds (TV series)|Thunderbirds]], [[The Three Musketeers|Musketeers]]
+|-
+| AAAKK || [[Windsor Castle]], [[Penthouse apartment|The Penthouse]], [[Updown Court]], [[Pinnacle Apartments|The Pinnacle]], [[Bran Castle]] (amongst some of the world's largest and/or most expensive buildings and/or mansions)
+|-
+| AAA || [[The Three Musketeers|Athos, Porthos and Aramis]]
+|-
+| AAKK || Big Slick Did the Trick (a rhyme, if the appropriate two-pair hand is formed from the AK starting hand (aka Big Slick); poker professionals will tend to bet aggressively with this hand)
+|-
+| AAQQ || [[Aqua (band)|Aqua]]
+|-
+| AAJJ || Jackasses (play on "Jacks and Aces")
+|-
+| AA88 || [[Dead Man's Hand]]
+|-
+| AKQJT || Broadway (off-suit), [[Royal flush (poker hand)|Royal Flush]] (suited)
+|-
+| A3A6 || Austin 3:16 (after WWE wrestler [[Stone Cold Steve Austin]])
+|-
+| A23 || ABC
+|-
+| AA23 || Princess Leia{{ref|Leia}}
+|-
+| A6A8T || Golden Hand (from the Golden Mean)
+|-
+| AK47 || After the [[AK-47]] [[assault rifle]] developed by [[Mikhail Kalashnikov]]
+|-
+| KKKK || Four Horsemen, [[Kings of Leon]]
+|-
+|AAAKKK || DUPLEX (Any two cards can be used. Basically two sets of trips. Instead of a 5 card hand called "Full House" you have a 6 card hand which makes a "bigger full house" or Duplex
+|-
+| KKKAA || [[Nativity of Jesus|The Nativity]] (the famous Biblical story in which the Three Wise Men visit Joseph &amp; Mary to witness Jesus Christ's birth)
+|-
+| KKKQQ || [[Buckingham Palace]]
+|-
+| KKK || Alabama Knight Riders, Three Wise Men, Christmas Special, Ku Klux Klan, [[Keane (band)|Keane]]
+|-
+| KKQQ || Mommas and Poppas, [[ABBA]], Double Date, "Aerosmith" (based on the song title, "Kings and Queens"), The Ice Breaker
+|-
+| KQJT9 || Off-Broadway (off-suit), Hail to the King (suited)
+|-
+| QQQQK || Elvis in Vegas, Queer Eye for the Straight Guy
+|-
+| QQQQJ || Bachelor's Dream
+|-
+| QQQQ || Village People, Magnolias, Scrabble Player's Dream, The Joy Luck Club
+|-
+| QQQ || Six Tits, Daisy Hand
+|-
+| QAAAK || The Duck
+|-
+| QQ33 || San Francisco waiters (Queens and Treys)
+|-
+| QJT98 || [[Honeymoon in Vegas]] (if it wins, based off a scene from the movie of the same name)
+|-
+|JA55
+|Jackass, Jazz
+|-
+| JJJJQ || The Strip Club
+|-
+| JJJJ8 || Riewoldt On A Roll (after AFL Richmond full-forward [[Jack Riewoldt]])
+|-
+| JJJJ5 || Neverland Ranch
+|-
+| JJJ55 || Jackson Five
+|-
+| JJJ || "Hart, Schaffner and Marx"
+|-
+| JJ55 || Rock 'n' Roll, Motown
+|-
+| JJ33 || Hookers With Crabs
+|-
+| JT987 || Convenience Store Straight, [[Honeymoon in Vegas]] (if it loses, based off a scene from the movie of the same name)
+|-
+| TTTT || Larry (after [[Larry Fortensky]], Elizabeth Taylor's eighth husband), Shotgun
+|-
+| TTT || Thirty Miles of Bad Road, Elk River, Gilroy, Judge Bean, Judge Duffy, Judge Judy, Judge Wapner, San Jose to Gilroy (approximate distance in miles between the two cities), Dallas to Fort Worth (ditto), Judas (his pay was "thirty pieces of silver")
+|-
+| TT || Fingers n' Toes (ten of each), Dubs Dimes, Duff McKagan, Top Titties
+|-
+| TJAAT || Golden String
+|-
+| TT33 || Hot Waitresses (Tens with treys)
+|-
+| TK42A || Star Wars, Stormtrooper (Why aren't you at your post?)
+|-
+| T8642 || Rizlo, Scotch Straight
+|-
+| 9988 || Oldsmobile&lt;ref&gt;{{cite web
+  | last = Casino City
+  | title = Definition of Oldsmobile
+  | date = 2009-01-01
+  | url = http://dictionary.pokerzone.com/Oldsmobile
+  | accessdate = 5 May 2015}}
+&lt;/ref&gt;
+|-
+| 9966 || Dinner For Four, Dubs Sixtyniners
+|-
+|-
+| 999 || Extra Virgin (99 is "German Virgin")
+|-
+| 888 || [[Subtitle (captioning)|Television Subtitles]]
+|-
+| 77744 || Sailing Rednecks
+|-
+| 777 || 21, 21 Miles of Rough Road, Jackpot,&lt;ref name="PLP6"&gt;{{cite episode
+ | title = PartyPoker.com
+ | series = Premier League Poker
+ | episodelink = PartyGaming
+ | airdate = 2009-02-25
+ | number = 6}}
+&lt;/ref&gt; Slot Machine&lt;ref name="yourpokerhands"/&gt;
+|-
+| 7733 || [[Queens of the Stone Age]] (after their song 3's and 7's)
+|-
+| 75432 (off-suit) || Kansas City,&lt;ref&gt;{{cite web
+  | author = Casino City
+  | title = Definition of Kansas City
+  | date = 2009-01-01
+  | url = http://dictionary.pokerzone.com/Kansas+City
+  | accessdate = 5 May 2015}}
+&lt;/ref&gt; Sympathy Hand (it is the worst hand possible)
+|-
+| 6667J || Devil's Convenience Store
+|-
+| 666 || The Devil, Lucifer, The Beast, Devil's Area Code, Kotch
+|-
+| 65432 || Rabbit, The World Trade Center Straight&lt;ref&gt;{{cite web|title=The World Trade Center Poker Hand - A Memorial To The World Trade Center|url=http://www.pokerandtheworldtradecenter.com|publisher=Shea Lectures|accessdate=11 September 2011}}&lt;/ref&gt;
+|-
+| 555 || [[Washington Monument]], Pork Chop Sandwich, Movie Call (All bogus numbers start with "555")
+|-
+| 5432A || First Street, Little Minnie, [[Ace-to-five low#Ace-to-five|Little Wheel]]{{ref|Wheel}}, Pup, Puppy, [[Ace-to-five low#Ace-to-five|Spoke]]{{ref|Wheel}}, [[Ace-to-five low#Ace-to-five|Steel Wheel]] (suited){{ref|Wheel}}, [[Ace-to-five low#Ace-to-five|Steel Wheel Bike]] (suited){{ref|Wheel}}, [[Ace-to-five low#Ace-to-five|The Bicycle]]{{ref|Wheel}}
+|-
+| 4444A || Hole-In-One
+|-
+| 4444 || Yacht Club
+|-
+| 444 || Grand Jury
+|-
+| 49 || Full Cup (Joke from the TV Series Friends, where Chandler and Joey play "Cups")
+|-
+| 36TJK || The Royal Sampler (from a joke on [[The Simpsons]])
+|-
+| 3333T || Teddy, EJ, Mr Football (after AFL/VFL Footscray/Western Bulldogs legend [[Ted Whitten]]), [[1961 VFL Grand Final|1961]] (if it loses)
+|-
+| 3333 || Forest, Four Trees, [[The Magic Numbers]]
+|-
+|-
+| 3322 || Socks and Shoes, Mits and Mites, Mites and Lice,&lt;ref name="NandL"/&gt; Nits and Lice&lt;ref name="NandL"/&gt;
+|-
+| 3A4A5 || [[Pi]]
+|-
+| 2222 || Mighty Ducks
+|-
+| 222AA || Marksman
+|-
+| 22233 || [[Tent]], Mites and Lice,&lt;ref name="NandL"&gt;{{cite web
+  | last = Casino City
+  | title = Definition of Nits and Lice
+  | date = 2009-01-01
+  | url = http://dictionary.pokerzone.com/Nits+and+Lice
+  | accessdate = 5 May 2015}}
+&lt;/ref&gt; Nits and Lice&lt;ref name="NandL"/&gt;
+|-
+| 222 || [[Huey, Dewey, and Louie]]
+|}
+
+==See also==
+* [[List of poker-related topics]]
+* [[Glossary of poker terms]]
+* [[List of poker hands|Poker-hand rankings]]
+* [[Schafkopf language]]
+
+==Notes==
+{{note|9h}}The nine of diamonds playing card is often referred to as the [[Curse of Scotland]]&lt;ref&gt;{{cite book
+  | last = Pynchon
+  | first = Thomas
+  | authorlink = Thomas Pynchon
+  | title = [[Against the Day]]
+  | publisher = Vinatege
+  | year = 2007
+  | pages = 26}}&lt;/ref&gt; or the '''Scourge of Scotland''',&lt;ref&gt;{{cite web|last=Online Casino Digital |title=Scourge of Scotland Poker |year=2006 |url=http://www.onlinecasino-digital.com/gamblingwords/scourgeofscotland-poker/index.html |accessdate=2009-02-12 |url-status=dead |archiveurl=https://web.archive.org/web/20061107161110/http://www.onlinecasino-digital.com/gamblingwords/scourgeofscotland-poker/index.html |archivedate=November 7, 2006 }}&lt;/ref&gt; there are a number of reasons given for this connection:
+# It was the playing card used by [[John Dalrymple, 1st Earl of Stair|Sir John Dalrymple]], the [[Earl of Stair]], to cryptically authorise the [[Massacre of Glencoe|Glencoe Massacre]].{{citation needed|date=June 2016}} Certainly there is a resemblance between the nine of diamonds and his coat of arms.
+# [[Prince William, Duke of Cumberland|The Duke of Cumberland]] is supposed to have scribbled the order for "no quarter" to be given after the [[Battle of Culloden]] on a nine of diamonds playing card.
+# It has also been suggested that it is a misreading of the "Corse of Scotland" i.e., the "[[Flag of Scotland|Cross of Scotland]]" or [[Saint Andrew|St Andrew's]] [[Saltire]]. There is a resemblance between the pattern of the nine of diamonds and the Saltire.
+# Nine diamonds were at one time stolen from the [[crown of Scotland]] and a tax was levied on the Scottish people to pay for them – the tax got the nickname "The Curse of Scotland".&lt;ref&gt;{{cite web
+  | last = RampantScotland.com
+  | title = Did You Know? – Curse of Scotland
+  | url = http://www.rampantscotland.com/know/blknow_curse.htm
+  | accessdate = 2009-02-11}}
+&lt;/ref&gt;
+# The game of Comète being introduced by [[Mary of Guise|Mary of Lorraine]] (alternatively by [[James II of England|James, Duke of York]]) into the court at [[Holyrood Palace|Holyrood]], the Nine of Diamonds, being the winning card, got this name in consequence of the number of courtiers ruined by it.
+# In the [[Pope Joan (card game)|game of Pope Joan]], the Nine of Diamonds is the Pope – a personage whom some Scottish [[Presbyterianism|Presbyterians]] consider as a curse.
+# Diamonds imply royalty and every ninth [[List of Scottish monarchs|king of Scotland]] was a curse to his country.&lt;ref&gt;{{cite book
+  | last = Chambers
+  | first = Robert
+  | authorlink = Robert Chambers (publisher born 1802)
+  | title = The Book of Days: A Miscellany of Popular Antiquities in Connection with the Calendar, Including Anecdote, Biography, &amp; History, Curiosities of Literature and Oddities of Human Life and Character, Vol I
+  | publisher = W &amp; R Chambers
+  | year = 1864
+  | pages = 75
+  | url = https://books.google.com/books?id=q24oAAAAYAAJ&amp;printsec=frontcover&amp;dq=the+book+of+days#PPA75,M1}}&lt;/ref&gt;
+
+{{note|6h}}The Six of Hearts is known as '''loyalty at the risk of death''' or '''Grace's Card'''. This is because in 1688 an Irish [[Jacobitism|Jacobite]] soldier, Colonel [[Richard Grace]] of Moynelly House, [[Athlone]], used this card to write a refusal to surrender and sent it to [[William III of England|William of Orange]]. Colonel Grace was loyal to [[James II of England|King James II of England]], and risked being shot or hanged for his refusal to give up. The words Colonel Grace wrote were, "Tell your master I despise his offer, and that honor and conscience are dearer to a gentleman than all the wealth and titles a prince can bestow"&lt;ref&gt;{{cite book
+  | last = Leeming
+  | first = Joseph
+  | title = Games and Fun with PLaying Cards
+  | publisher = Dover Publications
+  | date = 1980-03-01
+  | pages = 3
+  | url = https://books.google.com/books?id=FDH1huAGSTkC&amp;pg=PA2&amp;lpg=PA2#PPA3,M1| isbn = 9780486239774
+  }}&lt;/ref&gt;&lt;ref&gt;{{cite book
+  | last = Chambers
+  | first = Robert
+  | authorlink = Robert Chambers (publisher born 1802)
+  | title = The Book of Days: A Miscellany of Popular Antiquities in Connection with the Calendar, Including Anecdote, Biography, &amp; History, Curiosities of Literature and Oddities of Human Life and Character, Vol II
+  | publisher = W &amp; R Chambers
+  | year = 1832
+  | pages = 781
+  | url = https://books.google.com/books?id=K0UJAAAAIAAJ&amp;pg=RA1-PA781&amp;lpg=RA1-PA781&amp;dq=Tell+your+master+I+despise+his+offer,+and+that+honor+and+conscience+are+dearer+to+a+gentleman+than+all+the+wealth+and+titles+a+prince+can+bestow#PPP1,M1}}&lt;/ref&gt;
+
+{{note|Wheel}}The origin of '''The Bicycle''', '''Little Wheel''', '''Spoke''', '''Steel Wheel''', '''Steel Wheeled Bike''' or simply '''The Wheel''' is unknown, but it is believed to have something to do with the popular [[Bicycle Playing Cards]] issued by the [[United States Playing Card Company]].&lt;ref&gt;{{cite web
+  | last = Casino City
+  | title = Definition of Steel Wheel
+  | date = 2009-01-01
+  | url = http://dictionary.pokerzone.com/Steel+Wheel
+  | accessdate = 2009-02-06}}
+&lt;/ref&gt;&lt;ref&gt;{{cite web
+  | first = Shirley
+  | last = Rosario
+  | title = Wheel Poker Term – What is a Wheel?
+  | url =
+  }}
+&lt;/ref&gt;
+
+{{note|Leia}} The '''Princess Leia''' is the hand AA23 (more common in [[Omaha hold 'em|Omaha]] since this version of poker used 4 hole cards){{Citation needed|date=March 2009}}. This is because [[Princess Leia|Leia]] was held prisoner in detention block AA23 before she was rescued by [[Han Solo|Han]], [[Chewbacca]] and [[Luke Skywalker|Luke]] in ''[[Star Wars Episode IV: A New Hope]]''.&lt;ref&gt;{{cite web
+  | last = Milmo
+  | first = Cahal
+  | last2 = Willetts
+  | first2 = Tom
+  | title = 23 fascinating facts about the number twenty-three
+  | date = 2007-02-23
+  | url = http://afgen.com/number23g.html
+  | accessdate = 2009-03-21}}
+&lt;/ref&gt;
+
+==References==
+{{Reflist|30em}}
+
+{{Playing cards}}
+
+{{DEFAULTSORT:Playing Card Nicknames}}
+[[Category:Playing cards]]
+[[Category:Poker hands]]
+[[Category:Card game terminology]]
+[[Category:Poker gameplay and terminology]]</text>
+      <sha1>pe1nkmegeu33drxa0z56e9wtyz7yla4</sha1>
+    </revision>
+  </page>
+</mediawiki>

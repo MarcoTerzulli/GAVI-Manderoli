@@ -1,0 +1,122 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Psychodynamic Diagnostic Manual</title>
+    <ns>0</ns>
+    <id>4040738</id>
+    <revision>
+      <id>956283070</id>
+      <parentid>931101409</parentid>
+      <timestamp>2020-05-12T14:17:46Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8688" xml:space="preserve">{{italic title}}
+[[File:Pdm cover.jpg|thumb|right]]
+The '''''Psychodynamic Diagnostic Manual''''' ('''PDM''') is a diagnostic handbook similar to the [[ICD|International Statistical Classification of Diseases and Related Health Problems]] (ICD) or the ''[[Diagnostic and Statistical Manual of Mental Disorders]]'' (DSM). The PDM was published on May 28, 2006.
+
+The information contained in the PDM was collected by a collaborative task force which includes members of the [[American Psychoanalytic Association]], the [[International Psychoanalytical Association]], the Division of Psychoanalysis (Division 39) of the [[American Psychological Association]], the [[American Academy of Psychoanalysis and Dynamic Psychiatry]], and the National Membership Committee on Psychoanalysis in Clinical Social Work.
+
+Although it is based on current neuroscience and treatment outcome studies, Carey (2006) points out that many of the concepts in the PDM are adapted from the classical [[psychoanalytic]] tradition of psychotherapy. For example, the PDM indicates that the [[anxiety disorders]] may be traced to the "four basic danger situations" described by [[Sigmund Freud]] (1926)&lt;ref name=Freud&gt;{{cite book|last=Freud|first=Sigmund|title=The Collected Works of Sigmund Freud|year=1926|publisher=W. W. Norton &amp; Company|location=Vol 20|edition=Standard|chapter=Inhibitions, Symptoms and Anxiety}}&lt;/ref&gt;  as the loss of a significant other; the loss of love; the loss of body integrity; and the loss of affirmation by one's own conscience.&lt;ref name=Carey&gt;{{cite news|last=Carey|first=Benedict|title=For Therapy, a New Guide With a Touch of Personality|newspaper=New York Times|date=January 24, 2006}}&lt;/ref&gt; It uses a new perspective on the existing diagnostic system as it enables clinicians to describe and categorize personality patterns, related social and emotional capacities, unique mental profiles, and personal experiences of the patient.&lt;ref name=Etnyre&gt;{{cite journal|last=Etnyre|first=W|title=Psychodynamic Diagnostic Manual|journal=Journal of Clinical Social Work|year=2008|volume=36|pages=403–406}}&lt;/ref&gt;
+
+The PDM is not intended to compete with the DSM or ICD. The authors report the work emphasizes "individual variations as well as commonalities" by "focusing on the full range of mental functioning" and serves as a "[complement to] the DSM and ICD efforts in cataloguing [sic] symptoms.&lt;ref name="HomePage"&gt;{{cite web|last=PDM Task Force|title=Home Page|url=http://www.pdm1.org/index.htm|publisher=Alliance of Psychoanalytic Organizations|accessdate=9 January 2013|year=2006}}&lt;/ref&gt;  The task force intends for the PDM to augment the existing diagnostic taxonomies by providing "a multi dimensional approach to describe the intricacies of the patient's overall functioning and ways of engaging in the therapeutic process.".&lt;ref name="Intro"&gt;{{cite web|last=PDM Task Force|title=Introduction|url=http://www.pdm1.org/intro.htm|publisher=Alliance of Psychoanalytic Organizations|accessdate=9 January 2013|year=2006|archive-url=https://web.archive.org/web/20060222221314/http://www.pdm1.org/intro.htm|archive-date=22 February 2006|url-status=dead}}&lt;/ref&gt;
+
+With the publication of the DSM-3 in 1980, the manual switched from a psychoanalytically influenced dimensional model to a "neo-Kraepelinian" descriptive symptom-focused model based on present versus absent symptoms. The PDM provided a return to a psychodynamic model for the nosological evaluation of symptom clusters, personality dimensions, and dimensions of mental functioning.
+
+== Taxonomy ==
+
+=== Dimension I: Personality Patterns and Disorders ===
+
+This first dimension classifies personality patterns in two domains.  First, it looks at the spectrum of personality types and places the person's personality on a continuum from unhealthy and maladaptive to healthy and adaptive. Second, it classifies the how the person "organizes mental functioning and engages the world".&lt;ref name="HomePage" /&gt;
+
+The task force adds, "This dimension has been placed first in the PDM system because of the accumulating evidence that symptoms or problems cannot be understood, assessed, or treated in the absence of an understanding of the mental life of the person who has the symptoms".&lt;ref name="HomePage" /&gt;  In other words, a list of symptoms characteristic of a diagnosis does not adequately inform a clinician how to understand and treat the symptoms without proper context.  By analogy, if a patient went to her physician complaining of watering eyes and a runny nose, the symptoms alone do not indicate the appropriate treatment.  Her symptoms could be a function of seasonal allergies, a bacterial sinus infection, the common cold, or she may have just come from her grandmother's funeral.  The doctor might treat allergies with an antihisamine, the sinus infection with antibiotics, the cold with zinc, and give her patient a Kleenex tissue after the funeral.  All four conditions may have very similar symptoms; all four condition are treated very differently.
+
+=== Dimension II: Mental Functioning ===
+Next, the PDM provides a "detailed description of emotional functioning" which are understood to be "the capacities that contribute to an individual's personality and overall level of psychological health or pathology".&lt;ref name="HomePage" /&gt;  This dimension provides a "microscopic" examination of the patient's mental life by systematically accounting for their functional capacity to
+* Process information
+* Self-regulate
+* Establish and maintain relationships
+* Experience, organize, and express feelings and emotions at different levels
+* Represent, differentiate, and integrate experience
+* Utilize appropriate coping strategies and defense mechanisms
+* Accurately observe oneself and others
+* Form internal values and standards
+
+=== Dimension III: Manifest Symptoms and Concerns ===
+
+The third dimension starts with the DSM-IV-TR diagnostic categories; moreover, beyond simply listing symptoms, the PDM "goes on to describe the affective states, cognitive processes, somatic experiences, and relational patterns most often associated clinically" with each diagnosis.&lt;ref name="HomePage" /&gt;  In this dimension, "symptom clusters" are "useful descriptors" which presents the patient's "symptom patterns in terms of the patient's personal experience of his or her prevailing difficulties".&lt;ref name="HomePage" /&gt;  The task force concludes, "The patient may evidence a few or many patterns, which may or may not be related, and which should be seen in the context of the person's personality and mental functioning.  The multi dimensional approach... provides a systematic way to describe patients that is faithful to their complexity and helpful in planning appropriate treatments".&lt;ref name="HomePage" /&gt;
+
+== The new edition (PDM-2) ==
+Guilford Press published a new edition of the Psychodynamic Diagnostic Manual (PDM-2), developed by a steering committee composed by [[Vittorio Lingiardi]] (Editor), [[Nancy McWilliams]] (Editor), and [[Robert S. Wallerstein]] (Honorary Chair). Guilford Press received a manuscript for PDM-2 in September 2016, and the release date was June 20, 2017.&lt;ref&gt;Guilford Press Customer Service&lt;/ref&gt;
+
+Like the PDM-1, the PDM-2 classifies patients on three axes: 'P-Axis - Personality Syndromes', 'M-Axis - Profiles of Mental Functioning', and 'S-Axis - Symptom Patterns: The Subjective Experience'. The axis of personality syndromes is intended to be viewed as a "map" of personality instead of a listing of personality disorders as in the DSM and ICD. The PDM-2 defines different terms as part of the P-Axis including "personality", "character", "temperament", "traits", "type", "style", and "defense". The S-Axis bears a lot of similarity to the DSM and ICD due to the inclusion of predominantly psychotic disorders, mood disorders, disorders related primarily to anxiety, event- and stressor-related disorders, somatic symptom disorders and addiction disorders.
+
+==See also==
+*[[Diagnostic and Statistical Manual of Mental Disorders]]
+*[[DSM-IV Codes]]
+*[[ICD|International Statistical Classification of Diseases and Related Health Problems]]
+*[[ICD-10]]
+*[[ICD-10 Chapter V: Mental and behavioural disorders]]
+
+== References ==
+&lt;references /&gt;
+
+== External links ==
+*[https://sites.google.com/a/icdl.com/pdm Website of the Psychodynamic Diagnostic Manual]
+*[http://www.apa.org/monitor/jan07/tool.aspx APA News monitor: Five psychoanalytic associations collaborate to publish a new diagnostic manual.]
+
+[[Category:2006 non-fiction books]]
+[[Category:Medical manuals]]
+[[Category:Psychology books]]
+[[Category:Psychiatric classification systems]]
+[[Category:Books about psychoanalysis]]</text>
+      <sha1>m7e3k19zqx229gt7bj1epsuitryz99t</sha1>
+    </revision>
+  </page>
+</mediawiki>

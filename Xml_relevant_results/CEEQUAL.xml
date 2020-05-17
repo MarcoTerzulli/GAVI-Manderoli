@@ -1,0 +1,185 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>CEEQUAL</title>
+    <ns>0</ns>
+    <id>20515628</id>
+    <revision>
+      <id>918856027</id>
+      <parentid>902487818</parentid>
+      <timestamp>2019-09-30T16:15:55Z</timestamp>
+      <contributor>
+        <username>Kstone999</username>
+        <id>27930992</id>
+      </contributor>
+      <minor/>
+      <comment>v2.02 - Fixing innerlinks / [[WP:WCW]] project (Link equal to linktext)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11650" xml:space="preserve">{{Use British English|date=March 2013}}
+{{Use dmy dates|date=March 2013}}
+{{Infobox organisation
+|name           = CEEQUAL
+|image          = Ceequal Logo.png
+|size           = 270px
+|caption        = Assessment &amp; award scheme for improving sustainability in civil engineering, infrastructure, landscaping and works in public spaces
+|launched      = 2003
+|purpose        = Sustainability assessment and awards
+|headquarters   = [[Watford]]
+|website        = http://www.ceequal.com
+}}
+
+'''CEEQUAL''' is the international evidence-based sustainability assessment, rating and awards scheme for civil engineering, infrastructure, landscaping and works in public spaces. It was established following work promoted by the [[Institution of Civil Engineers]] (ICE) and operated with a group of 14 industry shareholders. In November 2015 CEEQUAL was acquired by [[Building Research Establishment]] (BRE Global Ltd)  following a recommendation from the CEEQUAL Board; this move represents a shared ambition to bring together two successful sustainability rating schemes – BREEAM and CEEQUAL – to create a single, science-based best practice standard and certification tool for civil engineering and other infrastructure projects in the UK and around the world. From November, CEEQUAL will transfer its business operations to BRE Global, and CEEQUAL will, after this transfer, be delivered by the BREEAM certification team with continued support from the CEEQUAL scheme management team.
+
+The acquisition has been prompted by the industry’s desire for a single sustainability rating scheme that addresses the challenges that Infrastructure clients, professions and contractors currently face in delivering more sustainable and resilient infrastructure. The new scheme will also address the need for integration with building related schemes so that clients with mixed developments can have a single combined rating for their asset. The new single combined scheme will help to deliver enhanced environmental and social benefits for civil engineering works and better economic outcomes that benefit society.
+
+CEEQUAL encourages and promotes the attainment of high economic, environmental and social performance in all forms of civil engineering through identifying and applying best practice. It aims to assist clients, designers and contractors to deliver improved sustainability performance and strategy in a project or contract, during specification, design and construction. The scheme rewards project and contract teams who go beyond the legal, environmental and social minima to achieve distinctive environmental and social performance in their work.&lt;ref&gt;[http://www.ceequal.com/ CEEQUAL Website - Introduction] Retrieved on 2 December 2008&lt;/ref&gt;
+
+==History==
+Prior to the recent acquisition by BRE, CEEQUAL was developed by a team led by the [[Institution of Civil Engineers|ICE]], with government financial support from the [[DETR]] and [[Department of Trade and Industry (United Kingdom)|DTI]] Partners in Innovation schemes, and from the ICE's Research &amp; Development Enabling Fund. 
+The development of CEEQUAL was managed by Crane Environmental Ltd., and received support and participation from relevant government departments and agencies, professional and industry associations, and civil engineering consultants and contractors.
+
+Following industry-wide consultation and trialling, the scheme was launched in September 2003 and the first eight Awards presented at the ICE.
+
+Since then, CEEQUAL has become the [[UK]] industry scheme for assessing environmental and sustainability performance in civil engineering and public realm projects, and is now widely used by major civil engineering clients, designers and contractors. In June 2008 CEEQUAL was recognised by [[HM Government|HM Government's]] report, ''Strategy for Sustainable Construction''  as an initiative helping to 'drive forward' the Government’s design agenda for civil engineering and infrastructure projects.&lt;ref&gt;[http://www.ice.org.uk/knowledge/newsdetail_ice.asp?NewsID=959&amp;NewsType=ICE&amp;FacultyID=3 ICE News Website - CEEQUAL gets government backing in new construction strategy]{{Dead link|date=November 2018 |bot=InternetArchiveBot |fix-attempted=yes }} Retrieved on 2 December 2008&lt;/ref&gt; The total construction value of all projects assessed or in process of being assessed under CEEQUAL reached the £6 billion mark in autumn 2008. By 2015 the civil engineering value of work that has been or is currently being assessed exceeds £25 billion.&lt;ref&gt;[http://www.ceequal.com/downloads/CEEQUAL-6bn-Oct08.pdf Press Release - Value of projects assessed under CEEQUAL is approaching £6bn]{{Dead link|date=November 2018 |bot=InternetArchiveBot |fix-attempted=yes }} Retrieved on 2 December 2008&lt;/ref&gt;
+
+==How CEEQUAL works==
+
+The scheme uses a points-scoring-based assessment, which is applicable to any civil engineering or public realm project. The scheme is made up of 200 questions within the CEEQUAL Manual relating to environmental and social aspects of a project such as the use of water, energy and land, impacts on ecology, landscape, neighbours, archaeology, as well as [[waste minimisation]] and management, and community relations and amenity. Awards are made to projects in which the clients, designers and constructors have gone beyond the legal and environmental minima, to achieve distinctive environmental standards of performance.
+
+Project assessments are self-assessments carried out by an Assessor from within any part of a project team, or contracted in, who must have been trained by CEEQUAL. CEEQUAL also appoints a trained Verifier to the project, who is independent of the project team and acts to support the Assessor and provide validation of the completed assessment and subsequent Award.
+The first step involves the Assessor and Verifier agreeing which questions are not relevant to the project and should be scoped out. The project is then assessed against the remaining question set. The Assessor completes the assessment by gathering the appropriate supporting evidence and completing a Scoring Spreadsheet. This is then submitted to the Verifier, together with the supporting evidence, for review and approval. Once the Verifier is satisfied with the assessment, the Scoring Spreadsheet is submitted to CEEQUAL for ratification, and a CEEQUAL Award certificate is issued.&lt;ref&gt;[http://www.aggregain.org.uk/sustainability/examples_of_tools_and_approaches/ceequal/ AggRegain Website - CEEQUAL Step by Step Guide] Retrieved on 2 December 2008&lt;/ref&gt;
+
+There are several different CEEQUAL Award levels that a project can achieve, depending on the percentage number of points scored against the scoped-out question set. These are:
+
+* more than 25% - Pass
+* more than 40% - Good
+* more than 60% - Very Good
+* more than 75% - Excellent
+
+==Award types==
+
+Five types of award can be applied for:
+
+* Whole Project Award, which is normally applied for jointly by or on behalf of the client, designer and principal contractor(s)
+* Client &amp; Design Award
+* Design Only Award, applied for by the principal designer(s) only
+* Construction Only Award, applied for by the principal contractor(s) only
+* Design &amp; Build Award, applied for the designer(s) and constructor(s) of a project.
+
+For larger or long-term projects an Interim (Client &amp; Outline Design) Award is assessed en route to a final Whole Project Award.
+
+==The manual==
+
+The ''CEEQUAL Assessment Manual for Projects'' contains the 200 questions that comprise the CEEQUAL scheme and against which projects are assessed. The Manual also contains background information and references, guidance on scoring and scoping out, and examples of what is considered appropriate evidence. The question set is split into the following 12 topic areas:
+
+* Project management
+* Land use
+* Landscape
+* Ecology and biodiversity
+* The historic environment
+* Water resources and the water environment
+* Energy and carbon
+* Material use
+* Waste management
+* Transport
+* Effects on neighbours
+* Relations with the local community and other stakeholders
+
+In November 2008, Version 4 of the CEEQUAL Manual was launched. This provided a significant update to previous versions, including new questions specifically targeting carbon emissions and whole-life-cycle carbon analysis.&lt;ref&gt;[http://www.ceequal.com/downloads/CEEQUAL%20Manual%20V4%20launch.pdf Press Release - CEEQUAL is launching new Scheme Manual at CIVILS 2008]{{Dead link|date=November 2018 |bot=InternetArchiveBot |fix-attempted=yes }} Retrieved on 2 December 2008&lt;/ref&gt;
+
+The CEEQUAL Manual should be read in conjunction with the ''Scheme Description and Process Handbook'', which introduces the process of a CEEQUAL assessment and acts as a 'how to' guide for the Manual.
+
+==Projects awarded==
+
+Some of the civil engineering projects to have achieved CEEQUAL Awards
+
+'''Bridges'''
+* Victoria footbridge, [[Hereford]]
+
+'''Public realm'''
+
+* Custom House Square, [[Belfast]]
+
+'''Rail'''
+* [[London Overground]] - [[East London Line#Extensions|East London Line]]&lt;ref&gt;[http://www.ceequal.com/award21.asp CEEQUAL Award - London Overground East London Line Project, Interim Client &amp; Design Award] {{Webarchive|url=https://web.archive.org/web/20080821122803/http://www.ceequal.com/award21.asp# |date=21 August 2008 }} Retrieved on 4 December 2008&lt;/ref&gt;
+* Hademore level crossing, [[West Coast Main Line]]&lt;ref&gt;[http://www.railtechnologymagazine.com/dataview/News/News_Article.aspx?KeyValue=1273 Rail Technology Magazine - Hademore Level Crossing wins construction-only award] {{Webarchive|url=https://web.archive.org/web/20110715150852/http://www.railtechnologymagazine.com/dataview/News/News_Article.aspx?KeyValue=1273 |date=15 July 2011 }} Retrieved on 2 December 2008&lt;/ref&gt;
+
+'''River / coastal defence structures'''
+* [[River Darent|Dartford Creek]] [[flood embankment]] stabilisation, [[London]]
+* New St Germans pumping station, [[Middle Level Commissioners|Middle Level]], [[Norfolk]]
+* [[London Heathrow Terminal 5#Twin Rivers Diversion Scheme|Twin Rivers Diversion Scheme]], [[Heathrow]]&lt;ref&gt;[http://www.iema.net/download/readingroom/casestudy/BAA%20-%20Sustainable%20Construction%20Terminal%205/BAA%20-%20Sustainable%20Construction%20Terminal%205.pdf IEMA Website - Sustainable Construction at Terminal 5] {{Webarchive|url=https://web.archive.org/web/20120213223524/http://www.iema.net/download/readingroom/casestudy/BAA%20-%20Sustainable%20Construction%20Terminal%205/BAA%20-%20Sustainable%20Construction%20Terminal%205.pdf# |date=13 February 2012 }} Retrieved on 3 December 2008&lt;/ref&gt;
+
+'''Roads'''
+* A58 Blackbrook diversion scheme, [[St Helens, Merseyside]]
+* [[A590]] High and Low Newton bypass, [[Cumbria]]&lt;ref&gt;[http://www.ceequal.com/award33.asp CEEQUAL Award - A590 High and Low Newton Bypass] {{webarchive|url=https://web.archive.org/web/20090107024717/http://www.ceequal.com/award33.asp |date=7 January 2009 }} Retrieved on 3 December 2008&lt;/ref&gt;
+* Cross Valley Link Road, [[Northampton]]
+
+'''Water supply &amp; sewerage'''
+* [[Thames Water Ring Main]] tunnel extensions, [[London]]
+* [[Reading, Berkshire|Reading]] sewage treatment plant
+
+==See also==
+*[[Infrastructure Sustainability Council of Australia]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.ceequal.com CEEQUAL]
+
+{{DEFAULTSORT:Ceequal}}
+[[Category:Civil engineering]]
+[[Category:Construction industry of the United Kingdom]]
+[[Category:Environmental design]]
+[[Category:Environmental planning]]
+[[Category:Historic preservation]]
+[[Category:Organisations based in Hertfordshire]]
+[[Category:Science and technology in Hertfordshire]]
+[[Category:Sustainability in the United Kingdom]]</text>
+      <sha1>pzku2tk48zn72iq9jp2j66vm3mc1t21</sha1>
+    </revision>
+  </page>
+</mediawiki>

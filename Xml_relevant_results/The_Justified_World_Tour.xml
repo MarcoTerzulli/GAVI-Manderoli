@@ -1,0 +1,354 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>The Justified World Tour</title>
+    <ns>0</ns>
+    <id>20827155</id>
+    <revision>
+      <id>952327663</id>
+      <parentid>858407139</parentid>
+      <timestamp>2020-04-21T18:02:05Z</timestamp>
+      <contributor>
+        <username>DemonDays64 Bot</username>
+        <id>37890503</id>
+      </contributor>
+      <minor/>
+      <comment>HTTPS security. [[User talk:DemonDays64|Tell me]] if there's an issue with my edit. (via [[WP:JWB]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9402" xml:space="preserve">{{Infobox concert tour
+| type = World
+| concert_tour_name = Justified World Tour
+| image = Justified World Tour.png
+| landscape = yes
+| image_size = 250px
+| border = yes
+| image_caption = Promotional banner for the 2004 leg
+| artist = [[Justin Timberlake]]
+| album = ''[[Justified (album)|Justified]]''
+| start_date = {{start date|2003|05|07}}
+| end_date = {{start date|2004|06|19}}
+| number_of_legs = 4
+| number_of_shows = 61
+| this_tour = '''Justified World Tour'''&lt;br&gt;(2003–04)
+| next_tour = [[Justified and Stripped Tour]]&lt;br&gt;(2003)
+}}
+
+'''Justified World Tour''' (also known as the '''Justified and Lovin' It Live'''&lt;ref name="mcdonald'scorporation"&gt;{{cite web|url=http://www.prnewswire.com/news-releases/mcdonaldsr-and-justin-timberlake-team-up-for-us-and-european-concert-tour-72458062.html|title=McDonald's(R) and Justin Timberlake Team Up for U.S. and European Concert...|author=McDonald's Corporation|date=10 October 2003|work=prnewswire.com}}&lt;/ref&gt;) was the debut [[concert tour]] by American singer-songwriter [[Justin Timberlake]]. The tour showcased material his debut studio album, ''[[Justified (album)|Justified]]'' (2002).
+
+==Background==
+In September 2003, [[McDonald's]] announced Timberlake as a new spokesmen for their "I'm Lovin' It" campaign. Timberlake recorded "[[I'm Lovin' It]]", to be featured in ads for the franchise, later expanded and released as a single in December 2003. McDonald's later announced they will sponsor a tour for Timberlake, following his successful North American tour with Christina Aguilera.&lt;ref&gt;{{cite web|url=https://www.smh.com.au/articles/2003/09/03/1062548903741.html?from=storyrhs|title=Bubble-gum pop meets fast food for ad campaign|date=2003-09-04|accessdate=2008-12-23|last=Gotting|first=Peter|work=The Sunday Morning Herald|publisher= Herald and Weekly Times Ltd}}&lt;/ref&gt; Timberlake stated, ''"I love what McDonald's is doing with the new 'i'm lovin' it' campaign and it's cool to be part of it [...] We share the same crowd -- people who like to have fun -- and that's what this new partnership and my European concert tour is all about."'' The tour begin with Timberlake playing intimate gigs at clubs and theatres in the United States and Australia before expanding to arenas in Europe.&lt;ref&gt;{{cite press release |title=McDonald's Teams With Justin Timberlake on European Concert Tour |url=http://www.prnewswire.co.uk/cgi/news/release?id=111425 |publisher=PRNewswire |date=2003-11-07 |accessdate=2008-12-23}}&lt;/ref&gt; After select shows in the [[United Kingdom|U.K.]], Timberlake performed at local clubs and theatres following his performance in that city.
+
+==Opening acts==
+*[[Lemar]] &lt;small&gt;(Europe) (select venues)&lt;/small&gt;
+*[[Solange Knowles|Solange]] &lt;small&gt;(United Kingdom)&lt;/small&gt;
+
+==Set list==
+#"[[Rock Your Body]]"
+#"Right for Me"
+#"[[Gone ('N Sync song)|Gone]]"
+#"[[Girlfriend ('N Sync song)|Girlfriend]]"
+#"[[Señorita (Justin Timberlake song)|Señorita]]"
+#"Still on My Brain"
+#"Nothin' Else"
+#"[[Cry Me a River (Justin Timberlake song)|Cry Me a River]]"
+#"Let's Take a Ride"
+#"Beatbox Interlude"
+#"Last Night"
+#"[[I'm Lovin' It (song)|I'm Lovin' It]]"
+#"Take Me Now"
+#"Take It from Here"
+#"[[Like I Love You]]"
+Source:&lt;ref name="nme"&gt;{{cite web|url=https://www.nme.com/news/justin-timberlake/15661|title=JT returns to the UK|date=2003-12-03|accessdate=2008-12-23|work=NME|publisher=IPC Media}}&lt;/ref&gt;
+
+==Tour dates==
+{| class="wikitable" style="text-align:center;"
+|+ List of concerts, showing date, city, country and venue
+|-
+! scope="col" style="width:10em;"| Date
+! scope="col" style="width:10em;"| City
+! scope="col" style="width:10em;"| Country
+! scope="col" style="width:16em;"| Venue
+|-
+! colspan="4"| Europe{{citation needed|date=August 2013}}
+|-
+|May 7, 2003
+|[[Sheffield]]
+|rowspan="11"|England
+|[[Hallam FM Arena]]
+|-
+|May 9, 2003
+|rowspan="2"|[[Manchester]]
+|rowspan="2"|[[Manchester Evening News Arena]]
+|-
+|May 10, 2003
+|-
+|May 11, 2003
+|[[Newcastle upon Tyne|Newcastle]]
+|[[Telewest Arena]]
+|-
+|May 12, 2003
+|[[Birmingham]]
+|[[NEC Arena]]
+|-
+|May 14, 2003
+|rowspan="6"|[[London]]
+|rowspan="2"|[[Wembley Arena]]
+|-
+|May 15, 2003
+|-
+|May 17, 2003
+|rowspan="4"|[[London Arena]]
+|-
+|May 18, 2003
+|-
+|May 19, 2003
+|-
+|May 20, 2003
+|-
+|May 22, 2003
+|rowspan="2"|[[Dublin]]
+|rowspan="2"|Ireland
+|rowspan="2"|[[Point Theatre]]
+|-
+|May 23, 2003
+|-
+! colspan="4" | North America&lt;ref name="mcdonald'scorporation"/&gt;
+|-
+| October 13, 2003
+|[[Washington, D.C.]]
+| rowspan="5"|[[United States]]
+|[[9:30 Club]]
+|-
+| October 14, 2003
+| [[Norfolk, Virginia|Norfolk]]
+|[[The NorVa]]
+|-
+| October 16, 2003
+| [[Cleveland]]
+|[[Agora Theatre and Ballroom|Agora Theatre]]
+|-
+| October 17, 2003
+| [[Detroit]]
+|[[State Theatre (Ann Arbor, Michigan)|State Theatre]]
+|-
+
+| October 19, 2003
+| [[Memphis, Tennessee|Memphis]]
+|[[The New Daisy Theatre]]
+|-
+! colspan="4" | Europe&lt;ref name="nme"/&gt;&lt;ref&gt;{{cite web|url=https://www.nme.com/reviews/justin-timberlake/7241|title=NME Reviews – Justin Timberlake: Birmingham NIA    :     Monday 1 December – NME.COM|date=12 September 2005|work=NME.COM}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.metroradioarena.co.uk/events/475/justin-timberlake|title=Justin Timberlake|work=metroradioarena.co.uk}}&lt;/ref&gt;
+|-
+|November 16, 2003{{citation needed|date=August 2013}}
+|[[Ghent]]
+|[[Belgium]]
+|[[Flanders Sports Arena]]
+|-
+|November 17, 2003{{citation needed|date=August 2013}}
+|[[Cologne]]
+|rowspan="2"|[[Germany]]
+|[[Kölnarena]]
+|-
+|November 19, 2003{{citation needed|date=August 2013}}
+|[[Munich]]
+|[[Olympiahalle]]
+|-
+|November 22, 2003{{citation needed|date=August 2013}}
+|[[Zürich]]
+|[[Switzerland]]
+|[[Hallenstadion]]
+|-
+|November 24, 2003{{citation needed|date=August 2013}}
+|[[Frankfurt]]
+|rowspan="2"|[[Germany]]
+|[[Festhalle Frankfurt]]
+|-
+|November 25, 2003{{citation needed|date=August 2013}}
+|Berlin
+|[[Velodrom]]
+|-
+|November 26, 2003{{citation needed|date=August 2013}}
+|[[Arnhem]]
+|[[Netherlands]]
+|[[GelreDome|GelreDome XS]]
+|-
+|November 29, 2003{{citation needed|date=August 2013}}
+|rowspan="2"|Paris
+|rowspan="2"|[[France]]
+|rowspan="2"|[[Palais Omnisports de Paris-Bercy]]
+|-
+|align="center"|November 30, 2003{{citation needed|date=August 2013}}
+|-
+| December 1, 2003
+| rowspan="3"| Birmingham
+| rowspan="12"|[[England]]
+| rowspan="3"| [[National Indoor Arena]]
+|-
+| December 2, 2003
+|-
+| December 3, 2003
+|-
+|December 5, 2003
+|rowspan="4"|London
+|rowspan="4"|[[Earls Court Exhibition Centre]]
+|-
+|December 6, 2003
+|-
+|December 7, 2003
+|-
+|December 8, 2003
+|-
+|December 10, 2003
+|rowspan="3"|Manchester
+|rowspan="3"|Manchester Evening News Arena
+|-
+|December 11, 2003
+|-
+|December 12, 2003
+|-
+|December 14, 2003
+|rowspan="2"|Sheffield
+|rowspan="2"|Hallam FM Arena
+|-
+|December 15, 2003
+|-
+|December 17, 2003
+|rowspan="2"|[[Belfast]]
+|rowspan="2"|[[Northern Ireland]]
+|rowspan="2"|[[Odyssey Arena]]
+|-
+|December 18, 2003
+|-
+|December 20, 2003
+|rowspan="2"|[[Dublin]]
+|rowspan="2"|Ireland
+|rowspan="2"|[[Point Theatre]]
+|-
+|December 21, 2003
+|-
+|January 9, 2004{{citation needed|date=August 2013}}
+|rowspan="3"|London
+|rowspan="3"|England
+|rowspan="3"|Earls Court Exhibition Centre
+|-
+|January 10, 2004{{citation needed|date=August 2013}}
+|-
+|January 11, 2004{{citation needed|date=August 2013}}
+|-
+|January 14, 2004{{citation needed|date=August 2013}}
+|rowspan="3"|[[Glasgow]]
+|rowspan="3"|[[Scotland]]
+|rowspan="3"|[[Scottish Exhibition and Conference Centre]]
+|-
+|January 15, 2004{{citation needed|date=August 2013}}
+|-
+|January 16, 2004{{citation needed|date=August 2013}}
+|-
+|January 18, 2004{{citation needed|date=August 2013}}
+|rowspan="2"|Birmingham
+|rowspan="7"|England
+|rowspan="2"|National Indoor Arena
+|-
+|January 19, 2004{{citation needed|date=August 2013}}
+|-
+|January 21, 2004
+| rowspan="2"| Newcastle
+| rowspan="2"| Telewest Arena
+|-
+| January 22, 2004
+|-
+|January 23, 2004{{citation needed|date=August 2013}}
+|rowspan="3"|Manchester
+|rowspan="3"|Manchester Evening News Arena
+|-
+|January 24, 2004{{citation needed|date=August 2013}}
+|-
+|January 25, 2004{{citation needed|date=August 2013}}
+|-
+! colspan="4" |Australia&lt;ref&gt;{{cite web|url=http://www.frontiertouring.com/index.php?action=retail&amp;form_name=view_retail&amp;merchant_id=759&amp;sectionID=|title=Justin Timberlake tickets – Justin Timberlake 2004 Tour Dates &amp; Concert Information – Frontier Touring Australia &amp; New Zealand|author=The Frontier Touring Company|work=Frontier Touring Australia &amp; New Zealand}}&lt;/ref&gt;
+|-
+|June 11, 2004
+|rowspan="3"|[[Melbourne]]
+|rowspan="7"|Australia
+|rowspan="3"|[[Festival Hall, Melbourne|Festival Hall]]
+|-
+|June 12, 2004
+|-
+|June 13, 2004
+|-
+|June 16, 2004
+|rowspan="3"|[[Sydney]]
+|rowspan="3"|[[Hordern Pavilion]]
+|-
+|June 17, 2004
+|-
+|June 18, 2004
+|-
+|June 19, 2004
+|[[Brisbane]]
+|[[Brisbane Convention Centre]]
+|-
+|}
+
+==Broadcasts and recordings==
+A live [[video album]] titled ''[[Justin Timberlake: Live from London]]'' was released on December 16, 2003.&lt;ref&gt;{{cite web|url=https://www.amazon.com/Justin-Timberlake-Live-From-London/dp/B0000DYVRS|title=Amazon.com: Justin Timberlake – Live From London: Justin Timberlake: Movies &amp; TV|work=amazon.com}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==See also==
+{{Wikipedia books|Justified (album)}}
+*[[McDonald's advertising#Current campaign|I'm Lovin' It Campaign]]
+
+{{Justin Timberlake}}
+
+{{DEFAULTSORT:Justified World Tour}}
+[[Category:Justin Timberlake concert tours]]
+[[Category:2003 concert tours]]
+[[Category:2004 concert tours]]</text>
+      <sha1>rewyrhd7h0zwxhgn2xkpumzyztzj6ag</sha1>
+    </revision>
+  </page>
+</mediawiki>

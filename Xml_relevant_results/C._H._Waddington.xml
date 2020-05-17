@@ -1,0 +1,211 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>C. H. Waddington</title>
+    <ns>0</ns>
+    <id>1079825</id>
+    <revision>
+      <id>950334320</id>
+      <parentid>945453136</parentid>
+      <timestamp>2020-04-11T14:50:55Z</timestamp>
+      <contributor>
+        <username>OAbot</username>
+        <id>28481209</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:OABOT|Open access bot]]: doi added to citation with #oabot.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23033" xml:space="preserve">{{Use dmy dates|date=March 2020}}
+{{Infobox scientist
+| name = Conrad Hal Waddington
+| image                     = File:Conrad_Hal_Waddington.jpg
+| caption     = Conrad Hal Waddington, FRS, FRSE
+| birth_date  =  8 November 1905
+| birth_place = [[Evesham]], [[Worcestershire]], [[England]]
+| death_date  = {{d-da|26 September 1975|8 November 1905}}
+| death_place = [[Edinburgh]], [[Scotland]]
+| residence   =
+| citizenship =
+| nationality = British
+| alma_mater       = [[University of Cambridge]]
+| doctoral_advisor =
+| known_for  = [[Epigenetic landscape]], [[canalisation (genetics)|canalisation]], [[genetic assimilation]]
+| field      = [[Developmental biology]], [[genetics]], [[paleontology]]
+| work_institution = [[University of Cambridge]], [[Christ's College, Cambridge|Christ's College]]&lt;br /&gt;[[University of Edinburgh]]&lt;br /&gt;[[Wesleyan University]]&lt;br /&gt;[[Centre for Human Ecology]]
+| prizes     =
+| spouse    = [[Justin Blanco White]]
+| children    = 3, including [[Caroline Humphrey]] and [[Dusa McDuff]]
+}}
+
+'''Conrad Hal Waddington''' [[CBE]] [[Fellow of the Royal Society|FRS]] [[Royal Society of Edinburgh|FRSE]] (8 November 1905 – 26 September 1975) was a [[United Kingdom|British]] [[developmental biologist]], [[paleontology|paleontologist]], [[geneticist]], [[embryologist]] and [[philosopher]] who laid the foundations for [[systems biology]], [[epigenetics]], and [[evolutionary developmental biology]].
+
+Although his theory of [[genetic assimilation]] had a [[Darwinian]] explanation, leading [[evolutionary biology|evolutionary biologists]] including [[Theodosius Dobzhansky]] and [[Ernst Mayr]] considered that Waddington was using genetic assimilation to support so-called [[Lamarckian]] inheritance, the acquisition of inherited characteristics through the effects of the environment during an organism's lifetime.
+
+Waddington had wide interests that included [[poetry]] and [[painting]], as well as left-wing political leanings. In his book ''The Scientific Attitude'' (1941), he touched on political topics such as [[economic planning|central planning]], and praised [[Marxism]] as a "profound scientific philosophy".
+
+==Life==
+
+Conrad Waddington, known as "Wad" to his friends and "Con" to family, was born in [[Evesham]] to Hal and Mary Ellen (Warner) Waddington, on 8 November 1905.
+
+His family moved to India and until nearly three years of age, Waddington lived in India, where his father worked on a tea estate in the [[Wayanad district]] of [[Kerala]]. In 1910, at the age of four, he was sent to live with family in England including his aunt, uncle, and Quaker grandmother. His parents remained in India until 1928. During his childhood, he was particularly attached to a local druggist and distant relation, Dr. Doeg. Doeg, whom Waddington called "Grandpa", introduced Waddington to a wide range of sciences from chemistry to geology.&lt;ref&gt;Robertson, Alan. 1977. "Conrad Hal Waddington. 8 November 1905&amp;ndash;26 September 1975." ''Biographical Memoirs of Fellows of the Royal Society'' '''23''', 575-622. pp. 575-76.&lt;/ref&gt; During the year following the completion of his entrance exams to university, Waddington received an intense course in chemistry from [[E. J. Holmyard]]. Aside from being "something of a genius of a [chemistry] teacher," Holmyard introduced Waddington to the "Alexandrian [[Gnosticism|Gnostics]]" and the "Arabic [[Alchemy|Alchemists]]." From these lessons in metaphysics, Waddington first gained an appreciation for interconnected [[holistic]] systems. Waddington reflected that this early education prepared him for [[Alfred North Whitehead]]'s philosophy in the 1920s and 30s and the [[cybernetics]] of [[Norbert Wiener]] and others in the 1940s.&lt;ref&gt;Waddington, C. H. 1975. ''The Evolution of an Evolutionist''. Ithaca, NY: Cornell University Press. Pg. 2.&lt;/ref&gt;
+
+He attended [[Clifton College]] and [[Sidney Sussex College, Cambridge]]. He took the Natural Sciences [[Tripos]], earning a First in Part II in geology in 1926.&lt;ref&gt;Robertson, Alan. 1977. "Conrad Hal Waddington. 8 November 1905 – 26 September 1975." ''Biographical Memoirs of Fellows of the Royal Society'' '''23''', 575-622. Pg 577.&lt;/ref&gt; In 1928, he was awarded an Arnold Gerstenberg Studentship in the University of Cambridge, whose purpose was to promote "the study of Moral Philosophy and Metaphysics among students of Natural Science, both men and women."&lt;ref&gt;''Supplement, Historical Register of the University of Cambridge, 1921-30'', Cambridge: Cambridge University Press, 1932, p. 63.&lt;/ref&gt; He took up a Lecturership in Zoology and was a Fellow of [[Christ's College, Cambridge|Christ's College]] until 1942. His friends included [[Gregory Bateson]], [[Walter Gropius]], [[C. P. Snow]], [[Solly Zuckerman]], [[Joseph Needham]], and [[John Desmond Bernal]].&lt;ref&gt;Robertson, Alan. 1977. "Conrad Hal Waddington. 8 November 1905 – 26 September 1975." ''Biographical Memoirs of Fellows of the Royal Society'' '''23''', 575-622. Pp. 579-580.&lt;/ref&gt;&lt;ref&gt;Yoxen, Edward. 1986. "Form and Strategy in Biology: Reflections on the Career of C. H. Waddington." In ''A History of Embryology'', edited by T. J Horder, J. A Witkowski, and C. C Wylie. Cambridge: Cambridge University Press. pp. 310-11.&lt;/ref&gt; His interests began with [[palaeontology]] but moved on to the [[heredity]] and development of living things. He also studied philosophy.
+
+During [[World War II]] he was involved in [[operational research]] with the [[Royal Air Force]] and became scientific advisor to the Commander in Chief of [[RAF Coastal Command|Coastal Command]] from 1944 to 1945.
+
+After the war, in 1947, he replaced [[Francis Albert Eley Crew]] as Professor of Animal Genetics at the [[University of Edinburgh]].&lt;ref&gt;{{cite web|url=http://blogs.royalsociety.org/history-of-science/2013/07/08/good-fellowship/|title=Good Fellowship - The Repository - Royal Society|website=blogs.royalsociety.org|accessdate=23 April 2018}}&lt;/ref&gt; He would stay at Edinburgh for the rest of life with the exception of one year (1960–1961) when he was a Fellow on the faculty in the Center for Advanced Studies at [[Wesleyan University]] in Middletown, Connecticut.&lt;ref&gt;{{cite web |url=http://www.wesleyan.edu/libr/schome/FAs/ce1000-137.html |title=Guide to the Center for Advanced Studies Records, 1958 - 1969 |publisher=Wesleyan.edu |accessdate=2010-04-04 |url-status=dead |archiveurl=https://web.archive.org/web/20170314083709/http://www.wesleyan.edu/libr/schome/FAs/ce1000-137.html |archivedate=14 March 2017}}&lt;/ref&gt; His personal papers are largely kept at the University of Edinburgh library.
+
+He died in Edinburgh on 26 September 1975.
+
+==Family==
+
+Waddington was married twice. His first marriage produced a son, C. Jake Waddington, professor of physics at the [[University of Minnesota]], but ended in 1936. He then married [[Margaret Justin Blanco White]], daughter of the writer [[Amber Reeves]], with whom he had two daughters, the anthropologist [[Caroline Humphrey]] (1943–) and mathematician [[Dusa McDuff]] (1945–).&lt;ref&gt;Robertson, Alan. 1977. Conrad Hal Waddington. 8 November 1905 – 26 September 1975. ''Biographical Memoirs of Fellows of the Royal Society'' '''23''', 575-622. P. 578&lt;/ref&gt;
+
+==Evolution==
+
+In the early 1930s, Waddington and many other embryologists looked for the molecules that would induce the amphibian neural tube. The search was beyond the technology of that time, and most embryologists moved away from such deep problems. Waddington, however, came to the view that the answers to embryology lay in genetics, and in 1935 went to [[Thomas Hunt Morgan|Thomas Hunt Morgan's]] ''Drosophila'' laboratory in California, even though this was a time when most embryologists felt that genes were unimportant and just played a role in minor phenomena such as eye colour.
+
+In the late 1930s, Waddington produced formal models about how gene regulatory products could generate developmental phenomena, showed how the mechanisms underpinning ''Drosophila'' development could be studied through a systematic analysis of mutations that affected the development of the ''[[Drosophila]]'' wing.{{efn|This was the essence of the approach that won the 1995 Nobel prize in medicine for [[Christiane Nüsslein-Volhard]] and [[Eric F. Wieschaus]]&lt;ref name=Winchester&gt;{{cite journal | last=Winchester| first=Guil | publication-date=21 September 2004| year=2004| title=Edward B. Lewis 1918-2004| volume=14| issue=18 | periodical=Current Biology | pages=R740–742| doi = 10.1016/j.cub.2004.09.007 | pmid = 15380080 |url=http://www.cell.com/current-biology/pdf/S0960-9822(04)00683-9.pdf}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Eric Wieschaus and Christiane Nüsslein-Volhard: Collaborating to Find Developmental Genes |url=https://www.ibiology.org/ibiomagazine/eric-wieschaus-and-christiane-nusselin-volhard.html |publisher=iBiology |accessdate=13 October 2016}}&lt;/ref&gt;}} In a period of great creativity at the end of the 1930s, he also discovered mutations that affected cell phenotypes and wrote his first textbook of "developmental epigenetics&lt;!-- no, don't wikilink, read the next bit --&gt;", a term that then meant the external manifestation of genetic activity.
+
+Waddington introduced the concept of [[canalisation (genetics)|canalisation]], the ability of an organism to produce the same [[phenotype]] despite variation in genotype or environment. He also identified a mechanism called [[genetic assimilation]] which would allow an animal's response to an environmental stress to become a fixed part of its developmental repertoire, and then went on to show that the mechanism would work.
+
+In 1972, Waddington founded the Centre for Human Ecology in the [[University of Edinburgh]].&lt;ref name="CHE"&gt;{{cite web|title=Conrad Waddington|url=http://www.che.ac.uk/what-we-do/conrad-waddington/|publisher=Centre for Human Ecology|accessdate=9 November 2016}}&lt;/ref&gt;
+
+===Epigenetic landscape===
+Waddington's [[epigenetic landscape]] is a metaphor for how [[regulation of gene expression|gene regulation]] modulates development.&lt;ref&gt;Goldberg, A. D., Allis, C. D., &amp; Bernstein, E. (2007). Epigenetics: A landscape takes shape. Cell, 128, 635-638.&lt;/ref&gt; Among other metaphors, Waddington asks us to imagine a number of marbles rolling down a hill.&lt;ref&gt;[https://www.academia.edu/14699065/Compelled_by_the_Diagram_Thinking_through_C._H._Waddington_s_Epigenetic_Landscape_Contemporaneity_August_2015_, Allen, Matthew. 2015. "Compelled by the Diagram: Thinking through C. H. Waddington’s Epigenetic Landscape." ''Contemporaneity'' '''4'''.]&lt;/ref&gt; The marbles will sample the grooves on the slope, and come to rest at the lowest points. These points represent the eventual [[biological cell|cell]] fates, that is, [[biological tissue|tissue]] types. Waddington coined the term [[chreode]] to represent this cellular developmental process. The idea was based on experiment: Waddington found that one effect of mutation (which could modulate the epigenetic landscape) was to affect how cells differentiated. He also showed how mutation could affect the landscape, and used this metaphor in his discussions on evolution—he emphasised (like [[Ernst Haeckel]] before him) that evolution mainly occurred through mutations that affected developmental anatomy.
+
+===Genetic assimilation===
+[[File:Lamarck Compared to Darwin, Baldwin, Waddington.svg|thumb|upright=2.5|Waddington's [[genetic assimilation]] compared to [[Lamarckism]], [[Darwinian evolution]], and the [[Baldwin effect]]. All the theories offer explanations of how organisms respond to a changed environment with adaptive inherited change.]]
+
+Waddington proposed an evolutionary process, "[[genetic assimilation]]", as a [[Darwinian]] mechanism that allows certain acquired characteristic to become heritable. According to Navis, (2007) "Waddington focused his genetic assimilation work on the crossveinless trait of ''[[Drosophila]]''. This trait occurs with high frequency in heat-treated flies. After a few generations, the trait can be found in the population, without the application of heat, based on hidden genetic variation that Waddington asserted had been "assimilated".&lt;ref&gt;{{cite encyclopedia |author=Navis, Adam R. Navis |title=Conrad Hal Waddington |encyclopedia=Embryo Project Encyclopedia |year=2007 |issn=1940-5030}}&lt;/ref&gt;&lt;ref&gt;{{cite book |last=Peterson |first=Erik L. |title=The Life Organic: the Theoretical Biology Club and the Roots of Epigenetics |date=2016 |publisher=University of Pittsburgh Press |location=Pittsburgh, Pennsylvania |isbn=9780822944669 |pages=220–222}}&lt;/ref&gt;
+
+===Neo-Darwinism versus Lamarckism===
+
+Waddington's theory of genetic assimilation was controversial.&lt;ref&gt;{{cite web|url=https://www.academia.edu/1658254|title=Science, Politics or Lamarckism? C. H. Waddington's alternative approach to Darwinism by James F. Stark|website=academia.edu|accessdate=23 April 2018}}{{dead link|date=July 2018}}&lt;/ref&gt; The [[evolutionary biology|evolutionary biologists]] [[Theodosius Dobzhansky]] and [[Ernst Mayr]] both thought that Waddington was using genetic assimilation to support [[Lamarckian]] inheritance. They denied that genetic assimilation had taken place, and asserted that Waddington had simply observed the [[natural selection]] of genetic variants that already existed in the study population.&lt;ref&gt;{{cite book |last=Gilbert |first=Scott F. |title=A Conceptual History of Modern Embryology: Volume 7: A Conceptual History of Modern Embryology |url=https://books.google.com/books?id=dUnuBwAAQBAJ&amp;pg=PA205 |year=2013 |publisher=Springer |isbn=978-1-4615-6823-0 |page=205}}&lt;/ref&gt; Other biologists such as [[Wallace Arthur]] disagree, writing that "genetic assimilation, looks, but is not Lamarckian. It is a special case of the evolution of [[phenotypic plasticity]]".&lt;ref&gt;Wallace Arthur, ''Evolution: A Developmental Approach'', 2011{{page needed|date=November 2016}}&lt;/ref&gt; Adam S. Wilkins wrote that "[Waddington] in his lifetime... was widely perceived primarily as a critic of Neo-Darwinian evolutionary theory. His criticisms ... were focused on what he saw as unrealistic, 'atomistic' models of both gene selection and trait evolution." In particular, according to Wilkins, Waddington felt that the Neo-Darwinians badly neglected the phenomenon of extensive gene interactions and that the 'randomness' of mutational effects, posited in the theory, was false.&lt;ref name="Wilkins 2008"&gt;{{cite journal |doi=10.1162/biot.2008.3.3.224 |title=Waddington's Unfinished Critique of Neo-Darwinian Genetics: Then and Now |journal=Biological Theory |volume=3 |issue=3 |pages=224–232 |year=2015 |last1=Wilkins |first1=Adam S }}&lt;/ref&gt; Even though Waddington became critical of the neo-Darwinian synthetic theory of evolution, he still described himself as a Darwinian, and called for an [[extended evolutionary synthesis]] based on his research.&lt;ref name="Wilkins 2008"/&gt;&lt;ref&gt;{{cite journal |doi=10.1002/bies.201100031 |pmid=22102361 |title=The molecular and mathematical basis of Waddington's epigenetic landscape: A framework for post-Darwinian biology? |journal=BioEssays |volume=34 |issue=2 |pages=149–157 |year=2012 |last1=Huang |first1=Sui }}&lt;/ref&gt; Reviewing the debate in 2015, the [[systems biology|systems biologist]] [[Denis Noble]] writes however that
+
+{{quote|[Waddington] did not describe himself as a Lamarckian, but by revealing mechanisms of inheritance of acquired characteristics, I think he should be regarded as such. The reason he did not do so is that Lamarck could not have conceived of the processes that Waddington revealed. Incidentally, it is also true to say that Lamarck did not invent the idea of the inheritance of acquired characteristics. But, whether historically correct or not, we are stuck today with the term 'Lamarckian' for inheritance of a characteristic acquired through an environmental influence.&lt;ref name=Noble2015&gt;{{cite journal |last1=Noble |first1=Denis |authorlink1=Denis Noble |title=Conrad Waddington and the origin of epigenetics |journal=Journal of Experimental Biology |date=2015 |volume=218 |issue=6 |pages=816–818 |doi=10.1242/jeb.120071 |pmid=25788723 |doi-access=free }}&lt;/ref&gt;}}
+
+==Waddington as an organiser==
+
+Waddington was very active in advancing biology as a discipline. He contributed to a book on the role of the sciences in times of war, and helped set up several professional bodies representing biology as a discipline.&lt;ref&gt;{{cite journal |doi=10.1002/jez.b.20002 |pmid=14760651 |title=In search of evolutionary developmental mechanisms: The 30-year gap between 1944 and 1974 |journal=Journal of Experimental Zoology |volume=302 |issue=1 |pages=5–18 |year=2004 |last1=Hall |first1=Brian K }}&lt;/ref&gt;
+
+A remarkable number of his contemporary colleagues in Edinburgh became Fellows of the Royal Society during his time there, or shortly thereafter.&lt;ref&gt;{{cite journal |doi=10.1098/rsbm.1977.0022 |pmid=11615737 |jstor=769627 |title=Conrad Hal Waddington, 8 November 1905 - 26 September 1975 |journal=Biographical Memoirs of Fellows of the Royal Society |volume=23 |pages=575–622 |year=1977 |last1=Robertson |first1=Alan |doi-access=free }}&lt;/ref&gt; Waddington was an old-fashioned intellectual who lived in both the arts and science milieus of the 1950s and wrote widely. His 1960 book ''Behind Appearance; a Study of the Relations Between Painting and the Natural Sciences in This Century'' (MIT press) not only has wonderful pictures but is still worth reading.&lt;ref name="Ritterbush1970"&gt;{{cite journal |last1=Ritterbush |first1=P. C. |title=Behind Appearance. A Study of the Relations between Painting and the Natural Sciences in This Century. C. H. Waddington. M.I.T. Press, Cambridge, Mass., 1970. xii, 258 pp., illus. (71 color plates and 136 black-and-white illustrations). |journal=Science |volume=169 |issue=3947 |year=1970 |pages=751–752 |issn=0036-8075 |doi=10.1126/science.169.3947.751}}&lt;/ref&gt; Waddington was, without doubt, the most original and important thinker about [[developmental biology]] of the [[molecular biology|pre-molecular age]] and the medal of the British Society for Developmental Biology is named after him.&lt;ref&gt;{{cite web |title=The Waddington Medal |url=http://bsdb.org/awards/the-waddington-medal/ |publisher=British Society for Developmental Biology |accessdate=7 October 2019 |date=2015}}&lt;/ref&gt;
+
+==See also==
+* [[Creode]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|30em}}
+
+==Selected works==
+
+===Books===
+*Waddington, C. H. (1939). ''An Introduction to Modern Genetics''. London : George Alien &amp; Unwin.
+*Waddington, C. H. (1940). ''Organisers &amp; Genes''. Cambridge: Cambridge University Press.
+*Waddington, C. H. and others (1942). ''Science and Ethics'', George Allen &amp; Unwin.
+*Waddington, C. H. (1946). ''How Animals Develop''. London : George Allen &amp; Unwin.
+*Waddington, C. H. (1948). ''The Scientific Attitude'', Pelican Books
+*Waddington, C. H. (1953). ''The Epigenetics of birds''. Cambridge : Cambridge University Press.
+*Waddington, C. H. (1956). ''Principles of Embryology''. London : George Allen &amp; Unwin.
+*Waddington, C. H. (1957). ''The Strategy of the Genes''. London : George Allen &amp; Unwin.
+*Waddington, C. H. (1959). ''Biological Organisation Cellular and Subcellular : Proceedings of a Symposium''. London: Pergamon Press.
+*Waddington, C. H. (1960). ''The Ethical Animal''. London : George Allen &amp; Unwin.
+*Waddington, C. H. (1961). ''The Human Evolutionary System''. In: Michael Banton (Ed.), ''Darwinism and the Study of Society''. London: Tavistock.
+*Waddington, C. H. (1961). ''The Nature of Life''. London : George, Allen, &amp; Unwin.
+*Waddington, C. H. (1962). ''New Patterns in Genetics and Development''. New York: Columbia University Press.
+*Waddington, C. H. (1966). ''Principles of Development and Differentiation''. New York: Macmillan Company.
+*Waddington, C. H. (1970). 72). ''Behind Appearance : A Study in the Relationship Between Painting and the Natural Sciences in this Century''. The MIT Press.
+*Waddington, C. H., ed. (1968–72). ''Towards a Theoretical Biology''. 4 vols. Edinburgh: Edinburgh University Press.
+*Waddington, C. H., [[Anthony Kenny|Kenny, A.]], [[H. Christopher Longuet-Higgins|Longuet-Higgins, H.C.]], [[John Lucas (philosopher)|Lucas, J.R.]] (1972). ''The Nature of Mind'', Edinburgh: Edinburgh University Press (1971-3 [[Gifford Lectures]] in Edinburgh, [https://www.giffordlectures.org/lectures/nature-mind online])
+*Waddington, C. H., Kenny, A., Longuet-Higgins, H.C., Lucas, J.R. (1973). ''The Development of Mind'', Edinburgh: Edinburgh University Press (1971-3 Gifford Lectures in Edinburgh, [https://web.archive.org/web/20080621235816/http://www.giffordlectures.org/Browse.asp?PubID=TPTDOM&amp;Cover=TRUE online])
+*Waddington, C.H. ''O.R. in World War 2: Operational Research Against the U-Boat''. (London: Elek Science, 1973)
+*Waddington, C. H. (1977) (published posthumously). ''Tools for Thought''. London: Jonathan Cape.
+
+===Papers===
+*Waddington, C. H. 1942. Canalization of development and the inheritance of acquired characters. ''Nature'' 150(3811):563–565.
+*Waddington, C. H. &amp; Carter T. C. 1952. Malformations in mouse embryos induced by trypan blue. ''Nature'' 169(4288):27-28.
+*Waddington, C. H. 1952. Selection of the Genetic Basis for an Acquired Character. ''Nature'' 169(4294):278.
+*Waddington, C. H. 1953. Genetic assimilation of an acquired character. ''Evolution''  7:118–126.
+*Waddington, C. H. 1953. Epigenetics and evolution. ''Symp. Soc. Exp. Biol'' 7:186–199.
+*Waddington, C. H. 1956. Genetic assimilation of the bithorax phenotype. ''Evolution'' 10:1–13.
+*Waddington, C. H. 1961. Genetic assimilation. ''Advances Genet.'' 10:257–290.
+*Waddington, C. H. 1974. A Catastrophe Theory of Evolution. ''Annals of the New York Academy of Sciences'' 231:32–42.
+
+==External links==
+*[https://web.archive.org/web/20030504104717/http://www.nahste.ac.uk/pers/w/GB_0237_NAHSTE_P0355/ NAHSTE Project Record of C.H. Waddington]
+*[https://web.archive.org/web/20051125091507/http://zygote.swarthmore.edu/gene3a.html Induction and the Origin of Developmental Genetics - works by Salome Gluecksohn-Schoenhimer and Conrad Hal Waddington]
+*[https://web.archive.org/web/20060514181106/http://www.epigeneticsnews.com/ Epigenetics News]
+
+{{genarch}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Waddington, Conrad Hal}}
+[[Category:1905 births]]
+[[Category:People from Evesham]]
+[[Category:1975 deaths]]
+[[Category:Academics of the University of Edinburgh]]
+[[Category:British palaeontologists]]
+[[Category:British zoologists]]
+[[Category:Extended evolutionary synthesis]]
+[[Category:Fellows of Christ's College, Cambridge]]
+[[Category:Wesleyan University faculty]]
+[[Category:Fellows of the Royal Society of Edinburgh]]
+[[Category:Fellows of the Royal Society]]
+[[Category:People educated at Clifton College]]
+[[Category:British operations researchers]]
+[[Category:Systems biologists]]
+[[Category:Theoretical biologists]]
+[[Category:Alumni of Sidney Sussex College, Cambridge]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:20th-century zoologists]]</text>
+      <sha1>s9egdbhufyv8qcqn2m6ixbignmcas8q</sha1>
+    </revision>
+  </page>
+</mediawiki>

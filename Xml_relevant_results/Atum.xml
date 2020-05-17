@@ -1,0 +1,130 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Atum</title>
+    <ns>0</ns>
+    <id>97046</id>
+    <revision>
+      <id>952115710</id>
+      <parentid>950656892</parentid>
+      <timestamp>2020-04-20T17:01:27Z</timestamp>
+      <contributor>
+        <username>SrpskiAnonimac</username>
+        <id>21327649</id>
+      </contributor>
+      <minor/>
+      <comment>/* Name */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9409" xml:space="preserve">{{short description|Ancient Egyptian creator deity}}
+{{Infobox deity
+| type        = Egyptian
+| name        = Atum
+| image       = Atum.svg
+| alt         = 
+| caption     = Atum, finisher of the world
+| god_of      = 
+| hiro        = &lt;hiero&gt;t:U15-A40&lt;/hiero&gt;
+| cult_center = [[Heliopolis (Ancient Egypt)|Heliopolis]]
+| symbol      = 
+| consort     = [[Iusaaset]]&lt;ref&gt;Wilkinson, Richard H. (2003). ''The Complete Gods and Goddesses of Ancient Egypt''. Thames &amp; Hudson. p. 150&lt;/ref&gt; or [[Nebethetepet]]&lt;ref name="W152"&gt;Richard Wilkinson: ''The Complete Gods and Goddesses of Ancient Egypt''. London, Thames and Hudson, 2003. {{ISBN|978-0-500-05120-7}}, p.156&lt;/ref&gt;
+| parents     = 
+| siblings    = 
+| children    = [[Shu (Egyptian deity)|Shu]] and [[Tefnut]]
+| offspring   =
+}}
+
+'''Atum''' ({{IPA|/ɑ.tum/}}, [[Egyptian language|Egyptian]]: ''jtm(w)'' or ''tm(w)'', ''reconstructed'' {{IPA-all|jaˈtaːmuw|}}; [[Coptic language|Coptic]] {{Script/Coptic|ⲁⲧⲟⲩⲙ}} ''Atoum''),&lt;ref&gt;{{Cite web|url=https://corpling.uis.georgetown.edu/coptic-dictionary/entry.cgi?entry=4083&amp;super=1605|title=Coptic Dictionary Online|website=corpling.uis.georgetown.edu|language=en|access-date=2017-09-21}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://aaew2.bbaw.de/tla/servlet/GetWcnDetails?wn=33040|title=Thesaurus Linguae Aegyptiae |website=[[Berlin-Brandenburg Academy of Sciences and Humanities]] |access-date=2017-09-21}}&lt;/ref&gt; sometimes rendered as '''Atem''' or '''Tem''', is an important [[ancient Egyptian deities|deity]] in [[Egyptian mythology]].
+
+== Name ==
+Atum's name is thought to be derived from the verb ''tm'' which means 'to complete' or 'to finish'. Thus he has been interpreted as being the "complete one" and also the finisher of the world, which he returns to watery chaos at the end of the creative cycle. As creator he was seen as the underlying substance of the world, the deities and all things being made of his flesh or alternatively being his [[Ka (Egyptian soul)|ka]].&lt;ref name="Wilkinson 99"&gt;Wilkinson, Richard H. (2003). ''The Complete Gods and Goddesses of Ancient Egypt''. Thames &amp; Hudson. pp. 99–101&lt;/ref&gt;
+
+== Origins ==
+Atum is one of the most important and frequently mentioned deities from earliest times, as evidenced by his prominence in the [[Pyramid Texts]], where he is portrayed as both a creator and father to the king.&lt;ref name="Wilkinson 99"/&gt;
+
+== Role ==
+{{Ancient Egyptian religion}}
+In the [[Ancient Egyptian creation myths|Heliopolitan creation myth]], Atum was considered to be the [[creator deity|first god]], having [[causa sui|created himself]], sitting on a mound ([[benben]]) (or identified with the mound itself), from the [[tohu wa-bohu|primordial waters]] ([[Naunet|Nu]]).&lt;ref&gt;{{cite web|last=The British Museum|title=Picture List|url=http://www.saylor.org/site/wp-content/uploads/2012/01/1.1.4-PICTURE.pdf|accessdate=4 April 2012}}&lt;/ref&gt; Early myths state that Atum created the god [[Shu (Egyptian deity)|Shu]] and goddess [[Tefnut]] by spitting them out of his mouth.&lt;ref name=Philae&gt;{{cite web|title=The Egyptian Gods: Atum|url=http://www.philae.nu/akhet/NetjeruA.html#Atum|accessdate=December 30, 2006|ref=Egyptian gods Atum; URL accessedt|archiveurl=https://web.archive.org/web/20020817021937/http://www.philae.nu/akhet/NetjeruA.html|archivedate=2002-08-17}}&lt;/ref&gt; Atum did so through masturbation, with the hand he used in this act representing the [[Spirit|female principle]] inherent within him.&lt;ref&gt;Wilkinson, ''Complete Gods and Goddesses'', pp. 18, 99.&lt;/ref&gt; Other interpretations state that he has made union with his shadow.&lt;ref&gt;{{cite web|url=http://www.experience-ancient-egypt.com/egyptian-creation-myth.html|title=The Egyptian Creation Myth&amp;nbsp;— How the World Was Born|website=Experience Ancient Egypt|archiveurl=https://web.archive.org/web/20100109182713/http://www.experience-ancient-egypt.com/egyptian-creation-myth.html|archivedate=2010-01-09}}&lt;/ref&gt;
+
+In the [[Old Kingdom]], the Egyptians believed that Atum lifted the dead king's soul from his pyramid to the starry heavens.&lt;ref name=Philae/&gt; He was also a [[solar deity]], associated with the primary sun god [[Ra]]. Atum was linked specifically with the evening sun, while Ra or the closely linked god [[Khepri]] were connected with the sun at morning and midday.&lt;ref&gt;Wilkinson, Richard H. (2003). ''The Complete Gods and Goddesses of Ancient Egypt''. Thames &amp; Hudson. pp. 205&lt;/ref&gt;
+
+In the [[Book of the Dead]], which was still current in the Graeco-Roman period, the sun god Atum is said to have ascended from [[chaos (cosmogony)|chaos]]-waters with the appearance of a [[serpent (symbolism)|snake]], the animal renewing itself every morning.&lt;ref&gt;{{cite book|last1=Toorn|first1=Karel van der|last2=Becking|first2=Bob|last3=Horst|first3=Pieter Willem van der|title=Dictionary of Deities and Demons in the Bible|date=1999|publisher=Wm. B. Eerdmans Publishing|isbn=9780802824912|page=121|url=https://books.google.com/books?id=yCkRz5pfxz0C&amp;pg=PA121#v=onepage&amp;q&amp;f=false|language=en}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last1=Ellis|first1=Normandi|title=Dreams of Isis: A Woman's Spiritual Sojourn|publisher=Quest Books|isbn=9780835607124|page=128|url=https://books.google.com/?id=NJ9j6EE_dL0C&amp;pg=PA128&amp;dq=ouroboros+atum#v=onepage&amp;q=ouroboros%20atum&amp;f=false|language=en|date=1995-01-01}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last1=Bernal|first1=Martin|title=Black Athena: The linguistic evidence|publisher=Rutgers University Press|isbn=9780813536552|page=468|url=https://books.google.com/books?id=yFLm_M_OdK4C&amp;pg=PA468&amp;lpg=PA468#v=onepage&amp;q=Atum%20Ouroboros&amp;f=false|language=en|year=1987}}&lt;/ref&gt;
+
+Atum is the god of [[pre-existence]] and [[post-existence]]. In the binary [[Diurnal_motion|solar cycle]], the serpentine Atum is contrasted with the scarab-headed god [[Khepri]]—the young sun god, whose name is derived from the Egyptian ''hpr'' "to come into existence". Khepri-Atum encompassed sunrise and sunset, thus reflecting the entire cycle of morning and evening.&lt;ref&gt;{{cite book|last1=Toorn|first1=Karel van der|last2=Becking|first2=Bob|last3=Horst|first3=Pieter Willem van der|title=Dictionary of Deities and Demons in the Bible|date=1999|publisher=Wm. B. Eerdmans Publishing|isbn=9780802824912|page=123|url=https://books.google.com/books?id=yCkRz5pfxz0C&amp;pg=PA123#v=onepage&amp;q&amp;f=false|language=en}}&lt;/ref&gt;
+
+== Relationship to other gods ==
+Atum was a [[causa sui|self-created deity]], the first being to emerge from the darkness and endless [[primordial ocean|watery abyss]] that existed before creation. A product of the energy and matter contained in this chaos, he created his children—the first deities, out of loneliness. He produced from his own sneeze, or in some accounts, semen, [[Shu (Egyptian deity)|Shu]], the god of air, and [[Tefnut]], the goddess of moisture. The brother and sister, curious about the primeval waters that surrounded them, went to explore the waters and disappeared into the darkness. Unable to bear his loss, Atum sent a fiery messenger, the [[Eye of Ra]], to find his children. The tears of joy he shed upon their return were the first human beings.&lt;ref&gt;Pinch, Geraldine (2004). ''Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions of Ancient Egypt.'' Oxford University Press. pp. 63–64&lt;/ref&gt;
+
+== Iconography ==
+
+Atum is usually depicted as a man wearing either the [[nemes|royal head-cloth]] or the dual [[Hedjet|white]] and [[Deshret|red crown]] of [[Upper Egypt|Upper]] and [[Lower Egypt]], reinforcing his connection with kingship. Sometimes he is also shown as a [[Serpent (symbolism)|serpent]], the form he returns to at the end of the creative cycle, and also occasionally as a [[mongoose]], [[lion]], [[Bull (mythology)|bull]], [[lizard]], or [[ape]].&lt;ref name="Wilkinson 99"/&gt;
+
+== Worship ==
+[[File:Obelisk-SesostrisI-Heliopolis.JPG|thumb|right|The Al-Masalla [[obelisk]], the largest surviving monument from Heliopolis|upright]]
+Atum's worship centered on the city of [[Heliopolis (Ancient Egypt)|Heliopolis]] ([[Egyptian language|Egyptian]]: ''Annu'' or ''Iunu'').&lt;ref name="Wilkinson 99"/&gt; The only surviving remnant of Heliopolis is the Temple of Re-Atum [[Egyptian obelisk|obelisk]] located in Al-Masalla of [[Al-Matariyyah|Al-Matariyyah, Cairo]]. It was erected by [[Senusret I]] of the [[Twelfth Dynasty of Egypt|Twelfth Dynasty]], and still stands in its original position.&lt;ref&gt;{{cite web|title=OBELISK (Gr. b/3EXivrc... - Online Information article about OBELISK (Gr. b/3EXivrc...|url=http://encyclopedia.jrank.org/NUM_ORC/OBELISK_Gr_b3EXivrcos_diminutiv.html|website=encyclopedia.jrank.org|ref=1911 edition}}&lt;/ref&gt; The {{convert|68|ft|2|abbr=on}} high red granite obelisk weighs 120 tons (240,000&amp;nbsp;lbs, 108,900&amp;nbsp;kg, 108.9 tonnes), the weight of about 20 African elephants.
+
+==See also==
+* [[List of solar deities]]
+* [[Animal mummy #Miscellaneous animals]]
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+* {{cite book |last=Myśliwiec |first=Karol |authorlink=Karol Myśliwiec |title=Studien zum Gott Atum. Band I, Die heiligen Tiere des Atum |year=1978 |publisher=Gerstenberg |isbn=978-3806780338 }}
+* {{cite book |last=Myśliwiec |first=Karol |title=Studien zum Gott Atum. Band II, Name, Epitheta, Ikonographie |year=1979 |publisher=Gerstenberg |isbn=978-3806780406 }}
+
+{{Ancient Egyptian religion footer}}
+
+{{Authority control}}
+
+[[Category:Egyptian gods]]
+[[Category:Solar gods]]
+[[Category:Creator gods]]
+[[Category:Snake gods]]</text>
+      <sha1>tspngu7kr2lbwdogtnpsu1aubch8nbg</sha1>
+    </revision>
+  </page>
+</mediawiki>

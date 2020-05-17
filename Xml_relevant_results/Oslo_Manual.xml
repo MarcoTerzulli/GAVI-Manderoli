@@ -1,0 +1,83 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Oslo Manual</title>
+    <ns>0</ns>
+    <id>20793415</id>
+    <revision>
+      <id>949580318</id>
+      <parentid>949580213</parentid>
+      <timestamp>2020-04-07T09:26:48Z</timestamp>
+      <contributor>
+        <username>John B123</username>
+        <id>21715336</id>
+      </contributor>
+      <minor/>
+      <comment>Fixed cite error</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2735" xml:space="preserve">{{Notability|date=December 2008}}
+
+The [[Organisation for Economic Co-operation and Development]]'s document "The Measurement of Scientific and Technological Activities, Proposed Guidelines for Collecting and Interpreting Technological [[Innovation]] Data", also known as the '''Oslo Manual''', contains [[guidelines]] for collecting, interpreting and using data on industrial innovation. &lt;ref&gt;{{Cite web|url=https://www.oecd.org/science/oslo-manual-2018-9789264304604-en.htm|title=Oslo Manual 2018's official page on OECD website|last=|first=|date=|website=|url-status=live|archive-url=|archive-date=|access-date=}}&lt;/ref&gt;
+
+Oslo Manual's guidelines is often used by national statistical agencies of OECD countries, Consulting services agencies and as a textbook of innovation concepts.&lt;ref&gt;{{Cite book|author1=Adam Holbrook |author2=Lindsay Hughes|title=Operationalizing definitions of innovation at the level of the firm|publisher=|year=|isbn=|location=Vancouver, BC, Canada|pages=2}}&lt;/ref&gt;
+
+The first edition of the Oslo Manual came about in 1992, following the developments of models and analytical frameworks during the 1980s and 1990s that allow for a more systematic and comprehensive study of innovation. The Manual's purpose is to establish a coherent set of concepts and tools that allow for inteligible and comparable reporting of innovation across different regions, industries and countries.&lt;ref&gt;{{Cite book|title=Oslo manual : guidelines for collecting and interpreting innovation data.|date=2005|publisher=Organisation for Economic Co-operation and Development|others=Organisation for Economic Co-operation and Development., Statistical Office of the European Communities.|isbn=92-64-01308-3|edition=3rd|location=Paris|pages=3|oclc=62676242}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.oecd-ilibrary.org/science-and-technology/oslo-manual-2018_9789264304604-en Oslo Manual, 4th Edition, 2018]
+* [http://www.oecdbookshop.org/oecd/display.asp?K=5LGPBVQFQ4G5&amp;lang=EN&amp;sort=sort_date%2Fd&amp;sf1=Title&amp;st1=oslo+manual&amp;sf3=SubjectCode&amp;st4=not+E4+or+E5+or+P5&amp;sf4=SubVersionCode&amp;ds=oslo+manual%3B+All+Subjects%3B+&amp;m=3&amp;dc=7&amp;plang=en Oslo Manual, 3rd Edition, 2005]
+* [http://www.oecd.org/dataoecd/35/61/2367580.pdf Oslo Manual, 2nd Edition, 1997]
+* [https://web.archive.org/web/20150524090854/http://www.6cp.net/downloads/1_Colecchia.pdf Defining and Measuring Non-Technical Innovation: Oslo Manual and lessons learnt from innovation surveys]
+* Adam Holbrook, Lindsay Hughes, [https://www.utoronto.ca/isrn/publications/WorkingPapers/Working00/Holbrook00_Definitions.pdf Operationalizing definitions of innovation at the level of the firm], 2000; looks at how the Oslo Manual is used.
+
+[[Category:Innovation]]</text>
+      <sha1>1u3gn4hrimq97yqixp0be2t2w1ofrp1</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,138 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Solar power in Poland</title>
+    <ns>0</ns>
+    <id>41752030</id>
+    <revision>
+      <id>948164351</id>
+      <parentid>938719921</parentid>
+      <timestamp>2020-03-30T14:08:02Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <comment>Rescued 1 archive link; reformat 6 links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6961" xml:space="preserve">[[File:SolarGIS-Solar-map-Poland-en.png|thumb|[[insolation|Solar potential]] in [[Poland]]]]
+
+'''Solar energy in Poland''' is a new sector of [[renewable energy]] and consists of [[solar thermal]] and [[solar electricity]]. Solar thermal, used for heating water was widely used in about {{convert|1700000|m2|ft2}} of [[solar thermal collector]] at the end of 2014. This corresponds to about 1,200&amp;nbsp;[[Megawatt|MW]]&lt;sub&gt;[[MWt|th]]&lt;/sub&gt; capacity. Solar collectors are the second, after the biomass heating plants, source of "green heat" in Poland. In 2014, Poland was ranked fourth in sales of solar collector installations among European countries.&lt;ref&gt;[http://gramwzielone.pl/trendy/17118/polska-4-najwiekszym-rynkiem-kolektorow-slonecznych-w-europie-w-2014 Poland 4th biggest market of solar collectors in Europe in 2014]&lt;/ref&gt;
+
+The total [[solar photovoltaics]] (PV) power plants connected to the grid in Poland at the end of 2012 were about 1.29 MW&lt;sub&gt;[[MWp|p]]&lt;/sub&gt; of capacity.&lt;ref&gt;[http://gramwzielone.pl/trendy/5310/rekordowy-rozwoj-energetyki-odnawialnej-w-polsce-w-2012-r Record development of renewable energy in Poland in 2012]&lt;/ref&gt; According to Energy Regulatory Office photovoltaic power in Poland had 91.82 MW&lt;sub&gt;[[MWp|p]]&lt;/sub&gt; installed capacity at the end of June 2016.&lt;ref&gt;{{Cite web |url=http://www.ure.gov.pl/pl/rynki-energii/energia-elektryczna/odnawialne-zrodla-ener/potencjal-krajowy-oze/5753,Moc-zainstalowana-MW.html |title=Installed capacity of electricity from renewables in Poland |access-date=2016-11-13 |archive-url=https://web.archive.org/web/20171222052402/http://www.ure.gov.pl/pl/rynki-energii/energia-elektryczna/odnawialne-zrodla-ener/potencjal-krajowy-oze/5753,Moc-zainstalowana-MW.html |archive-date=2017-12-22 |url-status=dead }}&lt;/ref&gt;
+
+== Photovoltaics ==
+{| class="wikitable sortable"
+|+PV in Poland (MW&lt;sub&gt;peak)&lt;ref name="BaroPhoto20092"&gt;[http://www.eurobserv-er.org/pdf/baro190.asp Photovoltaic energy barometer 2009 – EurObserv’ER]{{dead link|date=May 2018 |bot=InternetArchiveBot |fix-attempted=yes }} Systèmes solaires Le journal des énergies renouvelables n° 190, p. 72-102, 3/2009&lt;/ref&gt;&lt;ref name="BaroPhoto20092"/&gt;&lt;ref name="BaroPhoto2007"&gt;[http://www.eurobserv-er.org/pdf/baro178.asp Photovoltaic energy barometer 2007 – EurObserv’ER]{{dead link|date=May 2018 |bot=InternetArchiveBot |fix-attempted=yes }} Systèmes solaires Le journal des énergies renouvelables n° 178, p. 49-70, 4/2007&lt;/ref&gt;&lt;ref name="BaroPhoto2010"&gt;[http://www.eurobserv-er.org/pdf/baro196.asp Photovoltaic energy barometer 2010 – EurObserv’ER]{{dead link|date=January 2017|bot=InternetArchiveBot|fix-attempted=yes}}&lt;/ref&gt;&lt;ref name="BaroPhoto2011"&gt;[http://www.eurobserv-er.org/pdf/baro202.asp Photovoltaic energy barometer 2011 – EurObserv’ER]{{dead link|date=May 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;&lt;ref name="BaroPhoto2011" /&gt;&lt;ref name="BaroPhoto2012"&gt;[http://www.eurobserv-er.org/pdf/baro208.asp Photovoltaic energy barometer 2012 – EurObserv’ER]{{Dead link|date=November 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;&lt;ref name="BaroPhoto2013"&gt;[http://www.energies-renouvelables.org/observ-er/stat_baro/observ/baro-jdp11_en.pdf Photovoltaic energy barometer 2013 – EurObserv’ER]&lt;/ref&gt;&lt;ref name="BaroPhoto2014"&gt;[http://www.energies-renouvelables.org/observ-er/stat_baro/observ/EurObservER-barojdpv13-Photovoltaic-Barometer-2015-EN.pdf Photovoltaic energy barometer 2014 – EurObserv’ER]&lt;/ref&gt;&lt;ref name="BaroPhoto2015"&gt;[http://www.eurobserv-er.org/photovoltaic-barometer-2016/ Photovoltaic energy barometer 2015 – EurObserv’ER]&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.eurobserv-er.org/photovoltaic-barometer-2017/|title=Photovoltaic energy barometer 2017 – EurObserv’ER|last=|first=|date=|website=|access-date=}}&lt;/ref&gt;&lt;/sub&gt;&lt;ref&gt;{{Cite news|url=https://renewablesnow.com/news/polish-solar-capacity-reaches-13-gw-683863/|title=Polish Solar Capacity Reaches 13 GW|last=Tsanova|first=Tsvetomira|date=Jan 17, 2020|work=Renewables Now|access-date=Jan 29, 2020}}&lt;/ref&gt;
+!2005
+!2006
+!2007
+!2008
+!2009
+!2010
+!2011
+!2012
+!2013
+!2014
+!2015
+!2016
+!2020
+|- align="right"
+|0.3
+|0.4
+|0.6
+|1
+|1
+|2
+|1.8
+|3.4
+|4.2
+|29.9
+|110.9
+|195.7*
+|1,299
+|-
+| colspan="12" |* Estimated figure
+|
+|}
+
+=== Notable installations ===
+List of photovoltaic systems in Poland with a capacity above 20&amp;nbsp;kW:&lt;ref&gt;[http://gramwzielone.pl/energia-sloneczna/1056/lista-instalacji-fotowoltaicznych-w-polsce List of photovoltaic systems in Poland] dostęp: 31.01.2014.&lt;/ref&gt;&lt;ref&gt;[http://gramwzielone.pl/energia-sloneczna/13386/w-cieszanowie-na-podkarpaciu-powstaje-najwieksza-farma-fotowoltaiczna-w-polsce W Cieszanowie na Podkarpaciu powstaje największa farma fotowoltaiczna w Polsce]&lt;/ref&gt;&lt;ref&gt;[https://archive.today/20150131130048/http://gubin.naszemiasto.pl/artykul/gubin-1-najwieksza-w-polsce-elektrownia-sloneczna-zdjecia,2435323,artgal,t,id,tm.html Gubin 1 - największa w Polsce elektrownia słoneczna]&lt;/ref&gt;
+* 2.0 MW [[Cieszanów]] (under construction, as of November 2014);
+* 1.84 MW [[Kolno]];
+* 1.64 MW [[Gdańsk]];
+* 1.5 MW [[Gubin, Poland|Gubin]];
+* Photovoltaic farm in [[Wierzchosławice, Lesser Poland Voivodeship|Wierzchosławice]] - 1.0 MW;
+* 311&amp;nbsp;kW, [[Ruda Śląska]], [[Upper Silesia]] Waterworks;
+* 100&amp;nbsp;kW, [[Polkowice]], NG2;
+* 82&amp;nbsp;kW, [[Łódź]], [[Voivodeship]] Specialist Hospital;
+* 80.5&amp;nbsp;kW, [[Bydgoszcz]], Frost Company;
+* 71.76&amp;nbsp;kW, [[Jaworzno]], Shrine of Our Lady of Perpetual Help in [[Jaworzno]];
+* 54&amp;nbsp;kW, [[Warsaw]], Center for Photovoltaics at the Faculty of Environmental Engineering, [[Warsaw University of Technology]];
+* 40&amp;nbsp;kW, [[Bogumiłowice, Lesser Poland Voivodeship|Bogumiłowice]];&lt;ref&gt;{{Cite web |url=http://www.schueco.com/solar/public/plant/show/307127?lang=en |title=Archived copy |access-date=2014-09-21 |archive-url=https://web.archive.org/web/20160304033831/http://www.schueco.com/solar/public/plant/show/307127?lang=en |archive-date=2016-03-04 |url-status=dead }}&lt;/ref&gt;
+* 21.42&amp;nbsp;kW, [[Rybnik]];
+* 20&amp;nbsp;kW, [[Rzeszów]], School of Law and Administration;
+* 20&amp;nbsp;kW, [[Warsaw]], Embassy of Japan.
+
+Online real production of 2&amp;nbsp;kW PV plant in Poland.&lt;ref&gt;{{Cite web |url=http://2kw.krdglobalgroup.com/ |title=Archived copy |access-date=2019-05-26 |archive-url=https://web.archive.org/web/20170914205824/http://2kw.krdglobalgroup.com/ |archive-date=2017-09-14 |url-status=dead }}&lt;/ref&gt;
+
+The [[Green Institute Foundation]] supports the development of solar energy in Poland running a campaign "Energy Democracy".&lt;ref&gt;[http://www.demokracjaenergetyczna.pl Energy Democracy]&lt;/ref&gt;
+
+== See also ==
+* [[Energy in Poland#Renewable energy|Renewable energy in Poland]]
+* [[Energy democracy]]
+* [[Wind power in Poland]]
+* [[List of renewable energy topics by country|Renewable energy by country]]
+
+==References==
+{{Reflist}}
+
+{{Solar power in Europe}}{{Renewable energy by country}}
+
+[[Category:Solar power in Poland]]</text>
+      <sha1>m8p1iblv82vbsbdvevw5d02j7vy49cr</sha1>
+    </revision>
+  </page>
+</mediawiki>

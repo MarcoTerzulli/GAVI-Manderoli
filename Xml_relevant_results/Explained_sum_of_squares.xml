@@ -1,0 +1,179 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Explained sum of squares</title>
+    <ns>0</ns>
+    <id>2473431</id>
+    <revision>
+      <id>925963298</id>
+      <parentid>925951756</parentid>
+      <timestamp>2019-11-13T11:58:30Z</timestamp>
+      <contributor>
+        <ip>129.240.43.144</ip>
+      </contributor>
+      <comment>/* Partitioning in the general ordinary least squares model */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8151" xml:space="preserve">{{Multiple issues|
+{{Expert-subject|statistics|date=September 2009}}
+{{morefootnotes|date=December 2010}}
+}}
+
+In [[statistics]], the '''explained sum of squares (ESS),''' alternatively known as the '''model sum of squares''' or '''sum of squares due to regression''' ('''"SSR"''' – not to be confused with the [[residual sum of squares]] '''RSS''' or sum of squares of errors), is a quantity used in describing how well a model, often a [[regression analysis|regression model]], represents the data being modelled. In particular, the explained sum of squares measures how much variation there is in the modelled values and this is compared to the [[total sum of squares]], which measures how much variation there is in the observed data, and to the [[residual sum of squares]], which measures the variation in the modelling errors.
+
+==Definition==
+The '''explained sum of squares (ESS)''' is the sum of the squares of the deviations of the predicted values from the mean value of a response variable, in a standard [[regression model]] — for example, {{nowrap|1=''y''&lt;sub&gt;''i''&lt;/sub&gt; = ''a'' + ''b''&lt;sub&gt;1&lt;/sub&gt;''x''&lt;sub&gt;1''i''&lt;/sub&gt; + ''b''&lt;sub&gt;2&lt;/sub&gt;''x''&lt;sub&gt;2''i''&lt;/sub&gt; + ... + ''ε''&lt;sub&gt;''i''&lt;/sub&gt;}}, where ''y''&lt;sub&gt;''i''&lt;/sub&gt; is the ''i'' &lt;sup&gt;th&lt;/sup&gt; observation of the [[response variable]], ''x''&lt;sub&gt;''ji''&lt;/sub&gt; is the ''i'' &lt;sup&gt;th&lt;/sup&gt; observation of the ''j'' &lt;sup&gt;th&lt;/sup&gt; [[explanatory variable]], ''a'' and ''b''&lt;sub&gt;''j''&lt;/sub&gt; are [[coefficient]]s, ''i'' indexes the observations from 1 to ''n'', and ''ε''&lt;sub&gt;''i''&lt;/sub&gt; is the ''i''&amp;nbsp;&lt;sup&gt;th&lt;/sup&gt; value of the [[error term]]. In general, the greater the ESS, the better the estimated model performs.
+
+If &lt;math&gt;\hat{a}&lt;/math&gt; and &lt;math&gt;\hat{b}_i&lt;/math&gt; are the estimated [[coefficient]]s, then
+
+:&lt;math&gt;\hat{y}_i=\hat{a}+\hat{b}_1 x_{1i} + \hat{b}_2 x_{2i} + \cdots \,  &lt;/math&gt;
+
+is the ''i''&lt;sup&gt;&amp;nbsp;th&lt;/sup&gt; predicted value of the response variable. The ESS is then:
+
+:&lt;math&gt;\text{ESS} = \sum_{i=1}^n \left(\hat{y}_i - \bar{y}\right)^2.&lt;/math&gt;
+
+In some cases (see below): [[total sum of squares]]&amp;nbsp;=&amp;nbsp;'''explained sum of squares'''&amp;nbsp;+&amp;nbsp;[[residual sum of squares]].
+
+==Partitioning in simple linear regression==
+The following equality, stating that the total sum of squares equals the residual sum of squares plus the explained sum of squares, is generally true in simple linear regression:
+
+:&lt;math&gt;\sum_{i=1}^n \left(y_i - \bar{y}\right)^2 = \sum_{i=1}^n \left(y_i - \hat{y}_i\right)^2 + \sum_{i=1}^n \left(\hat{y}_i - \bar{y}\right)^2.&lt;/math&gt;
+
+===Simple derivation===
+
+:&lt;math&gt;
+\begin{align}
+(y_i - \bar{y}) = (y_{i}-\hat{y}_i)+(\hat{y}_i - \bar{y}).
+\end{align}
+&lt;/math&gt;
+
+Square both sides and sum over all ''i'':
+
+:&lt;math&gt;
+\sum_{i=1}^n (y_i-\bar{y})^2=\sum_{i=1}^n (y_i - \hat{y}_i)^2+\sum_{i=1}^n (\hat{y}_i - \bar{y})^2 + \sum_{i=1}^n 2(\hat{y}_i-\bar{y})(y_i - \hat{y}_i).
+&lt;/math&gt;
+
+Here is how the last term above is zero from [[simple linear regression]]&lt;ref name=Mendenhall&gt;{{cite book |last=Mendenhall |first=William |title=Introduction to Probability and Statistics |publisher=Brooks/Cole |year=2009 |location=Belmont, CA |page=507 |edition=13th |isbn=9780495389538 }}&lt;/ref&gt;
+
+:&lt;math&gt;\hat{y_i} = \hat{a} + \hat{b}x_i&lt;/math&gt;
+:&lt;math&gt;\bar{y} = \hat{a} + \hat{b}\bar{x}&lt;/math&gt;
+:&lt;math&gt;\hat{b} = \frac{\sum_{i=1}^n (x_i-\bar{x})(y_i-\bar{y})}{\sum_{i=1}^n (x_i-\bar{x})^2}&lt;/math&gt;
+
+So,
+
+:&lt;math&gt;\hat{y_i} - \bar{y} = \hat{b}(x_i - \bar{x})&lt;/math&gt; 
+:&lt;math&gt;y_i - \hat{y}_i = (y_i - \bar{y}) - (\hat{y}_i - \bar{y}) = (y_i - \bar{y}) - \hat{b}(x_i - \bar{x})&lt;/math&gt;
+
+Therefore,
+
+: &lt;math&gt;
+\begin{align}
+&amp; \sum_{i=1}^n 2(\hat{y}_i-\bar{y})(y_i-\hat{y}_i) = 2\hat{b}\sum_{i=1}^n (x_i-\bar{x})(y_i-\hat{y}_i) \\[4pt]
+= {} &amp; 2\hat{b}\sum_{i=1}^n (x_i-\bar{x})((y_i - \bar{y}) - \hat{b}(x_i - \bar{x})) \\[4pt]
+= {} &amp; 2\hat{b}\left(\sum_{i=1}^{n}(x_i-\bar{x})(y_i-\bar{y})-\sum_{i=1}^n(x_i-\bar{x})^2\frac{\sum_{j=1}^n (x_j-\bar{x})(y_j-\bar{y})}{\sum_{j=1}^n (x_j-\bar{x})^2}\right) \\[4pt]
+= {} &amp; 2\hat{b} (0) = 0
+\end{align}
+&lt;/math&gt;
+
+==Partitioning in the general ordinary least squares model==
+
+The general regression model with ''n'' observations and ''k'' explanators, the first of which is a constant unit vector whose coefficient is the regression intercept, is
+
+:&lt;math&gt; y = X \beta + e&lt;/math&gt;
+
+where ''y'' is an ''n'' × 1 vector of dependent variable observations, each column of the ''n'' × ''k'' matrix ''X'' is a vector of observations on one of the ''k'' explanators, &lt;math&gt;\beta &lt;/math&gt; is a ''k'' × 1 vector of true coefficients,  and ''e'' is an ''n'' × 1 vector of the true underlying errors.  The [[ordinary least squares]] estimator for &lt;math&gt;\beta&lt;/math&gt; is
+
+:&lt;math&gt; \hat \beta = (X^T X)^{-1}X^T y.&lt;/math&gt;
+
+The residual vector &lt;math&gt;\hat e&lt;/math&gt; is &lt;math&gt;y - X \hat \beta = y - X (X^T X)^{-1}X^T y&lt;/math&gt;, so the residual sum of squares &lt;math&gt;\hat e ^T \hat e&lt;/math&gt; is, after simplification,
+
+:&lt;math&gt;  RSS = y^T y - y^T X(X^T X)^{-1} X^T y.&lt;/math&gt;
+
+Denote as &lt;math&gt;\bar y&lt;/math&gt; the constant vector all of whose elements are the sample mean &lt;math&gt;y_m&lt;/math&gt; of the dependent variable values in the vector ''y''.  Then the total sum of squares is
+
+:&lt;math&gt; TSS = (y - \bar y)^T(y - \bar y) = y^T y - 2y^T \bar y + \bar y ^T \bar y.&lt;/math&gt;
+
+The explained sum of squares, defined as the sum of squared deviations of the predicted values from the observed mean of ''y'', is
+
+:&lt;math&gt; ESS = (\hat y - \bar y)^T(\hat y - \bar y) = \hat y^T \hat y - 2\hat y^T \bar y + \bar y ^T \bar y.&lt;/math&gt;
+
+Using &lt;math&gt; \hat y = X \hat \beta&lt;/math&gt; in this, and simplifying to obtain &lt;math&gt;\hat y^T \hat y = y^TX(X^T X)^{-1}X^Ty &lt;/math&gt;, gives the result that ''TSS'' = ''ESS'' + ''RSS'' if and only if &lt;math&gt;y^T \bar y = \hat y^T \bar y&lt;/math&gt;.  The left side of this is &lt;math&gt;y_m&lt;/math&gt; times the sum of the elements of ''y'', and the right side is &lt;math&gt;y_m&lt;/math&gt; times the sum of the elements of &lt;math&gt;\hat y&lt;/math&gt;, so the condition is that the sum of the elements of ''y'' equals the sum of the elements of &lt;math&gt;\hat y&lt;/math&gt;, or equivalently that the sum of the prediction errors (residuals) &lt;math&gt;y_i - \hat y_i&lt;/math&gt; is zero.  This can be seen to be true by noting the well-known OLS property that the ''k'' × 1 vector &lt;math&gt;X^T \hat e = X^T [I - X(X^T X)^{-1}X^T]y= 0&lt;/math&gt;:  since the first column of ''X'' is a vector of ones, the first element of this vector &lt;math&gt;X^T \hat e&lt;/math&gt; is the sum of the residuals and is equal to zero.  This proves that the condition holds for the result that ''TSS'' = ''ESS'' + ''RSS''.
+
+In linear algebra terms, we have &lt;math&gt;RSS = \|y - {\hat y}\|^2 &lt;/math&gt;, &lt;math&gt; TSS = \|y - \bar y\|^2&lt;/math&gt;, &lt;math&gt; ESS = \|{\hat y} - \bar y\|^2 &lt;/math&gt;.
+The proof can be simplified by noting that &lt;math&gt; y^T {\hat y} = {\hat y}^T {\hat y} &lt;/math&gt;. The proof is as follows:
+:&lt;math&gt; {\hat y}^T {\hat y} = 
+y^T X (X^T X)^{-1} X^T X (X^T X)^{-1} X^T y = y^T X (X^T X)^{-1} X^T y = y^T {\hat y}, &lt;/math&gt;
+
+Thus,
+:&lt;math&gt;
+\begin{align}
+TSS &amp; = \|y - \bar y\|^2 = \|y - {\hat y} + {\hat y} - \bar y\|^2 \\
+&amp; = \|y - {\hat y}\|^2 + \|{\hat y} - \bar y\|^2 + 2 &lt;y - {\hat y}, {\hat y} - {\bar y}&gt; \\
+&amp; = RSS + ESS + 2 y^T {\hat y} -2 {\hat y}^T {\hat y} - 2 y^T {\bar y} + 2 {\hat y}^T{\bar y} \\
+&amp; = RSS + ESS  - 2 y^T {\bar y} + 2 {\hat y}^T{\bar y}
+\end{align}
+&lt;/math&gt;
+which again gives the result that ''TSS'' = ''ESS'' + ''RSS'', since &lt;math&gt;(y-\hat y)^T \bar y = 0&lt;/math&gt;.
+
+==See also==
+*[[Sum of squares (statistics)]]
+*[[Lack-of-fit sum of squares]]
+*[[Fraction of variance unexplained]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+* S. E. Maxwell and H. D. Delaney (1990), "Designing experiments and analyzing data: A model comparison perspective". Wadsworth. pp.&amp;nbsp;289–290.
+* G. A. Milliken and D. E. Johnson (1984), "Analysis of messy data", Vol. I: Designed experiments. Van Nostrand Reinhold. pp.&amp;nbsp;146–151.
+* B. G. Tabachnick and L. S. Fidell (2007), "Experimental design using ANOVA". Duxbury. p.&amp;nbsp;220.
+* B. G. Tabachnick and L. S. Fidell (2007), "Using multivariate statistics", 5th ed. Pearson Education. pp.&amp;nbsp;217–218.
+
+{{DEFAULTSORT:Explained Sum Of Squares}}
+[[Category:Least squares]]</text>
+      <sha1>fe6sxmgl700b2acydrte9ce3urz2ju9</sha1>
+    </revision>
+  </page>
+</mediawiki>

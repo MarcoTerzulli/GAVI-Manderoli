@@ -1,0 +1,231 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Typography of Apple Inc.</title>
+    <ns>0</ns>
+    <id>1005263</id>
+    <revision>
+      <id>957151905</id>
+      <parentid>957151876</parentid>
+      <timestamp>2020-05-17T09:09:57Z</timestamp>
+      <contributor>
+        <username>The wub</username>
+        <id>219723</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/90.195.170.230|90.195.170.230]] ([[User talk:90.195.170.230|talk]]) ([[WP:HG|HG]]) (3.4.9)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23168" xml:space="preserve">{{Use mdy dates|date=January 2016}}
+{{multiple issues|
+{{lead too short|date=December 2012}}
+{{More footnotes|date=April 2009}}
+}}
+[[Image:Apple first logo.png|right|thumb|Apple's first logo, hand drawn by [[Ronald Wayne]]]]
+
+[[Apple Inc.]] uses a large variety of [[typeface]]s in its [[marketing]], [[operating system]]s, and [[industrial design]] with each product cycle. These change throughout the years with Apple's change of style in [[Apple Inc.#Products|their products]]. This is evident in the design and marketing of the company.
+
+==Marketing==
+For at least 18 years, Apple's corporate typeface was a custom variant of the [[International Typeface Corporation|ITC]] [[Garamond]] typeface called [[Apple Garamond]]. It was used alongside the Apple [[logo]] for product names on computers, in many ads and printed materials, and on the company's website. Starting in 2001, Apple gradually shifted towards using [[Myriad (typeface)|Myriad]] in its marketing. Starting with iPhone 7 in 2016, Apple switched the typeface of the word mark "iPhone" to San Francisco on products and its website.
+
+===Hand-drawn logo===
+Prior to adopting the bitten Apple as its logo, Apple used a complex logo featuring [[Isaac Newton]] sitting below an [[apple]] tree. The words ''APPLE COMPUTER CO.'' were drawn on a ribbon banner ornamenting the picture frame. The frame itself held a quotation from [[William Wordsworth|Wordsworth]]: "Newton...A Mind Forever Voyaging Through Strange Seas of Thought...Alone." The logo was hand drawn and thus did not use an established font. However, the type is similar to [[Caslon]], with some idiosyncratic details, such as an ''R'' deviating from the general style.
+
+===Motter Tektura===
+[[Image:Apple logo Motter Tektura.svg|thumb|350px|The Apple logo alongside the Motter Tektura typeface]]
+Before the introduction of the first Macintosh, alongside the Apple logo, Apple used a typeface called Motter Tektura,&lt;ref&gt;[http://www.networkworld.com/community/blog/steve-jobs-business-card-1979 "Steve Jobs Business Card from 1979"], networkworld.com&lt;/ref&gt; which was designed in Austria by Othmar Motter of Vorarlberger Graphik in 1975 and distributed by [[Letraset]] (and also famously used by [[Reebok]]).&lt;ref&gt;[http://www.hdicon.com/vector-logos/reebok-classic-collection/ "Reebok Classic Collection Vector logo"], hdicon.com&lt;/ref&gt; At the time, the typeface was considered new and modern. One modification to the typeface was the removal of the dot over the ''i''. The ''s'' was also modified for the label on the [[Disk II]] 5.25-inch floppy disk drive.
+
+According to the logo designer, [[Rob Janoff]], the typeface was selected for its playful qualities and techno look, which were in line with Apple's mission statement of making high technology accessible to anyone. Janoff designed the logo in 1977 while working with [[Palo Alto]] [[marketer]] [[Regis McKenna]].&lt;ref&gt;{{cite web|url=http://robjanoff.com/applelogo/|title=Worlds Best Logo Designer – Logo Designing – Logo Design – Logo Designer|work=robjanoff.com}}&lt;/ref&gt; The Apple logo's bite mark was originally designed to fit snugly with the Motter Tektura ''a''.
+
+In the early 1980s, the logo was simplified by removing ''computer ınc.'' from the logo. Motter Tektura was also used for the [[Apple II]] logo. This typeface has sometimes been mislabeled Cupertino, a similar bitmap font probably created to mimic Motter Tektura.
+
+===Apple Garamond===&lt;!-- This section is linked from [[Garamond]] --&gt;
+[[Image:Apple logo Think Different vectorized.svg|thumb|Apple Garamond was used in most of Apple's marketing.]]
+Since the introduction of the [[Apple Macintosh|Macintosh]] in 1984, Apple adopted a new corporate font called Apple Garamond. It was a variation of the classic [[Garamond]] typeface, both narrower and having a taller [[x-height]]. Specifically, ITC Garamond (created by Tony Stan in 1977) was condensed to 80% of its normal width. [[Bitstream Inc.|Bitstream]] condensed the font, subtly adjusted the stroke widths, and performed the [[Font hinting|hinting]] required to create the font, which was delivered to Apple as the Postscript font "apgaram".
+
+In cases where the Apple logo was accompanied by text, it was always set in Apple Garamond. Aside from the company name, most of Apple's advertising and marketing slogans, such as "[[Think different]].", used the font as well.
+
+The typeface was virtually synonymous with Apple for almost two decades and formed a large part of the company's [[brand recognition]]. It was used not only in conjunction with the logo, but also in manuals and ads and to label products with model names.
+
+Apple has not released the true Apple Garamond font. ITC briefly sold ITC Garamond Narrow—Apple Garamond without the custom hinting—as part of its Apple Font Pack in the 1990s. A version of the font was also included under a different name in some versions of Mac OS X prior to 10.3 as it was used by the Setup Assistant installation program.
+
+===Gill Sans===
+In the marketing of the [[Apple Newton|Newton]]/Notepad/MessagePad [[Personal digital assistant|PDA]] (starting in 1992), Apple used [[Gill Sans]] instead of the regular [[Apple Garamond]]. Gill Sans Regular was used in the logo, for the model name on the computer, on the keyboard and in advertisement materials, though it was not used as a screen font (except as part of the Newton logo).
+
+===Myriad===
+[[File:IPod Myriad.svg|thumb|250px|[[Adobe Systems|Adobe]]'s [[Myriad (typeface)|Myriad]] was used in Apple's marketing 2003–2017.]]
+In 2003, Apple gradually started using a variant of the Adobe [[Myriad (typeface)|Myriad]] font family in its marketing and packaging. As new revisions of its products were released, the text changed from the serif Apple Garamond to the sans-serif Myriad Apple. The family's bolds were used for headlines, and other weights accordingly.
+
+The Myriad font family was designed by [[Robert Slimbach]] and [[Carol Twombly]] for [[Adobe Systems|Adobe]]. Adobe's most recent version of Myriad is Myriad Pro, which has some additional enhancements and character set extensions, but is not significantly changed in design. Myriad Apple, a modification produced by Galápagos Design Group, incorporates minor spacing and weight differences from the standard varieties, and includes Apple-specific characters, such as the company logo. In 2006, Myriad Apple was superseded by Myriad Set, which contains extra ligatures and other minor changes.
+
+As of November 2013, lighter fonts are prevalent in Apple's marketing, with headlines in Myriad Pro Light. Occasionally an even lighter variant of Myriad is used for specialized marketing materials and press releases.
+
+===San Francisco===
+Starting with the release of the [[Apple Watch]], Apple has begun usage of [[San Francisco (sans-serif typeface)|San Francisco]] as the typeface of word marks such as "iPhone", "AirPods", and "MacBook Pro" on the devices themselves. This change is also reflected on some headlines on product marketing webpages. Apple modified the majority of its website's text to use the San Francisco font on January 24, 2017, and San Francisco became the universal official font for Apple.
+
+==User interface==
+Apple has used a variety of system fonts for the [[user interface]] of its products.
+
+===Early fonts===
+Apple's earliest computers, along with other personal computers of the period, had extremely limited graphical capabilities and could originally display only uppercase [[ASCII]] using a set bitmap font. The [[Apple IIc|IIc]] and Enhanced [[Apple IIe]] expanded on this, supporting 40 or 80 columns of text and an extended character set called [[MouseText]]. It was used to simulate simple graphical user interfaces, similar to the use of [[ANSI]] X3.64.
+
+The first Apple computer with a purely bitmapped display, the [[Apple Lisa|Lisa]], shipped in 1983. It used a system font with distinctive V and W letterforms.
+
+===Chicago and Charcoal===
+{{multiple image
+ | image1  = Chicago typeface spec.svg
+ | caption1= [[Chicago (typeface)|Chicago]]
+ | width1  = 172
+ | image2  = CharcoalSpecimen7.svg
+ | caption2= [[Charcoal (typeface)|Charcoal]]
+ | width2  = 198
+}}
+The [[Macintosh]], introduced in 1984, used a [[bitmap font]], [[Chicago (typeface)|Chicago]], designed by [[Susan Kare]]. In [[Mac OS 8]], introduced in 1997, the system font of Mac OS was changed to [[Charcoal (typeface)|Charcoal]]. Charcoal was designed to be easier to read than Chicago, while retaining similar metrics for backward compatibility with existing application software.
+
+When released in 2001, Apple's [[iPod]] music player reused the Macintosh font Chicago as the system font. Later versions of the iPod drew from the larger character repertoire of the [[TrueType]] [[Chicago (typeface)|Chicago]], adding a number of characters not present in the bitmap Chicago, such as [[Greek alphabet|Greek]] and [[Cyrillic script|Cyrillic]]. Even though the screen supported grayscale, the characters were not [[spatial anti-aliasing|anti-aliased]].{{Citation needed|date=August 2007}}
+
+===Geneva===
+For smaller user interface elements, such as the names of files displayed with icons in the Finder, Apple used the [[Geneva (typeface)|Geneva]] typeface, a redesigned version of Helvetica.
+
+===Shaston===
+Introduced in 1986, the [[Apple IIGS|Apple II&lt;small&gt;GS&lt;/small&gt;]], had very rectangular pixels (640 by 200), thus requiring a stout, 8-point bitmap font called Shaston 8 as the system font (for menus, window titles, etc.). Shaston was described in Apple II&lt;small&gt;GS&lt;/small&gt; technote #41 as "a modified [[Helvetica]]", but the similarities are not striking. The fonts of the original Macintosh were also available for the &lt;small&gt;GS&lt;/small&gt;.
+
+===Espy Sans===
+In 1991, Apple's Human Interface Group contracted with LetterPerfect Fonts' Garrett Boge and Damon Clark, to design a family of bitmap screen fonts to replace Chicago and Geneva for the Mac OS version 7.5. The family consisted of Sans &amp; Serif, Regular and Bold in discrete bitmap sizes of 8, 9, 10, 12 &amp; 14 pt. The Sans, proving most useful for screen readability, was also used for the [[Newton (platform)|Newton]] OS GUI. The Newton used the font Apple Casual to display text entered using the [[Rosetta (Newton)|Rosetta]] handwriting recognition engine in the Newton. The same font found its way into the Rosetta-derived writing recognition system in Mac OS X—[[Inkwell (Macintosh)|Inkwell]]. The [[TrueType]] font can be made available to any application by copying the font file, which is embedded in a system component, to any [[#Mac OS X|font folder]]. (See [[List of fonts in Mac OS X]] for more information.) The Newton logo featured the [[Gill Sans]] typeface, which was also used for the Newton keyboard.
+
+Espy Sans was later used as the font for Apple's [[eWorld]] online service in 1994. (eWorld also used the larger bold condensed [[bitmap font]] eWorld Tight for headlines. The metrics of eWorld Tight were based on [[helvetica|Helvetica Ultra Compressed]].) The [[iPod mini]], released in 2004, also used Espy Sans.
+
+===Lucida Grande===
+Since its introduction in 2000 up through [[OS X Mavericks]], [[Lucida Grande]] was the system font used in Mac OS X user interface elements, such as menus, dialog boxes, and other widgets. It was superseded by Helvetica Neue.
+
+===Podium Sans===
+Starting in 2004, the iPod photo, 5th-generation [[iPod]], and 1st- through 2nd-generation [[iPod nano]] feature a bitmap font known as [[Podium Sans]], displacing the use of [[Chicago (font)|Chicago]] as the iPod system font. Although originally promoted as Myriad, Podium Sans is missing Myriad's trademark features, such as the splayed "M" and distinctive "y".
+
+=== Helvetica===
+Since the introduction of the 1st-generation iPhone in 2007, Apple has used [[Helvetica]] in its software design. iOS for the iPhone, iPod touch, iPad, and Apple TV employs the font, alongside its use on iPods beginning with the 6th-generation iPod classic and 3rd-generation iPod nano.
+
+In conjunction with the iPhone 4 in 2010, Apple began using Helvetica Neue on devices with Retina display, while keeping use of Helvetica on non-Retina devices.
+
+Around 2012, Apple started using Helvetica in [[macOS]] (then named OS X) application software. [[iTunes]], [[iMovie]], [[iPhoto]], [[GarageBand]], and Apple's professional applications started to feature heavy use of Helvetica, while the majority of the OS X (now named macOS) environment retained the comparatively more legible Lucida Grande typeface, which was designed specifically for on-screen use.
+
+After the introduction of iOS 7 in June 2013, Apple began using an extra-thin weight of Helvetica Neue for the user interface of iOS 7, arousing numerous complaints about the less legible typography. For the final release of the operating system, Apple changed the system's font to a slightly thicker weight of Helvetica Neue, although some have complained that readability is still compromised compared to the font weight used in former versions of iOS. Older iOS devices continue to use Helvetica or Helvetica Neue in regular font weights that display with higher contrast on low-resolution displays.
+
+With the introduction of [[OS X Yosemite|OS X 10.10 "Yosemite"]] in June 2014, Apple started using Helvetica Neue as the system font on the Mac. This brought all of Apple's user interfaces in line, using Helvetica Neue throughout.
+
+===San Francisco===
+[[File:San Francisco Display SP.svg|thumb|200px|[[San Francisco (sans-serif typeface)|San Francisco]]]]
+[[San Francisco (sans-serif typeface)|San Francisco]] is currently used for user interface across all of Apple's product line, including [[watchOS]], [[macOS]], [[iOS]], [[iPadOS]] and [[tvOS]] (with the notable exception of subtitles on tvOS that keep on using Helvetica). It was first introduced alongside the [[Apple Watch]],&lt;ref&gt;{{Cite web |url=https://thenextweb.com/apple/2014/11/18/meet-apples-new-font-designed-watch/ |work=[[The Next Web]] |title=Meet Apple’s new font, designed for its smartwatch Typeface |author=Owen Williams |date=November 18, 2014 }}&lt;/ref&gt; where it was used for enhanced legibility and taller [[x-height]]s for easy reading on a small display. The design references a number of different other typefaces, notably [[FF DIN]] (used in the UI of the Camera app in [[iOS 7]] and above), [[Helvetica]] (used in the UI in iOS 6 and below), Helvetica Neue (used in the UI of [[iOS 7]] and [[iOS 8]] as well as [[OS X Yosemite]]), [[Roboto]] ([[Google]]'s new UI typeface), and [[Univers]] (used on Apple's early keyboard designs).{{citation needed |date=November 2014 }}
+
+It was widely speculated that San Francisco was going to be the long-awaited font that Apple had reportedly been developing for independent use in their products, and the font's name was leaked in November 2014 when the [[WatchKit]] SDK was released to developers. On June 8, 2015, at the [[WWDC]] 2015 conference, San Francisco replaced Helvetica Neue as the system font for both macOS and iOS operating systems.&lt;ref&gt;{{cite web |last=Stinson |first=Liz |date=June 9, 2015 |work=[[Wired (magazine)|Wired]] |title=Why Apple Abandoned the World's Most Beloved Typeface |access-date=September 23, 2015 |url=https://www.wired.com/2015/06/apple-abandoned-worlds-beloved-typeface/ }}&lt;/ref&gt; The version used, known as "SF UI", was modified to make it wider than its Apple Watch counterpart, more akin to the previously used Helvetica Neue. The original version has since been renamed "SF Compact".
+
+===New York===
+In 2019, Apple released New York, a serif counterpart to San Francisco.
+
+==Keyboards==
+[[Image:PowerBook Univers keycaps.jpg|left|thumb|Six keys featuring [[Univers]] from a pre-2003 [[PowerBook G4]]]]
+[[Image:Apple IIc top view.jpg|thumb|180px|[[Univers]] was first used as the keyboard font of the [[Apple IIc]].]]
+[[Apple Keyboard|Apple's keyboards]] were long labeled with [[Univers]] 47 (Condensed Light Oblique), a design choice by Apple's industrial design partner, [[Frog Design]]. This began in 1984 with the [[Apple IIc]], which had tilted front-panel buttons to match the inclination of the lettering.
+
+Univers was eventually replaced on Apple's keyboards by [[VAG Rounded]], which was used on all [[iBook]] models, [[PowerBook]]s introduced after 2003, and [[MacBook]]s, [[MacBook Pro|MacBooks Pro]], [[MacBook Air|MacBooks Air]], and Apple Keyboards from August 2007 until early 2015. The font was developed by [[Sedley Place]] Ltd. for German car manufacturer [[Volkswagen]] and was used in much of their marketing materials.&lt;ref&gt;{{cite web|url=http://myfonts.wordpress.com/2006/11/17/typographic-abbreviations-series-2-vag/ |title=Typographic Abbreviations Series #2: VAG " MyFonts Musings |publisher=Myfonts.wordpress.com |date=November 17, 2006 |accessdate=October 13, 2009}}&lt;/ref&gt;
+
+On March 9, 2015, Apple introduced a new generation of [[MacBook]]&lt;ref&gt;{{cite web|url=https://www.apple.com/pr/library/2015/03/09Apple-Unveils-All-New-MacBook.html |title= Apple Unveils All-New MacBook |date=March 9, 2015}}&lt;/ref&gt; that utilizes the [[Apple Inc.|Apple]] designed [[San Francisco (2014 typeface)|San Francisco]] typeface.
+
+{{clear}}
+
+==See also==
+* [[Fonts on the Mac]]
+* [[List of Apple typefaces]]
+* [[List of typefaces included with macOS]]
+
+==References==
+{{Reflist}}
+* Apple Computer:
+** [https://web.archive.org/web/20090326092545/http://www.apple.com/macosx/features/font.html Fonts on Mac OS X]. Retrieved 2004-09-25.
+** (January 29, 2003). ''Using and Managing Fonts in Mac OS X''. [https://web.archive.org/web/20060323042506/http://images.apple.com/pro/archive/creative/fonts/usingfontsinmacosx_l25032b.pdf PDF]. Retrieved 2004-10-01.
+** (October 8, 2003). ''Fonts in Mac OS X'' [https://web.archive.org/web/20040828235202/http://images.apple.com/macosx/pdf/Panther_Fonts_TB_10082003.pdf PDF]. Retrieved 2004-10-04.
+** [https://web.archive.org/web/20080724150836/http://developer.apple.com/documentation/Carbon/Conceptual/Managing_FontManager/fm_concepts/chapter_2_section_3.html Font Support in the Mac OS]. Retrieved 2004-10-01.
+** (November 11, 2002). ''[https://web.archive.org/web/20140222212219/https://developer.apple.com/fonts/LastResortFont/ LastResort Font]''. Retrieved 2004-10-03.
+** (June 10, 2004). [http://docs.info.apple.com/article.html?artnum=153382 Sharing Fonts Between Mac OS X and Classic]. Retrieved 2004-10-22.
+** (September 14, 2000). [https://developer.apple.com/fonts/TTRefMan/RM06/Chap6Zapf.html The Zapf table]. Retrieved 2004-10-22.
+** (1996-07-06). [https://web.archive.org/web/20090801224714/http://developer.apple.com/documentation/Mac/Text/Text-514.html Inside Macintosh — Text — Built-in Script Support (IM: Tx)]. Retrieved 2004-10-27.
+** (November 1990). [http://www.umich.edu/~archive/apple2/technotes/tn/iigs/TN.IIGS.041 Apple II GS TN #41 — Font Family Numbers]. Retrieved 2004-10-28.
+** (December 19, 2002). [https://www.unicode.org/Public/MAPPINGS/VENDORS/APPLE/ROMAN.TXT ROMAN.TXT, MacRoman to Unicode map]. Retrieved 2004-11-09.
+* Jaques Moury Beauchap. [https://web.archive.org/web/20040714090639/http://www.jacques-moury-beauchamp.com/moury/beauchamp/SIGNEDAMERICA/pages/JANOFFUS.html Rob Janoff — Graphic Designer, Author of the first logo for Apple Computer]. Retrieved 2004-10-28.
+* [[Michael Everson]] (2003-11-11). [http://www.evertype.com/software/apple/ Multilingual Macintosh Support]. Retrieved 2004-10-27.
+* Erfert Fenton (October 1994). Inside QuickDraw GX Fonts, ''MacWorld''. {{webarchive |url=https://web.archive.org/web/19970614041630/http://www.macworld.com/pages/october.94/Feature.1143.html |date=June 14, 1997 }}, retrieved 2004-11-01.
+* FreeType. [http://www.freetype.org/patents.html Freetype and Patents]. Retrieved 2004-10-29.
+* Nobumi Iyanaga (2000-09-26). [http://www.bekkoame.ne.jp/~n-iyanag/researchTools/unicodeandmacos.html Unicode and Mac OS, and Code converters]. Retrieved 2004-10-27.
+* Tony Kavadias (2004-07-24). [https://web.archive.org/web/20080624131704/http://www.guidebookgallery.org/articles/apple2userinterfaces Apple II User Interfaces]. Retrieved 2004-10-28.
+* Steve Gibson (2003-04-10). [http://grc.com/ctwho.htm The Origins of Sub-Pixel Font Rendering]. Retrieved 2004-10-27.
+* Jens Hofman Hansen (July 2, 2002). [https://web.archive.org/web/20041011142856/http://www.maclab.dk/dokumentation/logoet/ Apple-logoets historie]. Retrieved 2004-09-22.
+* Susan Kare. [http://www.folklore.org/StoryView.py?project=Macintosh&amp;story=World_Class_Cities.txt World Class Cities]. Retrieved 2004-09-25.
+* John Kheyt (2003-05-23). [http://www.macobserver.com/columns/devilsadvocate/2003/20030523.shtml The Devil's Advocate — MS's ClearType KOs Apple's Quartz In The Lightweight Division]. Retrieved 2004-10-27.
+* Microsoft (2003-03-12). [http://www.microsoft.com/presspass/press/2003/dec03/12-03ExpandIPPR.asp Press release: Microsoft Announces Expanded Access To Extensive Intellectual Property Portfolio]. Retrieved 2004-10-27.
+* Jonathan Ploudre (June 1, 2000). [http://www.lowendmac.com/backnforth/2k0601.html Macintosh System Fonts]. Retrieved 2004-09-21.
+* Ed Tracy (1998-10-15). ''[http://www.landsnail.com/apple/local/design/index.html Apple and the History of Personal Computer Design]''. Retrieved 2004-10-27.
+* Norman Walsh (August 14, 1996). [http://www.faqs.org/faqs/fonts-faq/part7/ comp.fonts FAQ: Macintosh Info]. Retrieved 2004-09-21.
+* XvsXP. [https://web.archive.org/web/20060706171941/http://www.xvsxp.com/system/fonts_view.php XvsXP.com — Fonts]. Retrieved 2004-10-27.
+
+==External links==
+* [https://web.archive.org/web/20110927010853/http://images.apple.com/pro/pdf/L311277A_FontTT_v4.pdf Advanced Typography with Mac OS X Tiger]
+* [https://developer.apple.com/fonts/ Text &amp; Fonts] Apple's typography developer site
+* [https://developer.apple.com/fonts/TTRefMan/index.html TrueType Reference Manual]
+* [https://web.archive.org/web/20140222212219/https://developer.apple.com/fonts/LastResortFont/ LastResort Font]
+** [https://web.archive.org/web/20131209153619/https://developer.apple.com/fonts/LastResortFont/LastResortTable.html Full LastResort glyph table]
+** LastResort glyphs: — [https://web.archive.org/web/20110916205213/http://developer.apple.com/fonts/LastResortFont/LastResortGlyphs236pp.pdf 236 pages PDF], [https://web.archive.org/web/20110917211304/http://developer.apple.com/fonts/LastResortFont/LastResortGlyphs5pp.pdf 5 pages PDF]
+* [http://www.alanwood.net/unicode/fonts_macosx.html Unicode fonts for Mac OS X computers] — Survey of Unicode fonts included with Mac OS X and [[Microsoft Office|Microsoft Office 2004]].
+* [http://www.microsoft.com/typography/ClearTypeInfo.mspx Microsoft's ClearType web site]
+* [http://fondu.sourceforge.net/ Fondu] – program to convert (and separate) Mac OS X dfont data fork files to TrueType, OpenType, Type 1, and Glyph Bitmap parts
+* [https://web.archive.org/web/20100405215244/http://mackeys.info/ MacKeys — online tool to convert Apple keyboard keys to their Unicode equivalents (e.g. Cmd → ⌘)]
+
+{{Apple}}
+
+{{DEFAULTSORT:Typography Of Apple Inc.}}
+[[Category:Digital typography|Apple]]
+[[Category:Apple Inc. typefaces| ]]</text>
+      <sha1>nb4yynght5n89nxlygvhi098h3bz2jr</sha1>
+    </revision>
+  </page>
+</mediawiki>

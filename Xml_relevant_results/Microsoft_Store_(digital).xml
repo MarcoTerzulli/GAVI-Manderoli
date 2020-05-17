@@ -1,0 +1,181 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Microsoft Store (digital)</title>
+    <ns>0</ns>
+    <id>33453827</id>
+    <revision>
+      <id>955704098</id>
+      <parentid>955704066</parentid>
+      <timestamp>2020-05-09T09:11:46Z</timestamp>
+      <contributor>
+        <ip>92.53.44.244</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="25052" xml:space="preserve">{{short description|Digital distribution platform for Microsoft Windows and Xbox One}}
+{{Redirect-distinguish|Windows Store|Windows Phone Store|Windows Marketplace}}
+{{Use mdy dates|date=November 2017}}
+{{Infobox software
+| name = Microsoft Store
+| logo = Microsoft Store app icon.png
+| logo_size = x64px
+| screenshot = File:Windows Store.png
+| screenshot_size = 300px
+| caption = Microsoft Store on Windows 10
+| developer = [[Microsoft]]
+| released = {{start date and age|2012|10|26}}
+| other_names = Windows Store
+| replaces = [[Windows Marketplace]], [[Windows Phone Store]], [[Xbox Video]], [[Xbox Music]], [[Xbox Store]]
+| service_name = Windows Store Service (WSService)
+| operating system = [[Windows 8]], [[Windows Server 2012]], [[Windows 8.1]], [[Windows Server 2012 R2]], [[Windows 10]], [[Windows 10 Mobile]], [[Xbox One]]
+| genre = [[App store]], [[online music store]]
+}}
+
+{{Windows 10}}
+
+'''Microsoft Store''' (formerly known as '''Windows Store''') is a [[digital distribution platform]] owned by [[Microsoft]].  It started as an [[app store]] for [[Windows 8]] and [[Windows Server 2012]] as the primary means of distributing [[Universal Windows Platform apps|Universal Windows Platform]] (UWP) apps. Microsoft Store was released along with [[Windows 8]] on October 26, 2012. With [[Windows 10]], Microsoft merged its other distribution platforms ([[Windows Marketplace]], [[Windows Phone Store]], [[Xbox Music]], [[Xbox Video]], [[Xbox Store]], and a web storefront also known as "Microsoft Store") into Microsoft Store, making it a unified distribution point for apps, [[console game]]s, [[digital music]], and [[digital video]]s. [[E-book]]s were included until 2019.&lt;ref name=":0"&gt;{{Cite news|work=BBC|url=https://www.bbc.com/news/technology-47810367|title=When this eBook store closes, your books disappear too|last=Lee|first=Dave|date=2019-04-04|access-date=2019-04-04|language=en-GB}}&lt;/ref&gt; Some content is available free of charge from the store.
+
+In 2015, over 669,000 apps were available on the store.  Categories containing the largest number of apps are "Books and Reference", "Education", "Entertainment", and "Games". The majority of the app developers have one app.
+
+As with other similar platforms, such as the [[Google Play]] and [[Mac App Store]], Microsoft Store is curated, and apps must be certified for compatibility and content. In addition to the user-facing Microsoft Store client, the store has a developer portal with which developers can interact.  Microsoft takes 30% of the sale price for apps. Prior to January 1, 2015, this cut was reduced to 20% after the developer's profits reached $25,000.
+
+==History==
+
+===The Web-based storefront===
+Microsoft previously maintained a similar digital distribution system for software known as [[Windows Marketplace]], which allowed customers to purchase software online. The marketplace tracked [[product key]]s and licenses, allowing users to retrieve their purchases when switching computers.&lt;ref&gt;{{cite web|title=Microsoft Adds Digital Locker To Windows Marketplace|url=http://www.crn.com/news/applications-os/192300509/microsoft-adds-digital-locker-to-windows-marketplace.htm|website=CRN|publisher=The Channel Company|accessdate=October 26, 2012|date=August 28, 2006}}&lt;/ref&gt; Windows Marketplace was discontinued in November 2008.&lt;ref name=infoworld-whatweknow&gt;{{cite web|last=Leonhard|first=Woody|title=What do we really know about Windows 8?|url=http://www.infoworld.com/t/windows/what-do-we-really-know-about-windows-8-277?page=0,1|website=[[InfoWorld]]|publisher=[[International Data Group|IDG]]|accessdate=October 26, 2012}}&lt;/ref&gt; At this point, Microsoft opened a Web-based storefront called "Microsoft Store".&lt;ref name="Closing"&gt;{{cite web|url=https://www.neowin.net/news/microsoft-closing-your-digital-locker-account/|title=Microsoft: Closing your digital locker account|last=Chandran|first=Chakkaradeep|date=December 12, 2008|website=[[Neowin]]|publisher=|url-status=live|archive-url=|archive-date=|accessdate=October 23, 2019}}&lt;/ref&gt;
+
+===Windows 8===
+Microsoft first announced Windows Store, a [[digital distribution]] service for Windows at its presentation during the [[Build (developer conference)|Build]] developer conference on September 13, 2011.&lt;ref&gt;{{cite web|url= http://channel9.msdn.com/Events/BUILD/BUILD2011/KEY-0001 |title= Keynote #1 &amp;#124; BUILD2011 &amp;#124; Channel 9 |publisher= [[Channel 9 (discussion forum)|Channel 9]] |date=September 13, 2011 |accessdate=October 14, 2012}}&lt;/ref&gt; Further details announced during the conference revealed that the store would be able to hold listings for both certified traditional Windows apps, as well as what were called "Metro-style apps" at the time: tightly-[[Sandbox (computer security)|sandboxed]] software based on [[Metro (design language)|Microsoft design guidelines]] that are constantly monitored for quality and compliance. For consumers, Windows Store is intended to be the only way to obtain Metro-style apps.&lt;ref name=verge-talkswin8&gt;{{cite web|title= Microsoft talks Windows Store features, Metro app sandboxing for Windows 8 developers|url=https://www.theverge.com/2012/5/17/3026590/microsoft-windows-8-developers-windows-store-sandboxing|work= [[The Verge]]|publisher=[[Vox Media]]|accessdate= September 8, 2012}}&lt;/ref&gt;&lt;ref name=bi-windows8&gt;{{cite web|last= Rosoff|first= Matt|title= Here's Everything You Wanted To Know About Microsoft's Upcoming iPad Killers|url= http://articles.businessinsider.com/2012-02-09/tech/31040510_1_steven-sinofsky-pcs-microsoft-first|publisher= [[Business Insider]]|accessdate= February 10, 2012|url-status= dead|archiveurl= https://web.archive.org/web/20130122030754/http://articles.businessinsider.com/2012-02-09/tech/31040510_1_steven-sinofsky-pcs-microsoft-first|archivedate= January 22, 2013|df= mdy-all}}&lt;/ref&gt; While announced alongside the "Developer Preview" release of Windows 8, Windows Store itself did not become available until the "Consumer Preview", released in February 2012.&lt;ref name=pcw-wdptonight&gt;{{cite web|title= Windows 8 Developer Preview Available Tonight|url= https://www.pcmag.com/article2/0,2817,2392860,00.asp|work= PC Magazine|accessdate= May 29, 2013}}
+&lt;/ref&gt;&lt;ref name=pcw-13newfeatures&gt;
+{{cite web|title= 13 New Features in Windows 9 Consumer Preview|url= https://www.pcmag.com/article2/0,2817,2400967,00.asp
+|work= PC World|accessdate=August 21, 2013
+}}&lt;/ref&gt;
+
+Updates to apps published on the Store after July 1, 2019 will not be available to Windows 8 RTM users. Per Microsoft lifecycle policies, Windows 8 had been unsupported since 2016.&lt;ref name="softpedia-appslifecycle"&gt;{{Cite web|url=https://news.softpedia.com/news/microsoft-kills-off-windows-8-app-updates-earlier-than-anticipated-525724.shtml|title=Microsoft Kills Off Windows 8 App Updates Earlier than Anticipated|last=Popa|first=Bogdan|website=softpedia|language=english|access-date=2019-04-19}}&lt;/ref&gt;
+
+===Windows 8.1===
+An updated version of Windows Store was introduced in [[Windows 8.1]]. Its home page was remodeled to display apps in focused categories (such as popular, recommended, top free and paid, and special offers) with expanded details, while the ability for apps to automatically update was also added.&lt;ref&gt;{{cite web|last=Thurrott|first=Paul|title=In Blue: Windows Store 2.0|url=http://winsupersite.com/windows-8/blue-windows-store-20|work=Paul Thurrott's SuperSite for Windows|publisher=[[Penton Media|Penton]]|accessdate=June 18, 2013|authorlink=Paul Thurrott|date=June 17, 2013|archive-url=https://web.archive.org/web/20130620173229/http://winsupersite.com/windows-8/blue-windows-store-20|archive-date=June 20, 2013|url-status=dead}}&lt;/ref&gt; Windows 8.1 Update also introduced other notable presentation changes, including increasing the top app lists to return 1000 apps instead of 100 apps, a 'picks for you' section, and changing the default sorting for reviews to be by 'most popular'.
+
+Updates to apps published on the Store after July 1, 2023 will not be available to Windows 8.1.&lt;ref name="softpedia-appslifecycle"/&gt;
+
+===Windows 10===
+Windows 10 was released with an updated version of the Windows Store which merged Microsoft's other distribution platforms ([[Windows Marketplace]], [[Windows Phone Store]], [[Xbox Video]] and [[Xbox Music]]) into a unified store front for Windows 10 on all platforms, offering apps, games, music, film, TV series,&lt;ref name="bw-unifiedstore"&gt;{{cite web|url=https://blogs.windows.com/windowsexperience/2015/04/09/delivering-a-single-unified-store-experience-in-windows-10/|title=Delivering a single unified Store experience in Windows 10|last=LeBlanc|first=Brandon|date=April 9, 2015|website=Windows Experience Blog|publisher=[[Microsoft]]}}&lt;/ref&gt;&lt;ref name="bw-entertainment"&gt;{{cite web|url=https://blogs.windows.com/windowsexperience/2015/07/06/updates-to-entertainment-in-windows-10/|title=Updates to Entertainment in Windows 10|last=LeBlanc|first=Brandon|date=July 6, 2015|website=Windows Experience Blog|publisher=[[Microsoft]]}}&lt;/ref&gt; themes,&lt;ref&gt;{{cite web|url=https://blogs.windows.com/windowsexperience/2017/01/12/announcing-windows-10-insider-preview-build-15007-pc-mobile/|title=Announcing Windows 10 Insider Preview Build 15007 for PC and Mobile|last=Sarkar|first=Dona|date=January 12, 2017|website=Windows Experience Bog|publisher=[[Microsoft]]}}&lt;/ref&gt; and ebooks.&lt;ref&gt;{{cite web|url=https://blogs.windows.com/windowsexperience/2017/01/19/announcing-windows-10-insider-preview-build-15014-for-pc-and-mobile-hello-windows-insiders-today-we-are-excited-to-be-releasing-windows-10-insider-preview-build-15014-for-pc-and-mobile/|title=Announcing Windows 10 Insider Preview Build 15014 for PC and Mobile|last=Sarkar|first=Dona|date=January 19, 2017|website=Windows Experience Blog|publisher=[[Microsoft]]}}&lt;/ref&gt; [[File:Get it from Microsoft Badge.svg|thumb|191x191px|''Get it from Microsoft'' badge as of 2015]]
+In September 2017, Microsoft began to re-brand Windows Store as Microsoft Store, with a new icon carrying the Microsoft logo.&lt;ref&gt;{{cite web |url=https://www.theverge.com/2017/9/22/16348986/microsoft-store-windows-10-app-store |title=Windows Store rebranded to Microsoft Store in Windows 10 |last=Warren |first=Tom |date=September 22, 2017 |website=[[The Verge]] |publisher=[[Vox Media]]}}&lt;/ref&gt; [[Xbox Store]] was merged into this new version of the platform.&lt;ref&gt;{{Cite news|url=https://www.windowscentral.com/xbox-store-rebranded-microsoft-store|title=Xbox Store rebranding to 'Microsoft Store' on Xbox One|work=Windows Central|access-date=2018-08-28|language=en}}&lt;/ref&gt; This is in line with Microsoft's platform convergence strategy on all Windows 10-based operating systems.
+
+[[Web app]]s and traditional desktop software can be packaged for distribution on Windows Store. Desktop software distributed through Windows Store are packaged using the [[App-V]] system to allow [[sandbox (computer security)|sandboxing]].&lt;ref&gt;{{cite web |url=https://arstechnica.com/information-technology/2015/03/microsofts-next-attempt-to-fill-the-windows-10-app-gap-web-app-apps/ |title=Microsoft's next attempt to fill the Windows 10 app gap: Web app apps |last=Peter |first=Bright |date=March 3, 2015 |website=[[Ars Technica]] |publisher=[[Condé Nast]]}}&lt;/ref&gt;&lt;ref name="zdnet-appvappgap"&gt;{{cite web |url=http://www.zdnet.com/article/heres-how-microsoft-hopes-to-get-android-and-ios-phone-apps-into-its-windows-10-store/ |title=Here's how Microsoft hopes to get Android and iOS phone apps into its Windows 10 Store |last=Foley |first=Mary Jo |date=April 29, 2015 |website=[[ZDNet]] |publisher=[[CBS Interactive]]}}&lt;/ref&gt;
+
+In February 2018, Microsoft announced that [[Progressive Web Apps]] would begin to be available in the Microsoft Store, and Microsoft would automatically add selected quality progressive web apps through the [[Bing (search engine)|Bing]] crawler or allow developers to submit Progressive Web Apps to the Microsoft Store.&lt;ref&gt;{{Cite news|url=https://www.theverge.com/2018/2/7/16987842/microsoft-progressive-web-apps-pwa-edge-windows-10|title=Microsoft is turning Progressive Web Apps into Windows apps|work=The Verge|access-date=2018-04-17}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://blogs.windows.com/msedgedev/2018/02/06/welcoming-progressive-web-apps-edge-windows-10/|title=Welcoming Progressive Web Apps to Microsoft Edge and Windows 10 - Microsoft Edge Dev BlogMicrosoft Edge Dev Blog|website=blogs.windows.com|language=en-US|access-date=2018-04-17}}&lt;/ref&gt;
+
+===Windows Server===
+Windows Store is available in [[Windows Server 2012]] but is not installed by default.&lt;ref&gt;{{cite web|title=Managing Privacy: Windows Store and Resulting Internet Communication|url=https://technet.microsoft.com/en-us/library/jj884083.aspx|work=[[Microsoft TechNet|TechNet]]|publisher=[[Microsoft]]|accessdate=January 30, 2014}}&lt;/ref&gt; It is unavailable in Windows Server 2016. However, UWP apps can be acquired from Microsoft Store for Business (formerly Windows Store for Business) and installed through [[sideloading]].&lt;ref&gt;{{cite web|last1=Benisch|first1=Derk|title=Appreciating the Windows Server 2016 Desktop Experience|url=https://blogs.technet.microsoft.com/nanoserver/2016/10/04/appreciating-the-windows-server-2016-desktop-experience/|website=Nano Server blog|publisher=[[Microsoft]]|date=October 4, 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last1=Savill|first1=John|title=Get Universal Applications on Windows Server 2016|url=http://windowsitpro.com/windows-server-2016/get-universal-applications-windows-server-2016|website=[[Windows IT Pro]]|publisher=[[Penton (company)|Penton]]|date=October 5, 2016|access-date=June 6, 2017|archive-url=https://web.archive.org/web/20171006030659/http://windowsitpro.com/windows-server-2016/get-universal-applications-windows-server-2016|archive-date=October 6, 2017|url-status=dead}}&lt;/ref&gt;
+
+==Details==
+Microsoft Store is the primary means of distributing [[Universal Windows Platform apps|Windows Store apps]] to users. Although [[sideloading]] apps from outside the store is supported, out-of-box sideloading support on Windows 8 is only available on [[Windows 8 editions|the Enterprise edition of Windows 8]] running on computers that have joined a [[Windows domain]]. Sideloading on Windows RT and Windows 8 Pro, and on Windows 8 Enterprise computers without a domain affiliation, requires purchase of additional licenses through [[volume licensing]].&lt;ref name=installapps&gt;{{cite web |title=How to Add and Remove Apps |url=https://technet.microsoft.com/en-us/library/hh852635.aspx |work=[[Microsoft TechNet|TechNet]] |publisher=Microsoft |date=May 31, 2012 |accessdate=October 4, 2012 |quote=To enable sideloading on a Windows 8 Enterprise computer that is not domain-joined or on any Windows® 8 Pro computer, you must use a sideloading product activation key. To enable sideloading on a Windows® RT device, you must use a sideloading product activation key. For more information about sideloading product activation keys, see Microsoft Volume Licensing.}}&lt;/ref&gt; [[Windows 10]] removes this requirement, allowing users to freely enable or disable sideloading.&lt;ref name="cnet-w10sideload"&gt;{{cite web|title=How to sideload apps in Windows 10|url=https://www.cnet.com/how-to/how-to-sideload-apps-in-windows-10/|website=CNET|accessdate=April 6, 2017}}&lt;/ref&gt;
+
+Initially, Microsoft took a 30% cut of app sales until it reached US$25,000 in revenue, after which the cut dropped to 20%. On January 1, 2015, the reduction in cut at $25,000 was removed, and Microsoft takes a 30% cut of all app purchases, regardless of overall sales.&lt;ref name="ubergizmo-30cut"&gt;{{cite web|title=Microsoft Changes Windows Phone Developer Agreement, Takes Bigger Cut|url=http://www.ubergizmo.com/2014/11/microsoft-changes-windows-phone-developer-agreement-takes-bigger-cut/|website=UberGizmo|accessdate=November 21, 2014}}&lt;/ref&gt; Third-party transactions are also allowed, of which Microsoft does not take a cut.&lt;ref&gt;{{cite web|url=http://blogs.msdn.com/b/windowsstore/archive/2012/07/20/making-money-with-your-apps-through-the-windows-store.aspx |title=Making money with your apps through the Windows Store |work=Windows Store for developers |publisher=[[Microsoft]] |date=July 20, 2012 |accessdate=October 14, 2012}}&lt;/ref&gt; In early 2019, Microsoft lets app developers get 95% of app revenues, while Microsoft will only take 5% but only if user will download the app through a direct URL.&lt;ref&gt;{{cite web |title=Microsoft Store Revenue Now Gives Developers A 95% Cut, On One Condition |url=https://appetiser.com.au/blog/microsoft-store-revenue-now-gives-developers-a-95-cut-on-one-condition/ |accessdate=March 8, 2019}}&lt;/ref&gt; Individual developers are able to register for US$19 and companies for US$99.&lt;ref&gt;{{cite web |title=Unifying Developer Registration |url=http://blogs.windows.com/windows/b/appbuilder/archive/2013/11/06/unifying-developer-registration-windows-and-windows-phone.aspx |website=Windows App Builder Blog |publisher=[[Microsoft]] |first=Todd |last=Brix |date=November 6, 2013}}&lt;/ref&gt;
+
+In 2015 over 669,000 apps were available on the store, including apps for [[Windows NT]], [[Windows Phone]], and UWP apps, which work on both platforms.&lt;ref name="appcount"&gt;{{cite web|url=http://news.microsoft.com/bythenumbers/store-downloads|title=Microsoft by the numbers|archive-url=https://web.archive.org/web/20180505223144/https://news.microsoft.com/bythenumbers/store-downloads|archive-date=May 5, 2018|url-status=dead}}&lt;/ref&gt; Categories containing the largest number of apps are "Games", "Entertainment", "Books and Reference", and "Education". The majority of the app developers have one app.&lt;ref&gt;{{cite web|url=http://www.appfeds.com/catalog/stats/|title=AppFeds - Windows Store Stats|last=|first=|date=|website=|publisher=|access-date=}}&lt;/ref&gt; Both free and paid apps can be distributed through Microsoft Store, with paid apps ranging in cost from US$0.99 to $999.99. Developers from 120 countries can submit apps to Microsoft Store.&lt;ref&gt;{{cite news|first=Alex |last=Wilhelm | url=https://thenextweb.com/microsoft/2012/09/11/the-windows-store-now-accepting-open-app-submissions-developers-120-countries/ |title=The Windows Store is now accepting open app submissions from developers in 120 countries |work=The Next Web |publisher=The Next Web Inc |date=September 11, 2012 |accessdate=January 9, 2013}}&lt;/ref&gt; Apps may support any of 109 languages, as long as they support one of 12 app certification languages.&lt;ref&gt;{{cite news|first=Terrence |last=O'Brien |url=https://www.engadget.com/2012/04/18/windows-store-slowly-going-global/ |title=Windows Store slowly going global, 26 country specific markets launching with next update |work=[[Engadget]] |publisher=AOL |date=April 18, 2012 |accessdate=July 9, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news|first=Antoine |last=Leblond |url=http://blogs.msdn.com/b/windowsstore/archive/2012/04/18/windows-store-expanding-to-new-markets.aspx |title=Windows Store expanding to new markets |work=Windows Store for developers |publisher=[[Microsoft]] |date=April 18, 2012 |accessdate=July 9, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=Kerr |first=Dara |url=http://news.cnet.com/8301-1023_3-57416115-93/microsofts-windows-store-goes-global-with-33-more-countries/ |title=Microsoft's Windows Store goes global with 33 more countries |work=[[CNET News]] |publisher=[[CBS Interactive]] |date=April 18, 2012 |accessdate=July 9, 2012}}&lt;/ref&gt;
+
+On April 2, 2019, Microsoft announced that the sale of e-books on Microsoft Store had ceased. Due to DRM licenses that will not be renewed, all books will become inaccessible by July 2019, and Microsoft will automatically refund all users that had purchased books via the service.&lt;ref&gt;{{Cite web|url=https://www.theverge.com/2019/4/2/18292177/microsoft-ebooks-refund-stops-selling-digital-books-store|title=Microsoft stops selling ebooks and will refund customers for previous purchases|last=Etienne|first=Stefan|date=2019-04-02|website=The Verge|access-date=2019-06-01}}&lt;/ref&gt;&lt;ref name=":0" /&gt;
+
+==Guidelines==
+Similar to [[Windows Phone Store]], Microsoft Store is regulated by Microsoft. Applicants must obtain Microsoft's approval before their app becomes available on the store. These apps may not contain, support or approve, gratuitous profanity, obscenity, pornography, discrimination, defamation, or politically offensive content. They may also not contain contents that are forbidden by or offensive to the jurisdiction, religion or norms of the target market. They may also not encourage, facilitate or glamorize violence, drugs, tobacco, alcohol and weapons.&lt;ref name="Certification requirements for Windows apps"&gt;{{cite web|url= https://msdn.microsoft.com/en-us/library/windows/apps/dn764944.aspx|title=Windows Store Policies
+|date=March 29, 2017|work=MSDN|publisher=Microsoft|accessdate=April 6, 2017}}&lt;/ref&gt;&lt;ref name="ars-emulatorban"&gt;{{cite web|title=Microsoft formally bans emulators on Xbox, Windows 10 download shops|url=https://arstechnica.com/gaming/2017/04/microsoft-formally-bans-emulators-on-xbox-windows-10-download-shops/|website=Ars Technica|accessdate=April 6, 2017}}&lt;/ref&gt;
+
+The following types of app are forbidden:
+* [[Video game console emulator]]s that are "primarily gaming experiences or target Xbox One"&lt;ref name="ars-emulatorban"/&gt;
+* Third-party [[web browser]]s that use their own [[Browser engine|layout engines]]&lt;ref&gt;{{cite web|last1=Bott|first1=Ed|title=Google Chrome won't be allowed on Windows 10 S|url=http://www.zdnet.com/article/google-chrome-wont-be-allowed-on-windows-10-s/|website=[[ZDNet]]|publisher=[[CBS Interactive]]|date=March 10, 2017}}&lt;/ref&gt;
+
+Microsoft has indicated that it can remotely [[Kill switch|disable or remove apps]] from end-user systems for security or legal reasons; in the case of paid apps, refunds may be issued when this is done.&lt;ref name=cw-remotedisable&gt;{{cite web|title=Microsoft: We can remotely delete Windows 8 apps |url=http://www.computerworld.com/s/article/9222518/Microsoft_We_can_remotely_delete_Windows_8_apps |work=[[Computerworld]] |accessdate=October 8, 2013 |first=Gregg |last=Keizer |publisher=[[International Data Group|IDG]]}}&lt;/ref&gt;
+
+Microsoft initially banned [[PEGI]] "18"-rated content from the store in Europe. However, critics noted that this made the content policies stricter than intended, as some PEGI 18-rated games are rated "Mature" on the U.S. [[ESRB]] system, which is the next lowest before its highest rating, "Adults Only". The guidelines were amended in December 2012 to remove the discrepancy.&lt;ref name=cnet-nopegi18&gt;{{cite web |title=Microsoft reverses 'Mature' games ban in Euro Windows Store |url=http://news.cnet.com/8301-10805_3-57540791-75/microsoft-reverses-mature-games-ban-in-euro-windows-store/ |work=[[CNET]] |publisher=[[CBS Interactive]] |accessdate=October 26, 2012 |first=Dara |last=Kerr |date=October 25, 2012}}&lt;/ref&gt;
+
+==Developer portal==
+{{more citations needed section|date=July 2014}}
+In addition to the user facing Microsoft Store client, the store also has a developer portal with which developers can interact. The Windows developer portal has the following sections for each app:{{citation needed|date=July 2014}}
+
+* App Summary -  An overview page of a given app, including a downloads chart, quality chart, finance summary, and a sales chart.
+* App Adoption - A page which shows adoption of the app, including conversions, referrers, and downloads.
+* App Ratings - A ratings breakdown, as well as the ability to filter reviews by a region.
+* App Quality - An overview page showcasing exceptions which have occurred in the app.
+* App Finance - A page where a developer can download all transactions related to their app.
+
+==Developer tools==
+Microsoft Store provides developer tools for tracking apps in the store. One can track downloads, financials, crashes, adoption and ratings.&lt;ref&gt;{{cite web|url= http://msdn.microsoft.com/en-us/library/windows/apps/hh967767.aspx|title= Using the Windows Store Dashboard apps|date=May 17, 2013}}&lt;/ref&gt;
+
+The dashboard also presents a detailed breakdown on users by market, age, and region, as well as charts on number of downloads, purchases, and average time spent in an app. The dashboard also allows a developer to claim an app name for up to one year before the name is returned to the available pool.
+
+==See also==
+* [[List of Microsoft software]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{Official website||Microsoft Store Online}}
+* {{cite web|url=https://www.microsoft.com/store/productId/9WZDNCRFJBMP |title=App page|website= Microsoft Store}}
+
+{{Microsoft}}
+{{Microsoft Windows components}}
+{{Microsoft development tools}}
+{{Package management systems}}
+{{Software digital distribution platforms}}
+
+[[Category:Windows components]]
+[[Category:Software distribution platforms]]
+[[Category:Universal Windows Platform apps]]
+[[Category:Windows 8]]
+[[Category:Xbox One software]]
+[[Category:Online content distribution]]
+[[Category:Online-only retailers of video games]]
+[[Category:Video on demand]]
+[[Category:Mobile software distribution platforms]]
+[[Category:Online retailers of the United States]]
+[[Category:Xbox One]]</text>
+      <sha1>m1c46jbd5l27y6q751t2nwn6k34qlw2</sha1>
+    </revision>
+  </page>
+</mediawiki>

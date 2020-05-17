@@ -1,0 +1,357 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>University Rover Challenge</title>
+    <ns>0</ns>
+    <id>11507786</id>
+    <revision>
+      <id>954292608</id>
+      <parentid>923455406</parentid>
+      <timestamp>2020-05-01T17:30:27Z</timestamp>
+      <contributor>
+        <username>DarrelRobertson</username>
+        <id>24618630</id>
+      </contributor>
+      <minor/>
+      <comment>Added obstacles to sentence ... more [obstacles] between the tennis balls ...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23197" xml:space="preserve">[[File:URC-Logo-on-White-small.jpg|thumb|109x109px]]
+The '''University Rover Challenge''' (URC) by the [[Mars Society]] is a robotics competition for university level students that challenges teams to design and build a rover that would be of use to early explorers on Mars.&lt;ref&gt;{{cite web | url=http://urc.marssociety.org/home | title=University Rover Challenge | publisher=marssociety.org | accessdate=Aug 18, 2017}}&lt;/ref&gt;  The competition is held annually at the [[Mars Desert Research Station]], outside [[Hanksville, Utah]] in the United States. The site was selected by the Mars Society for its geographic similarity to Mars: In addition to being a largely barren desert area, the soil in the area has a chemical composition similar to Martian soil. The competition has also expanded internationally to include the [[European Rover Challenge]], [[Canadian International Rover Challenge]], and the [https://southasia.marssociety.org/irc// Indian Rover Challenge] as part of the Rover Challenge Series.
+
+[[File:Mars_Society_University_Rover_Challenge_2017.jpg|thumb|Group photo from 2017 Mars Society University Rover Challenge at the Mars Desert Research Station near Hanksville, Utah.]]The aim of the University Rover Challenge is to encourage students to develop skills in robotics, improve the state-of-the-art in rovers, and work in multi-disciplinary teams with collaboration between scientists and engineers. The competition was launched in 2006 with competitions held annually every summer since 2007.
+
+==Tasks (2019)==
+Specific scenario details change each year as teams master given tasks and to encourage flexibility in designs and improve the capabilities of the rovers each year. Rovers are required to perform tele-operated or autonomous tasks that would assist astronauts in the field. Tele-operated tasks are performed from control stations with no direct view of the rover, only what can be determined via video and data links from the rover or sensors deployed by the rover. It is assumed the operators are also on Mars so there is no time-delay in communications. For 2019 tasks include:
+
+=== System Acceptance Review (SAR) ===
+Teams must submit a written report and a short video describing and demonstrating the design and capabilities of the rover to perform the required tasks, scientific plan, and team management.[[File:Mars_Society_University_Rover_Challenge_Hill_Climb.jpg|thumb|Rover climbs hill above Mars Desert Research Station in Mars Society University Rover Challenge]]
+
+=== Science Mission ===
+''"The goal is to conduct in-situ analysis with the rover, including life detection testing of samples"''&lt;ref name=":0"&gt;{{Cite web|url=http://urc.marssociety.org/home/urc-news/2019universityroverchallengerulesreleased|title=2019 University Rover Challenge Rules Released - University Rover Challenge|website=urc.marssociety.org|access-date=2018-11-05}}&lt;/ref&gt;
+
+Teams must investigate multiple sites of biological interest, using instruments and methods of their choice, where they must conduct analysis of samples entirely on board the rover. The goal of the task is to determine the presence or absence of life, either extinct or extant, at designated sites. After the 20-30 minutes of investigation time, teams must also prepare a short presentation to give to the judges on-site, which presents their results, analysis, and conclusions. Analysis is expected to be relevant to the setting on Earth while demonstrating an understanding of how these observations would translate to a Martian setting.&lt;ref name=":0" /&gt;[[File:Mars_Society_University_Rover_Challenge_Rock_Garden.jpg|thumb|Rover traverses rock garden in Mars Society University Rover Challenge]]
+
+=== Extreme Retrieval and Delivery Mission ===
+''"rovers shall be required to pick up and deliver objects in the field, and deliver assistance to astronauts"''&lt;ref name=":0" /&gt;
+
+Rovers must pick up and deliver objects in the field, such as screwdrivers, hammers, toolboxes, rocks, etc. Rovers are required to traverse a wide variety of terrain -- anything from soft sandy areas, to rock and boulder fields, to vertical drops. Teams are given approximate GPS coordinates for each pickup and delivery location, and potentially specific instructions for particular objects. Scoring is based on teams' ability to pick up and deliver objects to their correct locations.&lt;ref name=":0" /&gt;
+
+=== Equipment Servicing Mission ===
+''"Rovers shall be required to perform several dexterous operations on a mock-up equipment system."''&lt;ref name=":0" /&gt;
+
+Possible operations outlined in the rules for 2019 include:
+
+* Operate a joystick, push buttons, flip switches, turn knobs
+* Tighten captive screw to secure drawer
+* Replace an electronics board using a rugged board-to-board connector
+* Turn a hand crank
+
+2017 required rovers to tow a wagon carrying a fuel canister to a generator, fill up the fuel tank, swap the regulator on gas cylinders, and start the generator by pressing a button. Previous equipment tasks have included pumping air into an inflatable habitat, and cleaning solar panels.&lt;ref name=":0" /&gt;
+
+=== Autonomous Travel Mission ===
+''"Rovers shall be required to autonomously traverse between markers in this staged mission across moderately difficult terrain."''&lt;ref name=":0" /&gt;
+
+Here, autonomous means without teleoperation -- that is, without operators from the base station giving commands or user input. The rover must do all its decision-making on board. However, teleoperated scouting is allowed in the earlier stages.
+
+The markers in this task are tennis balls and approximate GPS coordinates given to teams. As the stages get more difficult, the GPS coordinates will become increasingly vague and there will be more obstacles between the tennis balls, requiring obstacle avoidance and autonomous route finding. In addition, teleoperated scouting is allowed in the earlier stages, but not in the later ones.&lt;ref name=":0" /&gt;
+
+== Rules and Regulations (2019) ==
+
+=== Rover Rules ===
+
+* Rovers must not exceed 50kg in any one configuration&lt;ref name=":0" /&gt;
+* Rovers must fit within a 1.2 meter by 1.2 meter footprint&lt;ref name=":0" /&gt;
+* Rovers must have a total cost not exceeding $18,000&lt;ref name=":0" /&gt;
+* Rovers must use power and propulsion systems that are applicable to operations on Mars (e.g. no air-breathing systems)&lt;ref name=":0" /&gt;
+* Use of airborne vehicles is prohibited&lt;ref name=":0" /&gt;
+
+=== Operation Rules ===
+
+* Teams will operate their rovers in real time from designated command and control stations.&lt;ref name=":0" /&gt;
+* Rovers are not expected to travel more than 1km from the base station&lt;ref name=":0" /&gt;
+* Nobody may follow alongside the rover for the purpose of providing feedback to the operators, though members of the judging team, media, non-operator team members, and other spectators may follow a rover at the judges' discretion.&lt;ref name=":0" /&gt;
+
+=== Team Rules ===
+
+* There is no restriction on the number of team members or operators allowed.&lt;ref name=":0" /&gt;
+* Team members may be undergraduate or graduate students and teams are permitted to include high school students as well&lt;ref name=":0" /&gt;
+* Students must be enrolled in at least a half time degree or high school diploma granting course.&lt;ref name=":0" /&gt;
+* Students from multiple universities may compete on the same team, and a single university may field multiple teams, as long as there is no overlap between team members, budget, or equipment.&lt;ref name=":0" /&gt;
+
+== Judging ==
+A panel of judges conducts the judging, and this panel changes from year to year. Some effort is made to have a diversity of experience on the judging team&lt;ref name=":42"&gt;{{Cite web|url=https://www.thespaceshow.com/show/25-may-2012/broadcast-1780-special-edition|title=Fri, 05/25/2012 - 00:00 {{!}} Kevin Sloan|website=www.thespaceshow.com|language=en|access-date=2018-10-24}}&lt;/ref&gt;, and past judges have included persons with professional experience as: systems engineers&lt;ref name=":42" /&gt;, biologists&lt;ref&gt;{{Cite news|url=http://www.nbcnews.com/id/52087673/ns/technology_and_science-tech_and_gadgets/t/polish-students-design-best-mars-rover/#.W-SmGpNKjIU|title=Polish Students Design Best Mars Rover of 2013|date=2013-06-04|work=msnbc.com|access-date=2018-11-08|language=en}}&lt;/ref&gt;, roboticists&lt;ref name=":33"&gt;{{Cite web|url=https://www.thespaceshow.com/node/457|title=Thu, 05/26/2011 - 00:00 {{!}} Kevin Sloan|website=www.thespaceshow.com|language=en|access-date=2018-10-25}}&lt;/ref&gt;, industrial designers&lt;ref name=":42" /&gt;, scientists and professors of varied fields.&lt;ref name=":42" /&gt;&lt;ref name=":33" /&gt; Judges are volunteers.&lt;ref name=":33" /&gt;&lt;ref&gt;{{Cite news|url=https://www.popsci.com/technology/article/2010-06/rover-challenge-2010-university-teams-test-mars-rovers-utah-desert|title=Rover Challenge 2010: University Teams Test Mars Rovers in Utah Desert|work=Popular Science|access-date=2018-11-08|language=en}}&lt;/ref&gt;
+
+== Funding ==
+Teams raise the money for the rovers themselves, through their university and/or outside sponsors.&lt;ref name=":33" /&gt; The competition itself is funded in part by the [[Mars Society]], Protocase Inc, (a custom parts manufacturer, which offers teams credit and discounts for all parts manufactured at Protocase&lt;ref name=":16"&gt;{{Cite news|url=https://www.protocase.com/community/sponsorship/rover-challenge.php|title=Protocase Goes Out of This World with the University Rover Challenge|last=Inc.|first=Protocase|work=protocase.com|access-date=2018-10-25}}&lt;/ref&gt;), [[Honeybee Robotics]], and [[Microsoft]].
+
+== History ==
+
+=== Inception ===
+The idea behind the URC's creation is that the kinds of rovers teams are building would assist astronauts in the field, controlled remotely by another astronaut.&lt;ref name=":2"&gt;{{Cite web|url=https://www.thespaceshow.com/show/20-jan-2009/broadcast-1093-special-edition|title=Tue, 01/20/2009 - 00:00 {{!}} Kevin Sloan|website=www.thespaceshow.com|language=en|access-date=2018-10-19}}&lt;/ref&gt; This imagined use case drives the competition's emphasis on teleoperation and ability to perform tasks that a human might need to. (Such as equipment servicing and retrieval and delivery)
+
+In its first year, only 4 teams competed: University of Nevada Reno, Brigham Young University, Penn State University, and University of California Los Angeles. There were only 2 tasks, a Science Task, and a task to deploy a mock radio repeater in the field. URC spokesperson Kevin Sloan says they were unsure what to expect, but were "blown way by the quality".&lt;ref name=":2" /&gt; University of Nevada Reno won that year, winning a $5000 cash prize, which was reduced to $1000 in subsequent years.&lt;ref name=":2" /&gt;
+
+=== Evolution of Tasks ===
+Since its inception in 2006, with 4 US teams, the competition has grown substantially, with 95 teams from 12 countries in 2018, and a total of 35 rovers selected to compete, their teams totaling more than 500 students.&lt;ref&gt;{{Cite web|url=http://urc.marssociety.org/home/urc-news/universityroverchallengetitlereturnstopoland|title=University Rover Challenge Title Returns to Poland - University Rover Challenge|website=urc.marssociety.org|access-date=2018-10-19}}&lt;/ref&gt;
+
+The tasks have also undergone significant changes over the years, evolving from the 2 simple tasks of the first year to the 4 robust tasks of 2019, and continuing to get more challenging every year. Detailed information about  years 2007 - 2009 is unavailable, but by 2010 there were 4 tasks: Sample Return, Site Survey, Equipment Servicing, and Emergency Navigation.&lt;ref name=":3"&gt;{{Cite web|url=https://www.thespaceshow.com/node/457|title=Thu, 05/26/2011 - 00:00 {{!}} Kevin Sloan|website=www.thespaceshow.com|language=en|access-date=2018-10-25}}&lt;/ref&gt; In its 2010 incarnation, sample return involved choosing a sample to bring back with the rover, then doing analysis on it at the base and presenting to the judges on its scientific significance. Site survey involved analysis of a site from potentially far away. Equipment servicing most notably required teams to plug in a 3-prong plug into an outlet, and emergency navigation was a timed challenge in which rovers were to locate astronauts as fast as possible. In addition to these tasks teams scored points on a presentation they gave to judges on the design of their rover.&lt;ref name=":3" /&gt;
+
+The following two years saw tweaks in the content of tasks to make them increasingly challenging, but the spirit of each task remained the same. For example, in 2012, the emergency navigation task was designed such that in order to reach some of the astronauts rovers would need to pass into areas where they would lose communication with their operators and thus need to operate autonomously for a time.&lt;ref name=":4"&gt;{{Cite web|url=https://www.thespaceshow.com/show/25-may-2012/broadcast-1780-special-edition|title=Fri, 05/25/2012 - 00:00 {{!}} Kevin Sloan|website=www.thespaceshow.com|language=en|access-date=2018-10-24}}&lt;/ref&gt;
+
+In 2013 the Site Survey task was replaced with Terrain Traversing, which tested rovers capability of navigating through difficult terrain.&lt;ref name=":5"&gt;{{Cite web|url=http://urc.marssociety.org/home/urc-news/urc2013finalscorebreakdown|title=URC2013 Final Score Breakdown - University Rover Challenge|website=urc.marssociety.org|access-date=2018-10-19}}&lt;/ref&gt; 2016 introduced a formal down-selection process, including a CDR (Critical Design Review) which took the place of the Presentation task, and a semi-finals round of competition.&lt;ref&gt;{{Cite web|url=http://urc.marssociety.org/home/urc-news/firstdayofexcitementkicksoff2016universityroverchallenge|title=First Day of Excitement Kicks Off 2016 University Rover Challenge - University Rover Challenge|website=urc.marssociety.org|access-date=2018-10-28}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://urc.marssociety.org/home/urc-news/30studentteamsadvanceto2016universityroverchallengesemi-finals|title=30 Student Teams Advance to 2016 University Rover Challenge Semi-Finals - University Rover Challenge|website=urc.marssociety.org|access-date=2018-10-28}}&lt;/ref&gt; The next year, 2017, replaced Astronaut Assistance with Extreme Retrieval and Delivery (a mix of astronaut assistance and terrain traversing), Sample Return with Science Cache, and Terrain Traversing with Autonomous Traversal, an entirely new challenge which explicitly required teams to implement autonomous behavior on their rovers.&lt;ref name=":6"&gt;{{Cite web|url=http://urc.marssociety.org/home/about-urc/urc2017-scores|title=URC2017 Scores - University Rover Challenge|website=urc.marssociety.org|access-date=2018-10-19}}&lt;/ref&gt;
+
+Finally, 2018 and 2019 have seen this task structure preserved, with increases in difficulty and complexity. Notably, the 2019 Science task requires detection of life aboard the rover, whereas in 2018 teams could bring back samples to conduct tests at the base.&lt;ref name=":0" /&gt;
+
+=== Teams ===
+The number and diversity of teams has also grown significantly over the competition's lifespan. In 2018, 95 teams representing 10 different countries registered, 36 of which were selected to compete. Teams from the US generally make up the majority, but teams from Canada, Poland, and in more recent years, India, are also strongly represented. Poland in particular, fielding their first team in 2009, has been particularly competitive.&lt;ref name=":9"&gt;{{Citation|last=The Mars Society|title=(1 of 5) TASC University Rover Challenge, Kevin Sloan|date=2010-09-27|url=https://www.youtube.com/watch?v=zDGd2TNhlQE|access-date=2018-10-28}}&lt;/ref&gt; A Polish team from [[Częstochowa University of Technology|Czestochowa University of Technology]] won the 2018 competition, making 6 consecutive years Poland has been represented on the podium.&lt;ref&gt;{{Cite web|url=http://urc.marssociety.org/home/urc-news/americanroverearnsworldstopmarsrovertitle|title=American Rover Earns World’s Top Mars Rover Title - University Rover Challenge|website=urc.marssociety.org|access-date=2018-10-28}}&lt;/ref&gt;
+
+Some teams have been competed for many years in a row. Notably the team from [[Brigham Young University]] is the only team to have participated in every competition from 2006 to 2018, consistently placing in the top 5.&lt;ref name=":112"&gt;{{Citation|last=The Mars Society|title=University Rover Challenge - 15th Annual International Mars Society Convention|date=2012-08-09|url=https://www.youtube.com/watch?time_continue=98&amp;v=Qi-j85eo0BM|access-date=2018-10-28}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://urc.marssociety.org/home/about-urc/history/urc2013|title=URC2013 - University Rover Challenge|website=urc.marssociety.org|access-date=2018-11-08}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://www.heraldextra.com/news/local/education/college/byu/byu-mars-rover-headed-to-international-competition/article_b816d201-9e4a-5167-b20d-c58cbad52fa6.html|title=BYU Mars rover headed to international competition|last=Herald|first=Braley Dodson Daily|work=Daily Herald|access-date=2018-11-08|language=en}}&lt;/ref&gt;&lt;ref name=":17"&gt;{{Cite web|url=http://urc.marssociety.org/home/about-urc/urc2014-scores|title=URC2014 Scores - University Rover Challenge|website=urc.marssociety.org|access-date=2018-10-19}}&lt;/ref&gt;&lt;ref name=":18"&gt;{{Cite web|url=http://urc.marssociety.org/home/about-urc/urc2015-scores|title=URC2015 Scores - University Rover Challenge|website=urc.marssociety.org|access-date=2018-10-28}}&lt;/ref&gt;&lt;ref name=":62"&gt;{{Cite web|url=http://urc.marssociety.org/home/about-urc/urc2017-scores|title=URC2017 Scores - University Rover Challenge|website=urc.marssociety.org|access-date=2018-10-19}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://urc.marssociety.org/home/about-urc/urc2018-scores|title=URC2018 Scores - University Rover Challenge|website=urc.marssociety.org|access-date=2018-11-08}}&lt;/ref&gt;
+{| class="wikitable"
+|+Team Stats
+!
+!Teams Registered
+!Teams Competed
+!Countries Represented
+|-
+|2006
+|4&lt;ref name=":22"&gt;{{Cite web|url=https://www.thespaceshow.com/show/20-jan-2009/broadcast-1093-special-edition|title=Tue, 01/20/2009 - 00:00 {{!}} Kevin Sloan|website=www.thespaceshow.com|language=en|access-date=2018-10-19}}&lt;/ref&gt;
+|4&lt;ref name=":22" /&gt;
+|1&lt;ref name=":22" /&gt;
+|-
+|2007
+|?
+|
+|
+|-
+|2008
+|?
+|
+|
+|-
+|2009
+|?
+|
+|
+|-
+|2010
+|12&lt;ref name=":32"&gt;{{Cite web|url=https://www.thespaceshow.com/node/457|title=Thu, 05/26/2011 - 00:00 {{!}} Kevin Sloan|website=www.thespaceshow.com|language=en|access-date=2018-10-25}}&lt;/ref&gt;
+|10&lt;ref name=":32" /&gt;
+|4&lt;ref name=":32" /&gt;
+|-
+|2011
+|9&lt;ref name=":32" /&gt;
+|8&lt;ref name=":32" /&gt;
+|3&lt;ref name=":10"&gt;{{Citation|last=The Mars Society|title=University Rover Challenge - Kevin Sloan - 14th International Mars Society Convention|date=2011-11-05|url=https://www.youtube.com/watch?time_continue=163&amp;v=AdPw3jA8Vkc|access-date=2018-10-28}}&lt;/ref&gt;
+|-
+|2012
+|10?&lt;ref name=":11"&gt;{{Citation|last=The Mars Society|title=University Rover Challenge - 15th Annual International Mars Society Convention|date=2012-08-09|url=https://www.youtube.com/watch?time_continue=98&amp;v=Qi-j85eo0BM|access-date=2018-10-28}}&lt;/ref&gt;
+|5&lt;ref name=":11" /&gt;
+|2&lt;ref name=":11" /&gt;
+|-
+|2013
+|15&lt;ref name=":12"&gt;{{Cite web|url=http://urc.marssociety.org/home/about-urc/history/urc2013|title=URC2013 - University Rover Challenge|website=urc.marssociety.org|access-date=2018-10-24}}&lt;/ref&gt;
+|10&lt;ref name=":12" /&gt;
+|4&lt;ref name=":12" /&gt;
+|-
+|2014
+|31&lt;ref name=":13"&gt;{{Cite web|url=http://urc.marssociety.org/home/about-urc/history/urc2014|title=URC2014 - University Rover Challenge|website=urc.marssociety.org|access-date=2018-10-24}}&lt;/ref&gt;
+|23&lt;ref name=":13" /&gt;
+|6&lt;ref&gt;{{Cite web|url=http://urc.marssociety.org/home/urc-news/urcregistrationsetsnewrecordwith31studentteamssettocompete|title=URC Registration Sets New Record with 31 Student Teams Set to Compete - University Rover Challenge|website=urc.marssociety.org|access-date=2018-10-28}}&lt;/ref&gt;
+|-
+|2015
+|44&lt;ref name=":14"&gt;{{Cite web|url=http://urc.marssociety.org/home/urc-news/polishamericanteamsleadthefieldat2015universityroverchallenge|title=Polish, American Teams Lead the Field at 2015 University Rover Challenge - University Rover Challenge|website=urc.marssociety.org|access-date=2018-10-25}}&lt;/ref&gt;
+|23&lt;ref name=":14" /&gt;
+|6&lt;ref&gt;{{Cite web|url=http://urc.marssociety.org/home/about-urc/urc2015-scores|title=URC2015 Scores - University Rover Challenge|website=urc.marssociety.org|access-date=2018-10-28}}&lt;/ref&gt;
+|-
+|2016
+|63&lt;ref name=":7"&gt;{{Cite web|url=http://urc.marssociety.org/home/urc-news/urc2016crownsback-to-backchampions|title=URC2016 Crowns Back-to-Back Champions - University Rover Challenge|website=urc.marssociety.org|access-date=2018-10-25}}&lt;/ref&gt;
+|28&lt;ref name=":7" /&gt;
+|7&lt;ref name=":7" /&gt;
+|-
+|2017
+|82&lt;ref name=":8"&gt;{{Cite web|url=http://urc.marssociety.org/home/urc-news/36teamsadvancetourc2017finals|title=36 Teams Advance to URC2017 Finals - University Rover Challenge|website=urc.marssociety.org|access-date=2018-10-25}}&lt;/ref&gt;
+|36&lt;ref name=":8" /&gt;
+|7&lt;ref name=":8" /&gt;
+|-
+|2018
+|95&lt;ref name=":15"&gt;{{Cite web|url=http://urc.marssociety.org/home/urc-news/36teamsadvancetourc2018finals|title=36 Teams Advance to URC2018 Finals - University Rover Challenge|website=urc.marssociety.org|access-date=2018-10-28}}&lt;/ref&gt;
+|36&lt;ref name=":15" /&gt;
+|10&lt;ref name=":15" /&gt;
+|}
+'''Top Scores by Year:'''&lt;graph&gt;{
+	"version": 2,
+	"width": 400,
+	"height": 200,
+	"data": [
+		{
+			"name": "table",
+			"values": [
+				{
+					"x": 2018,
+					"y": 374.2
+				},
+				{
+					"x": 2017,
+					"y": 403.4
+				},
+				{
+					"x": 2016,
+					"y": 452.3
+				},
+				{
+					"x": 2015,
+					"y": 459.8
+				},
+				{
+					"x": 2014,
+					"y": 312
+				},
+				{
+					"x": 2013,
+					"y": 215.25
+				},
+				{
+					"x": 2011,
+					"y": 411.3
+				}
+			]
+		}
+	],
+	"scales": [
+		{
+			"name": "x",
+			"type": "ordinal",
+			"range": "width",
+			"zero": false,
+			"domain": {
+				"data": "table",
+				"field": "x"
+			}
+		},
+		{
+			"name": "y",
+			"type": "linear",
+			"range": "height",
+			"nice": true,
+			"domain": {
+				"data": "table",
+				"field": "y"
+			}
+		}
+	],
+	"axes": [
+		{
+			"type": "x",
+			"scale": "x"
+		},
+		{
+			"type": "y",
+			"scale": "y"
+		}
+	],
+	"marks": [
+		{
+			"type": "rect",
+			"from": {
+				"data": "table"
+			},
+			"properties": {
+				"enter": {
+					"x": {
+						"scale": "x",
+						"field": "x"
+					},
+					"y": {
+						"scale": "y",
+						"field": "y"
+					},
+					"y2": {
+						"scale": "y",
+						"value": 0
+					},
+					"fill": {
+						"value": "steelblue"
+					},
+					"width": {
+						"scale": "x",
+						"band": "true",
+						"offset": -1
+					}
+				}
+			}
+		}
+	]
+}&lt;/graph&gt;[[File:Mars_Society_University_Rover_Challenge_Equipment_Task.jpg|thumb|Rover pours fuel into a generator in Mars Society University Rover Challenge]]
+
+==See also==
+* [[Colonization of Mars]]
+* [[Exploration of Mars]]
+* [[Haughton-Mars Project]]
+* [[Life on Mars (planet)|Life on Mars]]
+* [[Manned mission to Mars]]
+* [[MARS-500]]
+* [[Mars Desert Research Station]]
+* [[Mars Direct]]
+* [[Mars to Stay]]
+* [[Space colonization]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+*[http://urc.marssociety.org/ Mars Society University Rover Challenge]
+*[http://www.marssociety.org/ Mars Society]
+*[http://mdrs.marssociety.org/ Mars Desert Research Station]
+
+[[Category:Mars Society]]
+[[Category:Mars rovers]]
+[[Category:Robotics competitions]]
+[[Category:Rover Challenge Series]]</text>
+      <sha1>m1ptzys6b3nufc8zsovha1foz2kwtum</sha1>
+    </revision>
+  </page>
+</mediawiki>

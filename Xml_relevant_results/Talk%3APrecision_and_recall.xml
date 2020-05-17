@@ -1,0 +1,131 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Precision and recall</title>
+    <ns>1</ns>
+    <id>17811440</id>
+    <revision>
+      <id>935835266</id>
+      <parentid>856084263</parentid>
+      <timestamp>2020-01-15T01:12:01Z</timestamp>
+      <contributor>
+        <username>SebastianHelm</username>
+        <id>7250</id>
+      </contributor>
+      <comment>/* Merge from accuracy and precision */ inserting headline for last topic</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="12734" xml:space="preserve">{{WikiProject Database|class=C|importance=low}}
+{{WPStatistics|class=C|importance=low}}
+
+== Illustration ==
+In my opinion, the current use of the graphical illustration is not optimal. The German version of this article [http://de.wikipedia.org/wiki/Recall_und_Precision] uses the same picture, but additionally has two variants of the image (see [http://de.wikipedia.org/wiki/Recall_und_Precision#Als_Eigenschaften_eines_Klassifikators]) which illustrate the individual concepts (P &amp; R). The German article also uses the same colors in the True/false positive/negative table as in the image, further illustrating the connections. 
+We should make those changes once we've agreed on how to do the merger (see below).
+[[User:Tobi Kellner|Tobi Kellner]] ([[User talk:Tobi Kellner|talk]]) 19:34, 1 July 2008 (UTC)
+
+I still don't understand the illustration. Perhaps a more thorough explanation of the color and arrows would help.  &lt;small&gt;&lt;span class="autosigned"&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Toahi|Toahi]] ([[User talk:Toahi|talk]] • [[Special:Contributions/Toahi|contribs]]) 00:43, 27 February 2010 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+:Agreed.  I added descriptions of the regions to the caption a few days ago.  --[[User:Vaughan Pratt|Vaughan Pratt]] ([[User talk:Vaughan Pratt|talk]]) 19:46, 7 August 2011 (UTC)
+
+== Merger proposal ==
+I am suggesting that the [[Precision (information retrieval)]] and [[Recall (information retrieval)]] be merged into this article. A similar movement between sensitivity and specificity is being discussed at [[Talk:Sensitivity_and_specificity#Merger_proposal]], and it seems like the consensus is heading toward a merger. [[User:WDavis1911|WDavis1911]] ([[User talk:WDavis1911|talk]]) 18:26, 6 June 2008 (UTC)
+
+I absolutely agree. We just went through a similar debate at [[Talk:Relevance (information retrieval)]] and I'm happy with how we redirect discussion of performance measures to [[Information retrieval#Performance_measures]], which in turn points to this entry.
+[[User:Dtunkelang|Dtunkelang]] ([[User talk:Dtunkelang|talk]]) 04:53, 10 June 2008 (UTC)
+
+I completely agree. I started this article in September 2007, probably because I found that there was no English article that matched the German one on precision and recall [http://de.wikipedia.org/wiki/Recall_und_Precision]. Now I realize that we have a lot of redundant information, with the separate articles on [[Precision (information retrieval)]] and [[Recall (information retrieval)]] as well as the section [[Information retrieval#Performance_measures]].
+I think there is a point to be made for having a discussion of precision and recall in one place, rather than simply having two separate articles, though, as the two terms are so closely related that it seems to make sense to explain them together. But maybe this article should have clear separate sections with effectively the contents of [[Precision (information retrieval)]] and [[Recall (information retrieval)]] for those looking for just a definition of one of the terms alone. [[User:Tobi Kellner|Tobi Kellner]] ([[User talk:Tobi Kellner|talk]]) 19:34, 1 July 2008 (UTC)
+
+I have had a go at doing the merger, basically just copied the text from the other pages. But I am a bit inexperienced so not sure what to do with the other pages [[Precision (information retrieval)]] and [[Recall (information retrieval)]]  [[User:OZJ|OZJ]] ([[User talk:OZJ|talk]]) 16:27, 24 June 2009 (UTC)
+
+Mind the fact that there is now a [[Evaluation measures (information retrieval)]] page. This requires a bit of coordination. [[User:Iamamz3|i⋅am⋅amz3]] ([[User talk:Iamamz3|talk]]) 00:49, 18 March 2018 (UTC)
+
+== Soundness/completeness ==
+
+Would it be appropriate to say something about the relationship between precision/recall and soundness/completeness? [[Special:Contributions/129.240.71.209|129.240.71.209]] ([[User talk:129.240.71.209|talk]]) 12:35, 18 May 2010 (UTC)
+
+== Confusing Introduction ==
+This page is very confusing.  Here is a link to a good explanation:
+
+http://newadonis.creighton.edu/hsl/searching/Recall-Precision.html  &lt;span style="font-size: smaller;" class="autosigned"&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/171.66.73.218|171.66.73.218]] ([[User talk:171.66.73.218|talk]]) 00:10, 6 April 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+
+I think the first sentence "Precision and recall are two widely used statistical classifications." is imprecise and potentially confusing given the relation of these terms to statistical classification. More accurately they are metrics of performance for statistical classifiers, not really "statistical classifications". --[[User:Jludwig|Jludwig]] ([[User talk:Jludwig|talk]]) 06:23, 10 June 2010 (UTC)
+== Definition ==
+
+I noticed that Fall-out in the table of metrics for definition points to a wiki on information retrieval rather than a definition for fallout or a class of metrics covering it.  &lt;!-- Template:Unsigned IP --&gt;&lt;small class="autosigned"&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2620:0:1009:18:DCAF:5105:B547:5A5E|2620:0:1009:18:DCAF:5105:B547:5A5E]] ([[User talk:2620:0:1009:18:DCAF:5105:B547:5A5E#top|talk]]) 19:16, 22 August 2018 (UTC)&lt;/small&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Totalness of the equations ==
+
+The equations don't include cases when the denominator is 0. Are precision and recall just undefined in these cases? [[User:Khatchad|Khatchad]] ([[User talk:Khatchad|talk]]) 23:09, 7 March 2011 (UTC)
+:Technically yes.  But in that case the numerator is necessarily zero so the result would always be not-a-number (NaN) rather than infinity.  A harsh grader is someone who avoids NaN by taking precision and recall to both be zero when nothing relevant is retrieved (which covers all 0/0 cases), a kind grader would take precision to be 1 when all retrieved items are relevant and recall to be 1 when all relevant items are retrieved and otherwise does the same as the harsh grader (hence also covering all 0/0 cases).  --[[User:Vaughan Pratt|Vaughan Pratt]] ([[User talk:Vaughan Pratt|talk]]) 00:11, 4 August 2011 (UTC)
+
+== Merge from [[accuracy and precision]] ==
+
+The article on [[accuracy and precision]] talks about pretty much the same concepts as this article, but does so differently, and completely fails to mention precision.   This article covers all the concepts, but doesn't have the nice diagrams (e.g. the bullseye) of the former.  But essentially, they're pretty much about the same thing. Thus, a proposal to merge these two articles.  Good idea, yes or no? 
+
+Failing the merge proposal, the whole, ahem, mess of related articles could benefit from more cross-links and sharing: e.g. [[accuracy and precision]] fails to link to this one when defining recall, and instead links to [[sensitivity (tests)]] for recall.  And likewise, as one chases around the various links in this (non-)cluster of articles.  Arghh, so ''e.g.'' at the bottom of [[sensitivity and specificity]] is a table, defining precision, recall, accuracy, and many others, but completely forgetting to mention F1! The article on [[information retrieval]] points to this one as the "main article" on precision, recall, and fall-out, but this article never mentions fall-out. So maybe not just a merge, but a coherent rationalization of the whole cluster of related topics? [[User:Linas|linas]] ([[User talk:Linas|talk]]) 19:21, 2 June 2012 (UTC)
+
+:'''Oppose merge''' I disagree wholeheartedly with the merger idea; physicists and engineers talk about precision and accuracy, computer scientists talk about precision and recall. It makes sense to explain the concepts behind these terms in terms that the respective separate communities are familiar with. Or in other words, if I want to find out the difference between precision and accuracy in one context (physics), having to learn one more term (recall) in a different context (machine learning) will not make it easier to understand the concepts as they apply to physics. But perhaps old discussion = dead anyway, and the merger proposal should be considered deceased by lack of attention? Anonymous Coward 21:40, 6 June 2012 (UTC)  &lt;span style="font-size: smaller;" class="autosigned"&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/77.87.228.68|77.87.228.68]] ([[User talk:77.87.228.68|talk]]) &lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:'''Comment''' I am for the rationalization of the cluster, and I am pretty sure that the valid concerns of the above unsigned comment can be addressed with appropriate craftsmanship.  But as always this is a fair amount of work; the cluster needs to be read carefully, and the contexts in which other articles link into the cluster should be examined.  If I'm not mistaken, the cluster we're discussing rationalizing consists of this article, [[Accuracy and precision]], and [[Sensitivity and specificity]], right?  My snap judgement is that this article, P&amp;R, is very similar to S&amp;S, but not nearly as similar to A&amp;P.  P&amp;R and S&amp;S are about classification or decision procedures, and A&amp;P is about quantitative measurement.  Thoughts? [[User:ACW|ACW]] ([[User talk:ACW|talk]]) 18:21, 25 June 2012 (UTC)
+
+:'''Oppose merge''' I just want to add my opinion that I agree the [[Accuracy and precision]] article is about quantitative measurement, not information retrieval, and so definitely should not be merged with this one. The defining characteristic of precision in the other article is reproducibility, while here it is relevance. Two quite distinct concepts. [[User:ArthurPSmith|ArthurPSmith]] ([[User talk:ArthurPSmith|talk]]) 17:10, 29 June 2012 (UTC)
+
+:'''Oppose merge''' I want to forcefully add my voice to the dissenting opinion. Not wanting to offend anyone, but the desire to merge these topics reflects a limited appreciation of their relevance to other disciplines. Perhaps there should be more cross-links among the articles to benefit the Information Retrieval community (and others), but Precision and Accuracy are important, long-standing concepts in quantitative measurement and deserve an entry independent of Information Retrieval. I'll take your word for it that various Information Retrieval pages could be improved, but please don't do so by gumming up Precision v. Accuracy.[[Special:Contributions/129.82.37.172|129.82.37.172]] ([[User talk:129.82.37.172|talk]]) 19:10, 9 July 2012 (UTC)
+
+:'''Oppose merge''' The main argument for this merger is that the articles are confusing.  This is not really the case. The article on accuracy and precision is very clear and succinct.  It is in fact so much so that this is one of the only pages that I would feel comfortable citing when looking for definitions and differences between the two terms.  &lt;span style="font-size: smaller;" class="autosigned"&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/130.182.25.202|130.182.25.202]] ([[User talk:130.182.25.202|talk]]) 00:46, 6 July 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:'''Oppose merge''' Do not merge.  They are different articles.   [[User:Pkgx|Pkgx]] ([[User talk:Pkgx|talk]]) 17:06, 12 October 2012 (UTC)
+
+:'''Oppose merge''' This is a very bad idea. The articles use the ambiguous term ''perception''  in two completely different senses, as the first anonymous user above has pointed out. [[Accuracy and precision]] are statistical measurement concepts used in all physical sciences, as well as psychology. This article seems to be about concepts exclusive to psychology. I think enough time has passed with no consensus to merge, to remove the tags from both articles. [[User:JustinTime55|JustinTime55]] ([[User talk:JustinTime55|talk]]) 19:14, 24 October 2012 (UTC)
+
+== false positives should be false negatives ==
+:The table displayed is incorrectly labelled.  &lt;span style="font-size: smaller;" class="autosigned"&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/128.192.34.23|128.192.34.23]] ([[User talk:128.192.34.23|talk]]) 17:45, 24 July 2014 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:I would say the figure is incorectly labelled, false positives should be false negatives  &lt;!-- Template:Unsigned IP --&gt;&lt;small class="autosigned"&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/81.82.250.24|81.82.250.24]] ([[User talk:81.82.250.24#top|talk]]) 10:50, 7 December 2016 (UTC)&lt;/small&gt; &lt;!--Autosigned by SineBot--&gt;</text>
+      <sha1>957abr99ykwyh4uo6ktjtriecdh3j5t</sha1>
+    </revision>
+  </page>
+</mediawiki>

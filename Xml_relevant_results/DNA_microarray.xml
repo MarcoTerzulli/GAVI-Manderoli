@@ -1,0 +1,370 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>DNA microarray</title>
+    <ns>0</ns>
+    <id>255954</id>
+    <revision>
+      <id>956621326</id>
+      <parentid>950993124</parentid>
+      <timestamp>2020-05-14T10:37:11Z</timestamp>
+      <contributor>
+        <username>Lassefolkersen</username>
+        <id>623703</id>
+      </contributor>
+      <comment>I replaced the header figure. I felt it was not very general, but went straight into some very detailed aspects of where probes bind gene expression microarrays. In the video, a more general overview of how to genotype with a microarray is shown. The previous figure wasn't deleted, merely moved down to a more specific section.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="54550" xml:space="preserve">[[File:From_spit_to_DNA-sample.ogg|thumb|''How to use a microarray for genotyping.'' The video shows the process of extracting genotypes from a human spit sample using microarrays. Genotyping is a major use of DNA microarrays, but with some modifications they can also be used for other purposes such as measurement of gene expression and epigenetic markers.]]
+
+
+{{Use dmy dates|date=December 2013}}
+A '''DNA microarray''' (also commonly known as [[DNA]] chip or [[biochip]]) is a collection of microscopic DNA spots attached to a solid surface. Scientists use DNA [[microarray]]s to measure the [[Gene expression|expression]] levels of large numbers of genes simultaneously or to [[genotyping|genotype]] multiple regions of a genome. Each DNA spot contains [[Pico-|picomoles]] (10&lt;sup&gt;−12&lt;/sup&gt; [[Mole (unit)|moles]]) of a specific DNA sequence, known as ''[[Hybridization probe|probe]]s'' (or ''reporters'' or ''[[oligonucleotide|oligo]]s''). These can be a short section of a [[gene]] or other DNA element that are used to [[Nucleic acid hybridization#Hybridization|hybridize]] a [[cDNA]] or cRNA (also called anti-sense RNA) &lt;!--Agilent kit--&gt; sample (called ''target'') under high-stringency conditions. Probe-target hybridization is usually detected and quantified by detection of [[fluorophore]]-, silver-, or [[chemiluminescence]]-labeled targets to determine relative abundance of nucleic acid sequences in the target. The original nucleic acid arrays were macro arrays approximately 9&amp;nbsp;cm × 12&amp;nbsp;cm and the first computerized image based analysis was published in 1981.&lt;ref name="Taub"&gt;{{cite journal|last1=Taub|first1=Floyd|title=Laboratory methods: Sequential comparative hybridizations analyzed by computerized image processing can identify and quantitate regulated RNAs|journal=DNA|date=1983|volume=2|issue=4|pages=309–327|doi=10.1089/dna.1983.2.309|pmid=6198132}}&lt;/ref&gt; It was invented by [[Patrick O. Brown]].
+
+== Principle ==
+[[File:NA hybrid.svg|thumb|Hybridization of the target to the probe]]
+{{Main|Nucleic acid hybridization}}
+{{Details|#A typical protocol}}
+&lt;!-- KEEP SECTION SIMPLE --&gt;
+The core principle behind microarrays is hybridization between two DNA strands, the property of [[Complementarity (molecular biology)|complementary]] nucleic acid sequences to specifically pair with each other by forming [[hydrogen bond]]s between complementary [[Nucleotide|nucleotide base pairs]]. A high number of complementary base pairs in a nucleotide sequence means tighter [[non-covalent]] bonding between the two strands. After washing off non-specific bonding sequences, only strongly paired strands will remain hybridized. Fluorescently labeled target sequences that bind to a probe sequence generate a signal that depends on the hybridization conditions (such as temperature), and washing after hybridization. Total strength of the signal, from a spot (feature), depends upon the amount of target sample binding to the probes present on that spot. Microarrays use relative quantitation in which the intensity of a feature is compared to the intensity of the same feature under a different condition, &lt;!-- 2 channel experiments are mentioned below! so do not repeat --&gt; and the identity of the feature is known by its position.
+
+[[File:Microarray exp horizontal.svg|thumb|The steps required in a microarray experiment]]
+
+== Uses and types ==
+[[Image:Affymetrix-microarray.jpg|thumb|right|150px|Two Affymetrix chips. A [[match]] is shown at bottom left for size comparison.]]
+Many types of arrays exist and the broadest distinction is whether they are spatially arranged on a surface or on coded beads:
+* The traditional solid-phase array is a collection of orderly microscopic "spots", called features, each with thousands of identical and specific probes attached to a solid surface, such as [[glass]], [[plastic]] or [[silicon]] [[biochip]] (commonly known as a ''genome chip'', ''DNA chip'' or ''gene array''). Thousands of these features can be placed in known locations on a single DNA microarray.
+* The alternative bead array is a collection of microscopic polystyrene beads, each with a specific probe and a ratio of two or more dyes, which do not interfere with the fluorescent dyes used on the target sequence.
+
+DNA microarrays can be used to detect DNA (as in [[comparative genomic hybridization]]), or detect RNA (most commonly as [[cDNA]] after [[reverse transcription]]) that may or may not be translated into proteins. The process of measuring gene expression via cDNA is called [[gene expression|expression analysis]] or [[expression profiling]].
+
+Applications include:
+
+{| class="wikitable"
+|-
+! Application or technology
+! Synopsis
+|-
+| [[Gene expression profiling]]
+| In an [[mRNA]] or [[gene expression profiling]] experiment the [[Gene expression|expression]] levels of thousands of genes are simultaneously monitored to study the effects of certain treatments, [[disease]]s, and developmental stages on gene expression. For example, microarray-based gene expression profiling can be used to identify genes whose expression is changed in response to [[pathogens]] or other organisms by comparing gene expression in infected to that in uninfected cells or tissues.&lt;ref name="Adomas et al."&gt;{{cite journal|author=Adomas A|author2=Heller G|author3=Olson A|author4=Osborne J|author5=Karlsson M|author6=Nahalkova J|author7=Van Zyl L|author8=Sederoff R|author9=Stenlid J|author10=Finlay R|author11=Asiegbu FO|date=2008|title=Comparative analysis of transcript abundance in Pinus sylvestris after challenge with a saprotrophic, pathogenic or mutualistic fungus|journal=Tree Physiol.|volume=28|pages=885–897|pmid=18381269|issue=6|doi=10.1093/treephys/28.6.885|doi-access=free}}&lt;/ref&gt;
+|-
+| [[Comparative genomic hybridization]]
+| Assessing genome content in different cells or closely related organisms, as originally described by [[Patrick O. Brown|Patrick Brown]], Jonathan Pollack, [[Ash Alizadeh]] and colleagues at [[Stanford University|Stanford]].&lt;ref name="Pollack et al."&gt;{{cite journal|author=Pollack JR|author2=Perou CM|author3=Alizadeh AA|author4=Eisen MB|author5=Pergamenschikov A|author6=Williams CF|author7=Jeffrey SS|author8=Botstein D|author9=Brown PO|date= 1999|title=Genome-wide analysis of DNA copy-number changes using cDNA microarrays|journal=Nat Genet|volume=23|pages=41–46|pmid=10471496|doi=10.1038/12640|issue=1}}&lt;/ref&gt;&lt;ref name="Moran et al."&gt;{{cite journal|author=Moran G|author2=Stokes C|author3=Thewes S|author4=Hube B|author5=Coleman DC|author6=Sullivan D|date= 2004|title=Comparative genomics using Candida albicans DNA microarrays reveals absence and divergence of virulence-associated genes in Candida dubliniensis|journal=Microbiology|volume=150|pages=3363–3382|pmid=15470115|doi=10.1099/mic.0.27221-0|issue=Pt 10|doi-access=free}}&lt;/ref&gt;
+|-
+| GeneID
+| Small microarrays to check IDs of organisms in food and feed (like [[GMO]] [http://bgmo.jrc.ec.europa.eu/home/docs.htm]), [[mycoplasms]] in cell culture, or [[pathogens]] for disease detection, mostly combining [[PCR]] and microarray technology.
+|-
+| [[ChIP-on-chip|Chromatin immunoprecipitation on Chip]]
+| DNA sequences bound to a particular protein can be isolated by [[immunoprecipitation|immunoprecipitating]] that protein ([[Chromatin immunoprecipitation|ChIP]]), these fragments can be then hybridized to a microarray (such as a [[tiling array]]) allowing the determination of protein binding site occupancy throughout the genome. Example protein to [[Chromatin immunoprecipitation|immunoprecipitate]] are histone modifications ([[H3K27me3]], H3K4me2, H3K9me3, etc.), [[Polycomb-group protein]] (PRC2:Suz12, PRC1:YY1) and [[trithorax-group protein]] (Ash1) to study the [[epigenetics|epigenetic landscape]] or [[RNA Polymerase II]] to study the [[Transcription (genetics)|transcription landscape]].
+|-
+| [[DNA adenine methyltransferase identification|DamID]]
+| Analogously to [[ChIP]], genomic regions bound by a protein of interest can be isolated and used to probe a microarray to determine binding site occupancy. Unlike ChIP, DamID does not require antibodies but makes use of adenine methylation near the protein's binding sites to selectively amplify those regions, introduced by expressing minute amounts of protein of interest fused to bacterial [[Dam (methylase)|DNA adenine methyltransferase]].
+|-
+| [[SNP array|SNP detection]]
+| Identifying [[single nucleotide polymorphism]] among [[alleles]] within or between populations.&lt;ref name="Hacia et al."&gt;{{cite journal |author=Hacia JG|author2=Fan JB|author3=Ryder O|author4= Jin L|author5=Edgemon K|author6=Ghandour G|author7=Mayer RA|author8= Sun B|author9=Hsie L|author10=Robbins CM|author11=Brody LC|author12=Wang D|author13=Lander ES|author14=Lipshutz R|author15=Fodor SP|author16=Collins FS|date= 1999|title=Determination of ancestral alleles for human single-nucleotide polymorphisms using high-density oligonucleotide arrays|journal=Nat Genet|volume=22|pages=164–167|pmid=10369258 | doi = 10.1038/9674|issue=2}}&lt;/ref&gt; Several applications of microarrays make use of SNP detection, including [[genotyping]], [[forensic]] analysis, measuring [[Genetic predisposition|predisposition]] to disease, identifying drug-candidates, evaluating [[germline]] mutations in individuals or [[Somatic (biology)|somatic]] mutations in cancers, assessing [[loss of heterozygosity]], or [[genetic linkage]] analysis.
+|-
+| [[Alternative splicing]] detection
+| An ''[[exon junction array]]'' design uses probes specific to the expected or potential splice sites of predicted [[exon]]s for a gene. It is of intermediate density, or coverage, to a typical gene expression array (with 1–3 probes per gene) and a genomic tiling array (with hundreds or thousands of probes per gene). It is used to assay the expression of alternative splice forms of a gene. [[Exon array]]s have a different design, employing probes designed to detect each individual exon for known or predicted genes, and can be used for detecting different splicing isoforms.
+|-
+| [[Fusion gene]]s microarray
+| A Fusion gene microarray can detect fusion transcripts, ''e.g.'' from cancer specimens. The principle behind this is building on the [[alternative splicing]] microarrays. The oligo design strategy enables combined measurements of chimeric transcript junctions with exon-wise measurements of individual fusion partners.
+|-
+| [[Tiling array]]
+| Genome tiling arrays consist of overlapping probes designed to densely represent a genomic region of interest, sometimes as large as an entire human chromosome. The purpose is to empirically detect expression of [[mRNA|transcripts]] or [[Alternative splicing|alternatively spliced forms]] which may not have been previously known or predicted.
+|-
+|Double-stranded B-DNA microarrays
+|Right-handed double-stranded B-DNA microarrays can be used to characterize novel drugs and biologicals that can be employed to bind specific regions of immobilized, intact, double-stranded DNA. This approach can be used to inhibit gene expression.&lt;ref name="Gagna 895–914"&gt;{{Cite journal|title = Novel multistranded, alternative, plasmid and helical transitional DNA and RNA microarrays: implications for therapeutics|journal = Pharmacogenomics|date = 2009-05-01|issn = 1744-8042|pmid = 19450135|pages = 895–914|volume = 10|issue = 5|doi = 10.2217/pgs.09.27|first = Claude E.|last = Gagna|first2 = W. Clark|last2 = Lambert}}&lt;/ref&gt;&lt;ref name="Gagna 381–401"&gt;{{Cite journal|title = Cell biology, chemogenomics and chemoproteomics - application to drug discovery|journal = Expert Opinion on Drug Discovery|date = 2007-03-01|issn = 1746-0441|pmid = 23484648|pages = 381–401|volume = 2|issue = 3|doi = 10.1517/17460441.2.3.381|first = Claude E.|last = Gagna|first2 = W.|last2 = Clark Lambert}}&lt;/ref&gt; They also allow for characterization of their structure under different environmental conditions.
+|-
+|Double-stranded Z-DNA microarrays
+|Left-handed double-stranded Z-DNA microarrays can be used to identify short sequences of the alternative Z-DNA structure located within longer stretches of right-handed B-DNA genes (e.g., transcriptional enhancement, recombination, RNA editing).&lt;ref name="Gagna 895–914"/&gt;&lt;ref name="Gagna 381–401"/&gt; The microarrays also allow for characterization of their structure under different environmental conditions.
+|-
+|Multi-stranded DNA microarrays (triplex-DNA microarrays and quadruplex-DNA microarrays)
+|Multi-stranded DNA and RNA microarrays can be used to identify novel drugs that bind to these multi-stranded nucleic acid sequences. This approach can be used to discover new drugs and biologicals that have the ability to inhibit gene expression.&lt;ref name="Gagna 895–914"/&gt;&lt;ref name="Gagna 381–401"/&gt;&lt;ref&gt;{{Cite journal|title = Triplex technology in studies of DNA damage, DNA repair, and mutagenesis|journal = Biochimie|date = 2011-08-01|issn = 1638-6183|pmc = 3545518|pmid = 21501652|pages = 1197–1208|volume = 93|issue = 8|doi = 10.1016/j.biochi.2011.04.001|first = Anirban|last = Mukherjee|first2 = Karen M.|last2 = Vasquez}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|title = G-quadruplexes and their regulatory roles in biology|journal = Nucleic Acids Research|date = 2015-10-15|issn = 1362-4962|pmc = 4605312|pmid = 26350216|pages = 8627–8637|volume = 43|issue = 18|doi = 10.1093/nar/gkv862|first = Daniela|last = Rhodes|first2 = Hans J.|last2 = Lipps}}&lt;/ref&gt; These microarrays also allow for characterization of their structure under different environmental conditions.
+|}
+
+=== Fabrication ===
+Microarrays can be manufactured in different ways, depending on the number of probes under examination, costs, customization requirements, and the type of scientific question being asked. Arrays from commercial vendors may have as few as 10 probes or as many as 5 million or more micrometre-scale probes.
+&lt;!-- Repetition of second paragraph but less detail
+=== Surface engineering ===
+
+The first step of DNA microarray fabrication involves [[surface engineering]] of a substrate in order to obtain desirable surface properties for the application of interest. Optimal surface properties are those which produce high signal to noise ratios for the DNA targets of interest. Generally, this involves maximizing the probe surface density and activity while minimizing the non-specific binding of the targets of interest.{{Citation needed|date=October 2008}} Methods of surface engineering vary depending on the platform material, design, and application.{{Citation needed|date=October 2008}} However micro-array system can be  modified.
+--&gt;
+
+=== Spotted vs. ''in situ'' synthesised arrays ===
+[[File:Microarray printing.ogv|thumb|A DNA microarray being printed by a [[robot]] at the [[University of Delaware]] ]]
+
+Microarrays can be fabricated using a variety of technologies, including printing with fine-pointed pins onto glass slides, [[photolithography]] using pre-made masks, photolithography using dynamic micromirror devices, ink-jet printing,&lt;ref&gt;J Biochem Biophys Methods. 2000 Mar 16;42(3):105-10. DNA-printing: utilization of a standard inkjet printer for the transfer of nucleic acids to solid supports. Goldmann T, Gonzalez JS.&lt;/ref&gt;&lt;ref&gt;{{cite journal|journal=Genome Biology | title=POSaM: a fast, flexible, open-source, inkjet oligonucleotide synthesizer and microarrayer| author=Lausted C| volume = 5 | pages=R58 | doi=10.1186/gb-2004-5-8-r58 | pmid=15287980 | date=2004| issue=8| pmc=507883|display-authors=etal}}&lt;/ref&gt; or [[electrochemistry]] on microelectrode arrays.
+
+In ''spotted microarrays'', the probes are [[oligonucleotide synthesis|oligonucleotide]]s, [[cDNA]] or small fragments of [[PCR]] products that correspond to [[mRNA]]s. The probes are [[oligonucleotide synthesis|synthesized]] prior to deposition on the array surface and are then "spotted" onto glass. A common approach utilizes an array of fine pins or needles controlled by a robotic arm that is dipped into wells containing DNA probes and then depositing each probe at designated locations on the array surface. The resulting "grid" of probes represents the nucleic acid profiles of the prepared probes and is ready to receive complementary cDNA or cRNA "targets" derived from experimental or clinical samples.
+This technique is used by research scientists around the world to produce "in-house" printed microarrays from their own labs. These arrays may be easily customized for each experiment, because researchers can choose the probes and printing locations on the arrays, synthesize the probes in their own lab (or collaborating facility), and spot the arrays. They can then generate their own labeled samples for hybridization, hybridize the samples to the array, and finally scan the arrays with their own equipment. This provides a relatively low-cost microarray that may be customized for each study, and avoids the costs of purchasing often more expensive commercial arrays that may represent vast numbers of genes that are not of interest to the investigator.
+Publications exist which indicate in-house spotted microarrays may not provide the same level of sensitivity compared to commercial oligonucleotide arrays,&lt;ref name="TRC Standardization"&gt;{{cite journal |date=2005 |title=Standardizing global gene expression analysis between laboratories and across platforms |journal=Nat Methods |volume=2 |pages=351–356 |pmid=15846362 |doi=10.1038/nmeth754 |last12=Deng |first12=S |last13=Dressman |first13=HK |last14=Fannin |first14=RD |last15=Farin |first15=FM |last16=Freedman |first16=JH |last17=Fry |first17=RC |last18=Harper |first18=A |last19=Humble |first19=MC |last20=Hurban |first20=P |last21=Kavanagh |first21=TJ |last22=Kaufmann |first22=WK |first23=KF |first24=L |first25=JA |first26=MR |last27=Li |first27=J |first28=YJ |last29=Lobenhofer |first29=EK |last30=Lu |last31=Malek |first31=RL |last32=Milton |first32=S |last33=Nagalla |first33=SR |last34=O'malley |first34=JP |last35=Palmer |first35=VS |last36=Pattee |first36=P |last7=Paules |first7=RS |last38=Perou |first38=CM |last9=Phillips |first39=K |last40=Qin |last41=Qiu |first41=Y |last42=Quigley |first42=SD |last43=Rodland |first43=M |last44=Rusyn |first44=I |last45=Samson |first45= LD|last46= Schwartz|last47=Shi |first47=Y |last48=Shin |last49=Sieber |last50=Slifer |last51=Speer |first51=MC |last52=Spencer |first52=PS |last53=Sproles |first53=DI |last54=Swenberg |first54=JA |last55=Suk|first55= WA |last56=Sullivan |first56=RC |last57=Tian |first57=R |last58=Tennant |first58=RW |last59= Todd |first59=SA |last60=Tucker |first60=CJ |last61=Van Houten |first61=B |last62=Weis |first62=BK |last63=Xuan |first63=S |last64=Zarbl |first64=H |last65=Members Of The Toxicogenomics Research |first65=Consortium |issue=5 |author1=Bammler T, Beyer RP |author2=Consortium, Members of the Toxicogenomics Research |last3=Kerr |last4=Jing |last5=Lapidus |last6=Lasarev |last8=Li |first3=X |first4=LX |first6=DA |first8=JL |first9=SO |first5=S }}&lt;/ref&gt; possibly owing to the small batch sizes and reduced printing efficiencies when compared to industrial manufactures of oligo arrays.
+
+In ''oligonucleotide microarrays'', the probes are short sequences designed to match parts of the sequence of known or predicted [[open reading frame]]s. Although oligonucleotide probes are often used in "spotted" microarrays, the term "oligonucleotide array" most often refers to a specific technique of manufacturing. Oligonucleotide arrays are produced by printing short oligonucleotide sequences designed to represent a single gene or family of gene splice-variants by [[oligonucleotide synthesis|synthesizing]] this sequence directly onto the array surface instead of depositing intact sequences. Sequences may be longer (60-mer probes such as the [[Agilent]] design) or shorter (25-mer probes produced by [[Affymetrix]]) depending on the desired purpose; longer probes are more specific to individual target genes, shorter probes may be spotted in higher density across the array and are cheaper to manufacture.
+One technique used to produce oligonucleotide arrays include [[photolithographic]] synthesis (Affymetrix) on a silica substrate where light and light-sensitive masking agents are used to "build" a sequence one nucleotide at a time across the entire array.&lt;ref name="Affy PNAS Paper"&gt;{{cite journal|author=Pease AC|author2=Solas D|author3=Sullivan EJ|author4=Cronin MT|author5=Holmes CP|author6=Fodor SP|date= 1994|title=Light-generated oligonucleotide arrays for rapid DNA sequence analysis|journal=PNAS|volume=91|pages=5022–5026|pmid=8197176|doi=10.1073/pnas.91.11.5022|issue=11|pmc=43922}}&lt;/ref&gt; Each applicable probe is selectively "unmasked" prior to bathing the array in a solution of a single nucleotide, then a masking reaction takes place and the next set of probes are unmasked in preparation for a different nucleotide exposure. After many repetitions, the sequences of every probe become fully constructed. More recently, Maskless Array Synthesis from NimbleGen Systems has combined flexibility with large numbers of probes.&lt;ref name="NimbleGen Genome Res Paper"&gt;{{cite journal|author=Nuwaysir EF|author2=Huang W|author3=Albert TJ|author4=Singh J|author5=Nuwaysir K|author6=Pitas A|author7=Richmond T|author8=Gorski T|author9=Berg JP|author10=Ballin J|author11=McCormick M|author12=Norton J|author13=Pollock T|author14=Sumwalt T|author15=Butcher L|author16=Porter D|author17=Molla M|author18=Hall C|author19=Blattner F|author20=Sussman MR|author21=Wallace RL|author22=Cerrina F|author23=Green RD|date= 2002|title=Gene Expression Analysis Using Oligonucleotide Arrays Produced by Maskless Photolithography|journal=Genome Res|volume=12|pages=1749–1755|pmid=12421762|doi=10.1101/gr.362402|issue=11|pmc=187555}}&lt;/ref&gt;
+
+=== Two-channel vs. one-channel detection ===
+[[Image:Microarray-schema.jpg|thumb|right|Diagram of typical dual-colour [[DNA microarray experiment|microarray experiment]] ]]
+&lt;!--- channel is the correct word and colour is a bit wrong semantically, see discussion ---&gt;
+''Two-color microarrays'' or ''two-channel microarrays'' are typically [[DNA hybridization|hybridized]] with cDNA prepared from two samples to be compared (e.g. diseased tissue versus healthy tissue) and that are labeled with two different [[fluorophore]]s.&lt;ref name="Shalon et al."&gt;{{cite journal|author=Shalon D|author2=Smith SJ|author3=Brown PO|date= 1996|title=A DNA microarray system for analyzing complex DNA samples using two-color fluorescent probe hybridization|journal=Genome Res|volume=6|pages=639–645|pmid=8796352|doi=10.1101/gr.6.7.639|issue=7|doi-access=free}}&lt;/ref&gt; [[Fluorescence|Fluorescent]] dyes commonly used for cDNA labeling include [[Cyanine|Cy]]3, which has a fluorescence emission wavelength of 570&amp;nbsp;nm (corresponding to the green part of the light spectrum), and [[Cyanine|Cy]]5 with a fluorescence emission wavelength of 670&amp;nbsp;nm (corresponding to the red part of the light spectrum). The two Cy-labeled cDNA samples are mixed and hybridized to a single microarray that is then scanned in a microarray scanner to visualize fluorescence of the two fluorophores after [[Excited state|excitation]] with a [[laser]] beam of a defined wavelength. Relative intensities of each fluorophore may then be used in ratio-based analysis to identify up-regulated and down-regulated genes.&lt;ref name="Tang et al."&gt;{{cite journal|author=Tang T|author2=François N|author3=Glatigny A|author4=Agier N|author5=Mucchielli MH|author6=Aggerbeck L|author7=Delacroix H|date= 2007|title=Expression ratio evaluation in two-colour microarray experiments is significantly improved by correcting image misalignment|journal=Bioinformatics|volume=23|pages=2686–2691|pmid=17698492|doi=10.1093/bioinformatics/btm399|issue=20|doi-access=free}}&lt;/ref&gt;
+
+Oligonucleotide microarrays often carry control probes designed to hybridize with [[RNA spike-in]]s. The degree of hybridization between the spike-ins and the control probes is used to [[Normalization (statistics)|normalize]] the hybridization measurements for the target probes. Although absolute levels of gene expression may be determined in the two-color array in rare instances, the relative differences in expression among different spots within a sample and between samples is the preferred method of [[data analysis]] for the two-color system. Examples of providers for such microarrays includes [[Agilent]] with their Dual-Mode platform, [[Eppendorf (company)|Eppendorf]] with their DualChip platform for colorimetric [[Silverquant]] labeling, and TeleChem International with [[Arrayit]].
+
+In ''single-channel microarrays'' or ''one-color microarrays'', the arrays provide intensity data for each probe or probe set indicating a relative level of hybridization with the labeled target. However, they do not truly indicate abundance levels of a gene but rather relative abundance when compared to other samples or conditions when processed in the same experiment. Each RNA molecule encounters protocol and batch-specific bias during amplification, labeling, and hybridization phases of the experiment making comparisons between genes for the same microarray uninformative. The comparison of two conditions for the same gene requires two separate single-dye hybridizations. Several popular single-channel systems are the Affymetrix "Gene Chip", Illumina "Bead Chip", Agilent single-channel arrays, the Applied Microarrays "CodeLink" arrays, and the Eppendorf "DualChip &amp; Silverquant". One strength of the single-dye system lies in the fact that an aberrant sample cannot affect the raw data derived from other samples, because each array chip is exposed to only one sample (as opposed to a two-color system in which a single low-quality sample may drastically impinge on overall data precision even if the other sample was of high quality). Another benefit is that data are more easily compared to arrays from different experiments as long as batch effects have been accounted for.
+
+One channel microarray may be the only choice in some situations. Suppose &lt;math&gt;i&lt;/math&gt; samples need to be compared: then the number of experiments required using the two channel arrays quickly becomes unfeasible, unless a sample is used as a reference.  
+{| class="wikitable"
+!number of samples
+!one-channel microarray
+!two channel microarray
+!
+two channel microarray (with reference)
+|-
+|1
+|1
+|1
+|1
+|-
+|2
+|2
+|1
+|1
+|-
+|3
+|3
+|3
+|2
+|-
+|4
+|4
+|6
+|3
+|-
+|&lt;math&gt;i&lt;/math&gt;
+|&lt;math&gt;i&lt;/math&gt;
+|&lt;math&gt;i(i-1)/2&lt;/math&gt;
+|&lt;math&gt;i -1&lt;/math&gt;
+|}
+
+===A typical protocol===
+[[File:Summary of RNA Microarray.svg|thumb|''Examples of levels of application of microarrays.'' Within the organisms, genes are transcribed and spliced to produce mature mRNA transcripts (red). The mRNA is extracted from the organism and reverse transcriptase is used to copy the mRNA into stable ds-cDNA (blue). In microarrays, the ds-cDNA is fragmented and fluorescently labelled (orange). The labelled fragments bind to an ordered array of complementary oligonucleotides, and [[Fluorometer|measurement of fluorescent intensity]] across the array indicates the abundance of a predetermined set of sequences. These sequences are typically specifically chosen to report on genes of interest within the organism's genome.&lt;ref&gt;{{Cite journal|last=Shafee|first=Thomas|last2=Lowe|first2=Rohan|date=2017|title=Eukaryotic and prokaryotic gene structure|journal=WikiJournal of Medicine|language=en|volume=4|issue=1|doi=10.15347/wjm/2017.002|issn=2002-4436|doi-access=free}}&lt;/ref&gt;]]
+
+This is an example of a '''DNA microarray experiment''' which includes details for a particular case to better explain DNA microarray experiments, while listing modifications for RNA or other alternative experiments.
+
+# The two samples to be compared (pairwise comparison) are grown/acquired. In this example treated sample ([[Case-control|case]]) and untreated sample ([[Case-control|control]]).
+# The [[nucleic acid]] of interest is purified: this can be [[RNA]] for [[expression profiling]], [[DNA]] for [[comparative hybridization]], or DNA/RNA bound to a particular [[protein]] which is [[Chromatin immunoprecipitation|immunoprecipitated]] ([[ChIP-on-chip]]) for [[Epigenetics|epigenetic]] or regulation studies. In this example total RNA is isolated (both nuclear and [[cytoplasm]]ic) by [[Guanidinium thiocyanate-phenol-chloroform extraction]] (e.g. [[Trizol]]) which isolates most RNA (whereas column methods have a cut off of 200 nucleotides) and if done correctly has a better purity.
+# The purified RNA is analysed for quality (by [[capillary electrophoresis]]) and quantity (for example, by using a [[NanoDrop]] or NanoPhotometer [[spectrometer]]). If the material is of acceptable quality and sufficient quantity is present (e.g., &gt;1[[μg]], although the required amount varies by microarray platform), the experiment can proceed.
+# The labeled product is generated via [[reverse transcription]] and followed by an optional [[PCR]] amplification. The RNA is reverse transcribed with either polyT primers (which amplify only [[mRNA]]) or random primers (which amplify all RNA, most of which is [[rRNA]]). [[MicroRNA|miRNA]] microarrays ligate an oligonucleotide to the purified small RNA (isolated with a fractionator), which is then reverse transcribed and amplified.
+#* The label is added either during the reverse transcription step, or following amplification if it is performed. The [[Sense (molecular biology)|sense]] labeling is dependent on the microarray; e.g. if the label is added with the RT mix, the [[cDNA]] is antisense and the microarray probe is sense, except in the case of negative controls.
+#* The label is typically [[fluorescent]]; only one machine uses [[radioactivity in biology|radiolabels]].
+#* The labeling can be direct (not used) or indirect (requires a coupling stage). For two-channel arrays, the coupling stage occurs before hybridization, using [[aminoallyl]] [[uridine]] [[triphosphate]] (aminoallyl-UTP, or aaUTP) and [[N-hydroxysuccinimide|NHS]] amino-reactive dyes (such as [[cyanine|cyanine dyes]]); for single-channel arrays, the coupling stage occurs after hybridization, using [[Biotin#Use in biotechnology|biotin]] and labeled [[Streptavidin#Uses in biotechnology|streptavidin]]. The modified nucleotides (usually in a ratio of 1 aaUTP: 4 TTP ([[thymidine triphosphate]])) are added enzymatically in a low ratio to normal nucleotides, typically resulting in 1 every 60 bases. The aaDNA is then purified with a [[DNA separation by silica adsorption|column]] (using a phosphate buffer solution, as [[Tris]] contains amine groups). The aminoallyl group is an amine group on a long linker attached to the nucleobase, which reacts with a reactive dye.
+#** A form of replicate known as a dye flip can be performed to control for dye [[Artifact (error)|artifact]]s in two-channel experiments; for a dye flip, a second slide is used, with the labels swapped (the sample that was labeled with Cy3 in the first slide is labeled with Cy5, and vice versa). In this example, [[aminoallyl]]-UTP is present in the reverse-transcribed mixture.
+# The labeled samples are then mixed with a proprietary [[nucleic acid hybridization|hybridization]] solution which can consist of [[Sodium dodecyl sulfate|SDS]], [[citrate|SSC]], [[dextran|dextran sulfate]], a blocking agent (such as [[Comparative genomic hybridization#Blocking|Cot-1 DNA]], salmon sperm DNA, calf thymus DNA, [[PolyA]], or PolyT), [[Denhardt's solution]], or [[Methylamine|formamine]].
+# The mixture is denatured and added to the pinholes of the microarray. The holes are sealed and the microarray hybridized, either in a hyb oven, where the microarray is mixed by rotation, or in a mixer, where the microarray is mixed by alternating pressure at the pinholes.
+# After an overnight hybridization, all nonspecific binding is washed off (SDS and SSC).
+# The microarray is dried and scanned by a machine that uses a laser to excite the dye and measures the emission levels with a detector.
+# The image is gridded with a template and the intensities of each feature (composed of several pixels) is quantified.
+# The raw data is normalized; the simplest normalization method is to subtract background intensity and scale so that the total intensities of the features of the two channels are equal, or to use the intensity of a reference gene to calculate the [[t-value]] for all of the intensities. More sophisticated methods include [[z-score|z-ratio]], [[local regression|loess and lowess regression]] and RMA (robust multichip analysis) for Affymetrix chips (single-channel, silicon chip, ''in situ'' synthesized short oligonucleotides).
+
+== Microarrays and bioinformatics ==
+[[Image:Heatmap.png|right|thumb|Gene expression values from microarray experiments can be represented as [[heat map]]s to visualize the result of data analysis.]]
+
+The advent of inexpensive microarray experiments created several specific bioinformatics challenges:{{citation needed|date=January 2019}} the multiple levels of replication in experimental design ([[#Experimental design|Experimental design]]); the number of platforms and independent groups and data format ([[#Standardization|Standardization]]); the statistical treatment of the data ([[#Data analysis|Data analysis]]); mapping each probe to the [[mRNA]] transcript that it measures ([[#Annotation|Annotation]]); the sheer volume of data and the ability to share it ([[#Data warehousing|Data warehousing]]).
+
+=== Experimental design ===
+Due to the biological complexity of gene expression, the considerations of experimental design that are discussed in the [[expression profiling]] article are of critical importance if statistically and biologically valid conclusions are to be drawn from the data.
+
+There are three main elements to consider when designing a microarray experiment. First, replication of the biological samples is essential for drawing conclusions from the experiment. Second, technical replicates (two RNA samples obtained from each experimental unit) help to ensure precision and allow for testing differences within treatment groups. The biological replicates include independent RNA extractions and technical replicates may be two [[wikt:Special:Search/aliquot|aliquots]] of the same extraction. Third, spots of each cDNA clone or oligonucleotide are present as replicates (at least duplicates) on the microarray slide, to provide a measure of technical precision in each hybridization. It is critical that information about the sample preparation and handling is discussed, in order to help identify the independent units in the experiment and to avoid inflated estimates of [[statistical significance]].&lt;ref&gt;{{cite journal |title=Fundamentals of experimental design for cDNA microarrays | journal=Nature Genetics |series=supplement |volume=32 |date=2002 | doi=10.1038/ng1031 |url=http://www.vmrf.org/research-websites/gcf/Forms/Churchill.pdf |pages=490–5 |format=– &lt;sup&gt;[https://scholar.google.co.uk/scholar?hl=en&amp;lr=&amp;q=intitle%3AFundamentals+of+experimental+design+for+cDNA+microarrays&amp;as_publication=Nature+genetics+supplement&amp;as_ylo=2002&amp;as_yhi=2002&amp;btnG=Search Scholar search]&lt;/sup&gt; |pmid=12454643 |last1=Churchill |first1=GA |url-status=dead |archiveurl=https://web.archive.org/web/20050508225647/http://www.vmrf.org/research-websites/gcf/Forms/Churchill.pdf |archivedate=2005-05-08 |accessdate=12 December 2013}}&lt;/ref&gt;
+
+=== Standardization ===
+Microarray data is difficult to exchange due to the lack of standardization in platform fabrication, assay protocols, and analysis methods. This presents an [[interoperability]] problem in [[bioinformatics]]. Various [[grass-roots]] [[open-source model|open-source]] projects are trying to ease the exchange and analysis of data produced with non-proprietary chips:
+
+For example, the "Minimum Information About a Microarray Experiment" ([[MIAME]]) checklist helps define the level of detail that should exist and is being adopted by many [[Scientific journal|journals]] as a requirement for the submission of papers incorporating microarray results. But MIAME does not describe the format for the information, so while many formats can support the MIAME requirements, {{as of|lc=y|2007}} no format permits verification of complete semantic compliance. The "MicroArray Quality Control (MAQC) Project" is being conducted by the US [[Food and Drug Administration]] (FDA) to develop standards and quality control metrics which will eventually allow the use of MicroArray data in drug discovery, clinical practice and regulatory decision-making.&lt;ref&gt;[https://www.fda.gov/nctr/science/centers/toxicoinformatics/maqc/ NCTR Center for Toxicoinformatics - MAQC Project&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; The [[MGED Society]] has developed standards for the representation of gene expression experiment results and relevant annotations.
+
+=== Data analysis ===
+[[File:Toxicology Research at FDA (NCTR 1470) (6009042166).jpg|thumb|[[National Center for Toxicological Research]] scientist reviews microarray data]]
+{{main|Microarray analysis techniques}}
+{{See also|Gene chip analysis}}
+
+Microarray data sets are commonly very large, and analytical precision is influenced by a number of variables. [[Statistics|Statistical]] challenges include taking into account effects of background noise and appropriate [[Normalization (statistics)|normalization]] of the data. Normalization methods may be suited to specific platforms and, in the case of commercial platforms, the analysis may be proprietary.&lt;ref&gt;{{cite web|title=Prosigna {{!}} Prosigna algorithm|url=http://prosigna.com/x-us/overview/prosigna-algorithm/|website=prosigna.com|accessdate=22 June 2017}}&lt;/ref&gt; Algorithms that affect statistical analysis include:
+
+* Image analysis: gridding, spot recognition of the scanned image (segmentation algorithm), removal or marking of poor-quality and low-intensity features (called ''flagging'').
+* Data processing: background subtraction (based on global or local background), determination of spot intensities and intensity ratios, visualisation of data (e.g. see [[MA plot]]), and log-transformation of ratios, global or [[Local regression|local]] normalization of intensity ratios, and segmentation into different copy number regions using [[step detection]] algorithms.&lt;ref&gt;{{cite journal|last=Little|first= M.A.|author2=Jones, N.S.|title=Generalized Methods and Solvers for Piecewise Constant Signals: Part I| journal=[[Proceedings of the Royal Society A]]|url=http://www.maxlittle.net/publications/pwc_filtering_arxiv.pdf|date = 2011 |doi=10.1098/rspa.2010.0671|pmid= 22003312|pmc= 3191861|volume=467|issue= 2135|pages=3088–3114}}&lt;/ref&gt;
+* Class discovery analysis: This analytic approach, sometimes called unsupervised classification or knowledge discovery, tries to identify whether microarrays (objects, patients, mice, etc.) or genes cluster together in groups. Identifying naturally existing groups of objects (microarrays or genes) which cluster together can enable the discovery of new groups that otherwise were not previously known to exist. During knowledge discovery analysis, various unsupervised classification techniques can be employed with DNA microarray data to identify novel clusters (classes) of arrays.&lt;ref name="Peterson"&gt;{{cite book|author=Peterson, Leif E.
+|date= 2013|title=Classification Analysis of DNA Microarrays|publisher=John Wiley and Sons|isbn=978-0-470-17081-6|url=http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470170816.html}}&lt;/ref&gt; This type of approach is not hypothesis-driven, but rather is based on iterative pattern recognition or statistical learning methods to find an "optimal" number of clusters in the data. Examples of unsupervised analyses methods include self-organizing maps, neural gas, k-means cluster analyses,&lt;ref&gt;De Souto M et al. (2008) Clustering cancer gene expression data: a comparative study, BMC Bioinformatics, 9(497).&lt;/ref&gt; hierarchical cluster analysis, Genomic Signal Processing based clustering&lt;ref&gt;Istepanian R, Sungoor A, Nebel J-C (2011) Comparative Analysis of Genomic Signal Processing for Microarray data Clustering,  IEEE Transactions on NanoBioscience, 10(4): 225-238.&lt;/ref&gt; and model-based cluster analysis. For some of these methods the user also has to define a distance measure between pairs of objects. Although the Pearson correlation coefficient is usually employed, several other measures have been proposed and evaluated in the literature.&lt;ref&gt;{{cite journal|last1=Jaskowiak|first1=Pablo A|last2=Campello|first2=Ricardo JGB|last3=Costa|first3=Ivan G|title=On the selection of appropriate distances for gene expression data clustering|journal=BMC Bioinformatics|volume=15|issue=Suppl 2|pages=S2|doi=10.1186/1471-2105-15-S2-S2|pmid=24564555|pmc=4072854|year=2014}}&lt;/ref&gt; The input data used in class discovery analyses are commonly based on lists of genes having high informativeness (low noise) based on low values of the coefficient of variation or high values of Shannon entropy, etc. The determination of the most likely or optimal number of clusters obtained from an unsupervised analysis is called cluster validity. Some commonly used metrics for cluster validity are the silhouette index, Davies-Bouldin index,&lt;ref&gt;Bolshakova N, Azuaje F (2003) Cluster validation techniques for genome expression data, Signal Processing, Vol. 83, pp. 825–833.&lt;/ref&gt; Dunn's index, or Hubert's &lt;math&gt;\Gamma&lt;/math&gt; statistic. 
+* Class prediction analysis: This approach, called supervised classification, establishes the basis for developing a predictive model into which future unknown test objects can be input in order to predict the most likely class membership of the test objects. Supervised analysis&lt;ref name="Peterson"/&gt; for class prediction involves use of techniques such as linear regression, k-nearest neighbor, learning vector quantization, decision tree analysis, random forests, naive Bayes, logistic regression, kernel regression, artificial neural networks, support vector machines, [[mixture of experts]], and supervised neural gas. In addition, various metaheuristic methods are employed, such as [[genetic algorithm]]s, covariance matrix self-adaptation, [[particle swarm optimization]], and [[ant colony optimization]]. Input data for class prediction are usually based on filtered lists of genes which are predictive of class, determined using classical hypothesis tests (next section), Gini diversity index, or information gain (entropy).
+* Hypothesis-driven statistical analysis: Identification of statistically significant changes in gene expression are commonly identified using the [[t-test]], [[ANOVA]], [[Bayesian method]]&lt;ref&gt;{{Cite web|url=https://watermark.silverchair.com/bti410.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAngwggJ0BgkqhkiG9w0BBwagggJlMIICYQIBADCCAloGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMDhFaXCc-AcZXKGc2AgEQgIICK8yMgtRf3yYhE7GNXT6mcfluhwNUKRJi8lvCZvoLqL4LicI-s8zTjYU6viXY94SyjlMNyLosd8DMQTt8RJAqQjYXwUISrxws2SK-k8k7K_ABI8chFEgv-__n3yYx7Q05c5Pu5XW5NQBNVl-vUPEWz-VuO7OLFQo17sEiN0ohUiYC5D6uoy2YG88FJSPDDRyZSyAFy9o6sxbTTmYgmQKys3YeUnW532KNYrLzYgSMz9DyIiVnHQGtkMRRk0_753bpK_ctvry0QnkvgUNJtcQvvejKViLous_dqgTHJNmvLTCkmZyY80GsfSon78ATRdhcXjkVSo94Qx5-VY4Zqo-G18r7jLbHVjJQuVXMOi4W4QFYAWhf_t-GduLJVE1iZvJhVMprQ2ssrBDxzul3au7VLmunwuds2ENcJa8DcRZQFxQQxRfKPV-LHH5HSaJzmB-G39VQ7eVCTCXPyAuxnXqfQ7ymcNz4J1eRwNgA4PFtsB3gJFG2aWbDp5wt_FOBMNDCUoD1-aJ0AhvTDKYf-fJkf3HtxPnAST7liGrJZXe6GIlRaSa-cQgWs8PJD1xwr1dRC1W5fXapEr6pshw62Xw4ND0jtDMkPhA2QwOeNQC3BuOd0laS-PYgGofvIC0OJ3ijEsa3QBMUWSX6bSFWWa4AM_AfiPFq7uTe-6B8mSzj0N5S0WpKP8l0361a3BXYxENXPPRCEYMNZkRD9AKXywd_b7ay_kMhaJCHZJZmwQ|title=Identification of transcription factor binding sites withvariable-order Bayesian networks|last=|first=|date=|website=|url-status=live|archive-url=|archive-date=|access-date=2019-10-23}}&lt;/ref&gt; [[Mann–Whitney test]] methods tailored to microarray data sets, which take into account [[multiple comparisons]]&lt;ref&gt;Yuk Fai Leung and Duccio Cavalieri, Fundamentals of cDNA microarray data analysis. Trends in Genetics Vol.19 No.11 November 2003.&lt;/ref&gt; or [[cluster analysis]].&lt;ref name="Priness2007"&gt;{{cite journal|author=Priness I.|author2=Maimon O.|author3=Ben-Gal I.|date=2007|title=Evaluation of gene-expression clustering via mutual information distance measure|journal=BMC Bioinformatics|volume=8|issue=1|page=111|doi=10.1186/1471-2105-8-111|pmid=17397530|pmc=1858704}}&lt;/ref&gt; These methods assess statistical power based on the variation present in the data and the number of experimental replicates, and can help minimize [[Type I and type II errors]] in the analyses.&lt;ref name="Wei"&gt;{{cite journal|author=Wei C |author2=Li J |author3=Bumgarner RE|date= 2004|title=Sample size for detecting differentially expressed genes in microarray experiments|journal=BMC Genomics|volume=5|pages=87|pmid=15533245|doi=10.1186/1471-2164-5-87|pmc=533874}}&lt;/ref&gt;
+&lt;!-- {{Citation needed|date=July 2008}}as in many other cases where authorities disagree, a sound conservative approach is to directly compare different normalization methods to determine the effects of these different methods on the results obtained. This can be done, for example, by investigating the performance of various methods on data from "spike-in" experiments. {{Citation needed|date=July 2008}} --&gt;
+* Dimensional reduction: Analysts often reduce the number of dimensions (genes) prior to data analysis.&lt;ref name="Peterson"/&gt; This may involve linear approaches such as principal components analysis (PCA), or non-linear manifold learning (distance metric learning) using kernel PCA, diffusion maps, Laplacian eigenmaps, local linear embedding, locally preserving projections, and Sammon's mapping.
+* Network-based methods: Statistical methods that take the underlying structure of gene networks into account, representing either associative or causative interactions or dependencies among gene products.&lt;ref name="Emmert"&gt;{{cite book |author=Emmert-Streib, F.|author2=Dehmer, M.|last-author-amp=yes |date=2008 |title=Analysis of Microarray Data A Network-Based Approach |publisher=Wiley-VCH |isbn=978-3-527-31822-3}}&lt;/ref&gt; [[Weighted Correlation Network Analysis|Weighted gene co-expression network analysis]] is widely used for identifying co-expression modules and intramodular hub genes. Modules may corresponds to cell types or pathways. Highly connected intramodular hubs best represent their respective modules.
+
+Microarray data may require further processing aimed at reducing the dimensionality of the data to aid comprehension and more focused analysis.&lt;ref&gt;{{cite journal
+ | author = Wouters L| author2 = Gõhlmann HW| author3 = Bijnens L| author4 = Kass SU| author5 = Molenberghs G| author6 = Lewi PJ | date = 2003
+ | title = Graphical exploration of gene expression data: a comparative study of three multivariate methods
+ | journal = Biometrics
+ | volume = 59 | pages = 1131–1139
+ | doi = 10.1111/j.0006-341X.2003.00130.x
+ | pmid = 14969494
+ | issue = 4
+| citeseerx = 10.1.1.730.3670}}&lt;/ref&gt; Other methods permit analysis of data consisting of a low number of biological or technical [[Replication (statistics)|replicate]]s; for example, the Local Pooled Error (LPE) test pools [[standard deviation]]s of genes with similar expression levels in an effort to compensate for insufficient replication.&lt;ref&gt;{{cite journal
+ | author = Jain N| author2 = Thatte J| author3 = Braciale T| author4 =  Ley K| author5 = O'Connell M| author6 = Lee JK | date = 2003
+ | title = Local-pooled-error test for identifying differentially expressed genes with a small number of replicated microarrays
+ | journal = Bioinformatics
+ | volume = 19 | pages = 1945–1951
+ | doi = 10.1093/bioinformatics/btg264
+ | pmid = 14555628
+ | issue = 15
+| doi-access = free}}&lt;/ref&gt;
+
+=== Annotation ===
+The relation between a probe and the [[mRNA]] that it is expected to detect is not trivial.&lt;ref&gt;{{cite journal|last1=Barbosa-Morais|first1=N. L.|last2=Dunning|first2=M. J.|last3=Samarajiwa|first3=S. A.|last4=Darot|first4=J. F. J.|last5=Ritchie|first5=M. E.|last6=Lynch|first6=A. G.|last7=Tavare|first7=S.|title=A re-annotation pipeline for Illumina BeadArrays: improving the interpretation of gene expression data|journal=Nucleic Acids Research|date=18 November 2009|volume=38|issue=3|pages=e17|doi=10.1093/nar/gkp942|pmid=19923232|pmc=2817484}}&lt;/ref&gt; Some mRNAs may cross-hybridize probes in the array that are supposed to detect another mRNA. In addition, mRNAs may experience amplification bias that is sequence or molecule-specific. Thirdly, probes that are designed to detect the mRNA of a particular gene may be relying on genomic [[Expressed sequence tag|EST]] information that is incorrectly associated with that gene.
+
+=== Data warehousing ===
+Microarray data was found to be more useful when compared to other similar datasets. The sheer volume of data, specialized formats (such as [[MIAME]]), and curation efforts associated with the datasets require specialized databases to store the data. A number of open-source data warehousing solutions, such as [[InterMine]] and [http://www.biomart.org/ BioMart], have been created for the specific purpose of integrating diverse biological datasets, and also support analysis.
+
+== Alternative technologies ==
+Advances in massively parallel sequencing has led to the development of [[RNA-Seq]] technology, that enables a whole transcriptome shotgun approach to characterize and quantify gene expression.&lt;ref name="mortazavi2008"&gt;{{Cite journal
+| doi = 10.1038/nmeth.1226
+| issn = 1548-7091
+| volume = 5
+| issue = 7
+| pages = 621–628
+| last = Mortazavi
+| first = Ali
+| author2=Brian A Williams |author3=Kenneth McCue |author4=Lorian Schaeffer |author5=Barbara Wold
+| title = Mapping and quantifying mammalian transcriptomes by RNA-Seq
+| journal = Nat Methods
+| date = July 2008
+| pmid=18516045
+}}&lt;/ref&gt;&lt;ref name="wang2009"&gt;{{Cite journal
+| doi = 10.1038/nrg2484
+| issn = 1471-0056
+| volume = 10
+| issue = 1
+| pages = 57–63
+| last = Wang
+| first = Zhong
+| author2=Mark Gerstein |author3=Michael Snyder
+| title = RNA-Seq: a revolutionary tool for transcriptomics
+| journal = Nat Rev Genet
+| date = January 2009
+| pmid = 19015660
+ | pmc=2949280
+}}&lt;/ref&gt; Unlike microarrays, which need a reference genome and transcriptome to be available before the microarray itself can be designed, RNA-Seq can also be used for new model organisms whose genome has not been sequenced yet.&lt;ref name="wang2009" /&gt;
+
+== Glossary ==
+&lt;!--
+For simplicity and to avoid redundancy, this section would contain only terms that are specific to [[DNA Microarry]], but would not be suitable in [[Glossary of gene expression terms]], or in a more general glossary.
+--&gt;
+
+* An ''array'' or ''slide'' is a collection of ''[[Glossary of gene expression terms#F|features]]'' spatially arranged in a two dimensional grid, arranged in columns and rows.
+* ''Block'' or ''subarray'': a group of spots, typically made in one print round; several subarrays/ blocks form an array.
+* ''Case/control'': an experimental design paradigm especially suited to the two-colour array system, in which a condition chosen as control (such as healthy tissue or state) is compared to an altered condition (such as a diseased tissue or state).
+* ''[[Channel (digital image)|Channel]]'': the [[fluorescence]] output recorded in the scanner for an individual [[fluorophore]] and can even be ultraviolet.
+* ''Dye flip'' or ''dye swap'' or ''[[fluorophore|fluor]] reversal'': reciprocal labelling of DNA targets with the two dyes to account for dye bias in experiments.
+* ''Scanner'': an instrument used to detect and quantify the intensity of fluorescence of spots on a microarray slide, by selectively exciting fluorophores with a [[laser]] and measuring the fluorescence with a [[filtered|filter (optics)]] [[photomultiplier]] system.
+* ''Spot'' or ''feature'': a small area on an array slide that contains picomoles of specific DNA samples.
+* For other relevant terms see:
+** [[Glossary of gene expression terms]]
+** [[Protocol (natural sciences)]]
+
+== See also ==
+{{Portal|Biology|Technology}}
+{{colbegin}}
+* [[Transcriptomics technologies]]
+** [[Serial analysis of gene expression]]
+** [[RNA-Seq]]
+* [[MAGIChip]]
+* [[Microarray analysis techniques]]
+* [[Microarray databases]]
+* [[Cyanine]] dyes, such as Cy3 and Cy5, are commonly used [[fluorophores]] with microarrays
+* [[Gene chip analysis]]
+* [[Significance analysis of microarrays]]
+* [[Methylation specific oligonucleotide microarray]]
+* [[Microfluidics]] or [[lab-on-chip]]
+* [[Pathogenomics]]
+* [[Phenotype microarray]]
+* [[Systems biology]]
+* [[Whole genome sequencing]]{{colend}}
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+&lt;!-- BEFORE inserting new links here you should first post it to the talk page, otherwise your edit is likely to be reverted--&gt;
+{{Library resources box
+ |onlinebooks=no
+ |by=no
+ |lcheading=DNA microarrays
+ |label=DNA microarrays}}
+{{Commons category|DNA microarrays}}
+* {{curlie|Science/Biology/Biochemistry_and_Molecular_Biology/Gene_Expression|Gene Expression}}
+* {{curlie|Science/Biology/Biochemistry_and_Molecular_Biology/Products_and_Services/Micro_Scale|Micro Scale Products and Services for Biochemistry and Molecular Biology}}
+* {{curlie|Science/Biology/Biochemistry_and_Molecular_Biology/Gene_Expression/Products_and_Services|Products and Services for Gene Expression}}
+* {{curlie|Science/Biology/Bioinformatics/Online_Services/Gene_Expression_and_Regulation|Online Services for Gene Expression Analysis}}
+* [http://www.1lec.com/microarray/ Microarray Animation] 1Lec.com
+* [http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.0000015 PLoS Biology Primer: Microarray Analysis]
+* [https://web.archive.org/web/20150924040600/http://www.genome.gov/page.cfm?pageID=10000533 Rundown of microarray technology]
+* [http://www.arraymining.net ArrayMining.net]{{snd}}a free web-server for online microarray analysis
+* [http://www.unsolvedmysteries.oregonstate.edu/microarray_07 Microarray - How does it work?]
+* [http://www.pnas.org/content/103/44/16063.extract PNAS Commentary: Discovery of Principles of Nature from Mathematical Modeling of DNA Microarray Data]
+* [http://learn.genetics.utah.edu/content/labs/microarray/ DNA microarray virtual experiment]
+{{Molecular Biology}}
+{{Glass science}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dna Microarray}}
+[[Category:Gene expression]]
+[[Category:Bioinformatics]]
+[[Category:Glass coating and surface modification]]
+[[Category:DNA]]
+[[Category:Microtechnology]]
+[[Category:Articles containing video clips]]
+[[Category:Molecular biology techniques]]
+[[Category:Microarrays]]</text>
+      <sha1>6o2klepio5szmf83am9l0iee2vqrjw3</sha1>
+    </revision>
+  </page>
+</mediawiki>

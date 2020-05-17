@@ -1,0 +1,251 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>John Bardeen</title>
+    <ns>0</ns>
+    <id>15737</id>
+    <revision>
+      <id>956147090</id>
+      <parentid>953202245</parentid>
+      <timestamp>2020-05-11T18:58:07Z</timestamp>
+      <contributor>
+        <username>NeXTELeMENT</username>
+        <id>31395473</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35508" xml:space="preserve">{{Infobox scientist
+| name              = John Bardeen
+| image             = Bardeen.jpg
+| birth_date        = {{Birth date|1908|05|23}}
+| birth_place       = [[Madison, Wisconsin]], U.S.
+| death_date        = {{Death date and age|1991|01|30|1908|05|23}}
+| death_place       = [[Boston, Massachusetts]], U.S.
+| fields            = [[Physics]]
+| workplaces        = [[Bell Telephone Laboratories]]&lt;br&gt;[[University of Illinois at Urbana–Champaign]]
+| education         = [[University of Wisconsin–Madison|University of Wisconsin]] (B.S., M.S.)&lt;br&gt; [[Princeton University]] (Ph.D.)
+| thesis_title      = Quantum Theory of the Work Function
+| thesis_url        = https://books.google.com/books?id=FEkvGwAACAAJ
+| thesis_year       = 1936
+| doctoral_advisor  = [[Eugene Wigner]]&lt;ref name=mathgene&gt;{{MathGenealogy|id=42856}}&lt;/ref&gt;
+| academic_advisors = 
+| doctoral_students = {{Plainlist|
+* [[William L. McMillan]]&lt;ref name=mathgene/&gt;
+* [[John Robert Schrieffer]]&lt;ref name=mathgene/&gt;
+* [[Nick Holonyak]]&lt;ref name="knightridder"/&gt;}}
+| notable_students  = 
+| known_for         = {{Plainlist|
+* [[Transistor]]
+* [[BCS theory]]
+* [[Superconductivity]]}}
+| influences        = 
+| influenced        = 
+| awards            = {{Plainlist|
+* [[Stuart Ballantine Medal]] (1952)
+* [[Oliver E. Buckley Condensed Matter Prize]] (1954)
+* [[Nobel Prize in Physics]] (1956)&lt;ref name=nobelprizeorg&gt;[http://nobelprize.org/physics/laureates/1972/bardeen-bio.html Bardeen Biography from the Nobel Foundation]&lt;/ref&gt;
+* [[National Medal of Science]] (1965)
+* [[IEEE Medal of Honor]] (1971)
+* [[Nobel Prize in Physics]] (1972)
+* [[Fellow of the Royal Society|ForMemRS]] (1973)&lt;ref name=formemrs/&gt;
+* [[Lomonosov Gold Medal]] (1987)
+* [[Harold Pender Award]] (1988)}}
+| signature         = &lt;!--(filename only)--&gt;
+| signature_alt     = 
+| website           = &lt;!-- {{URL|www.example.com}} --&gt;
+| footnotes         = 
+| spouse            = {{marriage|Jane Maxwell|July 18, 1938}}
+| children          = {{Plainlist|
+* [[James M. Bardeen]] ({{abbr|b.|born}} 1939)
+* [[William A. Bardeen]] ({{abbr|b.|born}} 1941)
+* Elizabeth Greytak (1944–2000)&lt;ref&gt;{{cite news|url=http://www.highbeam.com/doc/1P2-8620751.html|archive-url=https://web.archive.org/web/20160301073122/https://www.highbeam.com/doc/1P2-8620751.html|url-status=dead|archive-date=2016-03-01|title=Elizabeth Greytak, Systems Analyst|newspaper=[[The Boston Globe]]|location=Boston|date=2000-12-25|accessdate=2014-12-27}}&lt;/ref&gt;}}
+}}
+'''John Bardeen''' ({{IPAc-en|b|ɑr|ˈ|d|iː|n}}; May 23, 1908 – January 30, 1991)&lt;ref name=formemrs&gt;{{Cite journal | last1 = Pippard | first1 = B. | authorlink = Brian Pippard| doi = 10.1098/rsbm.1994.0002 | title = John Bardeen. 23 May 1908–30 January 1991 | journal = [[Biographical Memoirs of Fellows of the Royal Society]] | volume = 39 | pages = 20–34| year = 1994 | pmid =  | pmc = }}&lt;/ref&gt; was an American [[physicist]]. He is the only person to be awarded the [[Nobel Prize in Physics]] twice: first in 1956 with [[William Shockley]] and [[Walter Houser Brattain|Walter Brattain]] for the invention of the [[transistor]]; and again in 1972 with [[Leon Cooper|Leon N Cooper]] and [[John Robert Schrieffer]] for a fundamental theory of conventional [[superconductivity]] known as the [[BCS theory]].&lt;ref name=nobelprizeorg/&gt;&lt;ref&gt;[[Lillian Hoddeson|Hoddeson, Lillian]] and Vicki Daitch. ''True Genius: the Life and Science of John Bardeen''. National Academy Press, 2002. {{ISBN|0-309-08408-3}}&lt;/ref&gt;
+
+The transistor revolutionized the electronics industry, making possible the development of almost every modern electronic device, from [[telephone]]s to [[computer]]s, and ushering in the [[Information Age]]. Bardeen's developments in superconductivity—for which he was awarded his second Nobel Prize—are used in [[nuclear magnetic resonance]] spectroscopy (NMR) and medical [[magnetic resonance imaging]] (MRI).
+
+In 1990, Bardeen appeared on ''[[Life (magazine)|LIFE Magazine]]'''s list of "100 Most Influential Americans of the Century."&lt;ref name="washpost"&gt;{{cite news |title= John Bardeen, Nobelist, Inventor of Transistor, Dies |url= http://www.highbeam.com/doc/1P2-1047095.html|archive-url= https://web.archive.org/web/20121102062647/http://www.highbeam.com/doc/1P2-1047095.html|url-status= dead|archive-date= 2012-11-02|newspaper=Washington Post|date=1991-01-31 |accessdate=2007-08-03 }}&lt;/ref&gt;
+
+==Education and early life==
+Bardeen was born in [[Madison, Wisconsin]], on May 23, 1908.&lt;ref name="Biography of John Bardeen"&gt;{{cite web |url=http://nobelprize.org/nobel_prizes/physics/laureates/1956/bardeen-bio.html |title=Biography of John Bardeen |accessdate=2007-11-01 |publisher=The Nobel Foundation }}&lt;/ref&gt; He was the son of [[Charles Russell Bardeen|Charles Bardeen]], the first dean of the University of Wisconsin Medical School.
+
+Bardeen attended the University High School at Madison. He graduated from the school in 1923 at age 15.&lt;ref name="Biography of John Bardeen"/&gt; He could have graduated several years earlier, but this was postponed because he took courses at another high school and  because of his mother's death. He entered the [[University of Wisconsin–Madison|University of Wisconsin]] in 1923. While in college, he joined the [[Zeta Psi]] fraternity. He raised the needed membership fees partly by playing billiards. He was initiated as a member of [[Tau Beta Pi]] engineering honor society. He chose engineering because he did not want to be an academic like his father. He also felt that engineering had good job prospects.&lt;ref name="John Bardeen 1"&gt;{{cite web |url=https://www.pbs.org/transistor/album1/bardeen/index.html |title=Biography of John Bardeen 1 |accessdate=2007-12-24 |publisher=PBS}}&lt;/ref&gt;
+
+Bardeen received his [[Bachelor of Science]] degree in [[electrical engineering]] in 1928 from the University of Wisconsin–Madison.&lt;ref name="CV of Bardeen"&gt;{{cite web |url=http://nobelprize.org/nobel_prizes/physics/laureates/1972/bardeen-cv.html |title=Curriculum Vitae of John Bardeen| accessdate=2007-11-01 |publisher = The Nobel Foundation }}&lt;/ref&gt; He graduated in 1928 despite taking a year off to work in Chicago.&lt;ref name="genius in action"&gt;{{cite web |url=http://physicsworld.com/cws/article/print/17406 |title=John Bardeen: genius in action |accessdate=2008-01-07 |author=David Pines |date=2003-05-01 |publisher=physicsworld.com |archiveurl = https://web.archive.org/web/20071020192456/http://physicsworld.com/cws/article/print/17406 &lt;!-- Bot retrieved archive --&gt; |archivedate = 2007-10-20}}&lt;/ref&gt; He took all the graduate courses in physics and mathematics that had interested him, and he graduated in five years instead of the usual four. This allowed him time to complete his Master's thesis, which was supervised by Leo J. Peters. He received his [[Master of Science]] degree in electrical engineering in 1929 from Wisconsin.&lt;ref name=mathgene/&gt;&lt;ref name="CV of Bardeen"/&gt;
+
+Bardeen furthered his studies by staying on at Wisconsin, but he eventually went to work for [[University of Pittsburgh Applied Research Center|Gulf Research Laboratories]], the research arm of the [[Gulf Oil]] Corporation that was based in [[Pittsburgh]].&lt;ref name="washpost"/&gt; From 1930 to 1933, Bardeen worked there on the development of methods for the interpretation of magnetic and gravitational surveys.&lt;ref name="Biography of John Bardeen"/&gt; He worked as a geophysicist. After the work failed to keep his interest, he applied and was accepted to the graduate program in mathematics at [[Princeton University]].&lt;ref name="John Bardeen 1"/&gt;
+
+As a graduate student, Bardeen studied mathematics and physics. Under physicist [[Eugene Wigner]], he ended up writing his [[thesis]] on a problem in [[solid-state physics]]. Before completing his thesis, he was offered a position as Junior Fellow of the [[Harvard Society of Fellows|Society of Fellows at Harvard University]] in 1935. He spent the next three years there, from 1935 to 1938, working with to-be Nobel laureates in physics [[John Hasbrouck van Vleck]] and [[Percy Williams Bridgman]] on problems in cohesion and electrical conduction in metals, and also did some work on level density of nuclei. He received his [[Doctor of Philosophy|Ph.D.]] in [[mathematical physics]] from Princeton in 1936.&lt;ref name="Biography of John Bardeen"/&gt;
+
+==Career and research==
+
+===World War II Service===
+From 1941 to 1944, Bardeen headed the group working on magnetic mines and torpedoes and mine and torpedo countermeasures at the [[Naval Ordnance Laboratory]]. During this period his wife Jane gave birth to a son (Bill, born in 1941) and a daughter (Betsy, born in 1944).&lt;ref&gt;Pines, David. "John Bardeen." (2013). http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/bardeen-john.pdf&lt;/ref&gt;
+
+===Bell Labs===
+[[File:Bardeen Shockley Brattain 1948.JPG|thumb|John Bardeen, William Shockley and Walter Brattain at Bell Labs, 1948]]
+In October 1945, Bardeen began work at [[Bell Labs]]. He was a member of a [[solid-state physics]] group, led by [[William Shockley]] and chemist Stanley Morgan. Other personnel working in the group were [[Walter Brattain]], physicist [[Gerald Pearson]], chemist Robert Gibney, electronics expert Hilbert Moore and several technicians. He moved his family to [[Summit, New Jersey]].&lt;ref&gt;{{cite book |url=https://archive.org/details/truegeniuslifesc0000hodd |url-access=registration |title=True Genius: The Life and Science of John Bardeen |publisher=Joseph Henry Press |page=[https://archive.org/details/truegeniuslifesc0000hodd/page/117 117] |quote=Soon, however, life in Summit would become easy and rich for the Bardeens. |isbn=9780309084086 |last1=Daitch |first1=Vicki |last2=Hoddeson |first2=Lillian |date=2002-10-28 }}&lt;/ref&gt;
+
+The assignment of the group was to seek a solid-state alternative to fragile glass [[vacuum tube]] amplifiers.  Their first attempts were based on Shockley's ideas about using an external electrical field on a semiconductor to affect its conductivity. These experiments mysteriously failed every time in all sorts of configurations and materials. The group was at a standstill until Bardeen suggested a theory that invoked surface states that prevented the field from penetrating the semiconductor. The group changed its focus to study these surface states, and they met almost daily to discuss the work.  The rapport of the group was excellent, and ideas were freely exchanged.&lt;ref&gt;{{cite book |url=https://archive.org/details/crystalfirebirth00rior |url-access=registration |title=Crystal Fire |publisher=W. W. Norton &amp; Company |page=[https://archive.org/details/crystalfirebirth00rior/page/127 127] |isbn=9780393041248 |last1=Riordan |first1=Michael |last2=Hoddeson |first2=Lillian |year=1997 }}&lt;/ref&gt; By the winter of 1946 they had enough results that Bardeen submitted a paper on the surface states to ''[[Physical Review]]''. Brattain started experiments to study the surface states through observations made while shining a bright light on the semiconductor's surface. This led to several more papers (one of them co-authored with Shockley), which estimated the density of the surface states to be more than enough to account for their failed experiments. The pace of the work picked up significantly when they started to surround point contacts between the semiconductor and the conducting wires with [[electrolyte]]s. Moore built a circuit that allowed them to vary the frequency of the input signal easily and suggested that they use glycol borate (gu), a viscous chemical that didn't evaporate. Finally they began to get some evidence of power amplification when Pearson, acting on a suggestion by Shockley,&lt;ref&gt;{{cite book |url=https://archive.org/details/crystalfirebirth00rior |url-access=registration |page=[https://archive.org/details/crystalfirebirth00rior/page/132 132] |title=Crystal Fire: The Birth of the Information Age |publisher=W. W. Norton &amp; Company |isbn=9780393041248 |last1=Riordan |first1=Michael |last2=Hoddeson |first2=Lillian |year=1997 }}&lt;/ref&gt; put a voltage on a droplet of gu placed across a [[p–n junction]].
+
+===The invention of the transistor===
+{{main|Transistor|History of the transistor}}
+[[File:Replica-of-first-transistor.jpg|thumb|340px|A stylized replica of the first transistor invented at Bell Labs on December 23, 1947]]
+
+On December 23, 1947, Bardeen and Brattain were working without Shockley when they succeeded in creating a [[point-contact transistor]] that achieved amplification. By the next month, [[Bell Labs]]' patent attorneys started to work on the patent applications.&lt;ref name="John Bardeen 2"&gt;{{cite web |url=https://www.pbs.org/transistor/album1/bardeen/bardeen2.html |title=Biography of John Bardeen 2 |accessdate=2007-12-24 |publisher=PBS }}&lt;/ref&gt;
+
+Bell Labs' attorneys soon discovered that Shockley's field effect principle had been anticipated and patented in 1930 by [[Julius Lilienfeld]], who filed his [[MESFET]]-like patent in Canada on October 22, 1925.&lt;ref&gt;{{patent|US|1745175|"Method and apparatus for controlling electric current" first filing in Canada on 22.10.1925}}&lt;/ref&gt;
+
+Shockley publicly took the lion's share of the credit for the invention of transistor; this led to a deterioration of Bardeen's relationship with Shockley.&lt;ref&gt;Diane Kormos Buchwald. ''American Scientist'' 91.2 (Mar.-Apr. 2003): 185–86.&lt;/ref&gt; Bell Labs management, however, consistently presented all three inventors as a team. Shockley eventually infuriated and alienated Bardeen and Brattain, and he essentially blocked the two from working on the junction transistor. Bardeen began pursuing a theory for superconductivity and left Bell Labs in 1951. Brattain refused to work with Shockley further and was assigned to another group. Neither Bardeen nor Brattain had much to do with the development of the transistor beyond the first year after its invention.&lt;ref&gt;''Crystal Fire'' p. 278&lt;/ref&gt;&lt;ref&gt;R Kessler, 1997, [https://www.washingtonpost.com/archive/lifestyle/magazine/1997/04/06/absent-at-the-creation/2a432ee5-b1e3-49b9-93f2-ad821d1832dd/  ''Absent at the Creation''], Washington Post Magazine.&lt;/ref&gt;
+
+The "transistor" (a [[portmanteau]] of "transconductance" and "resistor") was 1/50 the size of the [[vacuum tube]]s it replaced in televisions and radios, used far less power, was far more reliable, and it allowed electrical devices to become more compact.&lt;ref name="washpost"/&gt;
+
+===University of Illinois at Urbana–Champaign===
+[[File:Bardeen plaque uiuc.jpg|thumb|right|350px|A commemorative plaque remembering John Bardeen and the theory of superconductivity, at the [[University of Illinois at Urbana–Champaign]]]]
+
+By 1951, Bardeen was looking for a new job. Fred Seitz, a friend of Bardeen, convinced the [[University of Illinois at Urbana–Champaign]] to make Bardeen an offer of $10,000 a year. Bardeen accepted the offer and left Bell Labs.&lt;ref name="John Bardeen 2" /&gt; He joined the engineering and physics faculties at the University of Illinois at Urbana–Champaign in 1951. He was Professor of Electrical Engineering and of Physics at Illinois. His  [[Doctor of Philosophy|Ph.D.]] student [[Nick Holonyak]] (1954), invented the [[light-emitting diode|LED]] in 1962.&lt;ref name="knightridder"&gt;{{cite news |title=Nice Guys Can Finish As Geniuses at University of Illinois in Urbana-Champaign. |url=http://articles.chicagotribune.com/2003-01-25/business/0301250052_1_semiconductor-lasers-john-bardeen-true-genius|work=Chicago Tribune: Knight Ridder News Service |date=2003-01-25 |accessdate=2007-08-03}}&lt;/ref&gt;
+
+At Illinois, he established two major research programs, one in the Electrical Engineering Department and one in the Physics Department. The research program in the Electrical Engineering Department dealt with both experimental and theoretical aspects of semiconductors, and the research program in the Physics Department dealt with theoretical aspects of macroscopic quantum systems, particularly superconductivity and quantum liquids.&lt;ref&gt;{{cite web |url=http://www.physics.uiuc.edu/history/bardeen.htm |title=Biography at the University of Illinois at Urbana-Champaign |accessdate=2007-11-06 |publisher=The University of Illinois at Urbana-Champaign |archiveurl=https://web.archive.org/web/20071011195706/http://physics.uiuc.edu/history/bardeen.htm &lt;!-- Bot retrieved archive --&gt; |archivedate=2007-10-11}}&lt;/ref&gt;
+
+He was an active professor at Illinois from 1951 to 1975 and then became Professor Emeritus.&lt;ref name="washpost" /&gt; In his later life, Bardeen remained active in academic research, during which time he focused on understanding the flow of electrons in [[charge density wave]]s (CDWs) through metallic linear chain compounds. His proposals&lt;ref&gt;{{cite journal|last=Bardeen |first=John |title=Theory of non-ohmic conduction from charge-density waves in NbSe3 |journal=Physical Review Letters |year=1979 |volume=42 |issue=22 |pages=1498–1500 |doi=10.1103/PhysRevLett.42.1498 |bibcode=1979PhRvL..42.1498B}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|last=Bardeen |first=John |title=Tunneling theory of charge-density-wave depinning |journal=Physical Review Letters |year=1980 |volume=45 |issue=24 |pages=1978–1980 |doi=10.1103/PhysRevLett.45.1978 |bibcode=1980PhRvL..45.1978B }}&lt;/ref&gt;&lt;ref&gt;{{cite journal|author1=J. H. Miller, Jr. |author2=J. Richard |author3=J. R. Tucker |author4=John Bardeen |title=Evidence for tunneling of charge-density waves in TaS3 |journal=Physical Review Letters |year=1983 |volume=51 |issue=17 |pages=1592–1595 |doi=10.1103/PhysRevLett.51.1592 |bibcode=1983PhRvL..51.1592M }}&lt;/ref&gt; that CDW electron transport is a collective quantum phenomenon (see [[Macroscopic quantum phenomena]]) were initially greeted with skepticism.&lt;ref&gt;{{cite journal|last=Pines |first=David |title=Biographical Memoirs: John Bardeen |journal=Proceedings of the American Philosophical Society |year=2009 |volume=153 |issue=3 |pages=287–321 |url=http://www.amphilsoc.org/sites/default/files/5BardeenBio1530306.pdf |url-status=dead |archiveurl=https://web.archive.org/web/20130524035311/http://www.amphilsoc.org/sites/default/files/5BardeenBio1530306.pdf |archivedate=24 May 2013}}&lt;/ref&gt;  However, experiments reported in 2012&lt;ref&gt;{{cite journal|author1=M. Tsubota |author2=K. Inagaki |author3=T. Matsuura |author4=S. Tanda |title=Aharonov-Bohm effect in charge-density wave loops with inherent temporal current switching|journal=EPL|year=2012|volume=97|issue=5|page=57011|doi=10.1209/0295-5075/97/57011|arxiv=0906.5206 |bibcode=2012EL.....9757011T}}&lt;/ref&gt;  show oscillations in CDW current versus magnetic flux through tantalum trisulfide rings, similar to the behavior of superconducting quantum interference devices (see [[SQUID]] and [[Aharonov–Bohm effect]]), lending credence to the idea that collective CDW electron transport is fundamentally quantum in nature.&lt;ref&gt;{{cite journal|author1=J. H. Miller, Jr. |author2=A.I. Wijesinghe |author3=Z. Tang |author4=A.M. Guloy |title=Correlated quantum transport of density wave electrons|journal=Physical Review Letters|year=2012|volume=108|issue=3|page=036404|doi=10.1103/PhysRevLett.108.036404|arxiv=1109.4619 |bibcode=2012PhRvL.108c6404M |pmid=22400766}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|author1=J.H. Miller, Jr. |author2=A.I. Wijesinghe |author3=Z. Tang |author4=A.M. Guloy |title=Coherent quantum transport of charge density waves|journal=Physical Review B |volume=87 |issue=11 |pages=115127 |arxiv=1212.3020|bibcode=2013PhRvB..87k5127M|doi=10.1103/PhysRevB.87.115127|year=2013}}&lt;/ref&gt; (See [[quantum mechanics]].) Bardeen continued his research throughout the 1980s, and published articles in ''[[Physical Review Letters]]''&lt;ref&gt;{{cite journal|last=Bardeen |first=John |title=Theory of size effects in depinning of charge-density waves |journal=Physical Review Letters |year=1990 |volume=64 |issue=19 |pages=2297–2299 |doi=10.1103/PhysRevLett.64.2297 |pmid=10041638 |bibcode=1990PhRvL..64.2297B }}&lt;/ref&gt; and ''[[Physics Today]]''&lt;ref&gt;{{cite journal|last=Bardeen|first=John|title=Superconductivity and other macroscopic quantum phenomena|journal=Physics Today|year=1990|volume=43|issue=12|pages=25–31|doi=10.1063/1.881218|url=http://www.physicstoday.org/resource/1/phtoad/v43/i12/p25_s1|archive-url=https://archive.today/20130415170644/http://www.physicstoday.org/resource/1/phtoad/v43/i12/p25_s1|url-status=dead|archive-date=2013-04-15|bibcode=1990PhT....43l..25B}}&lt;/ref&gt; less than a year before he died.
+
+===The Nobel Prize in Physics in 1956===
+In 1956, John Bardeen shared the [[Nobel Prize in Physics]] with [[William Shockley]] of Semiconductor Laboratory of Beckman Instruments and [[Walter Brattain]] of Bell Telephone Laboratories "''for their researches on semiconductors and their discovery of the transistor effect''".&lt;ref&gt;{{cite web |url=http://nobelprize.org/nobel_prizes/physics/laureates/1956/index.html |title=The Nobel Prize in Physics in 1956 |accessdate=2007-11-06 |publisher=The Nobel Foundation }}&lt;/ref&gt;
+
+At the Nobel Prize ceremony in [[Stockholm]], Brattain and Shockley received their awards that night from [[Gustaf VI Adolf of Sweden|King Gustaf VI Adolf]]. Bardeen brought only one of his three children to the Nobel Prize ceremony. King Gustav chided Bardeen because of this, and Bardeen assured the King that the next time he would bring all his children to the ceremony. He kept his promise.&lt;ref name="John Bardeen 3"&gt;{{cite web |url=https://www.pbs.org/transistor/album1/bardeen/bardeen3.html |title=Biography of John Bardeen 3 |accessdate=2007-12-24 |publisher=PBS}}&lt;/ref&gt;
+
+===BCS theory===
+{{main|BCS theory}}
+In 1957, Bardeen, in collaboration with [[Leon Cooper]] and his doctoral student [[John Robert Schrieffer]], proposed the standard theory of [[superconductivity]] known as the [[BCS theory]] (named for their initials).&lt;ref name="washpost"/&gt;
+
+===The Nobel Prize in Physics in 1972===
+In 1972, Bardeen shared the [[Nobel Prize in Physics]] with [[Leon N Cooper]] of [[Brown University]] and [[John Robert Schrieffer]] of the [[University of Pennsylvania]] "for their jointly developed theory of superconductivity, usually called the BCS-theory".&lt;ref&gt;{{cite web |url=http://nobelprize.org/nobel_prizes/physics/laureates/1972/index.html |title=The Nobel Prize in Physics in 1972 |accessdate=2007-12-19 |publisher=The Nobel Foundation}}&lt;/ref&gt; This was Bardeen's second Nobel Prize in Physics. He became the first person to win two Nobel Prizes in the same field.&lt;ref name="chisuntimes2"&gt;{{cite news |title= Physicist John Bardeen, 82, transistor pioneer, Nobelist |url= http://www.highbeam.com/doc/1P2-4038249.html|archive-url= https://web.archive.org/web/20121102062652/http://www.highbeam.com/doc/1P2-4038249.html|url-status= dead|archive-date= 2012-11-02|newspaper=Chicago Sun-Times|date=1991-01-31 |accessdate=2007-08-03}}&lt;/ref&gt; Only three others have ever received more than one Nobel Prize.&lt;ref&gt;cf. [[List of Nobel laureates#Laureates]]&lt;/ref&gt;
+
+Bardeen brought his three children to the Nobel Prize ceremony in Stockholm.&lt;ref name="John Bardeen 3"/&gt; Bardeen gave much of his Nobel Prize money to fund the [[Fritz London]] Memorial Lectures at [[Duke University]].&lt;ref&gt;{{cite web |url=http://www.phy.duke.edu/~hm/flondonprizeawards.html |title=Fritz London Memorial Prize |accessdate=2007-12-24 |publisher=Duke University }}&lt;/ref&gt;
+
+===Other awards===
+In addition to being awarded the Nobel prize twice, Bardeen has numerous other awards including:
+* 1952 [[Franklin Institute]]'s [[Stuart Ballantine Medal]].
+* 1959 elected a Fellow of the [[American Academy of Arts and Sciences]]&lt;ref name=AAAS&gt;{{cite web|title=Book of Members, 1780–2010: Chapter B|url=http://www.amacad.org/publications/BookofMembers/ChapterB.pdf|publisher=American Academy of Arts and Sciences|accessdate=15 April 2011}}&lt;/ref&gt;
+* 1965 [[National Medal of Science]].&lt;ref&gt;{{cite web|url=https://www.nsf.gov/od/nms/recip_details.cfm?recip_id=30 |title=The President's National Medal of Science: Recipient Details – US National Science Foundation (NSF) |publisher=nsf.gov |date= |accessdate=2014-02-25}}&lt;/ref&gt;
+* 1971 [[IEEE Medal of Honor]] for "his profound contributions to the understanding of the conductivity of solids, to the invention of the transistor, and to the microscopic theory of superconductivity."
+* Elected a [[List of Fellows of the Royal Society elected in 1973|Foreign Member of the Royal Society (ForMemRS) in 1973]].&lt;ref name=formemrs/&gt;&lt;ref name=royalsoc&gt;{{cite web|title=Fellowship of the Royal Society 1660–2015 |url=https://docs.google.com/spreadsheets/d/1RVVZY00MZNrK2YCTTzVrbTFH2t3RxoAZah128gQR-NM/pubhtml |publisher=[[Royal Society]] |location=London |archiveurl=https://web.archive.org/web/20151015185820/https://docs.google.com/spreadsheets/d/1RVVZY00MZNrK2YCTTzVrbTFH2t3RxoAZah128gQR-NM/pubhtml |archivedate=2015-10-15 |url-status=dead }}&lt;/ref&gt;
+* 1975 [[Franklin Medal]].
+* On January 10, 1977, John Bardeen was presented with the [[Presidential Medal of Freedom]] by President [[Gerald Ford]]. He was represented at the ceremony by his son, William Bardeen.
+* Bardeen was one of 11 recipients given the Third Century Award from President [[George H. W. Bush]] in 1990 for "exceptional contributions to American society" and was granted a [[Lomonosov Gold Medal|gold medal]] from the [[Soviet Academy of Sciences]] in 1988.
+
+===Xerox===
+Bardeen was also an important adviser to [[Xerox|Xerox Corporation]].  Though quiet by nature, he took the uncharacteristic step of urging Xerox executives to keep their California research center, [[Xerox PARC]], afloat when the parent company was suspicious that its research center would amount to little.
+
+==Personal life==
+Bardeen married Jane Maxwell on July 18, 1938. While at Princeton, he met Jane during a visit to his old friends in [[Pittsburgh]].
+
+Bardeen was a scientist with a very unassuming personality. While he served as a professor for almost 40&amp;nbsp;years at the University of Illinois, he was best remembered by neighbors for hosting cookouts where he would prepare food for his friends, many of whom were unaware of his accomplishments at the university. He would always ask his guests if they liked the hamburger bun toasted (since he liked his that way).  He enjoyed playing [[golf]] and going on [[picnic]]s with his family.  Lillian Hoddeson, a University of Illinois historian who wrote a book on Bardeen, said that because he "differed radically from the popular stereotype of 'genius' and was uninterested in appearing other than ordinary, the public and the media often overlooked him."&lt;ref name="knightridder"/&gt;
+
+When Bardeen was asked about his beliefs during a 1988 interview, he responded: "I am not a religious person, and so do not think about it very much". However, he has also said: "I feel that science cannot provide an answer to the ultimate questions about the meaning and purpose of life." Bardeen did believe in a code of moral values and behaviour.&lt;ref&gt;{{cite book|title=True Genius: The Life and Science of John Bardeen|url=https://archive.org/details/truegeniuslifesc0000hodd|url-access=registration|year=2002|publisher=Joseph Henry Press|isbn=9780309169547|first1=Lillian|last1= Hoddeson|first2=Vicki|last2= Daitch|quote=John's mother, Althea, had been reared in the Quaker tradition, and his stepmother, Ruth, was Catholic, but John was resolutely secular throughout his life. He was once "taken by surprise" when an interviewer asked him a question about religion. "I am not a religious person," he said, "and so do not think about it very much." He went on in a rare elaboration of his personal beliefs. "I feel that science cannot provide an answer to the ultimate questions about the meaning and purpose of life. With religion, one can get answers on faith. Most scientists leave them open and perhaps unanswerable, but do abide by a code of moral values. For a civilized society to succeed, there must be a common consensus on moral values and moral behaviour, with due regard to the welfare of our fellow man. There are likely many sets of moral values compatible with successful civilized society. It is when they conflict that difficulties arise."}}&lt;/ref&gt; John Bardeen's children were taken to church by his wife, who taught Sunday school and was a church elder.&lt;ref&gt;Daitch &amp; Hoddeson (2002). ''True Genius:: The Life and Science of John Bardeen''. Joseph Henry Press, pp. 168–169.&lt;/ref&gt; Despite this, he and his wife made it clear that they did not have faith in an afterlife and other religious ideas.&lt;ref&gt;{{cite book|author1=Vicki Daitch, Lillian Hoddeson|title=True Genius:: The Life and Science of John Bardeen|date=2002|publisher=Joseph Henry Press|isbn=9780309169547|page=313|chapter=Last Journey|quote="Every time we attend a funeral service," Jane had once told her sister Betty, "we decide again that we want no such ceremony when we die." She and John agreed that the family could, if they wanted to, have a memorial service conducted by friends and family, "but not a sermon by a stranger, who, if a minister, is bound to dwell on life after death and other religious ideas in which we have no faith."}}&lt;/ref&gt;
+
+===Death===
+Bardeen died of [[heart disease]] at age 82 at [[Brigham and Women's Hospital]] in [[Boston]], [[Massachusetts]], on January 30, 1991.&lt;ref name=obit/&gt;  Although he lived in [[Urbana, Illinois|Champaign-Urbana]], he had come to Boston for medical consultation.&lt;ref name="washpost"/&gt; Bardeen and his wife Jane (1907–1997) are buried in [[Forest Hill Cemetery]], Madison, Wisconsin.&lt;ref&gt;''https://www.flickr.com/photos/centralhistorian/383446449/'', Accessed 9-30-2009.&lt;/ref&gt; They were survived by three children, [[James M. Bardeen|James]], [[William A. Bardeen|William]] and Elizabeth Bardeen Greytak, and six grandchildren.&lt;ref name="washpost"/&gt;
+
+===Legacy===
+{{quote box|align=right|width=33%|quote = Near the end of this decade, when they begin enumerating the names of the people who had the greatest impact on the 20th century, the name of John Bardeen, who died last week, has to be near, or perhaps even arguably at, the top of the list ... Mr. Bardeen shared two Nobel Prizes and has been awarded numerous other honors.  But what greater honor can there be when each of us can look all around us and everywhere see the reminders of a man whose genius has made our lives longer, healthier and better.|source= —''[[Chicago Tribune]]'' editorial, February 3, 1991}}
+
+In honor of Professor Bardeen, the engineering [[Quadrangle (architecture)|quadrangle]] at the University of Illinois at Urbana-Champaign is named the Bardeen Quad.
+
+Also in honor of Bardeen, [[Sony]] Corporation endowed a $3&amp;nbsp;million John Bardeen professorial chair at the University of Illinois at Urbana-Champaign, beginning in 1990.&lt;ref name=obit&gt;{{cite news|author=John Noble Wilford |url=https://www.nytimes.com/1991/01/31/obituaries/dr-john-bardeen-82-winner-of-nobel-prize-for-transistor-dies.html |quote=John Bardeen, a co-inventor of the transistor that led to modern electronics and twice a winner of the Nobel Prize in Physics, died yesterday at Brigham and Women's Hospital in Boston. He was 82 years old. ...|title=Dr. John Bardeen, 82, Winner Of Nobel Prize for Transistor, Dies  |work=[[The New York Times]] |date=January 31, 1991 |accessdate=2014-02-25|author-link=John Noble Wilford }}&lt;/ref&gt; SONY Corporation owed much of its success to commercializing Bardeen's transistors in portable TVs and radios, and had worked with Illinois researchers.  The current John Bardeen Professor is [[Nick Holonyak]], Bardeen's doctoral student and protege.
+
+At the time of Bardeen's death, then-University of Illinois chancellor Morton Weir said, "It is a rare person whose work changes the life of every American; John's did."&lt;ref name="chisuntimes2"/&gt;
+
+Bardeen was honored on a March 6, 2008, United States [[postage stamp]] as part of the "American Scientists" series designed by artist [[Victor Stabin]].  The $0.41 stamp was unveiled in a ceremony at the University of Illinois.&lt;ref&gt;{{cite web |url=http://www.engr.uiuc.edu/news/?xId=072808960714 |title=Bardeen Stamp Celebrated at Campus Ceremony |accessdate=2008-03-04 |publisher=University of Illinois }}&lt;/ref&gt;  His citation reads: "Theoretical physicist John Bardeen (1908–1991) shared the Nobel Prize in Physics twice — in 1956, as co-inventor of the transistor and in 1972, for the explanation of superconductivity.  The transistor paved the way for all modern electronics, from computers to microchips.  Diverse applications of superconductivity include infrared sensors and medical imaging systems."  The other scientists on the "American Scientists" sheet include biochemist [[Gerty Cori]], chemist [[Linus Pauling]] and astronomer [[Edwin Hubble]].
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Portal|Biography}}
+{{wikiquote}}
+* [https://web.archive.org/web/20070808015028/http://web.library.uiuc.edu/ahx/ead/ua/1110020/1110020f.html The Bardeen Archives] at the University of Illinois at Urbana-Champaign
+* {{Nobelprize}} including his 2 Nobel lectures 
+** December 11, 1956 ''[https://www.nobelprize.org/uploads/2018/06/bardeen-lecture.pdf Semiconductor Research Leading to the Point Contact Transistor]'' 
+** December 11, 1972 ''[https://www.nobelprize.org/uploads/2018/06/bardeen-lecture-1.pdf Electron-Phonon Interactions and Superconductivity]''
+* [http://www.boston.com/globe/search/stories/nobel/1991/1991ae.html Associated Press Obituary of John Bardeen as printed in The Boston Globe]
+* [http://www.aip.org/history/ohilist/4146_1.html Oral History interview transcript with John Bardeen 12, 16 May, 1, 22 December 1977 &amp; 4 April 1978, American Institute of Physics, Niels Bohr Library and Archives]
+* [http://www.aip.org/history/ohilist/25488.html Oral History interview transcript with John Bardeen 13 February 1980, American Institute of Physics, Niels Bohr Library and Archives]
+* [https://web.archive.org/web/20150310072112/http://www.princeton.edu/~mudd/finding_aids/mathoral/pmc01.htm Interview with Bardeen about his experience at Princeton]
+*[http://www.presidency.ucsb.edu/ws/index.php?pid=5550 The American Presidency Project]
+* [http://www.ieeeghn.org/wiki/index.php/John_Bardeen IEEE History Center biography]
+* [https://archive.today/20121221103235/http://www.iccc.univagora.ro/ IEEE 2nd Int. Conference on Computers, Communications and Control (ICCCC 2008), an event dedicated to the Centenary of John Bardeen (1908–1991)]
+* {{US patent|2524035}} – "Three-Electrode Circuit Element Utilizing Semiconductive Materials"
+
+{{Nobel Prize in Physics Laureates 1951-1975}}
+{{Presidents of the American Physical Society}}
+{{IEEE Medal of Honor Laureates 1951-1975}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bardeen, John}}
+[[Category:1908 births]]
+[[Category:1991 deaths]]
+[[Category:20th-century American physicists]]
+[[Category:American agnostics]]
+[[Category:American electrical engineers]]
+[[Category:American Nobel laureates]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Foreign Members of the Royal Society]]
+[[Category:Nobel laureates in Physics]]
+[[Category:Nobel laureates with multiple Nobel awards]]
+[[Category:Oliver E. Buckley Condensed Matter Prize winners]]
+[[Category:Scientists from Madison, Wisconsin]]
+[[Category:People from Summit, New Jersey]]
+[[Category:Princeton University alumni]]
+[[Category:Quantum physicists]]
+[[Category:University of Wisconsin–Madison College of Engineering alumni]]
+[[Category:Participants in the Les Houches Physics Summer School]]
+[[Category:Presidential Medal of Freedom recipients]]</text>
+      <sha1>lu8cne83dynw8ttmfznnfcb9vhrj8bj</sha1>
+    </revision>
+  </page>
+</mediawiki>

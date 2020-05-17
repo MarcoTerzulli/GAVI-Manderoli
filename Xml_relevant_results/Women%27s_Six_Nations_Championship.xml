@@ -1,0 +1,1277 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Women's Six Nations Championship</title>
+    <ns>0</ns>
+    <id>7633197</id>
+    <revision>
+      <id>948904110</id>
+      <parentid>947950664</parentid>
+      <timestamp>2020-04-03T17:30:42Z</timestamp>
+      <contributor>
+        <username>Rodw</username>
+        <id>125972</id>
+      </contributor>
+      <minor/>
+      <comment>Disambiguated: [[Richmond]] → [[Richmond, London]], [[Ashbourne]] → [[Ashbourne, County Meath]], [[Newbury]] → [[Newbury, Berkshire]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="45090" xml:space="preserve">{{about|the women's rugby union tournament|the men's tournament|Six Nations Championship}}
+
+{{Infobox sports league
+|current_season=2020 Women's Six Nations Championship
+&lt;!--  Commented out because image was deleted: |logo=Rbs six nations rugby.PNG --&gt;
+|pixels=50px
+|caption=The official RBS 6 Nations logo.
+|sport=[[Rugby union]]
+|founded=1996
+|teams=6 (from 2002)&lt;br/&gt;5 (1999–2001)&lt;br/&gt;4 (1996–1998)
+|country={{ruw|ENG}}&lt;br/&gt;{{ruw|FRA}}&lt;br/&gt;{{ruw|IRE}}&lt;br/&gt;{{ruw|ITA}}&lt;br/&gt;{{ruw|SCO}}&lt;br/&gt;{{ruw|WAL}}
+|champion={{ruw|ENG}}&lt;br&gt;(15th title in 2019)
+|most_champs={{ruw|ENG}} (15 titles)
+}}
+
+The '''Women's Six Nations Championship''' is an international [[rugby union]] competition contested between six European women's national teams. It started in the 1995/96 season as the Five Nations, all four home nations plus France. It remained a Five nations Competition in the 1996/97 season. In the 1997/98 season, which was a World Cup Year, it was simply a 'Home Nations' competition. 
+
+In the 1998/99 season it was back to the Five Nations, England, France, Ireland, Scotland and Wales.  
+
+In 2001/02 the women's six nations competition was born with England, France, Ireland, Scotland, Spain and Wales playing. Spain, at that time, were higher ranked than Italy and therefore deserved their place in the competition on merit. 
+
+In 2006, a championship trophy was commissioned from silversmith [[Thomas Lyte]], to be followed by a second trophy commissioned for the Under 20 Six Nations championship. Designed and created by Thomas Lyte, the trophies are made from sterling silver and feature engraving detail with the logos of the competing countries.&lt;ref&gt;[http://www.rugbyfootballhistory.com/trophies.htm Rugby Trophies - Rugby Football History]&lt;/ref&gt;
+
+In 2007, the Six Nations committee formally adopted for Italy to replace Spain as the sixth national team member in the championship, in  parallel with the [[Six Nations Championship|men's competition.]]
+
+== Overall (1996 – 2019) ==
+{| class="wikitable"
+|-
+! 
+! {{ruw|ENG}}
+! {{ruw|FRA}}
+! {{ruw|IRE}}
+! {{ruw|ITA}}
+! {{ruw|SCO}}
+! {{ruw|ESP}}
+! {{ruw|WAL}}
+|-
+| Tournaments
+| 24
+| 21
+| 22
+| 13
+| 24
+| 7
+| 24
+|-
+| '''Outright Wins'''
+| '''15'''
+| '''6'''
+| '''2'''
+| '''0'''
+| '''1'''
+| '''0'''
+| '''0'''
+|-
+| '''Grand Slams'''
+| '''14'''
+| '''5'''
+| '''1'''
+| '''0'''
+| '''1'''
+| '''0'''
+| '''0'''
+|-
+| Triple Crowns
+| 21
+| N/A
+| 2
+| N/A
+| 1
+| N/A
+| 1
+|-
+| Wooden Spoons
+| 0
+| 0
+| 4
+| 3
+| 7
+| 2
+| 7
+|}
+
+=== Roll of Honour (1996 – 2019) ===
+==== Home Nations (1996 – 1998) ====
+{| class="wikitable" style="text-align:center"
+|-
+!Year
+!Champions
+![[Grand Slam (rugby union)|Grand Slam]]
+![[Triple Crown (rugby union)|Triple Crown]]
+![[Wooden Spoon (rugby union)|Wooden Spoon]]
+|-
+|[[1996 Women's Home Nations Championship|1996]]
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|WAL}}
+|-
+|[[1997 Women's Home Nations Championship|1997]]
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|IRE}}
+|-
+|[[1998 Women's Home Nations Championship|1998]]
+|{{ruw|SCO}}
+|{{ruw|SCO}}
+|{{ruw|SCO}}
+|{{ruw|IRE}}
+|}
+
+==== Five Nations (1999 – 2001) ====
+{| class="wikitable" style="text-align:center"
+|-
+!Year
+!Champions
+![[Grand Slam (rugby union)|Grand Slam]]
+![[Triple Crown (rugby union)|Triple Crown]]
+![[Wooden Spoon (rugby union)|Wooden Spoon]]
+|-
+|[[1999 Women's Five Nations Championship|1999]]
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|IRE}}
+|-
+|[[2000 Women's Five Nations Championship|2000]]
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|WAL}}
+|-
+|[[2001 Women's Five Nations Championship|2001]]
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|WAL}}
+|}
+
+==== Six Nations (2002 – Present) ====
+{| class="wikitable" style="text-align:center"
+|-
+!Year
+!Champions
+![[Grand Slam (rugby union)|Grand Slam]]
+![[Triple Crown (rugby union)|Triple Crown]]
+![[Wooden Spoon (rugby union)|Wooden Spoon]]
+|-
+|[[2002 Women's Six Nations Championship|2002]]
+|{{ruw|FRA}}
+|{{ruw|FRA}}
+|{{ruw|ENG}}
+|{{ruw|IRE}}
+|-
+|[[2003 Women's Six Nations Championship|2003]]
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|ESP}}
+|-
+|[[2004 Women's Six Nations Championship|2004]]
+|{{ruw|FRA}}
+|{{ruw|FRA}}
+|{{ruw|ENG}}
+|{{ruw|IRE}}
+|-
+|[[2005 Women's Six Nations Championship|2005]]
+|{{ruw|FRA}}
+|{{ruw|FRA}}
+|{{ruw|ENG}}
+|{{ruw|WAL}}
+|-
+|[[2006 Women's Six Nations Championship|2006]]
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|ESP}}
+|-
+|[[2007 Women's Six Nations Championship|2007]]
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|ITA}}
+|-
+|[[2008 Women's Six Nations Championship|2008]]
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|SCO}}
+|-
+|[[2009 Women's Six Nations Championship|2009]]
+|{{ruw|ENG}}
+|–
+|{{ruw|WAL}}
+|{{ruw|ITA}}
+|-
+|[[2010 Women's Six Nations Championship|2010]]
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|WAL}}
+|-
+|[[2011 Women's Six Nations Championship|2011]]
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|SCO}}
+|-
+|[[2012 Women's Six Nations Championship|2011]]
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|SCO}}
+|-
+|[[2013 Women's Six Nations Championship|2013]]
+|{{ruw|IRE}}
+|{{ruw|IRE}}
+|{{ruw|IRE}}
+|{{ruw|SCO}}
+|-
+|[[2014 Women's Six Nations Championship|2014]]
+|{{ruw|FRA}}
+|{{ruw|FRA}}
+|{{ruw|ENG}}
+|{{ruw|SCO}}
+|-
+|[[2015 Women's Six Nations Championship|2015]]
+|{{ruw|IRE}}
+|–
+|{{ruw|IRE}}
+|{{ruw|SCO}}
+|-
+|[[2016 Women's Six Nations Championship|2016]]
+|{{ruw|FRA}}
+|–
+|{{ruw|ENG}}
+|{{ruw|SCO}}
+|-
+|[[2017 Women's Six Nations Championship|2017]]
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|ITA}}
+|-
+|[[2018 Women's Six Nations Championship|2018]]
+|{{ruw|FRA}}
+|{{ruw|FRA}}
+|{{ruw|ENG}}
+|{{ruw|WAL}}
+|-
+|[[2019 Women's Six Nations Championship|2019]]
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|ENG}}
+|{{ruw|SCO}}
+|-
+|[[2020 Women's Six Nations Championship|2020]]
+|
+|
+|{{ruw|ENG}}
+|
+|}
+
+===Final positions===
+{|   height="17" style="height:12.75pt"
+|  height="17" class="xl22" style="height: 12.75pt" |
+|  class="xl22" align="center" x:num colspan="3" bgcolor="#87FF87" | &lt;center&gt;'''Home Nations'''&lt;/center&gt;
+|  class="xl22" align="center" x:num colspan="3" bgcolor="#FFFF87" | '''Five      Nations'''
+| colspan="18" class="xl22" align="center" bgcolor="#87FFFF" x:num | '''Six      Nations'''
+|-  height="17" style="height:12.75pt"
+|  height="17" class="xl22" style="height: 12.75pt" | 
+|  class="xl22" align="center" x:num bgcolor="#87FF87" | '''1996'''
+|  class="xl22" align="center" x:num bgcolor="#87FF87" | '''1997'''
+|  class="xl22" align="center" x:num bgcolor="#87FF87" | '''1998'''
+|  class="xl22" align="center" x:num bgcolor="#FFFF87" | '''1999'''
+|  class="xl22" align="center" x:num bgcolor="#FFFF87" | '''2000'''
+|  class="xl22" align="center" x:num bgcolor="#FFFF87" | '''2001'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" | '''2002'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" | '''2003'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" | '''2004'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" | '''2005'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" | '''2006'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" | '''2007'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" | '''2008'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" | '''2009'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" | '''2010'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" | '''2011'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" | '''2012'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" | '''2013'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" | '''2014'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" | '''2015'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" | '''2016'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" | '''2017'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" | '''2018'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" | '''2019'''
+|-  height="17" style="height:12.75pt"
+|  height="17" class="xl22" style="height: 12.75pt" | '''England'''
+|  align="center" bgcolor="#D0FFD0" | 1st
+|  align="center" bgcolor="#D0FFD0" | 1st
+|  align="center" bgcolor="#D0FFD0" | 2nd
+|  align="center" bgcolor="#FFFFD0" | 1st
+|  align="center" bgcolor="#FFFFD0" | 1st
+|  align="center" bgcolor="#FFFFD0" | 1st
+|  align="center" bgcolor="#D0FFFF" | 2nd
+|  align="center" bgcolor="#D0FFFF" | 1st
+|  align="center" bgcolor="#D0FFFF" | 2nd
+|  align="center" bgcolor="#D0FFFF" | 2nd
+|  align="center" bgcolor="#D0FFFF" | 1st
+|  align="center" bgcolor="#D0FFFF" | 1st
+|  align="center" bgcolor="#D0FFFF" | 1st&amp;nbsp;
+|  align="center" bgcolor="#D0FFFF" | 1st&amp;nbsp;
+|  align="center" bgcolor="#D0FFFF" | 1st&amp;nbsp;
+|  align="center" bgcolor="#D0FFFF" | 1st&amp;nbsp;
+|  align="center" bgcolor="#D0FFFF" | 1st&amp;nbsp;
+|  align="center" bgcolor="#D0FFFF" | 3rd
+|  align="center" bgcolor="#D0FFFF" | 2nd
+|  align="center" bgcolor="#D0FFFF" | 4th
+|  align="center" bgcolor="#D0FFFF" | 2nd
+|  align="center" bgcolor="#D0FFFF" | 1st
+|  align="center" bgcolor="#D0FFFF" | 2nd
+|  align="center" bgcolor="#D0FFFF" | 1st
+|-  height="17" style="height:12.75pt"
+|  height="17" class="xl22" style="height: 12.75pt" | '''France'''
+|  align="center" bgcolor="#D0FFD0" | -
+|  align="center" bgcolor="#D0FFD0" | -
+|  align="center" bgcolor="#D0FFD0" | -
+|  align="center" bgcolor="#FFFFD0" | 2nd
+|  align="center" bgcolor="#FFFFD0" | 2nd
+|  align="center" bgcolor="#FFFFD0" | 2nd
+|  align="center" bgcolor="#D0FFFF" | 1st
+|  align="center" bgcolor="#D0FFFF" | 3rd
+|  align="center" bgcolor="#D0FFFF" | 1st
+|  align="center" bgcolor="#D0FFFF" | 1st
+|  align="center" bgcolor="#D0FFFF" | 3rd
+|  align="center" bgcolor="#D0FFFF" | 2nd
+|  align="center" bgcolor="#D0FFFF" | &amp;nbsp;3rd
+|  align="center" bgcolor="#D0FFFF" | 4th&amp;nbsp;
+|  align="center" bgcolor="#D0FFFF" | 2nd&amp;nbsp;
+|  align="center" bgcolor="#D0FFFF" | 2nd
+|  align="center" bgcolor="#D0FFFF" | 2nd
+|  align="center" bgcolor="#D0FFFF" | 2nd
+|  align="center" bgcolor="#D0FFFF" | 1st
+|  align="center" bgcolor="#D0FFFF" | 2nd
+|  align="center" bgcolor="#D0FFFF" | 1st
+|  align="center" bgcolor="#D0FFFF" | 3rd
+|  align="center" bgcolor="#D0FFFF" | 1st
+|  align="center" bgcolor="#D0FFFF" | 3rd
+|-  height="17" style="height:12.75pt"
+|  height="17" class="xl22" style="height: 12.75pt" | '''Ireland'''
+|  align="center" bgcolor="#D0FFD0" | 3rd
+|  align="center" bgcolor="#D0FFD0" | 4th
+|  align="center" bgcolor="#D0FFD0" | 4th
+|  align="center" bgcolor="#FFFFD0" | 5th
+|  align="center" bgcolor="#FFFFD0" | -
+|  align="center" bgcolor="#FFFFD0" | -
+|  align="center" bgcolor="#D0FFFF" | 6th
+|  align="center" bgcolor="#D0FFFF" | 5th
+|  align="center" bgcolor="#D0FFFF" | 5th
+|  align="center" bgcolor="#D0FFFF" | 5th
+|  align="center" bgcolor="#D0FFFF" | 5th
+|  align="center" bgcolor="#D0FFFF" | 4th
+|  align="center" bgcolor="#D0FFFF" | &amp;nbsp;4th
+|  align="center" bgcolor="#D0FFFF" | 3rd
+|  align="center" bgcolor="#D0FFFF" | 3rd
+|  align="center" bgcolor="#D0FFFF" | 3rd
+|  align="center" bgcolor="#D0FFFF" | 3rd
+|  align="center" bgcolor="#D0FFFF" | 1st
+|  align="center" bgcolor="#D0FFFF" | 3rd
+|  align="center" bgcolor="#D0FFFF" | 1st
+|  align="center" bgcolor="#D0FFFF" | 3rd
+|  align="center" bgcolor="#D0FFFF" | 2nd
+|  align="center" bgcolor="#D0FFFF" | 3rd
+|  align="center" bgcolor="#D0FFFF" | 5th
+|-  height="17" style="height:12.75pt"
+|  height="17" class="xl22" style="height: 12.75pt" | '''Italy'''
+|  align="center" bgcolor="#D0FFD0" | -
+|  align="center" bgcolor="#D0FFD0" | -
+|  align="center" bgcolor="#D0FFD0" | -
+|  align="center" bgcolor="#FFFFD0" | -
+|  align="center" bgcolor="#FFFFD0" | -
+|  align="center" bgcolor="#FFFFD0" | -
+|  align="center" bgcolor="#D0FFFF" | -
+|  align="center" bgcolor="#D0FFFF" | -
+|  align="center" bgcolor="#D0FFFF" | -
+|  align="center" bgcolor="#D0FFFF" | -
+|  align="center" bgcolor="#D0FFFF" | -
+|  align="center" bgcolor="#D0FFFF" | 6th
+|  align="center" bgcolor="#D0FFFF" | &amp;nbsp;5th
+|  align="center" bgcolor="#D0FFFF" | 6th
+|  align="center" bgcolor="#D0FFFF" | 5th
+|  align="center" bgcolor="#D0FFFF" | 5th
+|  align="center" bgcolor="#D0FFFF" | 5th
+|  align="center" bgcolor="#D0FFFF" | 5th
+|  align="center" bgcolor="#D0FFFF" | 4th
+|  align="center" bgcolor="#D0FFFF" | 3rd
+|  align="center" bgcolor="#D0FFFF" | 5th
+|  align="center" bgcolor="#D0FFFF" | 6th
+|  align="center" bgcolor="#D0FFFF" | 4th
+|  align="center" bgcolor="#D0FFFF" | 2nd
+|-  height="17" style="height:12.75pt"
+|  height="17" class="xl22" style="height: 12.75pt" | '''Scotland'''
+|  align="center" bgcolor="#D0FFD0" | 2nd
+|  align="center" bgcolor="#D0FFD0" | 2nd
+|  align="center" bgcolor="#D0FFD0" | 1st
+|  align="center" bgcolor="#FFFFD0" | 3rd
+|  align="center" bgcolor="#FFFFD0" | 4th
+|  align="center" bgcolor="#FFFFD0" | 4th
+|  align="center" bgcolor="#D0FFFF" | 3rd
+|  align="center" bgcolor="#D0FFFF" | 2nd
+|  align="center" bgcolor="#D0FFFF" | 4th
+|  align="center" bgcolor="#D0FFFF" | 3rd
+|  align="center" bgcolor="#D0FFFF" | 4th
+|  align="center" bgcolor="#D0FFFF" | 5th
+|  align="center" bgcolor="#D0FFFF" | 6th&amp;nbsp;
+|  align="center" bgcolor="#D0FFFF" | 5th&amp;nbsp;
+|  align="center" bgcolor="#D0FFFF" | 4th&amp;nbsp;
+|  align="center" bgcolor="#D0FFFF" | 6th
+|  align="center" bgcolor="#D0FFFF" | 6th
+|  align="center" bgcolor="#D0FFFF" | 6th
+|  align="center" bgcolor="#D0FFFF" | 6th
+|  align="center" bgcolor="#D0FFFF" | 6th
+|  align="center" bgcolor="#D0FFFF" | 6th
+|  align="center" bgcolor="#D0FFFF" | 4th
+|  align="center" bgcolor="#D0FFFF" | 5th
+|  align="center" bgcolor="#D0FFFF" | 6th
+|-  height="17" style="height:12.75pt"
+|  height="17" class="xl22" style="height: 12.75pt" | '''Spain'''
+|  align="center" bgcolor="#D0FFD0" | -
+|  align="center" bgcolor="#D0FFD0" | -
+|  align="center" bgcolor="#D0FFD0" | -
+|  align="center" bgcolor="#FFFFD0" | -
+|  align="center" bgcolor="#FFFFD0" | 3rd
+|  align="center" bgcolor="#FFFFD0" | 3rd
+|  align="center" bgcolor="#D0FFFF" | 4th
+|  align="center" bgcolor="#D0FFFF" | 6th
+|  align="center" bgcolor="#D0FFFF" | 3rd
+|  align="center" bgcolor="#D0FFFF" | 4th
+|  align="center" bgcolor="#D0FFFF" | 6th
+|  align="center" bgcolor="#D0FFFF" | -
+|  align="center" bgcolor="#D0FFFF" | -
+|  align="center" bgcolor="#D0FFFF" | -
+|  align="center" bgcolor="#D0FFFF" | -
+|  align="center" bgcolor="#D0FFFF" | -
+|  align="center" bgcolor="#D0FFFF" | -
+|  align="center" bgcolor="#D0FFFF" | -
+|  align="center" bgcolor="#D0FFFF" | -
+|  align="center" bgcolor="#D0FFFF" | -
+|  align="center" bgcolor="#D0FFFF" | -
+|  align="center" bgcolor="#D0FFFF" | -
+|  align="center" bgcolor="#D0FFFF" | -
+|  align="center" bgcolor="#D0FFFF" | -
+|-  height="17" style="height:12.75pt"
+|  height="17" class="xl22" style="height: 12.75pt" | '''Wales'''
+|  align="center" bgcolor="#D0FFD0" | 4th
+|  align="center" bgcolor="#D0FFD0" | 3rd
+|  align="center" bgcolor="#D0FFD0" | 3rd
+|  align="center" bgcolor="#FFFFD0" | 4th
+|  align="center" bgcolor="#FFFFD0" | 5th
+|  align="center" bgcolor="#FFFFD0" | 5th
+|  align="center" bgcolor="#D0FFFF" | 5th
+|  align="center" bgcolor="#D0FFFF" | 4th
+|  align="center" bgcolor="#D0FFFF" | 6th
+|  align="center" bgcolor="#D0FFFF" | 6th
+|  align="center" bgcolor="#D0FFFF" | 2nd
+|  align="center" bgcolor="#D0FFFF" | 3rd
+|  align="center" bgcolor="#D0FFFF" | &amp;nbsp;2nd
+|  align="center" bgcolor="#D0FFFF" | &amp;nbsp;2nd
+|  align="center" bgcolor="#D0FFFF" | &amp;nbsp;6th
+|  align="center" bgcolor="#D0FFFF" | 4th
+|  align="center" bgcolor="#D0FFFF" | 4th
+|  align="center" bgcolor="#D0FFFF" | 4th
+|  align="center" bgcolor="#D0FFFF" | 5th
+|  align="center" bgcolor="#D0FFFF" | 5th
+|  align="center" bgcolor="#D0FFFF" | 4th
+|  align="center" bgcolor="#D0FFFF" | 5th
+|  align="center" bgcolor="#D0FFFF" | 6th
+|  align="center" bgcolor="#D0FFFF" | 4th
+|}
+
+===Matches won===
+{|  width="718"  height="17" style="height:12.75pt"
+|  height="17" class="xl22" style="height: 12.75pt" width="57" | 
+|  class="xl22" align="center" x:num colspan="3" bgcolor="#87FF87" width="108" | &lt;center&gt;'''Home Nations'''&lt;/center&gt;
+|  class="xl22" align="center" x:num colspan="3" bgcolor="#FFFF87" width="108" | '''Five      Nations'''
+|  class="xl22" align="center" x:num colspan="18" bgcolor="#87FFFF" width="1040" | '''Six      Nations'''
+|  class="xl22" align="center" x:num colspan="4" bgcolor="#FF8787" width="128" | '''Total'''
+|-  height="17" style="height:12.75pt"
+|  height="17" class="xl22" style="height: 12.75pt" width="57" | 
+|  class="xl22" align="center" x:num bgcolor="#87FF87" width="32" | '''1996'''
+|  class="xl22" align="center" x:num bgcolor="#87FF87" width="32" | '''1997'''
+|  class="xl22" align="center" x:num bgcolor="#87FF87" width="32" | '''1998'''
+|  class="xl22" align="center" x:num bgcolor="#FFFF87" width="32" | '''1999'''
+|  class="xl22" align="center" x:num bgcolor="#FFFF87" width="32" | '''2000'''
+|  class="xl22" align="center" x:num bgcolor="#FFFF87" width="32" | '''2001'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" width="32" | '''2002'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" width="32" | '''2003'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" width="32" | '''2004'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" width="32" | '''2005'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" width="32" | '''2006'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" width="32" | '''2007'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" width="32" | '''2008'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" width="32" | '''2009'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" width="32" | '''2010'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" width="32" | '''2011'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" width="32" | '''2012'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" width="32" | '''2013'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" width="32" | '''2014'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" width="32" | '''2015'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" width="32" | '''2016'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" width="32" | '''2017'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" width="32" | '''2018'''
+|  class="xl22" align="center" x:num bgcolor="#87FFFF" width="32" | '''2019'''
+|  class="xl22" align="center" x:num bgcolor="#FF8787" width="32" | '''P'''
+|  class="xl22" align="center" x:num bgcolor="#FF8787" width="32" | '''W'''
+|  class="xl22" align="center" x:num bgcolor="#FF8787" width="32" | '''L'''
+|  class="xl22" align="center" x:num bgcolor="#FF8787" width="32" | '''%'''
+|-  height="17" style="height:12.75pt"
+|  height="17" class="xl22" style="height: 12.75pt" width="57" | '''England'''
+|  align="center" bgcolor="#D0FFD0" width="32" | 3
+|  align="center" bgcolor="#D0FFD0" width="32" | 3
+|  align="center" bgcolor="#D0FFD0" width="32" | 2
+|  align="center" bgcolor="#FFFFD0" width="32" | 4
+|  align="center" bgcolor="#FFFFD0" width="32" | 4
+|  align="center" bgcolor="#FFFFD0" width="32" | 4
+|  align="center" bgcolor="#D0FFFF" width="32" | 4
+|  align="center" bgcolor="#D0FFFF" width="32" | 5
+|  align="center" bgcolor="#D0FFFF" width="32" | 4
+|  align="center" bgcolor="#D0FFFF" width="32" | 4
+|  align="center" bgcolor="#D0FFFF" width="32" | 5
+|  align="center" bgcolor="#D0FFFF" width="32" | 5
+|  align="center" bgcolor="#D0FFFF" width="32" | 5
+|  align="center" bgcolor="#D0FFFF" width="32" | 4
+|  align="center" bgcolor="#D0FFFF" width="32" | 5
+|  align="center" bgcolor="#D0FFFF" width="32" | 5
+|  align="center" bgcolor="#D0FFFF" width="32" | 5
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#D0FFFF" width="32" | 4
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 4
+|  align="center" bgcolor="#D0FFFF" width="32" | 5
+|  align="center" bgcolor="#D0FFFF" width="32" | 4
+|  align="center" bgcolor="#D0FFFF" width="32" | 5
+|  align="center" bgcolor="#FFD0D0" width="32" | 111
+|  align="center" bgcolor="#FFD0D0" width="32" | 98
+|  align="center" bgcolor="#FFD0D0" width="32" | 13
+|  align="center" bgcolor="#FFD0D0" width="32" | 88.3
+|-  height="17" style="height:12.75pt"
+|  height="17" class="xl22" style="height: 12.75pt" width="57" | '''France'''
+|  align="center" bgcolor="#D0FFD0" width="32" | -
+|  align="center" bgcolor="#D0FFD0" width="32" | -
+|  align="center" bgcolor="#D0FFD0" width="32" | -
+|  align="center" bgcolor="#FFFFD0" width="32" | 3
+|  align="center" bgcolor="#FFFFD0" width="32" | 3
+|  align="center" bgcolor="#FFFFD0" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 5
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#D0FFFF" width="32" | 5
+|  align="center" bgcolor="#D0FFFF" width="32" | 5
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#D0FFFF" width="32" | 4
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#D0FFFF" width="32" | 4
+|  align="center" bgcolor="#D0FFFF" width="32" | 4
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#D0FFFF" width="32" | 5
+|  align="center" bgcolor="#D0FFFF" width="32" | 4
+|  align="center" bgcolor="#D0FFFF" width="32" | 4
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#D0FFFF" width="32" | 5
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#FFD0D0" width="32" | 102
+|  align="center" bgcolor="#FFD0D0" width="32" | 77
+|  align="center" bgcolor="#FFD0D0" width="32" | 24
+|  align="center" bgcolor="#FFD0D0" width="32" | 70.6
+|-  height="17" style="height:12.75pt"
+|  height="17" class="xl22" style="height: 12.75pt" width="57" | '''Ireland'''
+|  align="center" bgcolor="#D0FFD0" width="32" | 1
+|  align="center" bgcolor="#D0FFD0" width="32" | 0
+|  align="center" bgcolor="#D0FFD0" width="32" | 0
+|  align="center" bgcolor="#FFFFD0" width="32" | 0
+|  align="center" bgcolor="#FFFFD0" width="32" | -
+|  align="center" bgcolor="#FFFFD0" width="32" | -
+|  align="center" bgcolor="#D0FFFF" width="32" | 0
+|  align="center" bgcolor="#D0FFFF" width="32" | 1
+|  align="center" bgcolor="#D0FFFF" width="32" | 1
+|  align="center" bgcolor="#D0FFFF" width="32" | 1
+|  align="center" bgcolor="#D0FFFF" width="32" | 1
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#D0FFFF" width="32" | 5
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#D0FFFF" width="32" | 4
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#D0FFFF" width="32" | 4
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 1
+|  align="center" bgcolor="#FFD0D0" width="32" | 103
+|  align="center" bgcolor="#FFD0D0" width="32" | 42
+|  align="center" bgcolor="#FFD0D0" width="32" | 61
+|  align="center" bgcolor="#FFD0D0" width="32" | 40.8
+|- 
+|  height="17" class="xl22" style="height: 12.75pt" width="57" | '''Scotland'''
+|  align="center" bgcolor="#D0FFD0" width="32" | 1
+|  align="center" bgcolor="#D0FFD0" width="32" | 2
+|  align="center" bgcolor="#D0FFD0" width="32" | 3
+|  align="center" bgcolor="#FFFFD0" width="32" | 2
+|  align="center" bgcolor="#FFFFD0" width="32" | 1
+|  align="center" bgcolor="#FFFFD0" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 1
+|  align="center" bgcolor="#D0FFFF" width="32" | 0
+|  align="center" bgcolor="#D0FFFF" width="32" | 1
+|  align="center" bgcolor="#D0FFFF" width="32" | 1
+|  align="center" bgcolor="#D0FFFF" width="32" | 0
+|  align="center" bgcolor="#D0FFFF" width="32" | 0
+|  align="center" bgcolor="#D0FFFF" width="32" | 0
+|  align="center" bgcolor="#D0FFFF" width="32" | 0
+|  align="center" bgcolor="#D0FFFF" width="32" | 0
+|  align="center" bgcolor="#D0FFFF" width="32" | 0
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 1
+|  align="center" bgcolor="#D0FFFF" width="32" | 0
+|  align="center" bgcolor="#FFD0D0" width="32" | 111
+|  align="center" bgcolor="#FFD0D0" width="32" | 30
+|  align="center" bgcolor="#FFD0D0" width="32" | 81
+|  align="center" bgcolor="#FFD0D0" width="32" | 27.0
+|- 
+|  height="17" class="xl22" style="height: 12.75pt" width="57" | '''Wales'''
+|  align="center" bgcolor="#D0FFD0" width="32" | 1
+|  align="center" bgcolor="#D0FFD0" width="32" | 1
+|  align="center" bgcolor="#D0FFD0" width="32" | 1
+|  align="center" bgcolor="#FFFFD0" width="32" | 1
+|  align="center" bgcolor="#FFFFD0" width="32" | 0
+|  align="center" bgcolor="#FFFFD0" width="32" | 0
+|  align="center" bgcolor="#D0FFFF" width="32" | 1
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 0
+|  align="center" bgcolor="#D0FFFF" width="32" | 0
+|  align="center" bgcolor="#D0FFFF" width="32" | 4
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#D0FFFF" width="32" | 4
+|  align="center" bgcolor="#D0FFFF" width="32" | 4
+|  align="center" bgcolor="#D0FFFF" width="32" | 1
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 1
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 1
+|  align="center" bgcolor="#D0FFFF" width="32" | 1
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#FFD0D0" width="32" | 111
+|  align="center" bgcolor="#FFD0D0" width="32" | 38
+|  align="center" bgcolor="#FFD0D0" width="32" | 71
+|  align="center" bgcolor="#FFD0D0" width="32" | 34.2
+|- 
+|  height="17" class="xl22" style="height: 12.75pt" width="57" | '''Spain'''
+|  align="center" bgcolor="#D0FFD0" width="32" | -
+|  align="center" bgcolor="#D0FFD0" width="32" | -
+|  align="center" bgcolor="#D0FFD0" width="32" | -
+|  align="center" bgcolor="#FFFFD0" width="32" | &amp;nbsp;
+|  align="center" bgcolor="#FFFFD0" width="32" | 2
+|  align="center" bgcolor="#FFFFD0" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 0
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#D0FFFF" width="32" | 1
+|  align="center" bgcolor="#D0FFFF" width="32" | 0
+|  align="center" bgcolor="#D0FFFF" width="32" | -
+|  align="center" bgcolor="#D0FFFF" width="32" | ''-''
+|  align="center" bgcolor="#D0FFFF" width="32" | -
+|  align="center" bgcolor="#D0FFFF" width="32" | -
+|  align="center" bgcolor="#D0FFFF" width="32" | -
+|  align="center" bgcolor="#D0FFFF" width="32" | -
+|  align="center" bgcolor="#D0FFFF" width="32" | -
+|  align="center" bgcolor="#D0FFFF" width="32" | -
+|  align="center" bgcolor="#D0FFFF" width="32" | -
+|  align="center" bgcolor="#D0FFFF" width="32" | -
+|  align="center" bgcolor="#D0FFFF" width="32" | -
+|  align="center" bgcolor="#D0FFFF" width="32" | -
+|  align="center" bgcolor="#D0FFFF" width="32" | -
+|  align="center" bgcolor="#FFD0D0" width="32" | 33
+|  align="center" bgcolor="#FFD0D0" width="32" | 10
+|  align="center" bgcolor="#FFD0D0" width="32" | 23
+|  align="center" bgcolor="#FFD0D0" width="32" | 30.3
+|-  height="17" style="height:12.75pt"
+|  height="17" class="xl22" style="height: 12.75pt" width="57" | '''Italy'''
+|  align="center" bgcolor="#D0FFD0" width="32" | -
+|  align="center" bgcolor="#D0FFD0" width="32" | -
+|  align="center" bgcolor="#D0FFD0" width="32" | -
+|  align="center" bgcolor="#FFFFD0" width="32" | -
+|  align="center" bgcolor="#FFFFD0" width="32" | -
+|  align="center" bgcolor="#FFFFD0" width="32" | -
+|  align="center" bgcolor="#D0FFFF" width="32" | -
+|  align="center" bgcolor="#D0FFFF" width="32" | -
+|  align="center" bgcolor="#D0FFFF" width="32" | -
+|  align="center" bgcolor="#D0FFFF" width="32" | -
+|  align="center" bgcolor="#D0FFFF" width="32" | -
+|  align="center" bgcolor="#D0FFFF" width="32" | 0
+|  align="center" bgcolor="#D0FFFF" width="32" | 1
+|  align="center" bgcolor="#D0FFFF" width="32" | 0
+|  align="center" bgcolor="#D0FFFF" width="32" | 1
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 1
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 0
+|  align="center" bgcolor="#D0FFFF" width="32" | 2
+|  align="center" bgcolor="#D0FFFF" width="32" | 3
+|  align="center" bgcolor="#FFD0D0" width="32" | 65
+|  align="center" bgcolor="#FFD0D0" width="32" | 19
+|  align="center" bgcolor="#FFD0D0" width="32" | 45
+|  align="center" bgcolor="#FFD0D0" width="32" | 29.2
+|}
+
+===Tables===
+====Home Nations (1996-1998)====
+{| class="wikitable" style="text-align:center"
+|-
+! rowspan="2" style="width:7%"|Position
+! rowspan="2" style="width:14%"|Nation
+! rowspan="2" style="width:7%"|Tournaments
+! colspan="4" style="width:28%"|Matches
+! colspan="3" style="width:21%"|Points
+! rowspan="2" style="width:7%"|Table&lt;br /&gt; points
+! colspan="4" style="width:24%"|Awards
+|-
+! style="width:6%"|Played
+! style="width:6%"|Won
+! style="width:6%"|Drawn
+! style="width:6%"|Lost
+! style="width:6%"|For
+! style="width:6%"|Against
+! style="width:6%"|Diff
+! style="width:6%"|{{abbr|TW|Tournament win}}
+! style="width:6%"|{{abbr|GS|Grand Slam}}
+! style="width:6%"|{{abbr|TC|Triple Crown}}
+! style="width:6%"|{{abbr|WS|Wooden Spoon}}
+|-
+|1||align="left"|{{ruw|ENG}}
+|3
+|9||8||0||1
+|255||72||+183
+|16
+|2||2||2||0
+|-
+|2||align="left"|{{ruw|SCO}}
+|3
+|9||6||0||3
+|121||66||+55
+|12
+|1||1||1||0
+|-
+|3||align="left"|{{ruw|WAL}}
+|3
+|9||3||0||6
+|125||184||-59
+|6
+|0||0||0||1
+|-
+|4||align="left"|{{ruw|IRE}}
+|3
+|9||1||0||8
+|56||235||-179
+|2
+|0||0||0||2
+&lt;!--
+|-
+|colspan="13"|
+--&gt;
+|}
+
+====Five Nations (1999-2001)====
+{| class="wikitable" style="text-align:center"
+|-
+! rowspan="2" style="width:7%"|Position
+! rowspan="2" style="width:14%"|Nation
+! rowspan="2" style="width:7%"|Tournaments
+! colspan="4" style="width:28%"|Matches
+! colspan="3" style="width:21%"|Points
+! rowspan="2" style="width:7%"|Table&lt;br /&gt; points
+! colspan="4" style="width:24%"|Awards
+|-
+! style="width:6%"|Played
+! style="width:6%"|Won
+! style="width:6%"|Drawn
+! style="width:6%"|Lost
+! style="width:6%"|For
+! style="width:6%"|Against
+! style="width:6%"|Diff
+! style="width:6%"|{{abbr|TW|Tournament win}}
+! style="width:6%"|{{abbr|GS|Grand Slam}}
+! style="width:6%"|{{abbr|TC|Triple Crown}}
+! style="width:6%"|{{abbr|WS|Wooden Spoon}}
+|-
+|1||align="left"|{{ruw|ENG}}
+|3
+|12||12||0||0
+|491||68||+423
+|24
+|3||3||3||0
+|-
+|2||align="left"|{{ruw|FRA}}
+|3
+|12||8||0||4
+|240||141||+99
+|16
+|0||0||N/A||0
+|-
+|3||align="left"|{{ruw|SCO}}
+|3
+|12||5||0||7
+|172||246||-74
+|10
+|0||0||0||0
+|-
+|4||align="left"|{{ruw|SPA}}
+|2
+|8||4||0||4
+|74||135||-61
+|8
+|0||0||N/A||0
+|-
+|5||align="left"|{{ruw|WAL}}
+|3
+|12||1||0||11
+|77||341||-264
+|2
+|0||0||0||2
+|-
+|6||align="left"|{{ruw|IRE}}
+|1
+|4||0||0||4
+|5||128||-123
+|0
+|0||0||0||1
+&lt;!--
+|-
+|colspan="13"|
+--&gt;
+|}
+
+====Six Nations without bonus point scoring (2002-2016)====
+{| class="wikitable" style="text-align:center"
+|-
+! rowspan="2" style="width:7%"|Position
+! rowspan="2" style="width:14%"|Nation
+! rowspan="2" style="width:7%"|Tournaments
+! colspan="4" style="width:28%"|Matches
+! colspan="3" style="width:21%"|Points
+! rowspan="2" style="width:7%"|Table&lt;br /&gt; points
+! colspan="4" style="width:24%"|Awards
+|-
+! style="width:6%"|Played
+! style="width:6%"|Won
+! style="width:6%"|Drawn
+! style="width:6%"|Lost
+! style="width:6%"|For
+! style="width:6%"|Against
+! style="width:6%"|Diff
+! style="width:6%"|{{abbr|TW|Tournament win}}
+! style="width:6%"|{{abbr|GS|Grand Slam}}
+! style="width:6%"|{{abbr|TC|Triple Crown}}
+! style="width:6%"|{{abbr|WS|Wooden Spoon}}
+|-
+|1||align="left"|{{ruw|ENG}}
+|15
+|75||64||0||11
+|2810||335||+2475
+|128
+|8||7||12||0
+|-
+|2||align="left"|{{ruw|FRA}}
+|15
+|75||50||0||25
+|1726||701||+1025
+|100
+|5||4||N/A||0
+|-
+|3||align="left"|{{ruw|IRE}}
+|15
+|75||35||0||40
+|1055||1097||-42
+|70
+|2||1||2||2
+|-
+|4||align="left"|{{ruw|WAL}}
+|15
+|75||30||1||44
+|861||1042||-181
+|61
+|0||0||1||3
+|-
+|5||align="left"|{{ruw|SCO}}
+|15
+|75||15||1||59
+|597||2065||-1468
+|31
+|0||0||0||7
+|-
+|6||align="left"|{{ruw|ITA}}
+|10
+|50||14||1||35
+|579||1216||-637
+|29
+|0||0||N/A||3
+|-
+|7||align="left"|{{ruw|SPA}}
+|5
+|25||6||1||18
+|156||764||-604
+|13
+|0||0||N/A||2
+&lt;!--
+|-
+|colspan="13"|
+--&gt;
+|}
+
+====Six Nations with bonus point scoring (2017-)====
+{| class="wikitable" style="text-align:center"
+|-
+! rowspan="2" style="width:7%"|Position
+! rowspan="2" style="width:14%"|Nation
+! rowspan="2" style="width:7%"|Tournaments
+! colspan="4" style="width:28%"|Matches
+! colspan="3" style="width:21%"|Points
+! rowspan="2" style="width:8%"|Tries
+! colspan="3" style="width:21%"|Bonus&lt;br /&gt;points
+! rowspan="2" style="width:9%"|Table&lt;br /&gt;points
+! colspan="4" style="width:24%"|Awards
+|-
+! style="width:5%"|Played
+! style="width:5%"|Won
+! style="width:5%"|Drawn
+! style="width:5%"|Lost
+! style="width:5%"|For
+! style="width:5%"|Against
+! style="width:5%"|Diff
+! style="width:5%"|{{abbr|T BP|Try bonus point}}
+! style="width:5%"|{{abbr|L BP|Losing bonus point}}
+! style="width:6%"|{{abbr|GS BP|Grand Slam bonus point}}
+! style="width:5%"|{{abbr|TW|Tournament win}}
+! style="width:5%"|{{abbr|GS|Grand Slam}}
+! style="width:5%"|{{abbr|TC|Triple Crown}}
+! style="width:5%"|{{abbr|WS|Wooden Spoon}}
+|-
+|1||align="left"|{{ruw|ENG}}
+|4
+|19||18||0||1
+|846||144||+702
+|136
+|16||1||6
+|95
+|2||2||4||0
+|-
+|2||align="left"|{{ruw|FRA}}
+|4
+|18||13||0||5
+|594||217||+378
+|77
+|13||2||3
+|70
+|1||1||N/A||0
+|-
+|3||align="left"|{{ruw|IRE}}
+|4
+|18||9||0||9
+|287||370||-83
+|44
+|6||2||0
+|44
+|0||0||0||0
+|-
+|4||align="left"|{{ruw|ITA}}
+|4
+|17||7||1||9
+|226||429||-203
+|33
+|5||1||0
+|32
+|0||0||N/A||1
+|-
+|5||align="left"|{{ruw|WAL}}
+|4
+|19||4||1||14
+|201||573||-392
+|28
+|1||4||0
+|23
+|0||0||0||1
+|-
+|6||align="left"|{{ruw|SCO}}
+|4
+|17||3||0||14
+|150||486||-401
+|23
+|0||4||0
+|16
+|0||0||0||1
+|}
+
+====Total====
+{| class="wikitable" style="text-align:center"
+|-
+! rowspan="2" style="width:7%"|Position
+! rowspan="2" style="width:14%"|Nation
+! rowspan="2" style="width:7%"|Tournaments
+! colspan="4" style="width:28%"|Matches
+! colspan="3" style="width:21%"|Points
+! colspan="3" style="width:21%"|Bonus&lt;br /&gt;points
+! rowspan="2" style="width:9%"|Table&lt;br /&gt;points
+! colspan="4" style="width:24%"|Awards
+|-
+! style="width:5%"|Played
+! style="width:5%"|Won
+! style="width:5%"|Drawn
+! style="width:5%"|Lost
+! style="width:5%"|For
+! style="width:5%"|Against
+! style="width:5%"|Diff
+! style="width:5%"|{{abbr|T BP|Try bonus point}}
+! style="width:5%"|{{abbr|L BP|Losing bonus point}}
+! style="width:6%"|{{abbr|GS BP|Grand Slam bonus point}}
+! style="width:5%"|{{abbr|TW|Tournament win}}
+! style="width:5%"|{{abbr|GS|Grand Slam}}
+! style="width:5%"|{{abbr|TC|Triple Crown}}
+! style="width:5%"|{{abbr|WS|Wooden Spoon}}
+|-
+|1||align="left"|{{ruw|ENG}}
+|25
+|115||102||0||13
+|4402||608||+3794
+|16||1||6
+|263
+|15||14||21||0
+|-
+|2||align="left"|{{ruw|FRA}}
+|22
+|105||71||0||34
+|2563||1059||+1504
+|13||2||3
+|186
+|6||5||N/A||0
+|-
+|3||align="left"|{{ruw|IRE}}
+|23
+|106||45||0||61
+|1403||1829||-426
+|6||2||0
+|116
+|2||1||2||5
+|-
+|4||align="left"|{{ruw|WAL}}
+|25
+|115||38||2||75
+|1310||2248||-938
+|1||4||0
+|92
+|0||0||1||7
+|-
+|5||align="left"|{{ruw|SCO}}
+|25
+|113||29||1||83
+|1050||2958||-1908
+|0||4||0
+|69
+|1||1||1||8
+|-
+|6||align="left"|{{ruw|ITA}}
+|14
+|67||20||2||45
+|800||1645||-845
+|5||1||0
+|57
+|0||0||N/A||4
+|-
+|7||align="left"|{{ruw|SPA}}
+|7
+|33||10||1||22
+|250||899||-645
+|0||0||0
+|21
+|0||0||N/A||2
+&lt;!--
+|-
+|colspan="13"|
+--&gt;
+|}
+
+===Highest Team Scores===
+Wins by 50 points or more:
+{|
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt; mso-bidi-font-size:12pt;" x:str="'''86''' " align="right" valign="top" | '''89'''
+| class="xl22" | {{ruw|ENG}} v Scotland (89-0) at [[Twickenham Stadium|Twickenham]] 08/03/2011 [523]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt; mso-bidi-font-size:12pt;" x:str="'''86''' " align="right" valign="top"| '''86'''
+| class="xl22" | {{ruw|ENG}} v Spain (86-3) at [[Madrid]] 11/02/2006 [523]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt; mso-bidi-font-size:12pt;" x:str="'''83''' " align="right" valign="top" | '''83'''
+| class="xl22" | {{ruw|ENG}} v Wales (83-11) at [[Swansea]] 10/04/1999 [239]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt; mso-bidi-font-size:12pt;" x:str="'''83''' " align="right" valign="top" | '''81'''
+| class="xl22" | {{ruw|ENG}} v Wales (81-0) at [[Cardiff Arms Park]] 04/02/2005 [476]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt; mso-bidi-font-size:12pt;" x:str="'''79''' " align="right" valign="top" | '''80'''
+| class="xl22" | {{ruw|ENG}} v Scotland (80-0) at Twickenham 16/03/2019 [1308]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt; mso-bidi-font-size:12pt;" x:str="'''80''' " align="right" valign="top" | '''79'''
+| class="xl22" | {{ruw|ENG}} v Ireland (79-0) at [[Worcester]] 17/02/2002 [346]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt; mso-bidi-font-size:12pt;" x:str="'''76''' " align="right" valign="top" | '''76'''
+| class="xl22" | {{ruw|ENG}} v Spain (76-0) at Imber Court, [[London]] 12/03/2005 [485]&lt;br/ &gt;{{ruw|ENG}} v Scotland (76-0) at [[Molesey Road]], [[Esher]] 02/02/2013 [969]&lt;br /&gt;{{ruw|FRA}} v Scotland (76-0) at [[Dijon]] 15/03/2013 [980]&lt;br /&gt; {{ruw|ENG}} v Italy (76-6) at [[Rome]] 09/02/2008 [657]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''71''' " align="right" valign="top" | '''73'''
+| class="xl22" | {{ruw|IRE}} v Scotland (73-3) at [[Broadwood Stadium]], [[Cumbernauld]] 22/03/2015 [1107]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''71''' " align="right" valign="top" | '''72'''
+| class="xl22" | {{ruw|ENG}} v Scotland (73-3) at [[Old Deer Park]], [[Richmond, London|Richmond]] 21/03/2009 [736]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''71''' " align="right" valign="top" | '''71'''
+| class="xl22" | {{ruw|ENG}} v Spain (71-3) at [[Zaragoza]] 15/02/2004 [429]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''71''' " align="right" valign="top" | '''69'''
+| class="xl22" | {{ruw|ENG}} v Spain (69-0) at [[Twickenham Stoop]] 21/02/2003 [403]&lt;br /&gt;{{ruw|ENG}} v Wales (69-7) at Cardiff Arms Park 21/02/2003 [399]&lt;br /&gt;{{ruw|ENG}} v Italy (69-13) at Old Deer Park, Richmond 07/02/2009 [724]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''71''' " align="right" valign="top" | '''68'''
+| class="xl22" | {{ruw|ENG}} v Italy (68-5) at Molesey Road, Esher 12/02/2011 [871]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''71''' " align="right" valign="top" | '''66'''
+| class="xl22" | {{ruw|ENG}} v Wales (66-7) at Twickenham Stoop 07/03/2020 []
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''71''' " align="right" valign="top" | '''64'''
+| class="xl22" | {{ruw|ENG}} v Scotland (64-0) at Twickenham Stoop 11/03/2017 [1186]&lt;br /&gt;{{ruw|ENG}} v Scotland (64-9) at [[Edinburgh]] 01/04/2000 [270]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''63''' " align="right" valign="top" | '''63'''
+| class="xl22" | {{ruw|ENG}} v Scotland (63-0) at [[Rubislaw Playing Fields]], [[Aberdeen]] 09/02/2014 [1027]&lt;br /&gt;{{ruw|ENG}} v Wales (63-0) at Cardiff Arms Park 11/02/2017 [1179]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''63''' " align="right" valign="top" | '''62'''
+| class="xl22" | {{ruw|ENG}} v Ireland (62-8) at Worcester 05/04/1998 [199]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''63''' " align="right" valign="top" | '''60'''
+| class="xl22" | {{ruw|ENG}} v Scotland (60-0) at [[St Albans]] 03/02/2007 [598]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''71''' " align="right" valign="top" | '''59'''
+| class="xl22" | {{ruw|IRE}} v Scotland (59-0) at [[Ashbourne, County Meath|Ashbourne]] 31/01/2014 [1022]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''71''' " align="right" valign="top" | '''57'''
+| class="xl22" | {{ruw|ENG}} v France (57-0) at Twickenham 15/02/2003 [396]&lt;br /&gt;{{ruw|FRA}} v Italy (57-0) at [[Stade Furiani]], [[Furiani]] 24/02/2018 [1248]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''71''' " align="right" valign="top" | '''56'''
+| class="xl22" | {{ruw|ENG}} v Ireland (56-0) at [[Dublin]] 07/03/1999 [237]&lt;br /&gt;{{ruw|ENG}} v Wales (56-3) at [[Leicester]] 04/02/1996 [138]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''71''' " align="right" valign="top" | '''55'''
+| class="xl22" | {{ruw|ENG}} v Wales (55-0) at [[London Irish]] 02/02/2008 [657]&lt;br /&gt;{{ruw|FRA}} v Scotland (55-0) at [[Stade Marcel-Deflandre]], [[La Rochelle]] 11/02/2017 [1180]&lt;br /&gt;{{ruw|ENG}} v Italy (55-0) at [[Sandy Park]], [[Exeter]] 09/02/2019 [1302]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''71''' " align="right" valign="top" | '''53'''
+| class="xl22" | {{ruw|ENG}} v Scotland (53-0) at [[Murrayfield Stadium|Murrayfield]] 10/02/2020 []&lt;br /&gt;{{ruw|ENG}} v Wales (53-3) at Twickenham Stoop 20/03/2004 [437]&lt;br /&gt;{{ruw|FRA}} v Scotland (53-3) at [[Viry-Chatillon]] 04/02/2011 [867]&lt;br /&gt;{{ruw|ENG}} v Spain (53-14) at Madrid 07/04/2002 [359]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''71''' " align="right" valign="top" | '''52'''
+| class="xl22" | {{ruw|ENG}} v Wales (52-0) at Twickenham Stoop 10/02/2018 [1244]&lt;br /&gt;{{ruw|FRA}} v Wales (52-3) at [[Altrad Stadium]], [[Montpellier]] 02/02/2019 [1295]&lt;br /&gt;{{ruw|ENG}} v France (52-7) at Old Deer Park, Richmond 15/03/2009 [733]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''71''' " align="right" valign="top" | '''51'''
+| class="xl22" | {{ruw|ENG}} v Wales (51-0) at [[Newbury, Berkshire|Newbury]] 15/03/2000 [266]&lt;br /&gt;{{ruw|ENG}} v Scotland (51-0) at [[Edinburgh]] 13/03/2010 [803]&lt;br /&gt;{{ruw|ENG}} v Ireland (51-7) at [[Donnybrook Stadium|Donnybrook]] 01/02/2019 [1293]&lt;br /&gt;{{ruw|ENG}} v Ireland (51-10) at Twickenham 06/03/2004 [434]&lt;br /&gt;{{ruw|ENG}} v Wales (51-12) at Cardiff Arms Park 24/02/2019 [1302]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''71''' " align="right" valign="top" | '''50'''
+| class="xl22" | {{ruw|FRA}} v Wales (50-0) at Cardiff Arms Park 23/02/2020 []&lt;br /&gt;{{ruw|ENG}} v France (50-6) at [[Northampton]] 08/04/2001 [308]
+|}
+Other nations:
+{|
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''71''' " align="right" valign="top" | '''48'''
+| class="xl22" | {{ruw|SCO}} v Spain (48-7) at Edinburgh 29/3/2004 [408]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''71''' " align="right" valign="top" | '''45'''
+| class="xl22" | {{ruw|ITA}} v Scotland (45-5) at Rome 23/2/2014 [1029]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''71''' " align="right" valign="top" | '''44'''
+| class="xl22" | {{ruw|WAL}} v Spain (44-0) at Cardiff 15/2/2003 [395]
+|- height="17" style="height:12.75pt"
+| height="17" class="xl22" style="height:12.75pt" x:str="'''71''' " align="right" valign="top" | '''20'''
+| class="xl22" | {{ruw|ESP}} v Wales (20-0) at Madrid 2/3/2002 [348]
+|}
+
+==See also==
+*[[Women's international rugby]] - includes all women's international match results
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.sixnationsrugby.com/en/home.php Official Women's Six Nations site]
+{{Women's Six nations new}}
+{{Women's rugby union}}
+
+{{DEFAULTSORT:Six Nations}}
+[[Category:Women's Six Nations Championship| ]]
+[[Category:Recurring sporting events established in 1996]]</text>
+      <sha1>beruw5cdrancedv7fkqjt4mwit90a4j</sha1>
+    </revision>
+  </page>
+</mediawiki>

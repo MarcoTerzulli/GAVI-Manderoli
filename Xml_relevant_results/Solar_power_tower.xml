@@ -1,0 +1,243 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Solar power tower</title>
+    <ns>0</ns>
+    <id>19145951</id>
+    <revision>
+      <id>935557540</id>
+      <parentid>935557533</parentid>
+      <timestamp>2020-01-13T08:57:42Z</timestamp>
+      <contributor>
+        <username>ClueBot NG</username>
+        <id>13286072</id>
+      </contributor>
+      <minor/>
+      <comment>Reverting possible vandalism by [[Special:Contribs/84.241.158.69|84.241.158.69]] to version by SageGreenRider. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3689592) (Bot)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="16771" xml:space="preserve">{{About|a particular design of  [[Solar thermal energy]] using mirrors|the astronomical instrument and other uses of the term|solar tower (disambiguation)|other tall structures used for electricity power generation|Energy tower (disambiguation)}}
+
+{| class="infobox" style="width: 300px;"
+|-
+| style="white-space:nowrap;" |
+ {| cellpadding=0 cellspacing=2 style="background-color: white;"
+ |-
+ |[[File:Ivanpah Solar Power Facility Online.jpg|x105px]]&amp;thinsp;[[File:Ivanpah Solar Power Facility (2).jpg|x105px]]
+ |-
+ | colspan=2 | [[Image:PS10 solar power tower 2.jpg|301px]]
+ |-
+ |[[Image:Thémis.jpg|x103px]]&amp;thinsp;[[Image:Solarthermisches Versuchskraftwerk Jülich STJ.jpg|x103px]]
+ |}
+|-
+|Concentrating solar power towers:
+* Top: Solar towers of the [[Ivanpah Solar Power Facility|Ivanpah]] facility, the world's largest solar thermal power station in the Mojave Desert, southeastern California
+* Middle: [[PS10]], the world's first commercial solar power tower in Andalusia, Spain
+* Bottom: The [[Themis (solar power plant)|THEMIS]] solar power tower in the Eastern Pyrenees, France (left) and the German experimental [[Jülich Solar Tower|Jülich]] tower (right)
+|}
+
+The '''solar power tower''', also known as 'central tower' power plants or '[[heliostat]]' power plants or power towers, is a type of [[solar furnace]] using a tower to receive the focused sunlight. It uses an array of flat, movable mirrors (called heliostats) to focus the sun's rays upon a collector tower (the target). Concentrated solar thermal is seen as one viable solution for renewable, pollution-free energy.
+
+Early designs used these focused rays to heat water, and used the resulting [[steam]] to power a [[turbine]]. Newer designs using liquid [[sodium]] have been demonstrated, and systems using molten salts (40% [[potassium nitrate]], 60% [[sodium nitrate]]) as the [[working fluids]] are now in operation. These working fluids have high [[heat capacity]], which can be used to store the energy before using it to boil water to drive turbines. These designs also allow power to be generated when the sun is not shining.
+
+== Cost ==
+
+In 2017, the US [[National Renewable Energy Laboratory]] (NREL) has estimated that by 2020 electricity could be produced from power towers for 5.47 cents per kWh.&lt;ref name="Avoiding Carbon Apocalypse Through Alternative Energy: Life After Fossil Fuels"&gt;{{cite book|author=John Lowry|title=Avoiding Carbon Apocalypse Through Alternative Energy: Life After Fossil Fuels|url=https://books.google.com/books?id=1R09DgAAQBAJ&amp;pg=PA33|year=2017|publisher=Springer|page=33}}&lt;/ref&gt; In 2007, companies such as [[ESolar]] (then backed by [[Google.org]]) were developing cheap, low maintenance, mass producible heliostat components that were to reduce costs in the near future.&lt;ref&gt;[http://www.google.com/intl/en/press/pressrel/20071127_green.html Google's Goal: Renewable Energy Cheaper than Coal November 27, 2007]&lt;/ref&gt; ESolar's design used large numbers of small mirrors (1.14&amp;nbsp;m²), to reduce costs for installing mounting systems such as concrete, steel, drilling, and cranes.  In October 2017, an article in GreenTech Media suggested that eSolar ceased business in late 2016.&lt;ref&gt;{{cite web | url = https://www.greentechmedia.com/articles/read/concentrated-solar-contender-esolar-goes-awol | title = Concentrated Solar Power Contender ESolar Goes AWOL | date = 12 October 2017 | accessdate = 13 June 2019 | last = Deign | first = Jason | work = GreenTech Media}}&lt;/ref&gt;
+
+Improvements in working fluid systems, such as moving from current two tank (hot/cold) designs to single tank thermocline systems with quartzite thermal fillers and oxygen blankets will improve material efficiency and reduce costs further.
+
+== Design ==
+[[File:Brigthsource Tower Ashalim.jpg|thumb|[[Ashalim Power Station]], Israel, on its completion the tallest solar tower in the world.]] 
+[[Image:Solar Two 2003.jpg|thumb|upright=0.65|The decommissioned [[Solar Two]] in California]]
+
+* Some concentrating solar power towers are air-cooled instead of water-cooled, to avoid using limited desert water&lt;ref name="brightsourceenergy.com"&gt;{{cite web|url=http://www.brightsourceenergy.com/technology/faqs/ |title=FAQs |publisher=Brightsourceenergy.com |date= |accessdate=2019-09-28}}&lt;/ref&gt;
+* Flat glass is used instead of the more expensive curved glass&lt;ref name="brightsourceenergy.com" /&gt;
+* [[Thermal energy storage|Thermal storage]] to store the heat in molten salt containers to continue producing electricity while the sun is not shining
+* Steam is heated to 500&amp;nbsp;°C to drive turbines that are coupled to generators which produce electricity
+* Control systems to supervise and control all the plant activity including the heliostat array positions, alarms, other data acquisition and communication.
+
+Generally, installations use from {{convert|150|ha|m2}} to {{convert|320|ha|m2}}.
+
+== Environmental concerns ==
+There is evidence that such large area solar concentrating installations can kill birds that fly over them. Near the center of the array temperatures can reach 550 &lt;sup&gt;o&lt;/sup&gt;C which, with the solar flux itself, is enough to incinerate birds while further away feathers are scorched leading to the eventual death of the bird. Workers at the Ivanpah solar power plant call these birds “streamers,” as they ignite in midair and plummet to the ground trailing smoke. During testing of the initial standby position for the heliostats, 115 birds were killed as they entered the concentrated solar flux. During the first 6 months of operations, a total of 321 birds were killed. After altering the standby procedure to focus no more than four heliostats on any one point, there have been no further bird fatalities.&lt;ref name="Kraemer"&gt;{{cite web
+ | last =Kraemer
+ | url =https://cleantechnica.com/2015/04/16/one-weird-trick-prevents-bird-deaths-solar-towers/
+ | first =Susan
+ | title =One Weird Trick Prevents Bird Deaths At Solar Towers
+ | website =Clean Technica
+ | date =16 April 2015
+ | accessdate =20 February 2017 }}&lt;/ref&gt;
+
+The Ivanpah Solar Power Facility is classified as a greenhouse gas emitter by the State of California because it has to burn fossil fuel for several hours each morning so that it can quickly reach its operating temperature.&lt;ref&gt;{{cite news
+ | last =Danelski
+ | first =David
+ | title =It's not easy being green: Ivanpah solar plant near Nevada burns much natural gas, making it a greenhouse gas emitter under state law.
+ | newspaper =Orange County Register
+ | location =Santa Ana, California
+ | pages =
+ | language =
+ | publisher =
+ | date =21 October 2015
+ | url =http://www.ocregister.com/articles/plant-688596-gas-energy.html
+ | accessdate =14 September 2016 }}&lt;/ref&gt;
+
+== Commercial applications ==
+
+Recently, there has been a renewed interest in solar tower power technology, as is evident from the fact that there are several companies involved in planning, designing and building utility size power plants. This is an important step towards the ultimate goal of developing commercially viable plants. There are numerous examples of case studies of applying innovative solutions to solar power.&lt;ref&gt;[http://pointfocus.com/ SOLAR POWER IN THE NEWS]&lt;/ref&gt; Beam down tower application is also feasible with heliostats to heat the working fluid.&lt;ref&gt;{{cite web |url=http://helioscsp.com/three-solar-modules-of-worlds-first-commercial-beam-down-tower-concentrated-solar-power-project-to-be-connected-to-grid/ |title=Three solar modules of world’s first commercial beam-down tower Concentrated Solar Power project to be connected to grid |accessdate=18 August 2019 }}&lt;/ref&gt;
+
+=== Examples of solar power towers ===
+
+{| class="wikitable sortable"
+|-
+! Power plants !! Installed maximum &lt;br /&gt;capacity&lt;br /&gt;*(MW) !! Yearly total energy&lt;br /&gt;production&lt;br /&gt;(GWh) !! Country !! Developer/Owner !! Completed
+|-
+| [[Ivanpah Solar Power Facility]] || ''392 (U/C)'' || 650 || United States || BrightSource Energy || 2013
+|-
+| [[Ashalim Power Station]] || ''121 (U/C)'' || 320 || Israel&lt;ref&gt;[https://www.ge.com/content/dam/gepower-renewables/global/en_US/downloads/brochures/solar-csp-ashalim-gea32278.pdf Ashalim Power Station, Israel]&lt;/ref&gt; || Megalim Solar Power || 2018
+|-
+| [[Crescent Dunes Solar Energy Project]] || ''110 (U/C)'' || 500 || United States || SolarReserve || 2015
+|-
+| [[PS20 solar power tower]] || 20&lt;ref&gt;[http://sev.prnewswire.com/oil-energy/20090427/DC0579027042009-1.html Abengoa Solar Begins Operation of World's Largest Solar Power Tower Plant] {{webarchive|url=https://web.archive.org/web/20090618073353/http://sev.prnewswire.com/oil-energy/20090427/DC0579027042009-1.html |date=2009-06-18 }}&lt;/ref&gt; || 44 || Spain || Abengoa || 2009
+|-
+| [[Gemasolar]]&lt;ref&gt;[http://www.torresolenergy.com/TORRESOL/Press/torresol-energy-commissions-gemasolar-power-plant-in-spain Torresol Energy commissions Gemasolar Power Plant in Spain] {{webarchive|url=https://web.archive.org/web/20120205235512/http://www.torresolenergy.com/TORRESOL/Press/torresol-energy-commissions-gemasolar-power-plant-in-spain |date=2012-02-05 }}&lt;/ref&gt;&lt;ref name="Seba2011"&gt;{{Cite web
+| title = Gemasolar - The World's First Baseload (24/7) Solar Power Plant
+| first = Tony | last = Seba
+| work = 
+| date = 2011-06-20
+| access-date = 2020-01-12
+| url = https://www.youtube.com/watch?v=GhV2LT8KVgA
+| quote = 
+}}&lt;/ref&gt; || 17 || 100 || Spain || Sener || 2011
+|-
+| [[PS10 solar power tower]] || 11&lt;ref name="First EU"&gt;[http://www.ens-newswire.com/ens/mar2007/2007-03-30-02.asp First EU Commercial Concentrating Solar Power Tower Opens in Spain]&lt;/ref&gt; || 24 || Spain || Abengoa || 2006
+|-
+| [[Sierra SunTower]] || 5&lt;ref&gt;[http://www.esolar.com/news/press/2009_08_05 eSolar Ushers in New Era of Solar Energy with Unveiling of Sierra Power Plant] {{webarchive|url=https://web.archive.org/web/20090811003117/http://www.esolar.com/news/press/2009_08_05 |date=2009-08-11 }}&lt;/ref&gt; || || United States || eSolar || 2009
+|-
+| [[Jülich Solar Tower]] || 1.5&lt;ref&gt;[http://www.renewableenergyworld.com/rea/news/article/2009/03/salt-free-solar-csp-tower-using-air RenewableEnergyWorld: Salt-Free Solar: CSP Tower Using Air]&lt;/ref&gt;&lt;ref&gt;[http://www.dlr.de/en/desktopdefault.aspx/tabid-5105/8598_read-19289/ DLR: Jülich solar tower power plant – research facility officially handed over to the operator]&lt;/ref&gt; || || Germany || DLR (German Aerospace Center) || 2008
+|-
+| [[Greenway CSP Mersin Solar Tower Plant]] || 5&lt;ref&gt;[http://www.greenwaycsp.com/en/projects/mersin-5-mwth-solar-tower-plant.aspx]&lt;/ref&gt; || || Turkey || Greenway CSP || 2013
+|-
+|[[National Solar Thermal Test Facility]]
+|1 (5 - 6 MWt)
+|
+|United States
+|U.S. Department of Energy
+|1978
+|-
+|[[Khi Solar One]]
+|50
+|180
+|South Africa
+|Abengoa
+|2016
+|}
+&lt;nowiki&gt;*&lt;/nowiki&gt; peak power generation achievable in best possible (weather, etc) conditions
+
+== Novel applications ==
+[[Image:Pit Power Tower.gif|thumb|Pit Power Tower concept in [[Bingham Canyon mine]]]]
+
+The Pit Power Tower&lt;ref&gt;[http://www.altenergymag.com/emagazine.php?issue_number=09.02.01&amp;article=gwiazda Pit Power Tower - Alternative Energy News Feb 2009]&lt;/ref&gt;&lt;ref&gt;[http://www.google.com/patents/US20050150225 Pit Power Tower US Patent]&lt;/ref&gt; combines a solar power tower and an aero-electric power tower&lt;ref&gt;[[Energy tower]]&lt;/ref&gt; in a decommissioned open pit mine. Traditional solar power towers are constrained in size by the height of the tower and closer heliostats blocking the line of sight of outer heliostats to the receiver. The use of the pit mine's "stadium seating" helps overcome the blocking constraint.
+
+As solar power towers commonly use steam to drive the turbines, and water tends to be scarce in regions with high solar energy, another advantage of open pits is that they tend to collect water, having been dug below the water table. The Pit Power Tower uses low heat steam to drive the pneumatic tubes in a co-generation system. A third benefit of re-purposing a pit mine for this kind of project is the possibility of reusing mine infrastructure such as roads, buildings and electricity.
+
+== See also ==
+* [[Concentrated solar power]]
+* [[Feed-in tariff]]
+* [[List of concentrating solar thermal power companies]]
+* [[List of solar thermal power stations]]
+* [[National Solar Thermal Test Facility (NSTTF)]]
+* [[Solar furnace]]
+* [[Solar thermal energy]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://web.archive.org/web/20090416071847/http://cleantech.com/news/3798/cleantech-group-sees-opportunities-concentrated-solar-thermal Cleantech Group picks winners and losers in concentrated solar thermal]
+* [http://news.cnet.com/8300-11128_3-54-0.html?keyword=CSP 'CSP' posts in Green Tech]
+* [http://news.cnet.com/8301-11128_3-10169532-54.html eSolar's demonstration plant in Lancaster, Calif.]
+* [http://www.sandia.gov/Renewable_Energy/solarthermal/nsttf.html National Solar Thermal Test Facility]
+* [https://web.archive.org/web/20080408134021/http://www.powerfromthesun.net/Chapter10/Chapter10new.htm Detailed Description of Central Receiver Systems]
+* [http://news.bbc.co.uk/2/hi/science/nature/6616651.stm Power Station Harnesses Sun's Rays] BBC article about solar plant near Seville in Spain
+* [http://www.abengoasolar.com/sites/solar/en/nproyectos_ps10.jsp Description of first commercial Solar Power Tower]
+* [https://web.archive.org/web/20090402234539/http://vicerp.org/index_eng.html vICERP] A research cooperation with a demonstration plant in Juelich, Germany
+* [https://web.archive.org/web/20090908081757/http://www.solarturmkraftwerk.de/ Solar Tower Plant Juelich] Germany's first solar tower power plant in Juelich
+* [https://web.archive.org/web/20110103033631/http://leniwiki.epfl.ch/index.php/Lenisolar/References/Plants Heliostat fields on Google maps] List of solar tower plants and solar furnaces with heliostat field on [https://maps.google.com/ Google maps]
+* [https://web.archive.org/web/20110303201430/http://www.energy.unimelb.edu.au/uploads/ZCA2020_Stationary_Energy_Report_v1.pdf Zero Carbon Australia Stationery Energy Plan]
+
+=== Institutional links ===
+* [http://www.csiro.au/multimedia/National-Solar-Energy-Centre-Video.html CSIRO &gt; Divisions &gt; CSIRO Energy Technology]
+* [https://web.archive.org/web/20110613083349/http://www.estelasolar.eu/index.php?id=29 ESTELA &gt; Technology &gt; Tower Technology]
+* [https://archive.is/20130106194328/http://www.promes.cnrs.fr/MOYENS/Concentrateurs/eng-MiniPegase.htm Promes Laboratory &gt; Facilities &gt; Solar concentrators &gt; Themis]
+* [https://web.archive.org/web/20100923045234/http://www.psa.es/webeng/instalaciones/receptor.php PSA &gt; Facilities &gt; Central Receiver]
+* [http://www.sandia.gov/Renewable_Energy/solarthermal/NSTTF/tower1.htm Sandia National Laboratory &gt; National Solar Thermal Test Facility &gt; Central Receiver Test Facility &gt; Heliostats and tower capabilities]
+* [https://web.archive.org/web/20100125073630/http://www.weizmann.ac.il/ESER/People/Karni/research-karni.html Weizmann Institute &gt; Environmental Sciences &amp; Energy Research &gt; Research &gt; Energy Research]
+
+=== Commercial links ===
+* [http://www.abengoasolar.com/corp/web/en/technologies/concentrated_solar_power/power_tower/index.html Abengoa Solar &gt; Technologies &gt; Concentrating Solar Power &gt; Power Tower]{{dead link|date=May 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+* [http://www.aora-solar.com/ Aora-Solar]
+* [https://web.archive.org/web/20090402232515/http://www.brightsourceenergy.com/technology/how_lpt_works BrightSource Energy &gt; Technology &gt; How LPT Works]
+* [https://web.archive.org/web/20110111133304/http://www.desertec.org/en/concept/technologies/ Desertec &gt; Concept &gt; Technologies]
+* [http://www.devicelogic.com.au/ Device Logic]
+* [http://www.esolar.com/ eSolar &gt; Heliostat solutions]
+* [http://www.ka-muenchen.de/253+M52087573ab0.0.html Kraftanlagen München &gt; Field of activities &gt; Renewable energies &gt; Solar thermal power plants &gt; Jülich experimental power plant]
+* [http://www.nurenergie.com/index.php/english/projects/tunisia Nur Energie &gt; Projects &gt; Tunisia]
+* [http://www.sener-power-process.com/ENERGIA/ProjectsI/gemasolar/en?pag=0&amp;agno=&amp;area=&amp;categoria=ENERGIA_SOLAR&amp;totalperpage=5 SENER &gt; Projects &gt; Gemasolar]
+* [https://web.archive.org/web/20100519050703/http://www.solar-reserve.com/technology.html Solar Reserve &gt; Technology]
+* [http://www.torresolenergy.com/TORRESOL/central-tower-technology/en Torresol Energy &gt; Technologies &gt; Own technologies &gt; Central-tower technology]
+* [https://www.youtube.com/user/KAMMXK#p/u/7/iAs9zAP1Kdg Experimental Solar Thermal Power Plant Jülich (Kraftanlagen München) – YouTube]
+* [http://www.greenwaycsp.com/ Greenway CSP]
+
+{{Solar energy}}
+{{Portal bar|Energy|Renewable energy}}
+
+{{DEFAULTSORT:Solar Power Tower}}
+[[Category:Energy conversion]]
+[[Category:Solar thermal energy]]
+[[Category:Solar power]]</text>
+      <sha1>kkbhcemoqcusw4bgmyzo3w6reu3ekw2</sha1>
+    </revision>
+  </page>
+</mediawiki>

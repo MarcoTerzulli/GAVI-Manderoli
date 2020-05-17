@@ -876,7 +876,7 @@ Windows_1.0
 Steve_Jobs
 Steve_Jobs_(film)
 Steve_Jobs_(book)
-q:Steve_Jobs
+-----q:Steve_Jobs-----
 Steve_Jobs_(disambiguation)
 Category:Steve_Jobs
 Timeline_of_Steve_Jobs_media
@@ -955,7 +955,7 @@ Wicked_(musical)
 Sir
 
 ---Precision.csv
-?title=Mean_average_precision&redirect=no
+-----?title=Mean_average_precision&redirect=no-----
 Evaluation_measures_(information_retrieval)
 Precision_and_recall
 Mean_reciprocal_rank

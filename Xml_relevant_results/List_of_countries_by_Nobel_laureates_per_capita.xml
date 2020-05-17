@@ -1,0 +1,542 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of countries by Nobel laureates per capita</title>
+    <ns>0</ns>
+    <id>29156993</id>
+    <revision>
+      <id>953135168</id>
+      <parentid>943744556</parentid>
+      <timestamp>2020-04-25T21:37:28Z</timestamp>
+      <contributor>
+        <ip>78.82.148.210</ip>
+      </contributor>
+      <comment>/* Scientific prizes */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="33095" xml:space="preserve">{{short description|Wikipedia list article}}
+This article includes lists of [[sovereign countries]], [[territories]], and [[supranational union]]s by '''Nobel laureates per capita'''. That is, lists of said entities ranked by their [[Nobel Prize]] winners in relation to their current population. The article does not account for a country's population at the time each prize was awarded. Nobel Prizes have been awarded over more than 100 years, during which time national populations have varied very significantly. Because the population of an entity is significantly higher than its Nobel laureates, the figures have been multiplied by 10 million. Thus, the number on the rightmost column should be read as the number of Nobel laureates of an entity for every 10 million of its population.
+
+The figures include all Nobel Prizes awarded to individuals up to and including 14 October 2019.
+
+Note: Only sovereign countries are ranked; unranked entities are marked in italics.
+
+==All prizes==
+All five prizes ([[Nobel Prize in Chemistry|Chemistry]], [[Nobel Prize in Literature|Literature]], [[Nobel Peace Prize|Peace]], [[Nobel Prize in Physics|Physics]], and [[Nobel Prize in Physiology or Medicine|Physiology or Medicine]]) and the [[Nobel Memorial Prize in Economic Sciences]] are considered.
+
+{| class="wikitable sortable" style="text-align: right"
+|-
+! Rank
+! Entity
+! Nobel&lt;br&gt;laureates&lt;ref name="bbcnews"&gt;{{cite web|url=https://www.bbc.co.uk/news/magazine-11500373 |title=Which country has the best brains? |publisher=[[BBC News]] |date=2010-10-10 |accessdate=2010-10-10}}&lt;/ref&gt;
+! Population&lt;br&gt;(2018)&lt;ref name="wpp2017"&gt;{{cite web|url=https://population.un.org/wpp/DVD/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2017_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx|title=Total Population - Both Sexes|work=World Population Prospects, the 2017 Revision|publisher=[[United Nations Department of Economic and Social Affairs]], Population Division, Population Estimates and Projections Section|date=21 June 2017|accessdate=11 October 2018}}&lt;/ref&gt;
+! Laureates/&lt;br&gt;10 million
+|-
+| — || style="text-align:left;" | ''{{flag|Faroe Islands}}'' || [[List of Nobel laureates by country#Faroe Islands|1]] || 49,489 || 202.065
+|-
+| 1 || style="text-align:left;" | {{flag|Saint Lucia}} || [[List of Nobel laureates by country#Saint Lucia|2]] || 179,667 || 111.317
+|-
+| 2 || style="text-align:left;" | {{flag|Luxembourg}} || [[List of Nobel laureates by country#Luxembourg|2]] || 590,321 || 33.880
+|-
+| 3 || style="text-align:left;" | {{flag|Switzerland}} || [[List of Nobel laureates by country#Switzerland|28]] || 8,544,034 || 32.771
+|-
+| 4 || style="text-align:left;" | {{flag|Sweden}} || [[List of Nobel laureates by country#Sweden|30]] || 9,982,709 || 30.052
+|-
+| 5 || style="text-align:left;" | {{flag|Iceland}} || [[List of Nobel laureates by country#Iceland|1]] || 337,780 || 29.605
+|-
+| 6 || style="text-align:left;" | {{flag|Austria}} || [[List of Nobel laureates by country#Austria|22]] || 8,751,820 || 25.138
+|-
+| 7 || style="text-align:left;" | {{flag|Denmark}} || [[List of Nobel laureates by country#Denmark|14]] || 5,754,356 || 24.329
+|-
+| 8 || style="text-align:left;" | {{flag|Norway}} || [[List of Nobel laureates by country#Norway|13]] || 5,353,363 || 24.284
+|-
+| 9 || style="text-align:left;" | {{flag|United Kingdom}} || [[List of Nobel laureates by country#United Kingdom|133]] || 66,573,504 || 19.429
+|-
+| 10 || style="text-align:left;" | {{flag|East Timor}} || [[List of Nobel laureates by country#East Timor|2]] || 1,324,094 || 15.105
+|-
+| 11 || style="text-align:left;" | {{flag|Ireland}} || [[List of Nobel laureates by country#Ireland|7]] || 4,803,748 || 14.572
+|-
+| 12 || style="text-align:left;" | {{flag|Israel}} || [[List of Nobel laureates by country#Israel|12]] || 8,452,841 || 14.196
+|-
+| 13 || style="text-align:left;" | {{flag|Germany}} || [[List of Nobel laureates by country#Germany|110]] || 82,293,457 || 13.527
+|-
+| 14 || style="text-align:left;" | {{flag|Hungary}} || [[List of Nobel laureates by country#Hungary|13]] || 9,688,847 || 13.417
+|-
+| 15 || style="text-align:left;" | {{flag|United States}} || [[List of Nobel laureates by country#United States|385]] || 326,766,748 || 11.721
+|-
+| 16 || style="text-align:left;" | {{flag|Netherlands}} || [[List of Nobel laureates by country#Netherlands|21]] || 17,084,459 || 11.707
+|-
+| 17 || style="text-align:left;" | {{flag|France}} || [[List of Nobel laureates by country#France|70]] || 65,233,271 || 10.664
+|-
+| — || style="text-align:left;" | ''{{flag|European Union}}''&lt;ref&gt;Includes every credit given separately to each of the 28 EU member states. It does not include the Peace Prize given to the EU in 2012.&lt;/ref&gt; || [[List of Nobel laureates by country#European Union|372]] || 444,697,104 || 8.005
+|-
+| 18 || style="text-align:left;" | {{flag|Finland}} || [[List of Nobel laureates by country#Finland|5]] || 5,542,517 || 9.021
+|-
+| 19 || style="text-align:left;" | {{flag|Belgium}} || [[List of Nobel laureates by country#Belgium|10]] || 11,498,519 || 8.697
+|-
+| 20 || style="text-align:left;" | {{flag|Cyprus}} || [[List of Nobel laureates by country#Cyprus|1]] || 1,189,085 || 8.410
+|-
+| 21 || style="text-align:left;" | {{flag|Trinidad and Tobago}} || [[List of Nobel laureates by country#Trinidad and Tobago|1]] || 1,372,598 || 7.285
+|-
+| 22 || style="text-align:left;" | {{flag|Canada}} || [[List of Nobel laureates by country#Canada|25]] || 36,953,765 || 6.765
+|-
+| 23 || style="text-align:left;" | {{flag|New Zealand}} || [[List of Nobel laureates by country#New Zealand|3]] || 4,749,598 || 6.316
+|-
+| 24 || style="text-align:left;" | {{flag|Bosnia and Herzegovina}} || [[List of Nobel laureates by country#Bosnia and Herzegovina|2]] || 3,503,554 || 5.708
+|-
+| 25 || style="text-align:left;" | {{flag|Latvia}} || [[List of Nobel laureates by country#Latvia|1]] || 1,929,938 || 5.182
+|-
+| 26 || style="text-align:left;" | {{flag|Poland}} || [[List of Nobel laureates by country#Poland|19]] || 38,104,832 || 4.986
+|-
+| 27 || style="text-align:left;" | {{flag|Australia}} || [[List of Nobel laureates by country#Australia|12]] || 24,772,247 || 4.844
+|-
+| 28 || style="text-align:left;" | {{flag|Slovenia}} || [[List of Nobel laureates by country#Slovenia|1]] || 2,081,260 || 4.805
+|-
+| 29 || style="text-align:left;" | {{flag|North Macedonia}} || [[List of Nobel laureates by country#North Macedonia|1]] || 2,085,051 || 4.796
+|-
+| 30 || style="text-align:left;" | {{flag|Czech Republic}} || [[List of Nobel laureates by country#Czech Republic|5]] || 10,625,250 || 4.706
+|-
+| 31 || style="text-align:left;" | {{flag|Liberia}} || [[List of Nobel laureates by country#Liberia|2]] || 4,853,516 || 4.121
+|-
+| 32 || style="text-align:left;" | {{flag|Lithuania}} || [[List of Nobel laureates by country#Lithuania|1]] || 2,876,475 || 3.476
+|-
+| 33 || style="text-align:left;" | {{flag|Italy}} || [[List of Nobel laureates by country#Italy|20]] || 59,290,969 || 3.373
+|-
+| — || style="text-align:left;" | ''{{flag|Tibet}}''&lt;ref&gt;A population estimate for 2018 was calculated using the average annual population growth in the [[Tibet Autonomous Region]] between the 2000 and 2010 censuses. 2000 census population: 2,616,329 (Source: [http://www.stats.gov.cn/english/statisticaldata/yearlydata/YB2002e/htm/d0407e.htm National Bureau of Statistics of China]). 2010 census population: 3,002,166 (Source: [http://news.xinhuanet.com/english2010/china/2011-05/04/c_13858686.htm Xinhua News Agency]). Formula used: 3002166+(2018-2010)*(3002166-2616329)/(2010-2000)=3310835.6.&lt;/ref&gt; || [[List of Nobel laureates by country#Tibet|1]] || 3,310,836 || 3.020
+|-
+| 34 || style="text-align:left;" | {{flag|Croatia}} || [[List of Nobel laureates by country#Croatia|1]] || 4,164,783 || 2.401
+|-
+| 35 || style="text-align:left;" | {{flag|Japan}} || [[List of Nobel laureates by country#Japan|28]] || 127,185,332 || 2.202
+|-
+| 36 || style="text-align:left;" | {{flag|Belarus}} || [[List of Nobel laureates by country#Belarus|2]] || 9,452,113 || 2.116
+|-
+| 37 || style="text-align:left;" | {{flag|Romania}} || [[List of Nobel laureates by country#Romania|4]] || 19,580,634 || 2.043
+|-
+| 38 || style="text-align:left;" | {{flag|Costa Rica}} || [[List of Nobel laureates by country#Costa Rica|1]] || 4,953,199 || 2.019
+|-
+| 39 || style="text-align:left;" | {{flag|Palestine}} || [[List of Nobel laureates by country#Palestine|1]] || 5,052,776 || 1.979
+|-
+| 40 || style="text-align:left;" | {{flag|Portugal}} || [[List of Nobel laureates by country#Portugal|2]] || 10,291,196 || 1.943
+|-
+| 41 || style="text-align:left;" | {{flag|Greece}} || [[List of Nobel laureates by country#Greece|2]] || 11,142,161 || 1.795
+|-
+| 42 || style="text-align:left;" | {{flag|South Africa}} || [[List of Nobel laureates by country#South Africa|10]] || 57,398,421 || 1.742
+|-
+| 43 || style="text-align:left;" | {{flag|Spain}} || [[List of Nobel laureates by country#Spain|8]] || 46,397,452 || 1.724
+|-
+| 44 || style="text-align:left;" | {{flag|Russia}} || [[List of Nobel laureates by country#Russia|23]] || 143,964,709 || 1.598
+|-
+| 45 || style="text-align:left;" | {{flag|Bulgaria}} || [[List of Nobel laureates by country#Bulgaria|1]] || 7,036,848 || 1.421
+|-
+| — || style="text-align:left;" | ''{{flag|Hong Kong}}'' || [[List of Nobel laureates by country#Hong Kong|1]] || 7,428,887 || 1.346
+|-
+| — || style="text-align:left;" | ''{{noflag}}[[World]]''&lt;ref name="world"&gt;In this case each Nobel laureate was only counted once. Source: {{cite web|url=http://www.nobelprize.org/nobel_prizes/facts/ |title=Nobel Prize Facts |publisher=[[Nobel Foundation]] |accessdate=2019-10-11}}&lt;/ref&gt; || [[List of Nobel laureates by country|919]] || 7,632,819,325 || 1.204
+|-
+| 46 || style="text-align:left;" | {{flag|Guatemala}} || [[List of Nobel laureates by country#Guatemala|2]] || 17,245,346 || 1.160
+|-
+| 47 || style="text-align:left;" | {{flag|Argentina}} || [[List of Nobel laureates by country#Argentina|5]] || 44,688,864 || 1.119
+|-
+| 48 || style="text-align:left;" | {{flag|Chile}} || [[List of Nobel laureates by country#Chile|2]] || 18,197,209 || 1.099
+|-
+| 49 || style="text-align:left;" | {{flag|Azerbaijan}} || [[List of Nobel laureates by country#Azerbaijan|1]] || 9,923,914 || 1.008
+|-
+| 50 || style="text-align:left;" | {{flag|Algeria}} || [[List of Nobel laureates by country#Algeria|2]] || 42,008,054 || 0.476
+|-
+| 51 || style="text-align:left;" | {{flag|Ukraine}} || [[List of Nobel laureates by country#Ukraine|2]] || 44,009,214 || 0.454
+|-
+| 52 || style="text-align:left;" | {{flag|Taiwan}} || [[List of Nobel laureates by country#Taiwan|1]] || 23,694,089 || 0.422
+|-
+| 53 || style="text-align:left;" | {{flag|Colombia}} || [[List of Nobel laureates by country#Colombia|2]] || 49,464,683 || 0.404
+|-
+| 54 || style="text-align:left;" | {{flag|Egypt}} || [[List of Nobel laureates by country#Egypt|4]] || 99,375,741 || 0.403
+|-
+| 55 || style="text-align:left;" | {{flag|South Korea}} || [[List of Nobel laureates by country#South Korea|2]] || 51,164,435 || 0.391
+|-
+| 56 || style="text-align:left;" | {{flag|Yemen}} || [[List of Nobel laureates by country#Yemen|1]] || 28,915,284 || 0.346
+|-
+| 57 || style="text-align:left;" | {{flag|Ghana}} || [[List of Nobel laureates by country#Ghana|1]] || 29,463,643 || 0.339
+|-
+| 58 || style="text-align:left;" | {{flag|Venezuela}} || [[List of Nobel laureates by country#Venezuela|1]] || 32,381,221 || 0.309
+|-
+| 59 || style="text-align:left;" | {{flag|Peru}} || [[List of Nobel laureates by country#Peru|1]] || 32,551,815 || 0.307
+|-
+| 60 || style="text-align:left;" | {{flag|Morocco}} || [[List of Nobel laureates by country#Morocco|1]] || 36,191,805 || 0.276
+|-
+| 61 || style="text-align:left;" | {{flag|Iraq}} || [[List of Nobel laureates by country#Iraq|1]] || 39,339,753 || 0.254
+|-
+| 62 || style="text-align:left;" | {{flag|Turkey}} || [[List of Nobel laureates by country#Turkey|2]] || 81,916,871 || 0.244
+|-
+| 63 || style="text-align:left;" | {{flag|Iran}} || [[List of Nobel laureates by country#Iran|2]] || 82,011,735 || 0.244
+|-
+| 64 || style="text-align:left;" | {{flag|Mexico}} || [[List of Nobel laureates by country#Mexico|3]] || 130,759,074 || 0.229
+|-
+| 65 || style="text-align:left;" | {{flag|Kenya}} || [[List of Nobel laureates by country#Kenya|1]] || 50,950,879 || 0.196
+|-
+| 66 || style="text-align:left;" | {{flag|Myanmar}} || [[List of Nobel laureates by country#Myanmar|1]] || 53,855,735 || 0.186
+|-
+| 67 || style="text-align:left;" | {{flag|DR Congo}} || [[List of Nobel laureates by country#Congo, Democratic Republic|1]] || 84,004,989 || 0.119
+|-
+| 68 || style="text-align:left;" | {{flag|Vietnam}} || [[List of Nobel laureates by country#Vietnam|1]] || 96,491,146 || 0.104
+|-
+| 69 || style="text-align:left;" | {{flag|Pakistan}} || [[List of Nobel laureates by country#Pakistan|2]] || 200,813,818 || 0.100
+|-
+| 70 || style="text-align:left;" | {{flag|Ethiopia}} || [[List of Nobel laureates by country#Ethiopia|1]] || 109,224,410&lt;ref name="wpp2019" /&gt; || 0.092
+|-
+| 71 || style="text-align:left;" | {{flag|India}} || [[List of Nobel laureates by country#India|11]] || 1,354,051,854 || 0.081
+|-
+| 72 || style="text-align:left;" | {{flag|China}} || [[List of Nobel laureates by country#China|9]] || 1,415,045,928 || 0.064
+|-
+| 73 || style="text-align:left;" | {{flag|Bangladesh}} || [[List of Nobel laureates by country#Bangladesh|1]] || 166,368,149 || 0.060
+|-
+| 74 || style="text-align:left;" | {{flag|Nigeria}} || [[List of Nobel laureates by country#Nigeria|1]] || 195,875,237 || 0.051
+|-
+|}
+
+=== By [[United Nations geoscheme]] ===
+
+{| class="wikitable sortable" style="text-align: right"
+! Region
+! Countries
+! Nobel&lt;br&gt;laureates&lt;ref name="bbcnews" /&gt;
+! Population&lt;br&gt;(2019)&lt;ref name="wpp2019"&gt;{{cite web|url=https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2019_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx|title=Total Population - Both Sexes|work=World Population Prospects, the 2019 Revision|publisher=[[United Nations Department of Economic and Social Affairs]], Population Division, Population Estimates and Projections Section|date=28 August 2019|accessdate=11 October 2019}}&lt;/ref&gt;
+! Laureates/&lt;br&gt;10 million
+|- style="font-weight: bold; background: #ececec"
+| style="text-align:left;" | [[Europe]] || 48 || 561 || 747,182,815 || 7.508
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;[[Northern Europe]] || 13 || 209 || 105,768,532 || 19.760
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;[[Western Europe]] || 9 || 256 || 195,522,412 || 13.093
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;[[Southern Europe]] || 16 || 37 || 152,446,950 || 2.427
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;[[Eastern Europe]] || 10 || 59 || 293,444,921 || 2.011
+|- style="font-weight: bold; background: #ececec"
+| style="text-align:left;" | [[Americas]] || 55 || 429 || 1,014,721,900 || 4.228
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;[[Northern America]] || 5 || 408 || 366,600,944 || 11.129
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;[[Latin America and the Caribbean]] || 50 || 21 || 648,120,956 || 0.324
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[Caribbean]] || 28 || 3 || 43,335,006 || 0.692
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[Central America]] || 8 || 6 || 177,586,525 || 0.338
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[South America]] || 14 || 12 || 427,199,425 || 0.281
+|- style="font-weight: bold; background: #ececec"
+| style="text-align:left;" | [[Oceania]] || 23 || 15 || 42,128,048 || 3.561
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;[[Australia]]/[[New Zealand]] || 2 || 15 || 29,986,262 || 5.002
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;[[Oceania]] (ex. [[Australia|Aus.]] and [[New Zealand|NZ]]) || 21 || 0 || 12,141,786 || 0.000
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[Melanesia]] || 5 || 0 || 10,918,534 || 0.000
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[Micronesia]] || 7 || 0 || 543,483 || 0.000
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[Polynesia]] || 9 || 0 || 679,769 || 0.000
+|- style="font-weight: bold; background: #ececec"
+| style="text-align:left;" | [[World]]&lt;ref name="world" /&gt; || 236 || 919 || 7,713,468,205 || 1.191
+|- style="font-weight: bold; background: #ececec"
+| style="text-align:left;" | [[Africa]] || 58 || 24 || 1,308,064,176 || 0.183
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;[[Northern Africa]] || 7 || 7 || 241,780,765 || 0.290
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;[[Sub-Saharan Africa]] || 51 || 17 || 1,066,283,411 || 0.159
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[Southern Africa]] || 5 || 10 || 66,629,894 || 1.501
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[Western Africa]] || 17 || 4 || 391,440,147 || 0.102
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[Middle Africa]] || 9 || 1 || 174,308,427 || 0.057
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[Eastern Africa]] || 20 || 2 || 433,904,943 || 0.046
+|- style="font-weight: bold; background: #ececec"
+| style="text-align:left;" | [[Asia]] || 52 || 81 || 4,601,371,266 || 0.176
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;[[Western Asia]] || 18 || 19 || 275,324,793 || 0.690
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;[[Eastern Asia]] || 9 || 42 || 1,672,611,120 || 0.251
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;[[Southern Asia]] || 9 || 16 || 1,918,211,396 || 0.083
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;[[South-Eastern Asia]] || 11 || 4 || 662,011,846 || 0.060
+|-
+| style="text-align:left;" | &amp;nbsp;&amp;nbsp;[[Central Asia]] || 5 || 0 || 73,212,111 || 0.000
+|}
+
+==Scientific prizes==
+
+Only the awards for Chemistry, Physics, Physiology or Medicine, and the Nobel Memorial Prize in Economic Sciences are considered.
+
+{| class="wikitable sortable" style="text-align: right"
+|-
+! Rank
+! Entity
+! Nobel&lt;br&gt;laureates&lt;ref name="bbcnews"/&gt;
+! Population&lt;br&gt;(2018)&lt;ref name="wpp2017"/&gt;
+! Laureates/&lt;br&gt;10 million
+|-
+| — || style="text-align:left;" | ''{{flag|Faroe Islands}}'' || [[List of Nobel laureates by country#Faroe Islands|1]] || 49,489 || 202.065
+|-
+| 1 || style="text-align:left;" | {{flag|Saint Lucia}} || [[List of Nobel laureates by country#Saint Lucia|1]] || 179,667 || 55.659
+|-
+| 2 || style="text-align:left;" | {{flag|Luxembourg}} || [[List of Nobel laureates by country#Luxembourg|2]] || 590,321 || 33.880
+|-
+| 3 || style="text-align:left;" | {{flag|Switzerland}} || [[List of Nobel laureates by country#Switzerland|25]] || 8,544,034 || 29.260
+|-
+| 4 || style="text-align:left;" | {{flag|Austria}} || [[List of Nobel laureates by country#Austria|18]] || 8,751,820 || 20.567
+|-
+| 5 || style="text-align:left;" | {{flag|Denmark}} || [[List of Nobel laureates by country#Denmark|10]] || 5,754,356 || 17.378
+|-
+| 6 || style="text-align:left;" | {{flag|Sweden}} || [[List of Nobel laureates by country#Sweden|17]] || 9,982,709 || 17.029
+|-
+| 7 || style="text-align:left;" | {{flag|United Kingdom}} || [[List of Nobel laureates by country#United Kingdom|109]] || 66,573,504 || 16.373
+|-
+| 8 || style="text-align:left;" | {{flag|Norway}} || [[List of Nobel laureates by country#Norway|8]] || 5,353,363 || 14.944
+|-
+| 9 || style="text-align:left;" | {{flag|Germany}} || [[List of Nobel laureates by country#Germany|93]] || 82,293,457 || 11.180
+|-
+| 10 || style="text-align:left;" | {{flag|Netherlands}} || [[List of Nobel laureates by country#Netherlands|19]] || 17,084,459 || 11.121
+|-
+| 11 || style="text-align:left;" | {{flag|United States}} || [[List of Nobel laureates by country#United States|350]] || 326,766,748 || 10.711
+|-
+| 12 || style="text-align:left;" | {{flag|Israel}} || [[List of Nobel laureates by country#Israel|8]] || 8,452,841 || 9.464
+|-
+| 13 || style="text-align:left;" | {{flag|Cyprus}} || [[List of Nobel laureates by country#Cyprus|1]] || 1,189,085 || 8.410
+|-
+| 14 || style="text-align:left;" | {{flag|Hungary}} || [[List of Nobel laureates by country#Hungary|11]] || 9,688,847 || 8.257
+|-
+| — || style="text-align:left;" | ''{{flag|European Union}}''&lt;ref&gt;Includes every credit given separately to any of the 27 EU member states.&lt;/ref&gt;||[[List of Nobel laureates by country#European Union|248]] || 443,123,600 || 5.574
+|-
+| 15 || style="text-align:left;" | {{flag|New Zealand}} || [[List of Nobel laureates by country#New Zealand|3]] || 4,749,598 || 6.316
+|-
+| 16 || style="text-align:left;" | {{flag|France}} || [[List of Nobel laureates by country#France|39]] || 65,233,271 || 5.979
+|-
+| 17 || style="text-align:left;" | {{flag|Canada}} || [[List of Nobel laureates by country#Canada|22]] || 36,953,765 || 5.953
+|-
+| 18 || style="text-align:left;" | {{flag|Finland}} || [[List of Nobel laureates by country#Finland|3]] || 5,542,517 || 5.413
+|-
+| 19 || style="text-align:left;" | {{flag|Belgium}} || [[List of Nobel laureates by country#Belgium|6]] || 11,498,519 || 5.218
+|-
+| 20 || style="text-align:left;" | {{flag|Latvia}} || [[List of Nobel laureates by country#Latvia|1]] || 1,929,938 || 5.182
+|-
+| 21 || style="text-align:left;" | {{flag|Slovenia}} || [[List of Nobel laureates by country#Slovenia|1]] || 2,081,260 || 4.805
+|-
+| 22 || style="text-align:left;" | {{flag|Australia}} || [[List of Nobel laureates by country#Australia|11]] || 24,772,247 || 4.440
+|-
+| 23 || style="text-align:left;" | {{flag|Ireland}} || [[List of Nobel laureates by country#Ireland|2]] || 4,803,748 || 4.163
+|-
+| 24 || style="text-align:left;" | {{flag|Lithuania}} || [[List of Nobel laureates by country#Lithuania|1]] || 2,876,475 || 3.476
+|-
+| 25 || style="text-align:left;" | {{flag|Bosnia and Herzegovina}} || [[List of Nobel laureates by country#Bosnia and Herzegovina|1]] || 3,503,554 || 2.854
+|-
+| 26 || style="text-align:left;" | {{flag|Czech Republic}} || [[List of Nobel laureates by country#Czech Republic|3]] || 10,625,250 || 2.823
+|-
+| 27 || style="text-align:left;" | {{flag|Croatia}} || [[List of Nobel laureates by country#Croatia|1]] || 4,164,783 || 2.401
+|-
+| 28 || style="text-align:left;" | {{flag|Italy}} || [[List of Nobel laureates by country#Italy|13]] || 59,290,969 || 2.193
+|-
+| 29 || style="text-align:left;" | {{flag|Japan}} || [[List of Nobel laureates by country#Japan|24]] || 127,185,332 || 1.887
+|-
+| — || style="text-align:left;" | ''{{flag|Hong Kong}}'' || [[List of Nobel laureates by country#Hong Kong|1]] || 7,428,887 || 1.346
+|-
+| 30 || style="text-align:left;" | {{flag|Poland}} || [[List of Nobel laureates by country#Poland|5]] || 38,104,832 || 1.312
+|-
+| 31 || style="text-align:left;" | {{flag|Russia}} || [[List of Nobel laureates by country#Russia|16]] || 143,964,709 || 1.111
+|-
+| 32 || style="text-align:left;" | {{flag|Belarus}} || [[List of Nobel laureates by country#Belarus|1]] || 9,452,113 || 1.058
+|-
+| 33 || style="text-align:left;" | {{flag|Romania}} || [[List of Nobel laureates by country#Romania|2]] || 19,580,634 || 1.021
+|-
+| 34 || style="text-align:left;" | {{flag|Azerbaijan}} || [[List of Nobel laureates by country#Azerbaijan|1]] || 9,923,914 || 1.008
+|-
+| 35 || style="text-align:left;" | {{flag|Portugal}} || [[List of Nobel laureates by country#Portugal|1]] || 10,291,196 || 0.972
+|-
+| — || style="text-align:left;" | ''{{noflag}}[[World]]''&lt;ref name="world"/&gt; || [[List of Nobel laureates by country|697]] || 7,632,819,325 || 0.913
+|-
+| 36 || style="text-align:left;" | {{flag|South Africa}} || [[List of Nobel laureates by country#South Africa|4]] || 57,398,421 || 0.697
+|-
+| 37 || style="text-align:left;" | {{flag|Argentina}} || [[List of Nobel laureates by country#Argentina|3]] || 44,688,864 || 0.671
+|-
+| 38 || style="text-align:left;" | {{flag|Spain}} || [[List of Nobel laureates by country#Spain|2]] || 46,397,452 || 0.431
+|-
+| 39 || style="text-align:left;" | {{flag|Taiwan}} || [[List of Nobel laureates by country#Taiwan|1]] || 23,694,089 || 0.422
+|-
+| 40 || style="text-align:left;" | {{flag|Venezuela}} || [[List of Nobel laureates by country#Venezuela|1]] || 32,381,221 || 0.309
+|-
+| 41 || style="text-align:left;" | {{flag|Morocco}} || [[List of Nobel laureates by country#Morocco|1]] || 36,191,805 || 0.276
+|-
+| 42 || style="text-align:left;" | {{flag|Algeria}} || [[List of Nobel laureates by country#Algeria|1]] || 42,008,054 || 0.238
+|-
+| 43 || style="text-align:left;" | {{flag|Ukraine}} || [[List of Nobel laureates by country#Ukraine|1]] || 44,009,214 || 0.227
+|-
+| 44 || style="text-align:left;" | {{flag|South Korea}} || [[List of Nobel laureates by country#South Korea|0]] || 51,164,435 || 0
+|-
+| 45 || style="text-align:left;" | {{flag|Turkey}} || [[List of Nobel laureates by country#Turkey|1]] || 81,916,871 || 0.122
+|-
+| 46 || style="text-align:left;" | {{flag|Egypt}} || [[List of Nobel laureates by country#Egypt|1]] || 99,375,741 || 0.101
+|-
+| 47 || style="text-align:left;" | {{flag|Mexico}} || [[List of Nobel laureates by country#Mexico|1]] || 130,759,074 || 0.076
+|-
+| 48 || style="text-align:left;" | {{flag|India}} || [[List of Nobel laureates by country#India|7]] || 1,354,051,854 || 0.052
+|-
+| 49 || style="text-align:left;" | {{flag|Pakistan}} || [[List of Nobel laureates by country#Pakistan|1]] || 200,813,818 || 0.050
+|-
+| 50 || style="text-align:left;" | {{flag|Brazil}} || [[List of Nobel laureates by country#Brazil|1]] || 210,867,954 || 0.047
+|-
+| 51 || style="text-align:left;" | {{flag|China}} || [[List of Nobel laureates by country#China|5]] || 1,415,045,928 || 0.035
+|}
+
+==Inclusion criteria==
+The list of Nobel laureates by country was compiled by [[BBC News]] using the following criteria:&lt;ref name="bbcnews"/&gt;
+* Prizes are allocated to the country/countries stated on the winner's biography on the website of the Nobel Prize committee (www.nobelprize.org).
+* Where the website mentions multiple countries in relation to a prize winner (country of birth; country of citizenship; country of residence at time of award) each of those countries is credited as having won the prize.
+* Where a prize has multiple winners, the country (or countries) of each winner are credited.
+* Prizes which were declined by the winner are included.
+* Prizes won by organisations are not allocated to countries.
+* Winners from Belarus and Ukraine are not credited to Russia. Winners born in what was then Poland but is now Ukraine are credited to Poland.
+
+Note: The BBC News figures included all Nobel Prizes awarded up to and including 8 October 2010. Nobel prizes announced after that date were added generally following the same criteria outlined above (see ''[[#Updates|Updates]]'' section below for details).
+
+==Corrections==
+This is a list of corrections made to the original figures provided by BBC News:
+* No award was attributed to Luxembourg, but, according to the Nobel Prize website, [[Gabriel Lippmann]] (Physics, 1908) was born in that country.&lt;ref&gt;{{cite web|url=http://www.nobelprize.org/nobel_prizes/physics/laureates/1908/lippmann.html |title=Gabriel Lippmann – Biography |publisher=[[Nobel Foundation]] |accessdate=2011-10-11}}&lt;/ref&gt;
+* No award was attributed to Azerbaijan, but, according to the Nobel Prize website, [[Lev Landau]] (Physics, 1962) was born in the area that is now held by that country (then part of the [[Russian Empire]]).&lt;ref&gt;{{cite web|url=http://www.nobelprize.org/nobel_prizes/physics/laureates/1962/landau.html |title=Lev Landau – Biography |publisher=[[Nobel Foundation]] |accessdate=2012-06-19}}&lt;/ref&gt; The justification for this correction is that BBC News did credit Latvia for [[Wilhelm Ostwald]]'s 1909 Chemistry Prize, even though his birthplace—Latvia's capital [[Riga]]—was by the time he was born (1853) also part of the Russian Empire.
+* Australia was credited with only one Nobel laureate in Physics, but up to and including 8 October 2010 there were two Physics laureates associated with that country: [[William Lawrence Bragg]] (1915) and [[Aleksandr Mikhailovich Prokhorov|Aleksandr Prokhorov]] (1964), both of whom were born there according to the Nobel Prize website.&lt;ref&gt;{{cite web|url=http://www.nobelprize.org/nobel_prizes/physics/laureates/1915/wl-bragg.html |title=Lawrence Bragg – Biography |publisher=[[Nobel Foundation]] |accessdate=2012-08-16}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.nobelprize.org/nobel_prizes/physics/laureates/1964/prokhorov.html |title=Aleksandr M. Prokhorov – Biography |publisher=[[Nobel Foundation]] |accessdate=2012-08-16}}&lt;/ref&gt;
+* BBC News correctly acknowledges South Korea as having two Nobel laureates associated with that country, but due an error in its spreadsheet only one of them is assigned to a particular prize (Peace, 2000). The one that was not specified is [[Charles J. Pedersen]] (Chemistry, 1987), who was born in [[Busan]], according to the Nobel Prize website.&lt;ref&gt;{{cite web|url=https://www.nobelprize.org/prizes/chemistry/1987/pedersen/facts/ |title=Charles J. Pedersen – Facts — NobelPrize.org |publisher=[[Nobel Foundation]] |accessdate=2019-10-14}}&lt;/ref&gt;
+
+==Updates==
+This section details how Nobel Prizes announced after 8 October 2010 were added.
+* 2010 update:
+** Economic Sciences: 2 to the United States and 1 each to Cyprus, Denmark and the United Kingdom.
+* 2011 update:
+** Chemistry: 1 to Israel.
+** Literature: 1 to Sweden.
+** Peace: 2 to Liberia and 1 to Yemen.
+** Physics: 3 to the United States and 1 to Australia.
+** Physiology or Medicine: 2 to the United States and 1 each to Canada, France and Luxembourg.
+** Economic Sciences: 2 to the United States.
+* 2012 update:
+** Physiology or Medicine: 1 each to Japan, the United Kingdom and the United States.
+** Physics: 1 each to France, Morocco and the United States.
+** Chemistry: 2 to the United States.
+** Literature: 1 to China.
+** Peace: Not applicable.
+** Economic Sciences: 2 to the United States.
+* 2013 update:
+** Physiology or Medicine: 2 to the United States and 1 to Germany.
+** Physics: 1 each to Belgium and the United Kingdom.
+** Chemistry: 3 to the United States, 2 to Israel, and 1 each to Austria, South Africa and the United Kingdom.
+** Literature: 1 to Canada.
+** Peace: Not applicable.
+** Economic Sciences: 3 to the United States.
+* 2014 update:
+** Physiology or Medicine: 2 to Norway and 1 each to the United Kingdom and the United States.
+** Physics: 3 to Japan and 1 to the United States.
+** Chemistry: 2 to the United States and 1 each to Germany and Romania.
+** Literature: 1 to France.
+** Peace: 1 each to India, Pakistan and the United Kingdom.
+** Economic Sciences: 1 to France.
+* 2015 update:
+** Physiology or Medicine: 1 each to China, Ireland, Japan and the United States.
+** Physics: 1 each to Canada and Japan.
+** Chemistry: 2 to the United States and 1 each to Sweden, Turkey and the United Kingdom.
+** Literature: 1 each to Belarus and Ukraine.
+** Peace: Not applicable.
+** Economic Sciences: 1 each to the United Kingdom and the United States.
+* 2016 update:
+** Physiology or Medicine: 1 to Japan.
+** Physics: 3 each to the United Kingdom and the United States.
+** Chemistry: 1 each to France, the Netherlands, the United Kingdom and the United States.
+** Peace: 1 to Colombia.
+** Economic Sciences: 2 to the United States and 1 each to Finland and the United Kingdom.
+** Literature: 1 to the United States.
+* 2017 update:
+** Physiology or Medicine: 3 to the United States.
+** Physics: 3 to the United States and 1 to Germany.
+** Chemistry: 1 each to Germany, Switzerland, the United Kingdom and the United States.
+** Literature: 1 each to Japan and the United Kingdom.
+** Peace: Not applicable.
+** Economic Sciences: 1 to the United States.
+* 2018 update:
+** Physiology or Medicine: 1 each to Japan and the United States.
+** Physics: 2 to the United States and 1 each to Canada and France.
+** Chemistry: 2 to the United States and 1 to the United Kingdom.
+** Literature: Awarded in 2019.
+** Peace: 1 each to the Democratic Republic of the Congo, Germany and Iraq.
+** Economic Sciences: 2 to the United States.
+* 2019 update:
+** Physiology or Medicine: 2 to the United States and 1 to the United Kingdom.
+** Physics: 2 to Switzerland and 1 each to Canada, the United Kingdom and the United States.
+** Chemistry: 2 to the United States and 1 each to Germany, Japan and the United Kingdom.
+** Literature: 1 each to Austria, France and Poland.
+** Peace: 1 to Ethiopia.
+** Economic Sciences: 3 to the United States, and 1 each to France and India.
+
+==See also==
+*[[List of Nobel laureates]] 
+*[[List of Nobel laureates by country]]
+*[[List of Jewish Nobel laureates]]
+*[[List of Christian Nobel laureates]] 
+*[[List of Muslim Nobel laureates]] 
+*[[List of nonreligious Nobel laureates]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{citation |title=The Nobel prize (1901-2000): handbook of landmark records |author=Emeka Nwabunnia, Bishop Emeka Ebisi |publisher=University Press of America |year=2007 |isbn=978-0-7618-3573-8}}
+
+==External links==
+* [http://nobelprize.org/nobel_prizes/lists/all/ All Nobel Laureates]
+* [http://www.idsia.ch/~juergen/all.html Graph of Nobel shares by country (yearly cumulative)]
+
+[[Category:Lists of Nobel laureates|capita]]
+[[Category:Lists of Nobel laureates by nationality|*]]
+[[Category:Lists of countries by per capita values|Nobel]]</text>
+      <sha1>km7tz1n5k89jfkr7kag1dcmo61d7mx7</sha1>
+    </revision>
+  </page>
+</mediawiki>

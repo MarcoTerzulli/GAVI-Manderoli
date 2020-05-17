@@ -9,7 +9,6 @@ from configuration import xml_file
 from searching import WikiSearcherModule
 from gui_handler import GuiHandler
 from bz2 import BZ2File
-from xml_downloader import xml_download
 
 # Verifico che main.py sia stato invocato come main del nostro programma
 try:
@@ -21,7 +20,7 @@ except AssertionError:
 try:
     searcher = WikiSearcherModule()
 except EmptyIndexError:
-    print("Warning: creating new index")
+    print("Warning: creating new index\n")
     indexer = WikiIndexerModule()
     if xml_file.find(".bz2") != -1:
         with BZ2File(xml_file) as bz2_xml_file:
@@ -31,5 +30,6 @@ except EmptyIndexError:
     searcher = WikiSearcherModule()
 
 # Caricamento della gui
+print("LOADING THE GUI")
 gui = GuiHandler(searcher)
 gui.gui_loader()

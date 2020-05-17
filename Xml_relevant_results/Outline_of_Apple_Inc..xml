@@ -1,0 +1,446 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Outline of Apple Inc.</title>
+    <ns>0</ns>
+    <id>35475816</id>
+    <revision>
+      <id>952161579</id>
+      <parentid>947655100</parentid>
+      <timestamp>2020-04-20T21:17:31Z</timestamp>
+      <contributor>
+        <username>Guy Harris</username>
+        <id>122189</id>
+      </contributor>
+      <comment>/* Hardware and products */ List both 1st and 2nd generations of the iPhone SE.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="80710" xml:space="preserve">{{Short description|1=Overview of and topical guide to Apple Inc.}}
+&lt;!--               This is an outline,
+        part of the set of 740+ outlines listed at
+             [[Portal:Contents/Outlines]].
+
+                 Wikipedia outlines are
+              a special type of list article.
+              They make up one of Wikipedia's
+                content navigation systems
+
+                See [[Wikipedia:Outlines]]
+                      for more details.
+--&gt;
+The following [[Outline (list)|outline]] is provided as an overview of and topical guide to Apple Inc.:
+
+The '''outline of [[Apple Inc.]]''' (previously '''Apple Computer, Inc.''') covers the [[consumer electronics]], software, retail stores, corporate acquisitions, timeline, and personnel under the purview of the American [[multinational corporation]]. The company's best-known hardware products are the [[Macintosh]], the [[iPod]], the [[iPhone]], and the [[iPad]]. Its best-known software includes the [[macOS]] and [[iOS]] [[operating system]]s, and the [[iTunes]] media browser. {{As of|2014|3|df=US}}, Apple has 425 [[Apple Store|retail stores]] in 16 countries (consisting of 254 in the [[United States|US]] and 171 elsewhere),&lt;ref name="AppleRetailStoreList"&gt;{{cite web|url=https://www.apple.com/retail/storelist|title=Apple Retail Store – Store List|accessdate=July 10, 2013|publisher=Apple Inc.}}&lt;/ref&gt; and an [[Apple Store (online)|online store]] (available in 39 countries).&lt;ref name="Apple online stores"&gt;{{cite web|url=http://store.apple.com/us/browse/open/country_selector|title=Apple Store – International|publisher=[[Apple Inc.]]|accessdate=July 10, 2013}}&lt;/ref&gt;
+{{TOC limit|limit=2}}
+
+==Hardware and products==
+[[File:Imac 16-9.png|thumb|right|[[iMac]]]]
+[[File:IPad Air 2.png|thumb|[[iPad Air 2]]]]
+[[File:Apple TV 2nd Generation.jpg|thumb|right|[[Apple TV]] (2nd generation)]]
+*[[Macintosh]] (shortened to "Mac" after 1998) &amp;ndash; a family of personal computers designed, developed, and marketed by Apple.
+**[[iMac]] &amp;ndash; this line of all-in-one Macintosh desktop computers has been Apple's primary consumer desktop offering since its introduction in 1998.
+**[[iMac Pro]] &amp;ndash; Similar in design to the iMac, but with a workstation-class Intel Xeon W processor and significantly higher memory, disk and graphics options.
+**[[MacBook family]] &amp;ndash; Macintosh notebook computers that merged the PowerBook and iBook lines during Apple's transition to Intel processors.
+***[[MacBook (2015 version)|MacBook]] &amp;ndash; line of ultraportable Macintosh notebook computer introduced in March 2015.
+***[[MacBook Air]] &amp;ndash; line of ultraportable Macintosh notebook computers introduced in January 2008.
+***[[MacBook Pro]] &amp;ndash; line of Macintosh portable computers introduced in January 2006. It replaced the PowerBook G4.
+**[[Mac Mini]] &amp;ndash; small form factor desktop computer.
+**[[Mac Pro]] &amp;ndash; Workstation-class hardware specifications based on Intel Xeon microprocessors; the first models were similar to the Power Mac G5 they replaced in terms of outward appearance and expansion capabilities.
+**Commercially successful families of Apple computers from the 20th century include the [[Apple II series]], [[Compact Macintosh]], [[Macintosh II series|Macintosh II]], [[Macintosh LC]], [[Macintosh Performa]], [[Macintosh Quadra]], [[Power Macintosh]], and [[PowerBook]].
+*[[iOS]] &amp;ndash; mobile operating system originally for the iPhone and iPod Touch, which has been extended to support other Apple devices such as the iPad, Apple TV, and Apple Watch. Previously called "iPhone OS".
+**[[Apple TV]] &amp;ndash; A [[digital media receiver]]. It is a [[small form factor]] [[Computer networking device|network appliance]] designed to play digital content originating from the [[iTunes Store]], [[Netflix]], [[YouTube]], [[Flickr]], [[MobileMe]], [[MLB.tv]], [[NBA League Pass]], [[National Hockey League|NHL GameCenter]], or any [[macOS]] or [[Microsoft Windows|Windows]] computer running [[iTunes]] onto an [[enhanced-definition television|enhanced-definition]] or [[high-definition television|high-definition]] [[widescreen]] [[television]].
+**[[Apple Watch]]; smart watch that gives users notifications on their wrists, as well as the ability to purchase merchandise using [[Apple Pay]] via [[Near field communication|NFC]]
+**[[iPad]] &amp;ndash; line of tablet computers specialized for audio-visual media including books, periodicals, movies, music, games, apps and web content. In size and weight, it falls between contemporary smartphones and laptop computers.
+***[[iPad (1st generation)]] &amp;ndash; the first iPad released with a 9.7-inch display, a lithium-ion polymer battery that lasts up to 10 hours, a dual core [[Apple A4]] processor, no cameras. Started the whole ''tablet marketplace'' of portable computing devices.
+***[[iPad 2]] &amp;ndash; second generation iPad, with a lithium-ion polymer battery that lasts up to 10 hours, a dual core [[Apple A5]] processor and VGA front-facing and 720p rear-facing cameras designed for FaceTime video calling.
+***[[iPad (3rd generation)]] &amp;ndash; third generation iPad. It adds a Retina Display, the new [[Apple A5X]] chip with integrated quad-core graphics processor, a 5-megapixel camera, full HD 1080p video recording, voice dictation, and 4G LTE.&lt;ref&gt;{{cite web | url=http://www.gsmarena.com/apple_ipad_3_wi_fi_+_4g-4620.php | title=Apple iPad 3 Wi-Fi + 4G | publisher=GSMarena | accessdate=April 7, 2012}}&lt;/ref&gt;
+***[[iPad (4th generation)]] &amp;ndash; fourth generation iPad. Keeping the Retina Display, with a new [[Apple A6X]] chip with integrated a quad-core graphics processor, a 5&amp;nbsp;MP camera, full HD 1080p video recording rear camera and 1.2 MP still/720p HD video front camera, with improved 4G LTE connectivity.
+***[[iPad Air]] &amp;ndash; fifth generation iPad. Lighter and smaller dimensions, following the design of the [[iPad Mini]] keeping the Retina Display, using a new [[64-bit]] [[Apple A7]] chip also featured in the [[iPhone 5S]] and [[iPad Mini (2nd generation)|2nd generation iPad Mini]], with integrated a quad-core graphics processor, retaining a 5&amp;nbsp;MP camera, full HD 1080p video recording rear camera and 1.2 MP still/720p HD video front camera, improved 4G LTE connectivity.
+***[[iPad Air 2]] &amp;ndash; sixth generation iPad. Thinner than the iPad Air, same design as the iPad Air and keeping the Retina Display, using a new [[64-bit]] [[Apple A8X]] chip with integrated octa-core graphics processor, an 8&amp;nbsp;MP camera, full HD 1080p video recording rear camera and 1.2 MP still/720p HD video front camera. New addition include the [[Touch ID]] sensor compatible with [[Apple Pay]].
+**[[iPad Mini]] &amp;ndash; smaller screen version of the larger [[iPad]], same line of tablet computers specialized for audio-visual media including books, periodicals, movies, music, games, apps and web content. In size and weight, it falls between contemporary smartphones and laptop computers.
+***[[iPad Mini (1st generation)]] &amp;ndash; first smaller generation iPad with non-Retina 7.9-inch display. Uses older [[Apple A5]] chip with integrated a dual-core graphics processor, a 5&amp;nbsp;MP camera, full HD 1080p video recording rear camera and 1.2 MP still/720p video front camera, with improved 4G LTE connectivity.
+***[[iPad Mini (2nd generation)]] &amp;ndash; second generation with Retina Display keeping 7.9-inch display. Uses same [[Apple A7]] chip with integrated a dual-core graphics processor as [[iPhone 5S]] and the larger [[iPad Air]], retains same 5&amp;nbsp;MP camera, with further improved 4G LTE connectivity.
+***[[iPad Mini (3rd generation)]] &amp;ndash; third generation with Retina Display keeping 7.9-inch display. Uses same Apple A7 chip with integrated a dual-core graphics processor as previous iPad Mini (2nd generation), new addition include the [[Touch ID]] sensor compatible with [[Apple Pay]].
+***[[iPad Mini 4]] &amp;ndash; fourth generation with Retina Display keeping 7.9-inch display, with anti-glare coating. Uses the 64-bit [[Apple A8]] chip and [[Apple M8]] motion co-processor.
+**[[iPad Pro]] - larger screen version of the smaller [[iPad]], same line of tablet computers specialized for audio-visual media including books, periodicals, movies, music, games, apps and web content. The first iPad to support an attachable keyboard and a stylus, [[Apple Pencil]].&lt;ref name=iPadPro&gt;{{cite web|title=iPad Pro - Apple | url=https://www.apple.com/ipad-pro/specs/|publisher=Apple|accessdate=September 12, 2015}}&lt;/ref&gt; In size and weight, it falls between contemporary smartphones and laptop computers.
+***[[IPad Pro|iPad Pro (1st generation)]] - first larger generation iPad released with a 12.9-inch Retina Display, a new [[Apple A9X]] chip, an 8&amp;nbsp;MP camera, full HD 1080p video recording rear camera and 1.2 MP still/720p HD video front camera.&lt;ref&gt;{{cite web | url=http://www.gsmarena.com/apple_ipad_pro-7562.php | title=Apple iPad Pro | publisher=GSMarena | accessdate=September 12, 2015}}&lt;/ref&gt; New additions include the four stereo speakers, an attachable keyboard with the stylus, [[Apple Pencil]].&lt;ref&gt;{{cite news |url=https://www.macworld.com/article/2982104/ipad/ipad-pro-revealed-with-smart-keyboard-and-apple-pencil.html |title=iPad Pro revealed with Smart Keyboard and Apple Pencil |date=September 9, 2015 |accessdate=September 9, 2015 |author=Raymundo, Oscar |work=[[Macworld]]}}&lt;/ref&gt; 
+**[[iPhone]] &amp;ndash; line of smartphones.&lt;ref&gt;{{cite news |url=https://www.macworld.com/article/54769/2007/01/iphone.html |title=Apple unveils iPhone |date=January 9, 2007 |accessdate=April 6, 2008 |author=Honan, Mathew |work=[[Macworld]]}}&lt;/ref&gt; It functions as a video camera, camera phone, portable media player, and Internet client including email and web browsing.
+***[[iPhone (1st generation)]] &amp;ndash; first generation iPhone.
+***[[iPhone 3G]] &amp;ndash; second generation iPhone. It supported Assisted GPS, 3G data and tri-band UMTS/HSDPA.
+***[[iPhone 3GS]] &amp;ndash; third generation iPhone. Faster, with a higher resolution camera with video ability, voice control,&lt;ref&gt;{{cite web | url = https://www.apple.com/iphone/compare-iphones | title = Compare iPhone 3GS and iPhone 3G | publisher=[[Apple Inc.]] | date = August 18, 2009}}&lt;/ref&gt; and downloading support.
+***[[iPhone 4]] &amp;ndash; fourth generation iPhone. New design, in which the uninsulated stainless steel frame that acts as the device's antenna. It has an Apple A4 processor and 512&amp;nbsp;MB of eDRAM. Its {{convert|3.5|in|mm|adj=on}} [[LED backlit]] [[liquid crystal display]] with a 960×640 pixel resolution is marketed as the "Retina Display".
+***[[iPhone 4S]] &amp;ndash; fifth generation iPhone. It retains the exterior design of its predecessor, the [[iPhone 4]] but is host to a range of improved hardware specifications and [[software]] updates.&lt;ref name=4S&gt;{{cite web|title=Apple iPhone 4S | url=https://www.apple.com/iphone/specs.html|publisher=Apple|accessdate=October 5, 2011}}&lt;/ref&gt; Integrated software and hardware changes support the introduction of new user interface and functions by Apple, including several new software which were released upon the unveiling of the iPhone 4S. These software include, the voice recognizing and talking assistant known as [[Siri (software)|Siri]] and a cloud-storage and computing service called [[iCloud]]. A selection of the device's functions may be voice-controlled through Siri.&lt;ref name=4S/&gt;
+***[[iPhone 5]] &amp;ndash; sixth generation iPhone, released in three models for differing markets, with new Apple EarPods earphones and larger 4" 16:9 screen size. Lighter with new thinner exterior design, new [[Apple A6]] chip featuring integrated triple-core graphics processor, new [[Lightning]] connector, [[nano-SIM]], limited 4G LTE capabilities, released with iOS 6. Integrated software and hardware changes support the introduction of new user interface and functions by Apple, including several new software which were released upon the unveiling of the iPhone 5. These software include, improved [[Siri (software)|Siri]] support, improved 8&amp;nbsp;MP camera functionality allowing still shots during video recording, along with new 1.2&amp;nbsp;MP 720p HD front camera.
+***[[iPhone 5C]] &amp;ndash; a sixth generation variant of the iPhone 5, using a [[polycarbonate]] casing (in colors blue, green, pink, yellow, and white) instead of the metal used by the 5 and 5S, released with [[iOS 7]] operating system.
+***[[iPhone 5S]] &amp;ndash; seventh generation model, a more advanced revision of its predecessor, the iPhone 5, incorporating a similar exterior design, but with a [[64-bit]] [[Apple A7]] processor, a built-in [[fingerprint sensor]] called [[Touch ID]] on its updated home button, released with [[iOS 7]] operating system.
+***[[iPhone SE (1st generation)|iPhone SE]] &amp;ndash; 1st generation model, [...]
+***[[iPhone 6]] &amp;ndash; eighth generation model, with larger 4.7" 16:9 screen size. Rounder and thinner exterior design, new [[64-bit]] [[Apple A8]] processor, Keeping [[Touch ID]], improved Wi-Fi and 4G LTE capabilities, new [[Near field communication|NFC]] support, released with [[iOS 8]] operating system.
+****[[iPhone 6|iPhone 6 Plus]] &amp;ndash; eighth generation model, with larger 5.5" 16:9 screen size. In addition to iPhone 6, camera includes [[optical image stabilization]], released with [[iOS 8]] operating system.
+***[[iPhone 6S]] &amp;ndash; ninth generation model, a more advanced revision of its predecessor, the iPhone 6, incorporating a similar exterior design, but with a new [[64-bit]] [[Apple A9]] processor, a 12 MP camera and [[iOS 9]].
+****[[IPhone 6S|iPhone 6S Plus]] &amp;ndash; ninth generation model, with larger 5.5" 16:9 screen size, new [[64-bit]] [[Apple A9]] processor, a 12 MP camera and [[iOS 9]].
+***[[iPhone 7]] &amp;ndash; tenth generation model, [...]
+****[[IPhone 7|iPhone 7 Plus]] &amp;ndash; tenth generation model, with  [...]
+***[[iPhone 8]] &amp;ndash; eleventh generation model, [...]
+****[[IPhone 8|iPhone 8 Plus]] &amp;ndash; eleventh generation model, with  [...]
+***[[iPhone X]] &amp;ndash; twelfth generation model, [...]
+***[[iPhone XS]] &amp;ndash; thirteenth generation model, [...]
+****[[iPhone XS Max]] &amp;ndash; thirteenth generation model, [...]
+****[[iPhone XR]] &amp;ndash; thirteenth generation model, [...]
+***[[iPhone 11 Pro]] &amp;ndash; fourteenth generation model, [...]
+****[[iPhone 11 Pro Max]] &amp;ndash; fourteenth generation model, [...]
+****[[iPhone 11]] &amp;ndash; fourteenth generation model, [...]
+***[[iPhone SE (2nd generation)|iPhone SE]] &amp;ndash; 2nd generation model, [...]
+**[[iPod Touch]] &amp;ndash; a [[portable media player]], [[personal digital assistant]], [[handheld game console]], and [[Wi-Fi]] [[mobile device]] designed and marketed by [[Apple Inc.]] The iPod Touch adds the multi-touch graphical user interface to the [[iPod]] line.
+***[[list of iPhone OS devices#iPod Touch|List of generations]] &amp;ndash; a list of generations of the iPod Touch.
+*[[iPod]] &amp;ndash; a line of portable media players
+**[[iPod Classic]] &amp;ndash; The large capacity iPod. The current generation is by far the most capacious iPod, with 160&amp;nbsp;GB of storage. Discontinued in September 2014.
+**[[iPod Nano]] &amp;ndash; The smaller iPod. The first generation of iPod Nano was introduced on September 7, 2005 as a replacement for [[iPod Mini]].&lt;ref name="firstGenPR"&gt;{{cite press release |url=https://www.apple.com/newsroom/2005/09/07Apple-Introduces-iPod-nano/ |title=Apple Introduces iPod Nano |author=Apple |date=September 7, 2005 |publisher=Apple |accessdate=March 7, 2018}}&lt;/ref&gt; It uses [[flash memory]] for storage. iPod Nano has gone through six models, or generations, since its introduction. The current "sixth generation" iPod Nano supports [[FM radio]], a [[pedometer]], and a {{convert|39.1|mm|adj=on}} square 240×240 display with a [[multitouch]] interface.
+**[[iPod Shuffle]] &amp;ndash; The smallest model in Apple's iPod family, and was the first to use [[flash memory]]. The first model was announced at the [[Macworld Conference &amp; Expo]] on January 11, 2005; the current fourth generation model was introduced on September 1, 2010.&lt;ref name="shuffle4g"&gt;{{cite web|last=June|first=Laura |title=Apple announces redesigned iPod shuffle, brings the buttons back|url= https://www.engadget.com/2010/09/01/apple-announces-redesigned-ipod-shuffle-brings-the-buttons-back/|publisher=Engadget|accessdate=September 1, 2010}}&lt;/ref&gt;
+*[[eMate 300]] &amp;ndash; first (and only) generation of a low-cost laptop-style variation of the [[Messagepad#MessagePad 2100|MessagePad 2100]], designed for the educational market, based on the [[Apple Newton]] platform, running the [[Newton OS]], discontinued in 1998
+[[File:Apple Newton and iPhone.jpg|thumb|right|The [[Apple Newton]] [[Messagepad#MessagePad 2100|MessagePad 2100]], alongside the original [[iPhone]]]]
+*[[Messagepad|MessagePad]] &amp;ndash; the line of personal digital assistants that originally coined the term "[[personal digital assistant]]" or "[[PDA]]", based on the [[Apple Newton]] platform, running the [[Newton OS]], discontinued in 1998
+**[[Messagepad#MessagePad 100|MessagePad 100]] &amp;ndash; first generation model, [...]
+**[[Messagepad#MessagePad 110|MessagePad 110]] &amp;ndash; second generation model, [...]
+**[[Messagepad#MessagePad 120|MessagePad 120]] &amp;ndash; third generation model, [...]
+**[[Messagepad#MessagePad 130|MessagePad 130]] &amp;ndash; fourth generation model, [...]
+**[[Messagepad#MessagePad 2000|MessagePad 2000]] &amp;ndash; fifth generation model, [...]
+**[[Messagepad#MessagePad 2100|MessagePad 2100]] &amp;ndash; sixth (and last) generation model, [...]
+
+===Hardware accessories===
+[[File:Magic Mouse.jpg|thumb|right|[[Magic Mouse]]]]
+*[[AirPort]] &amp;ndash; [[wireless LAN|Local area wireless networking]] products based on the [[IEEE 802.11]] standard (also known as [[Wi-Fi]]). AirPort and AirPort Extreme in common usage can refer to the [[protocol (computing)|protocol]] ([[802.11b]], [[802.11g]] and [[802.11n]]), the [[AirPort#AirPort cards|expansion card]] or the [[AirPort#AirPort routers|router]].
+**[[AirPort Time Capsule]] &amp;ndash; (previously just Time Capsule) a [[Wireless network|wireless]] network device sold by [[Apple Inc.]], featuring [[network-attached storage]] (NAS) and a [[residential gateway|residential gateway router]]. It is described as a "Backup Appliance", designed to work in tandem with the [[Time Machine (Apple software)|Time Machine]] backup software utility introduced in [[Mac OS X 10.5]]. Introduced on January 15, 2008 and released on February 29, 2008, the device includes a full [[AirPort]] Extreme Base Station which features [[802.11n]] wireless, one [[Ethernet]] [[wide area network|WAN]] port, three Ethernet [[local area network|LAN]] ports, and one [[USB]] port. The USB port can be used for external peripheral devices to be shared over the network, such as external hard drives or printers. The NAS functionality utilizes a built-in "server grade" hard drive.
+**[[AirPort Extreme]] &amp;ndash; (needs adding).
+**[[AirPort Express]] &amp;ndash; (needs adding).
+*[[Apple Thunderbolt Display]] &amp;ndash; The newest flat panel [[computer monitor]], introduced on July 20, 2011. The display model and the older [[Apple Cinema Display|Apple LED Cinema Display]] are the only two display models currently sold by Apple, both sharing the same technical specification for the display portion of the product. New to the Thunderbolt Display is the switch from [[Mini DisplayPort]] and [[USB]] to a single [[Thunderbolt (interface)|Thunderbolt]] connection for the data transfer between Mac and display. The increased bitrate from switching to Thunderbolt enables inclusion of a [[Gigabit Ethernet]] port and a [[FireWire 800]] port on the display. Older Mac models with [[Mini DisplayPort]], including all Mac models introduced in 2010, are incompatible with the Thunderbolt Display.
+*[[iPad accessories]] &amp;ndash; The iPad has a wide variety of accessories made by Apple available for it, including a screen cover specifically for the iPad 2 called "Smart Cover", as well as a number of accessories to allow the iPad to connect to other devices, some of which enable non-touch screen input.
+*[[Apple Keyboard]] &amp;ndash; A wireless [[Keyboard (computing)|keyboard]] built for [[Apple Macintosh|Macintosh]] computers and the [[iPad]]. It interacts over [[Bluetooth]] wireless technology and unlike its wired version, it has no [[USB]] connectors or ports. Both generations have low-power features when not in use.
+*[[Magic Mouse]] &amp;ndash; A [[multi-touch]] [[Mouse (computing)|mouse]] that was&lt;ref name = "Magic Mouse" &gt;{{cite web | url = https://www.apple.com/magicmouse | title = Magic Mouse | publisher=Apple | accessdate = December 1, 2009}}&lt;/ref&gt; announced and sold for the first time on October 20, 2009.&lt;ref name = "Engadget-announcement" &gt;{{cite web | url = https://www.engadget.com/2009/10/20/apples-magic-mouse-multitouch-gestures-bluetooth-four-month | title = Apple's Magic Mouse: one button, multitouch gestures, Bluetooth, four-month battery life | last = Topolsky | first = Joshua | date = October 20, 2009 | publisher=Engadget | accessdate = October 25, 2009}}&lt;/ref&gt; The Magic Mouse is the first consumer mouse to have [[multi-touch]] capabilities.&lt;ref name = "Magic Mouse" /&gt; Taking after the [[iPhone]], [[iPad]], [[iPod Touch]], and multi-touch [[trackpad]]s, the Magic Mouse allows the use of [[gesture recognition|gestures]] such as swiping and scrolling across the top surface of the mouse to interact with desktop computers. It connects via [[Bluetooth]] and runs on two [[AA batteries]].
+*[[Magic Trackpad]] &amp;ndash; a [[multi-touch]] trackpad Announced on July 27, 2010, it is similar to the trackpad found on the current MacBook family of laptops, albeit 80% larger. The trackpad is fully compatible with Macintosh computers running Mac OS X Snow Leopard versions 10.6.4 and higher with a software update, as well as [[Windows 7]], [[Windows XP]], and [[Windows Vista]] in Apple's Boot Camp with an added device driver. It is also capable of performing in a basic capacity when paired with a Windows computer or a Macintosh without the necessary software.
+*[[Apple Pencil]] - a digital stylus, an input device, designed to work exclusively with the [[iPad Pro]] tablet computer. It is marketed at the creative work done by professional artists as it makes electronic drawing on iPad Pro feasible.&lt;ref&gt;{{Cite web|url = http://money.cnn.com/2015/09/10/technology/apple-pencil-stylus/index.html?section=money_technology|title = Artists cheer the new Apple Pencil stylus|date = September 10, 2015|accessdate = September 10, 2015|website = CNN.com|publisher = CNN Money|last = Pagliery|first = Jose|archiveurl = https://web.archive.org/web/20150910235406/http://money.cnn.com/2015/09/10/technology/apple-pencil-stylus/index.html?section=money_technology|archivedate = September 10, 2015}}&lt;/ref&gt;
+
+==Software==
+[[File:Steve Jobs Presentation 1.jpg|thumb|right|[[Steve Jobs]] talks about the transition to Intel in 2005]]
+*[[Aperture (photography software)|Aperture]] &amp;ndash; a [[photo editing software|photo editing]] and [[digital asset management|management]] [[computer program]] aimed at pro users, compared to the consumer-based, [[iPhoto]]. Discontinued in April 2015, and along with iPhoto, both replaced by new app [[Photos (Apple)|Photos]].
+*[[Bento (database)|Bento]] &amp;ndash; a [[database]] [[application software|application]]. Discontinued in September 2013.
+*[[FileMaker|FileMaker Pro]] &amp;ndash; a cross-platform [[relational database]] application.
+*[[Final Cut Pro]] &amp;ndash; a [[non-linear editing|non-linear]] [[video editing software]].
+*[[iLife]] &amp;ndash; a suite of [[application software|software applications]] for organizing, editing, and publishing photos, movies, and music. The suite comprises five applications, all of which run on the macOS operating system:
+**[[iPhoto]] &amp;ndash; a consumer-based photo storage and editing application forming part of the original [[iLife]] software suite, subsequently sold separately via the [[Mac App Store]], giving users tools to edit and organize their photos. Later, also enabled connection to [[Photo Stream]] capabilities. Apple's [[Aperture]] is available for pro users. Discontinued in April 2015 and replaced by [[Photos (Apple)|Photos]].
+***Digital Photo Access Protocol (DPAP) &amp;ndash; Apple's proprietary protocol allowing [[iPhoto]] folders stored on remote storage devices (e.g. [[network-attached storage]] (NAS) drives) limited share ability to multiple devices.
+**[[iMovie]] &amp;ndash; a video creation application forming part of the original [[iLife]] software suite and subsequently sold separately via the [[Mac App Store]], giving users tools to edit and sequence video footage into a coherent video.
+**[[iDVD]] &amp;ndash; a DVD authoring application forming part of the original [[iLife]] software suite, allowing users to design and put together a DVD, and also to burn to blank DVD discs if required. Discontinued with the release of Mountain Lion.
+**[[GarageBand]] &amp;ndash; an audio editing and sequencing application forming part of the original [[iLife]] software suite and subsequently sold separately via the [[Mac App Store]], giving users tools to edit and sequence audio.
+**[[iWeb]] &amp;ndash; a web designing application forming part of the original [[iLife]] software suite, giving users basic [[HTML]] webpage design tools, and also tools to publish these pages to a server. Discontinued with the release of Mountain Lion.
+*[[iOS]] (previously iPhone OS) &amp;ndash; software for [[iDevices|iOS devices]], usually in the form of apps of OS updates. Unlike Mac OS apps, since iOS inception all apps have been released and sold through the Apple iOS App Store.
+**[[CarPlay]] (previously iOS in the Car) &amp;ndash; a standard Apple are introducing from 2014 into car systems allowing native iOS device control using the car's in-build controls and displays, giving eyes-free and hands-free operation. It also incorporates usage of Apple's previously released [[Siri]] [[Siri#Vehicle integration|Eyes Free]] mode.
+**[[iOS jailbreaking|Jailbreaking]] &amp;ndash; form of privilege escalation on iOS, giving users root access to the operating system, allowing them to download additional applications, extensions, and themes that are unavailable through the official Apple iOS App Store for the iPhone, iPod Touch, iPad, and Apple TV (2nd generation).
+**[[iOS version history|Version history]] &amp;ndash; version history of the iOS operating system.
+*[[iTunes]] &amp;ndash; a [[media player (application software)|media player]] computer program, used for playing, downloading, saving, and organizing digital music and video files on desktop or laptop computers. It can also manage contents on iPod, iPhone, iPod Touch and iPad. iTunes can connect to the [[iTunes Store]] to purchase and download music, music videos, television shows, [[iPod game]]s, [[audiobook]]s, [[podcast]]s, movies and movie rentals (not available in all countries), and [[ringtone]]s (only available on iPod Touch (4th generation) onwards, and iPhone). It is also used to download [[application software|apps]] from the [[App Store (iOS)|App Store]] for the iPhone, iPad and iPod Touch. iTunes has been criticized for not being able to transfer music from one portable device to another.
+**[[Digital Audio Access Protocol]] (DAAP) (as used for ''iTunes Server'' functionality) &amp;ndash; Apple's proprietary protocol allowing iTunes media folders stored on remote storage devices (e.g. [[network-attached storage]] (NAS) drives) limited share ability to multiple devices.
+*[[iWork]] &amp;ndash; an [[office suite]] of desktop applications for the macOS and iOS [[operating system]]s.&lt;ref&gt;{{cite press release | url=https://www.apple.com/pr/library/2003/01/07Apple-Unveils-Keynote.html | title=Apple Unveils Keynote | publisher=[[Apple Inc.]] | date=January 7, 2003 | accessdate=October 8, 2013}}&lt;/ref&gt; The first version of iWork, iWork '05, was released in 2005. The suite originally bundled [[Keynote (presentation software)|Keynote]], a [[presentation program]] which had previously been sold as a standalone application, and [[Pages (word processor)|Pages]], a combined [[word processing]] and [[page layout]] application. In 2007, Apple released iWork '08, which contained [[Numbers (spreadsheet)|Numbers]]; a new [[spreadsheet]] application. iWork also included access to [[iWork.com]], which came around the time of iWork '09's (January 6, 2009) release, and was a beta service that allowed users to upload and share documents online with others, who could download &amp; edit them, and give feedback, although iWork.com was later withdrawn from market in 2011 with the release of [[iCloud]]. From late 2013, an online version of the iWork apps were made accessible for free through all users iCloud online account access instead. iWork integrates with existing applications from Apple's [[iLife]] suite through the Media Browser, which allows users to drag and drop media content from [[iTunes]] (music), [[iMovie]] (video), and [[iPhoto]] or [[Aperture (software)|Aperture]] (photos), directly into iWork documents.
+*[[Logic Studio]] &amp;ndash; a [[music production]] suite. It claims to be the largest collection of modeled instruments, sampler instruments, effect plug-ins, and audio loops ever put in a single box.
+*[[macOS]] (previously "Mac OS X" and "OS X") &amp;ndash; a series of [[Unix]]-based [[graphical user interface|graphical interface]] [[operating system]]s that runs exclusively on [[Macintosh]] computers and has been pre-loaded on all Macs since 2002.
+**[[macOS Server]] &amp;ndash; originally a completely different server version of the [[macOS]] operating system, but from 2011, a package of apps (known simply as "macOS Server") available as a single purchase from the [[Mac App Store]] which works on top of the standard edition of macOS.
+**[[History of macOS]] &amp;ndash; the history of the operating system.
+**[[Apple's transition to Intel processors]] &amp;ndash; the process of changing the [[CPU]] of Macintosh [[computers]] from [[PowerPC]] processors to [[Intel]] [[x86]] processors.
+**[[Architecture of macOS]] &amp;ndash; the components of macOS's architecture.
+**[[List of macOS components|macOS Components]] &amp;ndash; a list of the components of macOS.
+**[[macOS#Versions|Versions of macOS]] &amp;ndash; a list of all the versions released of macOS.
+***[[Mac OS X Public Beta|Kodiak (Public Beta)]] &amp;ndash; an early beta version of Mac OS X 10.0. It was released to the public on September 13, 2000. It allowed software developers and early adopters to test a preview of the upcoming operating system and develop software for the forthcoming operating system before its final release.
+***[[Mac OS X v10.0|Cheetah (10.0)]] &amp;ndash; the first [[Software version|major release]] of Mac OS X, Apple's desktop and server operating system. Mac OS X v10.0 was released on March 24, 2001. It was the successor of the [[Mac OS X Public Beta]] and the predecessor of Mac OS X v10.1. Mac OS X v10.0 was a radical departure from the previous “classic” Macintosh operating system and was Apple's long-awaited answer to the call for a next generation Macintosh operating system.
+***[[Mac OS X v10.1|Puma (10.1)]] &amp;ndash; the second major release of Mac OS X. Apple introduced many features that were missing from the last version, as well as improving overall system performance.
+***[[Mac OS X Jaguar|Jaguar (10.2)]] &amp;ndash; the third major release of Mac OS X. It was seen as a large step forward in the areas of stability, general speed enhancements, compatibility with other flavors of [[Unix]] and the lineup of both graphical and command line applications available
+***[[Mac OS X Panther|Panther (10.3)]] &amp;ndash; The fourth major release of Mac OS X. Finder was updated with a brushed-metal interface, a new live search engine, customizable Sidebar, secure deletion, [[File label]]s and [[ZIP (file format)|Zip]] support built in. The Finder icon was also changed.
+***[[Mac OS X Tiger|Tiger (10.4)]] &amp;ndash; the fifth major release of Mac OS X. Some of the new features include a fast searching system called [[Spotlight (software)|Spotlight]], a new version of the [[Safari (web browser)|Safari]] web browser, [[Dashboard (Mac OS)|Dashboard]], a new 'Unified' theme, and improved support for [[64-bit]] addressing on [[Power Mac G5]]s.
+***[[Mac OS X Leopard|Leopard (10.5)]] &amp;ndash; the sixth major release of Mac OS X. Leopard contains over 300 changes and enhancements over its predecessor, [[Mac OS X Tiger]],&lt;ref name="listnewfeatures"&gt;{{cite web|date=16 October 2007|title=Mac OS X Leopard&amp;nbsp;— Features - 300+ New Features|url=https://www.apple.com/macosx/features/300.html|publisher=[[Apple Inc.]]|accessdate=October 16, 2007|url-status=dead|archiveurl=https://web.archive.org/web/20081215210759/http://www.apple.com/macosx/features/300.html|archivedate=15 December 2008}}&lt;/ref&gt; covering core operating system components as well as included applications and developer tools. Leopard introduces a significantly revised desktop, with a redesigned [[Dock (Mac OS X)|Dock]], [[Stacks (software)|Stacks]], a semitransparent [[menu bar]], and an updated [[Finder (software)|Finder]] that incorporates the [[Cover Flow]] visual navigation interface first seen in [[iTunes]]. Other notable features include support for writing [[64-bit]] [[graphical user interface]] applications, an automated backup utility called [[Time Machine (Apple software)|Time Machine]], support for [[Spotlight (software)|Spotlight]] searches across multiple machines, and the inclusion of [[Front Row (software)|Front Row]] and [[Photo Booth]], which were previously included with only some Mac models.
+***[[Mac OS X Snow Leopard|Snow Leopard (10.6)]] &amp;ndash; the seventh major release of Mac OS X. Unlike previous versions of Mac OS X, the goals with Snow Leopard were improved performance, greater efficiency and the reduction of its overall [[memory footprint]]. Addition of new end-user features was not a primary goal. Much of the software in Mac OS X was extensively rewritten for this release in order to fully take advantage of modern [[Macintosh]] hardware. New programming frameworks, such as [[OpenCL]], were created, allowing software developers to use [[graphics processing unit|graphics cards]] in their applications. This is also the first Mac OS release since [[System 7|System 7.1.1]] that does not support Macs that use [[PowerPC]] processors, as Apple now intends to focus on [[Apple–Intel architecture|its current line of Intel-based products]]. As support for [[Rosetta (software)|Rosetta]] was dropped in [[Mac OS X Lion]], Snow Leopard is the last version of Mac OS X that is able to run PowerPC-only applications.
+***[[Mac OS X Lion|Lion (10.7)]] &amp;ndash; The eighth major release of Mac OS X. It brings many developments made in Apple's [[iOS]], such as an easily navigable display of installed applications, to the Mac, and includes support for the [[Mac App Store]], as introduced in Mac OS X Snow Leopard version 10.6.6.&lt;ref name="usatoday MAS intro"&gt;{{cite news|url=https://www.usatoday.com/tech/products/2010-10-20-apple-macbook_N.htm|work=USA Today|first=Jefferson|last=Graham|title=New Apple MacBook Air costs less, plus App Store is coming|date=October 21, 2010}}&lt;/ref&gt;&lt;ref name=CNetVideo&gt;{{cite web|url=http://news.cnet.com/8301-13860_3-20020208-56.html|title=Apple unveils new MacBook Airs, previews Lion|publisher=Beyond Binary – CNET News|work=[[CNET]]|date= October 20, 2010|accessdate=October 22, 2010}}&lt;/ref&gt;
+***[[OS X Mountain Lion|Mountain Lion (10.8)]] &amp;ndash; The ninth major release of OS X;&lt;ref name="PR-16-02"&gt;{{cite press release |title=Apple Releases OS X Mountain Lion Developer Preview with Over 100 New Features |publisher=[[Apple Inc.]]|date=February 16, 2012|url=https://www.apple.com/pr/library/2012/02/16Apple-Releases-OS-X-Mountain-Lion-Developer-Preview-with-Over-100-New-Features.html|accessdate=February 16, 2012}}&lt;/ref&gt; in this release, Apple dropped the "Mac" from the operating system's name. OS X Mountain Lion was announced on February 16, 2012 and was released worldwide on July 25, 2012.&lt;ref name="PR-16-02"/&gt; It gained additional features from [[iOS]], some of which were previously introduced to the Mac in [[Mac OS X Lion|OS X Lion]].
+***[[OS X Mavericks|Mavericks (10.9)]] &amp;ndash; The tenth major release of OS X. The main goal was to improve battery life for portable Macs. It also includes [[Finder (software)|Finder]] and other [[power users|power user]] enhancements. Announced on June 10, 2013 at [[Apple Worldwide Developers Conference|WWDC 2013]],&lt;ref name="OSX Mavericks release at Macrumors"&gt;{{cite web|url=http://www.macrumors.com/2013/06/10/live-coverage-of-apples-wwdc-2013-keynote|title=Live Coverage of Apple's WWDC 2013 Keynote |publisher=[[MacRumors]]|date=June 10, 2013|accessdate=June 10, 2013}}&lt;/ref&gt;&lt;ref name="apple-june-press-release"&gt;{{cite press release|url=https://www.apple.com/pr/library/2013/06/10Apple-Releases-Developer-Preview-of-OS-X-Mavericks-With-More-Than-200-New-Features.html|title=Apple Releases Developer Preview of OS X Mavericks With More Than 200 New Features|date=June 10, 2013|publisher=[[Apple Inc.]]}}&lt;/ref&gt; and released on October 22, 2013.
+***[[OS X Yosemite|Yosemite (10.10)]] &amp;ndash; The eleventh major release of OS X. Includes a major overhaul of OS X's [[user interface]], a new feature called Continuity which increases integration with iOS devices and iCloud. Announced on June 2, 2014 at WWDC 2014, and released on October 16, 2014.
+***[[OS X El Capitan|El Capitan (10.11)]] &amp;ndash; The twelfth major release of OS X.
+***[[macOS Sierra|Sierra (10.12)]] &amp;ndash; The thirteenth major release of macOS; in this release, Apple changed the name of the operating system from "OS X" to "macOS".
+***[[macOS High Sierra|High Sierra (10.13)]] &amp;ndash; The fourteenth major release of macOS; in this release, unlike previous macOS versions, Apple removed users ability to re-download the previous version (Sierra 10.12) from the [[Mac App Store]].
+**[[List of Macintosh software|List of applications]] &amp;ndash; a list of applications for macOS.
+***[[Automator (software)|Automator]] &amp;ndash; an application developed that implements point-and-click (or drag-and-drop) creation of [[workflow]]s for automating repetitive tasks into [[Batch processing|batch]]es for quicker alteration, thus saving time and effort over human intervention to manually change each file separately. Automator enables the repetition of tasks across a wide variety of programs, including the [[Macintosh Finder|Finder]], the [[Safari (web browser)|Safari]] web browser, [[iCal]], [[Address Book (application)|Address Book]] and others. It can also work with third-party applications such as [[Microsoft Office]], [[Adobe Photoshop]] or [[Pixelmator]].
+***[[Boot Camp (software)|Boot Camp]] &amp;ndash; a [[multi boot]] [[utility software|utility]] included with [[macOS]] allowing users to instal [[Microsoft Windows]] [[operating system]]s on [[Apple–Intel architecture|Intel-based Macs]], with ''Boot Camp Assistant'' to guide users through the non-destructive process.
+***[[Calculator (Mac OS)|Calculator]] &amp;ndash; a basic [[calculator]] [[application (software)|application]]. It has three modes: basic, scientific, and programmer.
+***[[Calendar (Apple)|Calendar]] &amp;ndash; a personal [[calendar application]].
+***[[Chess (Mac OS)|Chess]] &amp;ndash; a [[Chess|chess game]] featuring a high-quality graphical display and support for [[chess variant]]s such as [[crazyhouse]] and [[Losing chess|suicide chess]]. Also included are different skins featuring metal, grass, marble and wood.
+***[[Contacts (application)|Contacts]] &amp;ndash; (formally known as [[Address Book (application)|Address Book]]) a computerized [[address book]]. It includes various syncing capabilities and integrates into with other macOS applications and features. Renamed ''Contacts'' on release of Mountain Lion, to match the similarly named iOS app which it syncs with through [[iCloud]].
+***[[Dashboard (Mac OS)|Dashboard]] &amp;ndash; an application for used for hosting mini-applications known as [[Widget engine|widgets]]. First introduced in [[Mac OS X v10.4|Tiger]], it is a semi-transparent layer that is invisible to the user unless activated by clicking its icon in the Dock. Alternatively, the user can invoke Dashboard by moving the cursor into a preassigned hot corner, by pressing a hot key, or mouse button, any of which can be set to the user's preference.
+***[[Dictionary (software)|Dictionary]] &amp;ndash; an [[Application software|application]]. It was introduced with Mac OS X Tiger, and provides definitions and synonyms from the ''[[New Oxford American Dictionary|New Oxford American Dictionary, 2nd Edition]]'' and ''Oxford American Writer's Thesaurus, 2nd Edition''. It also includes a section for browsing [[Wikipedia]] articles and a section called "Apple" which includes Apple-related items.
+***[[DVD Player (Mac OS)|DVD Player]] &amp;ndash; the default [[DVD player]].
+***[[FaceTime]] &amp;ndash; a [[videotelephony|video calling]] software application and related protocol. Late-2013's release of [[OS X Mavericks]] and [[iOS 7]] introduced [[FaceTime#FaceTime Audio|FaceTime Audio]]; an audio-only ([[voice over IP|VOIP]]) version of the service.
+***[[Finder (software)|Finder]] &amp;ndash; the default [[file manager]]; it is responsible for the overall user-management of files, disks, network volumes, and the launching of other applications. Hence, the Finder acts like the [[operating system shell|shell]] on other operating systems, but using a [[graphical user interface]], and is described in its "About" window as ''The Macintosh Desktop Experience''. It was introduced with the very first Macintosh computer, and also existed as part of [[GS/OS]] on the [[Apple IIGS|Apple II&lt;small&gt;GS&lt;/small&gt;]]. It underwent a complete rewrite with Apple's switch to a UNIX-based OS in [[Mac OS X]]. From the release of [[Mac OS X Lion]] in 2011, a new file sharing protocol called [[AirDrop]] was added, allowing files to be transferred between Mac computers over the local Wi-Fi connection, and later added to [[iOS]]'s [[Control Center (iOS)|Control Center]] on release of [[iOS 7]] in late 2013. [[OS X Mavericks]] added to Finder fullscreen app status, tabbed windows, and file tagging.
+***[[Grapher]] &amp;ndash; a [[computer program]] that is able to create [[2D computer graphics|2D]] and [[3D computer graphics|3D]] [[Graph of a function|graphs]] from simple and complex [[equations]]. It includes a variety of samples ranging from [[differential equations]] to 3D-rendered [[Toroid]]s and [[Lorenz attractor]]s. It is also capable of dealing with [[function (mathematics)|functions]] and compositions of them. One can edit the appearance of graphs by changing line colors, adding patterns to rendered surfaces, adding comments, and changing fonts and styles used to display them. Grapher is able to create animations of graphs by changing constants or rotating them in space.
+***[[Mail (OS X)|Mail]] &amp;ndash; an [[email client|email program]]. Originally developed by [[NeXT]] as [[NeXTMail]], a part of their [[NeXTSTEP]] operating system, it was adapted, following Apple's acquisition of NeXT, to become Mac OS X's Mail application. Mail uses the [[Simple Mail Transfer Protocol|SMTP]], [[Post Office Protocol|POP3]], and [[Internet Message Access Protocol|IMAP]] protocols, and supports [[Yahoo! Mail]], [[AOL Mail]], [[Gmail]], [[MobileMe]] and [[Microsoft Exchange Server|Exchange]] via IMAP. iOS features a mobile version of Apple Mail with added [[ActiveSync]] support, though it is still missing the functionality of attaching files to replay emails. Starting with the version shipped with Mac OS X v10.6, Mail has [[Microsoft Exchange Server]] 2007 support using Exchange Web Services.
+***[[Messages (Apple)|Messages]] &amp;ndash; an [[instant messaging]] [[software application]].
+***[[Photo Booth]] &amp;ndash; a small software application for taking photos and videos with an [[iSight]] [[webcam|camera]].
+***[[Photos (Apple)|Photos]] &amp;ndash; a [[digital photograph]] manipulation application bundled with OS X Yosemite 10.10.3. Replaces [[Aperture (photography software)|Aperture]] and [[iPhoto]].
+***[[Preview (Mac OS)|Preview]] &amp;ndash; an application for displaying images and [[Portable Document Format]] (PDF) documents.
+***[[QuickTime]] &amp;ndash; an extensible [[Proprietary format|proprietary]] [[multimedia framework]] and application, capable of handling various formats of [[digital video]], picture, sound, [[QuickTime VR|panoramic image]]s, and [[interactivity]].
+***[[Rosetta (software)|Rosetta]] &amp;ndash; a [[Binary translation#Dynamic binary translation|dynamic binary translator]] application for [[Mac OS X]] allowing many [[PowerPC]] apps to run on certain [[x86|Intel]]-based [[Macintosh|Macs]] without modification. Released in 2006 for the transition from PowerPC to Intel processors on the Macintosh [[Computing platform|platform]], but it was dropped in [[Mac OS X Lion|Lion]] so Snow Leopard is the last version of Mac OS X that is able to run PowerPC-only applications.
+***[[Safari (web browser)|Safari]] &amp;ndash; a web browser.
+***[[Stickies (software)|Stickies]] &amp;ndash; a [[notetaking]] application for putting [[Post-it note]]-like windows on the screen with short reminders, notes and other clippings. Typed contents are automatically stored and restored when the application is restarted.
+***[[TextEdit]] &amp;ndash; a simple, [[open source]] [[word processor]] and [[text editor]].
+**[[List of Macintosh games|List of games]] &amp;ndash; a list of games for macOS.
+*[[Newton OS]] &amp;ndash; the [[operating system]] developed for the [[Apple Newton]] platform and its line of [[MessagePad]] [[personal digital assistant]]s and the [[EMate 300|eMate]], first commercial operating system with [[handwriting recognition]], discontinued in 1998
+** The [[User interface|user environment]] of the [[Newton OS]] is build from the following, tightly integrated applications:
+*** Works &amp;ndash; drawing and word processing application, included features such as rulers, margins, page breaks, formatting, printing, spell checking and find &amp; replace tools
+*** [[Apple Newton#Notes|Notes]] &amp;ndash; note taking application for checklists, drawing and writing
+*** [[Apple Newton#Dates|Dates]] &amp;ndash; calendar application for scheduling appointments and events
+*** [[Apple Newton#Names|Names]] &amp;ndash; contact management application
+*** Formulas &amp;ndash; application for conversions (i.e. currencies, metric - imperial, etc.) and formulas, with pre-built calculators for loan and mortgage, tips etc.
+*** Calculator &amp;ndash; calculator application with functions like square root, percentage, MR, M+ and M- in addition to basic calculator functions
+*** Clock &amp;ndash; floating-window-type application, with features such as alarm, minute timer and date display
+*** Book Reader &amp;ndash; electronic books reader application
+*[[Xsan]] &amp;ndash; a [[storage area network]] or clustered file system for macOS. Xsan enables multiple Mac desktop and Xserve systems to access shared block storage over a [[Fibre Channel]] network. With the Xsan file system installed, these computers can read and write to the same storage volume at the same time. Xsan is a complete SAN solution that includes the metadata controller software, the file system client software, and integrated setup, management and monitoring tools.
+*[[Classic Mac OS]] &amp;ndash; the Macintosh operating system preceding macOS.
+**[[Classic Mac OS#System 1.2C 2.2C 3 and 4|System 1, 2, 3, and 4]] &amp;ndash; versions 1 to 4 of Apple's OS, released from 1984 to 1987.
+**[[Classic Mac OS#System Software 5|System 5]] &amp;ndash; the fifth version of Apple's OS, released in 1987.
+**[[System 6]] &amp;ndash; the sixth version of Apple's OS, released in 1988.
+**[[System 7]] &amp;ndash; the seventh version of Apple's OS, released in 1991. Version 7.1.2 was the first edition released for Macs equipped with a [[PowerPC]] processors. On 1997s release of version 7.6, Apple officially renamed the operating system "Mac OS".
+**[[Copland (operating system)|Copland]] &amp;ndash; a scrapped project which was a potential OS successor to [[System 7]].
+**[[Mac OS 8]] &amp;ndash; the eighth version of Apple's OS, and the first full release titled "Mac OS" released in 1997. It represented the largest overhaul of the Mac OS since the initial release of System 7, some six years previously.
+**[[Mac OS 9]] &amp;ndash; the ninth version of Apple's OS, released in 1999. Featured a great many major moves towards the interfaces and technologies current in macOS.
+*Ancillary operating systems
+**[[MkLinux]]; a [[free software]] experiment in [[microkernel]] engineering, based on [[Mach (kernel)]] and [[Red Hat Linux]], producing the first [[Linux]] distribution for [[Power Macintosh]]
+**[[A/UX]]; a short-lived commercial OS which merged [[System 7]]'s GUI and application layer atop [[UNIX]] on select 68k Macintoshes
+
+==Stores and services==
+*[[Apple Developer Connection]] (ADC) &amp;ndash; Apple's developer network, which makes resources available to help software developers write software for the macOS and iOS platforms.
+*[[AppleCare]] &amp;ndash; a service and support plan that extends the standard Apple warranty and phone support for its products to two years for iPods, iPads, and iPhones or three years for Macs.
+*[[Apple Specialist]] &amp;ndash; an independent Apple reseller which over time has demonstrated exceptional, consistent, and comprehensive knowledge of Apple technology, offers its entire line of hardware and software, offers complete service and support for branded products, and has been designated as Specialist by the manufacturer. ''Apple Premiere Specialists'' constitute an elite 100 businesses among the Specialist designated group.
+*[[Apple Store]]&amp;nbsp;([[Apple Store (online)|online]]) &amp;ndash; Apple Inc.'s worldwide chain of over 424 retail stores&lt;ref&gt;[https://www.apple.com/retail/storelist Apple Retail Store - Store List]&lt;/ref&gt; designed as sleek playrooms filled with gadgets.&lt;ref&gt;{{cite news|url=https://www.nytimes.com/2011/06/15/business/economy/15shop.html?_r=1|work=The New York Times|first1=Stephanie|last1=Clifford|first2=Miguel|last2=Helft|title=Ron Johnson, Apple Stores Chief, to Lead J.C. Penney|date=June 14, 2011}}&lt;/ref&gt; They sell Macintosh personal computers, software, iPods, iPads, iPhones, third-party accessories, and other consumer electronics such as Apple TV.
+**Theatre &amp;ndash; many Apple Stores feature a Theatre for presentations and workshops.
+**Studio &amp;ndash; area set up for training with Apple products. Found in most Apple Stores.
+**[[Genius Bar]] &amp;ndash; tech support station located inside every Apple Store, offering help and support for Apple products, including repairs.
+*[[App Store (iOS)]] &amp;ndash; a digital [[application software|application]] [[digital distribution|distribution]] platform for iOS. The service allows users to browse and download [[mobile apps|applications]] from the [[iTunes Store]] that were developed with the [[iOS SDK]] or Mac SDK and published through Apple. Depending on the application, they are available either for free or at a cost. The applications can be downloaded directly to a target device, or downloaded onto a [[personal computer]] (PC) or [[Macintosh]] via [[iTunes]]. 30% of revenue from the store goes to Apple, and 70% go to the producer of the app.
+**[[iOS app approvals]] &amp;ndash; iOS App Store approvals process, and past application of store rules.
+*[[Mac App Store]] &amp;ndash; a [[digital distribution]] platform for macOS applications. The platform was announced on October 20, 2010 at Apple's "[[Stevenote|Back to the Mac]]" event.&lt;ref name="Jan6"&gt;{{cite web|url=https://www.engadget.com/2010/12/16/apple-mac-app-store-open-for-business-starting-january-6th|title=Apple Mac App Store: open for business starting January 6th|author=Darren Murph|date=December 6, 2010|work=[[Engadget]]|publisher=[[AOL]]|accessdate=December 16, 2010}}&lt;/ref&gt;&lt;ref name="1-6-10-PCMAG-MACAPPSTORE"&gt;{{cite news|url=https://www.pcmag.com/article2/0,2817,2375320,00.asp|title=Apple's Mac App Store: Hands On|accessdate=January 6, 2011|date=January 6, 2011|work=PC Magazine|publisher=PC Magazine|first=Michael|last=Muchmore}}&lt;/ref&gt;&lt;ref name="appleinsider 90 days"&gt;{{cite web|url=http://www.appleinsider.com/articles/10/10/20/apples_new_mac_app_store_coming_to_snow_leopard_within_90_days.html|title=Apple's new Mac App Store coming to Snow Leopard within 90 days|author=AppleInsider Staff |date=20 October 2010|work=AppleInsider.com|publisher=|accessdate=31 October 2010}}&lt;/ref&gt; Apple began accepting app submissions from registered developers on November 3, 2010 in preparation for its launch.&lt;ref name="accepting app submissions"&gt;{{cite web |url=http://macappstorereview.com/2010/11/03/apple-now-accepting-submissions-for-the-mac-app-store|title=Apple Now Accepting Submissions For The Mac App Store|author=Mac App Store Review|date=November 3, 2010|work=MacAppStoreReview.com|publisher=|accessdate=3 November 2010}}&lt;/ref&gt; It was released on January 6, 2011 as part of the free Mac OS X v10.6.6 update for all current Snow Leopard users.&lt;ref name="Jan6"/&gt;&lt;ref name="1-6-10-PCMAG-MACAPPSTORE"/&gt; After 24 hours of release, Apple announced that there was a total of more than one million downloads.&lt;ref&gt;{{cite press release|title=Mac App Store Downloads Top One Million in First Day |publisher=[[Apple Inc.]]|url=https://www.apple.com/pr/library/2011/01/07macappstore.html|date=January 7, 2011|accessdate=January 10, 2011}}&lt;/ref&gt;
+*[[Apple certification programs]] &amp;ndash; Programs to verify an in-depth knowledge of various areas of Apple's products. They are designed to create a high level of technical proficiency among [[Macintosh]] service technicians, [[help desk]] support, technical support, [[system administrator]]s, and professional users. Apple certification exams are offered at [[Prometric]] testing centers and Apple Authorized Training Centers.
+*[[iCloud]] &amp;ndash; a [[cloud storage]] and [[cloud computing]] service&lt;ref name=cloudconundrum&gt;{{cite web|title=Switched On: Apple's cloud conundrum|url=https://www.engadget.com/2011/06/12/switched-on-apples-cloud-conundrum|publisher=[[Engadget]]|date=June 13, 2011|accessdate=June 13, 2011}}&lt;/ref&gt;&lt;ref name=troublecloud&gt;{{cite web|title=Fourth time's a charm? Why Apple has trouble with cloud computing|url=https://arstechnica.com/apple/news/2011/06/fourth-times-a-charm-why-icloud-faces-long-odds.ars|publisher=[[ArsTechnica]]|date=June 8, 2011|accessdate=June 13, 2011}}&lt;/ref&gt;&lt;ref name=fromto&gt;{{cite journal|title=4th Time a Charm for Apple? From iDisk to .Mac to MobileMe to iCloud|url=https://www.wired.com/epicenter/2011/05/icloud-apple|journal=[[Wired (magazine)|Wired]] |date=May 31, 2011 |accessdate=June 13, 2011}}&lt;/ref&gt; from Apple Inc. announced on June 6, 2011 at the [[Apple Worldwide Developers Conference]] (WWDC). The service allows users to store data such as music files on remote [[computer server]]s for download to multiple devices such as iOS-based devices, and personal computers running macOS or [[Microsoft Windows]]. It also replaces Apple's MobileMe service, acting as a data syncing center for email, contacts, calendars, bookmarks, notes, to-do lists, and other data. {{As of | 2012}}, the service has over 100 million users.&lt;ref&gt;{{cite web |url= https://www.apple.com/quicktime/conference |title=Presentation by Tim Cook, Apple's CEO in Goldman Sachs Technology and Internet Conference on February 14, 2012 |date=February 14, 2012}}&lt;/ref&gt;
+*[[iTunes Store]] &amp;ndash; a software-based online digital media store that opened on April 28, 2003. As of October 4, 2011, the store served its 16 billionth song.&lt;ref&gt;{{cite web|url=https://www.engadget.com/2011/10/04/apple-16-billion-itunes-songs-downloaded-300-million-ipods-sol/|title=Apple: 16 billion iTunes songs downloaded, 300 million iPods sold|date=4 October 2011|accessdate=4 October 2011|publisher=Engadget}}&lt;/ref&gt;
+**[[iTunes Connect]] &amp;ndash; software that allows content to be uploaded to the iTunes Store, as well as companies doing so to be able to see statistical info about sales figures and financial information.
+*[[One to One (Apple)|One to One]] &amp;ndash; fee-based service for private training at Apple retail stores.
+
+==Technologies==
+*[[Core Foundation]] &amp;ndash; various [[application programming interface|APIs]] (core technologies) written in a [[C (programming language)|C]] for macOS &amp; iOS, a mix of low-level routines and [[wrapper function]]s.
+**[[Core Animation]] &amp;ndash; a data visualization API used to produce animated user interfaces.
+**[[Core Audio]] &amp;ndash; a low-level API for dealing with sound, it includes an implementation of the cross-platform [[OpenAL]] library.
+**[[Core Data]] &amp;ndash; Apple's [[object graph]] and [[persistence framework]].
+**[[Quartz (graphics layer)|Core Graphics]] (Quartz) &amp;ndash; specifically, a pair of macOS technologies, each part of the Core Graphics framework: [[Quartz 2D]] and [[Quartz Compositor]].
+**[[Core Image]] &amp;ndash; a pixel-accurate, near-realtime, non-destructive image processing technology.
+**[[iOS#Core Location|Core Location]] &amp;ndash; (redirect missing!) &lt;!-- the original redirect taken from the {{Core Foundation}} info box is missing?? It needs re-adding to [[iOS]] then fixing both links on this outline and the info box. --&gt;
+**[[Core OpenGL]] &amp;ndash; Apple's Macintosh Quartz windowing system interface for macOS's implementation of the [[OpenGL]] specification. Analogous to [[GLX]], which is the [[X11]] interface to OpenGL, as well as [[WGL (software)|WGL]], which is the [[Microsoft Windows]] interface to OpenGL.
+**[[Core Services]] &amp;ndash; APIs that architecturally are underneath [[Carbon (API)|Carbon]], [[Cocoa (API)|Cocoa]], and [[Cocoa Touch]], and also encompasses other related APIs.
+**[[Core Text]] &amp;ndash; Apple's API for text rendering abilities, and tightly integrated with other Core Foundation APIs.
+**[[Core Video]] &amp;ndash; Apple's API video processing model, linking the process of decompressing frames from a video source to the rest of the Quartz graphics technologies for image rendering and composition.
+*[[AirDrop]] &amp;ndash; a file sharing protocol added to Mac's [[Finder (software)|Finder]] from the release of [[Mac OS X Lion]] in 2011, later added to [[iOS]]'s [[Control Center (iOS)|Control Center]] on release of [[iOS 7]] in late 2013. Allows files to be transferred between Apple devices over the local Wi-Fi connection.
+*[[Apple Filing Protocol]] (AFP) &amp;ndash; formerly ''AppleTalk Filing Protocol'', is a proprietary network protocol that offers file services for [[macOS]] and the [[classic Mac OS]] operating systems.
+*[[AppleTalk]] &amp;ndash; a superseded [[proprietary protocol|proprietary]] [[protocol stack|suite of networking protocols]] developed by [[Apple Inc.]] for [[Apple Macintosh|Macs]], allowing [[local area network|LAN]]s to be connected with no prior setup or need for a centralized router/server; a true [[plug-n-play]] system. Support was removed on release of Snow Leopard in 2009.
+*[[Apple Lossless|ALAC]] (Apple Lossless) &amp;ndash; Apple's previously proprietary [[lossless]] audio codec format, since 2011 has been made open source under an Apache license.
+*[[Bonjour (software)|Bonjour]] &amp;ndash; (formerly called ''Rendezvous'') Apple's [[trade name]] for its implementation of [[Zero configuration networking|Zeroconf]] software; a group of technologies that includes [[service discovery]], address assignment, and name resolution. It locates devices such as printers, other computers, and the services that those devices offer on a [[local area network|LAN]] using [[multicast]] [[Domain Name System]] ([[mDNS]]) service records. It's built-into both [[macOS]] and [[iOS]], and can be installed onto computers running [[Microsoft Windows]]. Bonjour components may also be included within other software such as [[iTunes]] and [[Safari (web browser)|Safari]].
+*[[Digital Media Access Protocol]] (DMAP) &amp;ndash; Apple's underlying proprietary protocol for all media sharing protocols, allowing content folders stored on remote storage devices (e.g. [[network-attached storage]] (NAS) drives) limited share ability to multiple devices.
+**[[Digital Audio Access Protocol]] (DAAP) (as used for ''iTunes Server'' functionality) &amp;ndash; Apple's audio proprietary protocol allowing iTunes media folders stored on remote storage devices (e.g. [[network-attached storage]] (NAS) drives) limited share ability to multiple devices.
+***[[List of software using Digital Audio Access Protocol|List of software using Digital Audio Access Protocol (DAAP)]] &amp;ndash; a list of software capable of complete or partial DAAP functionality.
+**Digital Photo Access Protocol (DPAP) &amp;ndash; Apple's image proprietary protocol allowing iPhoto folders stored on remote storage devices (e.g. [[network-attached storage]] (NAS) drives) limited share ability to multiple devices.
+
+==History==
+*[[History of Apple Inc.|Company History]]
+**[[History of Apple Inc.#1975–1985: Jobs and Wozniak|1975–1985: Jobs and Wozniak]]
+**[[History of Apple Inc.#1985–1997: Sculley, Spindler, Amelio|1985–1997: Sculley, Spindler, Amelio]]
+***[[Apple Computer, Inc. v. Microsoft Corporation]] &amp;ndash; a 1994 [[copyright infringement]] lawsuit in which Apple Computer, Inc. (now [[Apple Inc.]]) sought to prevent [[Microsoft]] and [[Hewlett-Packard]] from using visual [[graphical user interface]] (GUI) elements that were similar to those in Apple's [[Apple Lisa|Lisa]] and [[Apple Macintosh|Macintosh]] [[operating system]]s.
+**[[History of Apple Inc.#1998–2001: Apple's comeback|1998–2001: Apple's comeback]]
+**[[History of Apple Inc.#2002–2007: iTunes, iPods, Intel transition|2002–2007: iTunes, iPods, Intel transition]]
+**[[History of Apple Inc.#2007–present: Apple Inc., iPhone, iOS, and iPad|2007–present: Apple Inc., iPhone, iOS, and iPad]]
+
+==Timeline==
+*[[Timeline of Apple Inc. products]]
+**[[Timeline of Apple II family]]
+**[[Timeline of Macintosh models]]
+
+==Personnel==
+*Founders:
+**[[Steve Jobs]] (1955–2011) years at Apple 1976–1985 1997–2011, Co-founder, ex-Chairman, and ex-CEO.
+**[[Steve Wozniak]] (1950–) years at Apple 1976–1985, Co-founder and ex-Engineer (ceremonial role; 1985–current). 
+**[[Ronald Wayne]] (1934–) years at Apple 1976–1976, Co-founder (briefly; 2 weeks).
+*[[CEO]]:
+**[[Tim Cook]] (1960–) years at Apple 2011–current.
+***Former CEOs:
+****[[Michael Scott (Apple)|Michael Scott]] (1942–) years at Apple 1977–1981.
+****[[Mike Markkula]] (1942–) years at Apple 1981–1983.
+****[[John Sculley]] (1939–) years at Apple 1983–1993.
+****[[Michael Spindler]] (1945–) years at Apple 1993–1996.
+****[[Gil Amelio]] (1943–) years at Apple 1996–1997.
+****[[Steve Jobs]] (1955–2011) years at Apple 1997–2011.
+*[[:Category:Directors of Apple Inc.|Board of directors]]:
+**[[Al Gore]] (1948–) years at Apple ?–current, served as 45th Vice President of the United States (under President [[Bill Clinton]]).
+**[[Tim Cook]] (1960–) years at Apple ?–current, President and CEO of Apple.
+**[[Andrea Jung]] (1958–) years at Apple 2008–current, Chairman and former CEO of Avon Products Inc., Canadian-American businesswomen.
+**[[Arthur D. Levinson]] (1950–) years at Apple 2000–current, and 2011–current [[Chairman]] of Apple Inc.
+**[[Ronald Sugar]] (1948–) years at Apple 2010–current, board member.
+**[[Bob Iger]] (1951–) years at Apple 2011–current, board member.
+***Former board members:
+****[[William Campbell (business executive)|Bill Campbell]] (1940–2016) years at Apple ?–2016, former board member.
+****[[Millard Drexler]] (1944–) years at Apple 1999–2015.
+****[[Jerry York (businessman)|Jerry York]] (1938–2010) years at Apple 1997–?, former board member.
+*[[:Category:Apple Inc. executives|Executives]]:&lt;ref name="Apple exec team 1"&gt;{{cite web|url=https://www.apple.com/pr/bios|title=Apple – Press Info – Apple Leadership|accessdate=October 25, 2013}}&lt;/ref&gt;
+**[[Tim Cook]] (1960–) years at Apple 1998–current, [[Chief Executive Officer|CEO]] (previously SVP of Worldwide Sales and Operations).
+**[[Jonathan Ive]] (1967–) years at Apple 1992–2019, [[Chief design officer|CDO]] (previously SVP of [[Industrial Design]]).
+**[[Phil Schiller]] (1960–) years at Apple 1997–current, SVP of Worldwide [[Marketing]].
+**[[Craig Federighi]] (1969–) years at Apple 1996–1999, then 2009–current, SVP of Software Engineering.
+**[[Eddy Cue]] (1964–) years at Apple 1989–current, SVP of Internet Software and Services.
+**[[Dan Riccio]] (?–) years at Apple 1998–current, SVP of Hardware Engineering (previously Mac and Devices Hardware Engineering).
+**[[Bruce Sewell]] (1957–) years at Apple 2009–current, [[General counsel|General Counsel]].
+**[[Jeff Williams (Apple)|Jeff Williams]] (1963–) years at Apple 1998–current, [[Chief Operating Officer|COO]].
+**[[Angela Ahrendts]] (1960–) years at Apple 2014–2019, Former SVP of Retail. Formerly CEO of [[Burberry]].
+***Former executives:
+****[[Peter Oppenheimer]] (1963–) years at Apple 1996–2014, [[Senior Vice President|SVP]] and [[Chief Financial Officer|CFO]].
+****Henri Lamiraux (c. ?–) years at Apple 1990–2013, former iOS (previously Mac OS then OS X) Software Engineering VP.&lt;ref name ="Henri Lamiraux retires"&gt;{{cite web|url=http://www.macrumors.com/2013/11/03/key-ios-engineering-executive-henri-lamiraux-retires-from-apple|title=Key iOS Engineering Executive Henri Lamiraux Retires from Apple|publisher=[[MacRumors]]|first=Eric|last=Slivka|date=November 3, 2013|accessdate=November 3, 2013}}&lt;/ref&gt;
+****[[Scott Forstall]] (c. 1968–) years at Apple ?–2011, former SVP of iOS [[Software]].
+****[[Ron Johnson (Apple)|Ron Johnson]] (c. 1959–) years at Apple 2000–2011, former SVP of Retail Operations.
+****[[Bob Mansfield]] (1957–) years at Apple 2005–current (executive until 2012), former SVP of Mac and Devices Hardware Engineering (later Technologies),&lt;ref name="AT Mansfield first leave 1"&gt;{{cite web|title=Apple: goodbye hardware engineering head Bob Mansfield, hello Dan Riccio|url=https://arstechnica.com/apple/2012/06/apple-goodbye-hardware-engineering-head-bob-mansfield-hello-dan-riccio|first=Jacqui|last=Cheng|publisher=[[Ars Technica]]|date=June 28, 2012|accessdate=July 12, 2012}}&lt;/ref&gt; from July 2013, retained for "special projects".
+****[[John Browett]] (1963–) years at Apple 2012–2012, SVP of Retail. Former CEO of [[Dixons Retail|Dixons]].
+****[[Mark Papermaster]] (?–) years at Apple 2008–2010, former SVP of Devices Hardware Engineering.
+****[[Bertrand Serlet]] (1960–) years at Apple 1997–2011, former SVP of [[Software Engineering]].
+****[[Sina Tamaddon]] (1957–) years at Apple 1997–?, former SVP of [[Applications software|Applications]].
+*Original Macintosh team: [[Andy Hertzfeld]], [[Burrell Smith]], [[Jef Raskin]], [[Steve Jobs]], [[Steve Wozniak]], [[Bill Atkinson]], [[Chris Espinosa]], [[Bud Tribble]], [[Joanna Hoffman]], Bob Belleville, [[Steve Capps]], [[George Crow]], Donn Denman, [[Bruce Horn]], [[Susan Kare]], Larry Kenyon, and Caroline Rose
+*Other contributors
+**[[Mark Davis (Unicode)|Mark Davis]], software engineer and language programmer who started his career at Apple
+
+==Companies==
+&lt;!-- Please add new companies to "List of mergers and acquisitions by Apple" article, and include here (bought month year)/brief summary/founders/founded year. --&gt;
+
+*[[Braeburn Capital]] &amp;ndash; Apple-owned [[asset management company]] subsidiary, that deals with Apple's assets and tax arrangements.
+*[[FileMaker Inc.]] &amp;ndash; Apple subsidiary that designs and releases database applications. Formerly [[Bento (database)|Bento]] (Apple-only platform [[database]]), currently [[FileMaker|FileMaker Pro]] (cross-platform [[relational database]]) [[application software|application]]s.
+*[[Kaleida Labs]] &amp;ndash; (founded 1992), a partnership cofounded with [[IBM]] as a result of the historic 1991 [[AIM alliance]], meant to explore the creation of multimedia platforms
+*[[Taligent]] &amp;ndash; (founded March 2, 1992), a partnership cofounded with [[IBM]] as a result of the historic 1991 [[AIM alliance]], meant to bring the radically [[object-oriented operating system]] Pink to market
+*[[List of mergers and acquisitions by Apple|Apple Inc. mergers and acquisitions]] &amp;ndash; a list of company [[mergers and acquisitions]] by Apple (in alphabetical order):
+**AlgoTrim &amp;ndash; (bought August 2013), a Swedish [[data compression]] company, especially focused on still/video image compression, founded by Anders Berglund, Anders Holtsberg, and Martin Lindberg in 2005.
+**[[Anobit]] &amp;ndash; (bought December 2011), an Israeli [[fabless]] [[flash memory]] company, founded by Ehud Weinstein, [[Anobit#Background|Ariel Maislos]], and Ofir Shalvi in 2006.
+**[[AuthenTec]] &amp;ndash; (bought July 2012), security hardware and software for PCs and mobile device company, founded in 1998.
+**[[Chomp (search engine)|Chomp]] &amp;ndash; (bought February 2012), an [[application software|app]] [[search engine (computing)|search engine]] company, founded by Ben Keighran and Cathy Edwards in 2009.
+**[[Cue (search engine)|Cue]] &amp;ndash; (bought October 2013), a personal assistant [[application software|app]] company, founded by Daniel Gross and Robby Walker in 2010.
+**[[Emagic]] &amp;ndash; (bought July 2002), music software and hardware company, best known for its [[music sequencer]], [[Logic Pro|Logic]].
+**Embark &amp;ndash; (bought August 2013), startup company focused on developing transit information apps for user public transportation navigation in major US cities, founded by John Hering, David Hodge, Taylor Malloy, and Ian Leighton in 2011.
+**[[FingerWorks]] &amp;ndash; (bought early 2005), a gesture recognition company, founded by John Elias and Wayne Westerman in 1998.
+**[[HopStop.com|HopStop]] &amp;ndash; (bought July 2013), an online [[public transport|transit]] guide with [[rapid transit|subway]], bus directions, and maps, founded by Chinedu Echeruo in 2005.
+**[[Intrinsity]] &amp;ndash; (bought April 2010), [[fabless semiconductor company]], founded as EVSX in 1997 on the remnants of [[Exponential Technology]], then renamed Intrinsity in 2000.
+**[[Lala (website)|Lala]] &amp;ndash; (bought December 2009), online music store company, founded by [[Bill Nguyen]].
+**Locationary &amp;ndash; (bought July 2013), a Canadian crowdsourced location data management company, founded by Grant Ritchie in 2009.
+**Matcha &amp;ndash; (bought August 2013), a [[second screen]] [[television|TV]]/video startup, previously available as a media discovery iOS app (closed in May 2013), founded by Guy Piekarz, Ilan Ben Zeev, and Paul Petrick in September 2010.
+**[[NeXT]] &amp;ndash; (bought December 1996), computer company, founded in 1985 by Apple Inc. co-founder Steve Jobs after he was fired from Apple the same year. Current macOS, iOS, watchOS, and tvOS operating systems are largely built on its [[application programming interface|programming environment]] standard, [[OpenStep]].
+**[[Nothing Real]] &amp;ndash; (bought February 2002), a high-end digital effects software development company for the feature film, broadcast and interactive gaming industries, founded by Allen Edwards and Arnaud Hervas in October 1996.
+**[[P.A. Semi]] &amp;ndash; (bought April 2008), a fabless semiconductor company founded by [[Daniel W. Dobberpuhl]] in 2003.
+**Particle &amp;ndash; (bought September 2012), a [[HTML5]] [[web app]] company, founded by Ericson de Jesus, Cole Rise, and Aubrey Anderson in 2008.
+**Passif Semiconductor &amp;ndash; (bought August 2013), an [[Oakland, California]] based [[semiconductor]] company specializing in low energy wireless chips, founded by Ben Cook and Axel Berny in 2007.
+**[[PrimeSense]] &amp;ndash; (bought November 2013), an [[Israel]]i [[fabless manufacturing|fabless semiconductor]] company specializing in 3D sensing, founded by Aviad Maizels, Alexander Shpunt, Ophir Sharon, Tamir Berliner and Dima Rais in 2005.
+**Redmatica &amp;ndash; (bought June 2012), an Italian music editing software company, known for Keymap Pro sampler software, founded by Andrea Gozzi in 2004.
+**[[Silicon Color]] &amp;ndash; (bought October 2006), "FinalTouch" color correction software and [[non-linear editing system|non-linear]] [[video editing software]] development company, now known as Apple's [[Final Cut Pro]] software.
+**[[Siri (software)|Siri]] &amp;ndash; (bought April 2010), an [[intelligent personal assistant]] and [[knowledge navigator]] software company, founded by Dag Kittlaus, [[Adam Cheyer]], [[Tom Gruber]], together with [[Norman Winarsky]] in 2007. Apple initially integrated the software into iOS, the later to the [[watchOS]] and [[tvOS]] platforms.
+**[[Spruce Technologies]] &amp;ndash; (bought July 2001), a [[DVD authoring]] company, founded by Dr. Hiromu Soga in 1996.
+**[[Topsy (analytics)|Topsy]] &amp;ndash; (bought December 2013), a US [[data analysis|data analytics]] company, founded by [[Vipul Ved Prakash]], Rishab Aiyer Ghosh, Gary Iwatani, Justin Foutts in 2007.
+**WiFiSlam &amp;ndash; (bought March 2013), an indoor location services company, founded by former Stanford students Darin Tay, Joseph Huang, Jessica Tsoong and Dave Millman in 2011.&lt;ref&gt;{{cite web|url=http://www.bizjournals.com/sanjose/news/2013/03/25/apple-buys-indoor-gps-company-wifislam.html|title=Apple pays $20M for indoor GPS company WiFiSLAM|author=Cromwell Schubarth|date=March 25, 2013|website=[[Silicon Valley Business Journal]]}}&lt;/ref&gt;
+
+==Design==
+*[[Apple Inc. design motifs|Design motifs]] &amp;ndash; design elements intrinsic to Apple Inc. products.
+*[[Apple Industrial Design Group|Apple Industrial Design Group (IDg)]] &amp;ndash; the industrial design arm of Apple Inc. responsible for crafting the appearance of Apple products, including the Apple Macintosh computer line.
+*[[Typography of Apple Inc.|Typography]] &amp;ndash; typography and typefaces Apple Inc. have variously used in its [[marketing]], [[operating systems]], and [[industrial design]].
+
+==Media==
+*[[Apple media events|Media events]] &amp;ndash; special events where Apple Inc. announce the release of their products and services. Usually this is done by Apple's current CEO often featuring other executives, previously most notably [[Steve Jobs]].
+**[[Stevenote]] &amp;ndash; keynote addresses, usually held at the beginning of media events, where former CEO Steve Jobs would announce the release of new Apple products. Noted for his idiosyncratic style of presenting, and also for his "[[Stevenote#.22One more thing....22|One More Thing...]]" surprise announcements at the end.
+*[[Apple Inc. advertising|Advertising]] &amp;ndash; various Apple Inc. advertising techniques and campaigns.
+**[[1984 (advertisement)]] &amp;ndash; specific TV and print ad campaign, inferring how Mac computers will free users from tyrannies similar to those prophesied in the [[George Orwell]] novel ''[[Nineteen Eighty-Four]]''. Launched the first [[Apple Macintosh|Macintosh]] computer; the [[Macintosh 128K]].
+**[[Think Different]] &amp;ndash; specific TV &amp; print ad campaign, inferring how Macs do things differently (meaning ''better'') to other computers used in the home and small to medium-sized businesses.
+**[[Get a Mac]] &amp;ndash; specific TV ad campaign, humorously inferring the superior nature of a Mac vs. Windows PC.
+**[[iPod advertising]] &amp;ndash; various iPod ad campaigns since its initial release in 2001.
+
+==Apple-related==
+*[[Apple community]] &amp;ndash; the many various online websites and offline groups where Apple Inc.'s products and services are discussed and analysed, as well as future products rumored about.
+*[[Apple Campus]] &amp;ndash; the [[Cupertino]], [[California]]-based set of buildings forming the basis of Apple Inc.'s main campus business headquarters, where most office staff are based. A new, mostly single building, called [[Apple Campus#Apple Campus 2|Apple Campus 2]] is being designed.
+*[[Apple Inc. litigation]] &amp;ndash; various legal disputes the company has been involved in.
+*[[Criticism of Apple Inc.]] &amp;ndash; various criticisms levelled at Apple Inc.
+*[[Apple's transition to Intel processors]] &amp;ndash; the process of Apple changing the [[CPU]] of [[Apple Macintosh|Macintosh]] computers from [[PowerPC]] processors to [[Intel]] [[x86]] processors, during 2006.
+**[[Apple–Intel architecture]] &amp;ndash; the [[CPU design|architecture]] of Intel-based Apple computers, using [[Intel]] [[x86]] processors rather than the [[PowerPC]] and &lt;!-- Pre-PowerPC --&gt;[[68k]] processors used in their predecessors.
+**[[Universal binary]] &amp;ndash; in [[Apple Inc.|Apple]] parlance, an [[executable file]] or [[application bundle]] that runs natively on either [[PowerPC]] or [[Intel]]-manufactured [[IA-32]] or [[Intel 64]]-based [[Apple Macintosh|Macs]]; it is an implementation of the concept more generally known as a [[fat binary]].
+***[[Xslimmer]] &amp;ndash; [[macOS]] utility application developed by LateNiteSoft, designed to tweak [[Universal binary|universal binaries]] applications by stripping the binary from either its [[PowerPC]] or [[Intel Corporation|Intel]] code (depending on the system architecture used), in order to save hard disk space.
+**[[Rosetta (software)|Rosetta]] &amp;ndash; a [[Binary translation#Dynamic binary translation|dynamic binary translator]] application for [[Mac OS X]] allowing many [[PowerPC]] apps to run on certain [[x86|Intel]]-based [[Macintosh|Macs]] without modification. Released in 2006 for the transition from PowerPC to Intel processors on the Macintosh [[Computing platform|platform]], but it was dropped in [[Mac OS X Lion|Lion]] so Snow Leopard is the last version of Mac OS X that is able to run PowerPC-only applications.
+**[[Mac 68K emulator]] &amp;ndash; lower level program, similar in purpose to [[Rosetta (software)|Rosetta]], but instead used during the transition from [[680x0]] to [[PowerPC]] processors.
+*[[Macintosh clone]] &amp;ndash; a personal computer made by a manufacturer other than Apple, using (or compatible with) Macintosh [[firmware]] and [[system software]].
+**[[Star Trek project|Star Trek]] &amp;ndash; code name of [[prototype]] project between Apple and [[Novell]] from February/March 1992 to 1993, which was to be a version of the [[classic Mac OS]] running as a [[GUI]] on [[Intel]]-compatible [[x86]] [[personal computer|PC]]s on top of Novell's next in-development version of [[operating system|OS]], [[DR DOS]].
+**[[OSx86]]/Hackintosh &amp;ndash; (from ''OS X'' and ''x86'') is a collaborative [[Hacker (hobbyist)|hacking]] project to run OS X on non-Apple [[personal computers|PCs]] with [[x86 architecture]] and [[x86-64]] compatible processors. Computers built to run this type of {{nowrap|OS X}} are often known as a ''Hackintosh'' or ''Hackbook'' (respectively, [[portmanteau]]s of words "hack" with "Macintosh" or "notebook computers").
+
+==Miscellaneous==
+* "Apple Macintosh" is an [[anagram]] of "laptop machines".&lt;ref name="Fry anagram"&gt;{{cite web|url=https://www.theguardian.com/technology/2008/aug/09/stephen.fry.apple.mac|title=Dork talk: Stephen Fry on why 'Laptop machines' is an anagram of 'Apple Macintosh'|first=Stephen|last=Fry|publisher=[[The Guardian]]|date=August 9, 2008|accessdate=January 14, 2013}}&lt;/ref&gt;&lt;ref name="QI Fry anagram"&gt;{{cite web|url=https://www.bbc.co.uk/iplayer/episode/b01phvlc/QI_Series_J_Jolly|title=QI: Series J: Jolly|quote=...one of the ones that was always fascinating, was 'laptop machines' is an anagram of 'Apple Macintosh', which is very extraordinary, isn't it.|publisher=[[BBC]]|date=January 11, 2013|accessdate=January 14, 2013}}&lt;/ref&gt;
+*After finishing college, Apple's [[Senior Vice President|SVP]] of [[Industrial Design]] and Human Interface, [[Jonathan Ive|Jony Ive]], co-founded a [[London]] design agency, coincidentally titled by another [[fruit]], Tangerine.&lt;ref name="Mail Ive Tangerine"&gt;{{cite web|url=http://www.dailymail.co.uk/home/moslive/article-1367481/Apples-Jonathan-Ive-How-did-British-polytechnic-graduate-design-genius.html|title=How did a British polytechnic graduate become the design genius behind £200billion Apple?|first=Rob|last=Waugh|publisher=Daily Mail|date=March 20, 2011|accessdate=January 14, 2013}}&lt;/ref&gt;&lt;ref name="Mahalo Ive tangerine"&gt;{{cite web|title=Jonathan Ive|url=http://www.mahalo.com/jonathan-ive|publisher=[[Mahalo.com]]|accessdate=January 14, 2013}}&lt;/ref&gt;
+
+==See also==
+*[[Outline of iOS]]
+*[[Microsoft]]
+*[[Pixar]]
+{{clear}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{sisterlinks|Apple Inc.}}
+
+*{{official website|www.apple.com|Apple Inc.}} – official site
+
+{{Outline footer}}
+
+[[Category:Outlines of companies|AppleInc.]]
+[[Category:Wikipedia outlines|AppleInc.]]
+[[Category:Apple Inc.|+]]
+[[Category:Apple Inc. lists| ]]</text>
+      <sha1>65pjigvwxmtuei8u24d5vhul2hlmfyd</sha1>
+    </revision>
+  </page>
+</mediawiki>
