@@ -1,0 +1,158 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>A Manual Dexterity: Soundtrack Volume One</title>
+    <ns>0</ns>
+    <id>2902055</id>
+    <revision>
+      <id>916773029</id>
+      <parentid>916754222</parentid>
+      <timestamp>2019-09-20T15:30:25Z</timestamp>
+      <contributor>
+        <username>Midcey</username>
+        <id>37220725</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5246" xml:space="preserve">{{Infobox album|
+|
+|
+| name       = A Manual Dexterity: Soundtrack Volume One
+| type       = Soundtrack
+| artist     = [[Omar Rodríguez-López]]
+| cover      = Amanualdexterity.jpg
+| alt        =
+| released   = August 31, 2004
+| recorded   = 2001 and some in 2004
+| venue      =
+| studio     =
+| genre      = [[Progressive rock]] &lt;br /&gt;[[Post-rock]] &lt;br /&gt;[[experimental music|Experimental]]
+| length     = 52:52
+| label      = [[Gold Standard Laboratories]]
+| producer   = [[Omar Rodríguez-López]]
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+| misc       = {{Extra chronology|
+  |
+  |
+ | artist     = [[Omar Rodríguez-López]] solo
+ | type       = studio
+ | prev_title =
+ | prev_year  =
+ | title      = A Manual Dexterity: Soundtrack Volume One
+ | year       = 2004
+ | next_title = [[The Special 12 Singles Series]]
+ | next_year  = 2005
+}}
+  {{Extra chronology
+ | artist     = [[Omar Rodríguez-López]]
+ | type       = studio
+ | prev_title = [[Live (The Mars Volta EP)|Live]]
+ | prev_year  = 2003
+ | title      = A Manual Dexterity: Soundtrack Volume One
+ | year       = 2004
+ | next_title = [[Frances the Mute]]
+ | next_year  = 2005
+}}
+}}
+{{Album ratings
+| rev1      = [[Allmusic]]
+| rev1Score = {{Rating|3|5}} [{{Allmusic|class=album|id=r705945|pure_url=yes}} link]
+|rev2=[[Pitchfork Media]]|rev2Score= (7.5/10) [https://web.archive.org/web/20070621195521/http://www.pitchforkmedia.com/article/record_review/21485-a-manual-dexterity-soundtrack-vol-1 link]|}}
+
+'''''A Manual Dexterity: Soundtrack Volume One''''' is the debut studio album by [[The Mars Volta]] guitarist [[Omar Rodríguez-López]], recorded in 2001 after the breakup of former band [[At the Drive-In]] and released in 2004. This was supposed to be the first volume of a two-part [[soundtrack]] set to go along to a film directed by Rodriguez-Lopez.
+
+The release of ''Volume Two'', which was originally planned for Spring of 2005, and the film itself were both delayed indefinitely due to legal problems. Conflicts over ownership of certain footage and Rodríguez-López's reluctance to revisit the project, which featured his late friend [[Jeremy Michael Ward]] in the lead role, were both cited as reasons for the delay.&lt;ref&gt;{{Cite web |url=http://www.themarsvoltaitalia.com/omar_eng.htm |title=www.themarsvoltaitalia.com&amp;nbsp;– SITO ITALIANO NON UFFICIALE DEDICATO AI THE MARS VOLTA&lt;!-- Bot generated title --&gt; |access-date=2007-11-22 |archive-url=https://web.archive.org/web/20110304150549/http://www.themarsvoltaitalia.com/omar_eng.htm |archive-date=2011-03-04 |url-status=dead }}&lt;/ref&gt; However, Rodríguez-López stated that he does intend to release both Volume Two and the film at some point in the future.
+
+"Deus Ex Machina" is a version of a song "Reina de Mi Vida", written by Omar's father Angel Marcelo Rodriguez (also known as Marcelo Rod-Che) for the famous Puerto Rican salsa orchestra [[El Gran Combo de Puerto Rico]]; here, it is performed by Angel Marcelo himself.
+
+==Track listing==
+{{Track listing
+| all_writing = [[Omar Rodríguez-López]], unless noted
+| title1 = Around Knuckle White Tile | length1 = 7:16
+| title2 = Dyna Sark Arches | length2 = 4:38
+| title3 = Here the Tame Go By | length3 = 5:11
+| title4 = Deus Ex Machina| writer4 = Rodríguez-López, Angel Marcelo Rodriguez | length4 = 5:03
+| title5 = Dramatic Theme | length5 = 7:16
+| title6 = A Dressing Failure | length6 = 2:54
+| title7 = Sensory Decay Part II | length7 = 6:04
+| title8 = Of Blood Blue Blisters | length8 = 4:53
+| title9 = Dream Sequence | length9 = 6:11
+| title10 = The Palpitations Form a Limit | writer10 = Rodríguez-López, [[Cedric Bixler-Zavala]]| length10 = 3:22
+| total_length = 52:52
+}}
+
+== Personnel ==
+*[[Omar Rodríguez-López]]&amp;nbsp;– guitars, bass, percussion, hand claps, roland [[promars]], [[Roland SH-1000|SH-1000]], [[Roland SH-101|SH-101]], SH-7, SH-2000, [[Roland VP-330|VP-330]], Korg MS-2000, microkorg, organ, drum machines, pianette, piano, Yamaha QY-100, rRhythm sequence, samples, TVs, telephone, typewriter, breathing
+*[[Blake Fleming]]&amp;nbsp;– drums &lt;small&gt;(1, 2, 5, 8, 10)&lt;/small&gt;, hand claps &lt;small&gt;(2)&lt;/small&gt;
+*[[Jeremy Michael Ward]]&amp;nbsp;– melodica &lt;small&gt;(2)&lt;/small&gt;, guitar pedals &lt;small&gt;(5)&lt;/small&gt;, yelling &lt;small&gt;(8)&lt;/small&gt;
+*[[John Frusciante]]&amp;nbsp;– mini moog &lt;small&gt;(2, 3)&lt;/small&gt;, A 100 &lt;small&gt;(3)&lt;/small&gt;, guitars &lt;small&gt;(5, 10)&lt;/small&gt;
+*[[Cedric Bixler-Zavala]]&amp;nbsp;– percussion &amp; hand claps &lt;small&gt;(2)&lt;/small&gt;, vocals &amp; lyrics &lt;small&gt;(10)&lt;/small&gt;
+*Angel Marcelo Rodriguez&amp;nbsp;– vocals &amp; lyrics &lt;small&gt;(4)&lt;/small&gt;
+*David Lopez&amp;nbsp;– trumpet &lt;small&gt;(4)&lt;/small&gt;
+*Cecilio Ortiz&amp;nbsp;– guitar &lt;small&gt;(4)&lt;/small&gt;
+*Alberto El Professor Aragonez&amp;nbsp;– percussion &lt;small&gt;(4)&lt;/small&gt;
+*[[Isaiah Ikey Owens]]&amp;nbsp;– piano &lt;small&gt;(8)&lt;/small&gt;
+*[[Andrew Scheps]]&amp;nbsp;– trumpet &lt;small&gt;(8)&lt;/small&gt;
+*Sara Christina Gross&amp;nbsp;– saxophone &lt;small&gt;(9)&lt;/small&gt;
+
+==References==
+{{Reflist}}
+
+{{Omar Rodríguez-López}}
+{{John Frusciante}}
+
+{{DEFAULTSORT:Manual Dexterity: Soundtrack Volume One, A}}
+[[Category:2004 soundtracks]]
+[[Category:Film soundtracks]]
+[[Category:Omar Rodríguez-López albums]]
+[[Category:Gold Standard Laboratories albums]]
+[[Category:Albums produced by Omar Rodríguez-López]]</text>
+      <sha1>frz76nxrxfr304b5c0dlkggepoys0fn</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -47,17 +47,18 @@
     <ns>0</ns>
     <id>55200177</id>
     <revision>
-      <id>955854956</id>
-      <parentid>955833581</parentid>
-      <timestamp>2020-05-10T05:12:57Z</timestamp>
+      <id>957254239</id>
+      <parentid>955854956</parentid>
+      <timestamp>2020-05-17T21:48:33Z</timestamp>
       <contributor>
-        <username>I'm not perfect but I'm almost</username>
-        <id>36857304</id>
+        <username>Ghostofakina</username>
+        <id>34942200</id>
       </contributor>
-      <comment>Undid revision 955833581 by [[Special:Contributions/82.9.202.29|82.9.202.29]] ([[User talk:82.9.202.29|talk]])</comment>
+      <minor/>
+      <comment>Undid revision 953969028 by [[Special:Contributions/74.117.92.235|74.117.92.235]] ([[User talk:74.117.92.235|talk]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="80465" xml:space="preserve">{{short description|Group of smartphone models produced by Apple Inc.}}
+      <text bytes="80320" xml:space="preserve">{{short description|Group of smartphone models produced by Apple Inc.}}
 {{lowercase title}}
 {{Infobox mobile phone
 | name         = 
@@ -213,7 +214,6 @@ The iPhone X received generally positive reviews. Its display and build quality 
 Along with the [[iPhone 6s]], its Plus variant, and the [[iPhone SE (1st generation)|first-generation iPhone SE]], the iPhone X was discontinued on September 12, 2018 following the announcement of the [[iPhone XS|iPhone XS, iPhone XS Max]] and [[iPhone XR]] devices. As a result, with a shelf life of just over 10 months, the iPhone X had the shortest ever tenure as the flagship device in the history of the iPhone.
 
 On November 22, 2018, Apple reportedly resumed production of the iPhone X due to weak sales of its successors. The iPhone X remains discontinued,&lt;ref&gt;{{Cite web|url=https://www.theverge.com/platform/amp/2018/11/22/18107795/iphone-x-production-resumed-weak-demand-2018-models-rumor|title=Apple resumes iPhone X production in face of weak XS sales, report claims|website=www.theverge.com|language=en|accessdate=2018-11-23|archive-url=https://web.archive.org/web/20181124054926/https://www.theverge.com/platform/amp/2018/11/22/18107795/iphone-x-production-resumed-weak-demand-2018-models-rumor|archive-date=November 24, 2018|url-status=live|df=mdy-all}}&lt;/ref&gt; but as of February 2019, Apple started selling refurbished models starting at $769.&lt;ref&gt;{{Cite web|url=https://www.theverge.com/good-deals/2019/2/4/18211100/apple-iphone-x-refurbished-xr-store|title=Apple is selling refurbished iPhone X models starting at $769|website=theverge.com|date=4 February 2019|language=en|accessdate=4 February 2019}}&lt;/ref&gt; In December 2019, Apple reduced the price to $599.
-[[File:GER-BY-MM-Weinmarkt (Freiheitsbrunnen von Andy Brauneis mit Nebel).ogv|thumb|thumbtime=2|upright=1.5|Example of a recording on iPhone X]]
 
 {{iPhone models}}
 
@@ -318,7 +318,7 @@ Apple has determined an issue with certain iPhone X devices where the display wo
 [[Category:Mobile phones introduced in 2017]]
 [[Category:Phones with multiple rear cameras]]
 [[Category:Discontinued smartphones]]</text>
-      <sha1>kz8jkub8i0wij79cv9el14ep9wfikwg</sha1>
+      <sha1>efj92tjozeoynz6jy6jakhcg1oma6ab</sha1>
     </revision>
   </page>
 </mediawiki>

@@ -47,15 +47,14 @@
     <ns>0</ns>
     <id>43989914</id>
     <revision>
-      <id>957236554</id>
-      <parentid>957236040</parentid>
-      <timestamp>2020-05-17T19:50:30Z</timestamp>
+      <id>957245158</id>
+      <parentid>957236554</parentid>
+      <timestamp>2020-05-17T20:46:05Z</timestamp>
       <contributor>
-        <username>SacredDragonX</username>
-        <id>35293718</id>
+        <username>Frietjes</username>
+        <id>13791031</id>
       </contributor>
-      <minor/>
-      <comment>Cleaned up using [[WP:AutoEd|AutoEd]]</comment>
+      <comment>Clean up [[:Category:Pages using duplicate arguments in template calls|duplicate template arguments]] using [[:en:User:Frietjes/findargdups|findargdups]]</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="228810" xml:space="preserve">{{redirect|Windows 9|the series of Windows produced from 1995 to 2000|Windows 9x}}
@@ -301,7 +300,7 @@ In addition, the following supplemental Latin-based fonts are not installed with
 | label7 = [[Windows Server 2016]]
 | data7 = Mainstream support until October 12, 2021&lt;ref name="lifecycle-db2"&gt;{{cite web |title=Microsoft Product Lifecycle |url=https://support.microsoft.com/en-us/lifecycle/search?alpha=Windows%20Server%202016 |work=Microsoft Support |publisher=[[Microsoft]] |accessdate=December 7, 2016 |archive-url=https://web.archive.org/web/20191002010415/https://support.microsoft.com/en-us/lifecycle/search?alpha=windows%20server%202016 |archive-date=October 2, 2019 |url-status=live}}&lt;/ref&gt;&lt;br /&gt;Extended support until October 12, 2026&lt;ref name="lifecycle-db2" /&gt;
 | label8 = [[Windows Server 2019]]
-| data8 = Mainstream support until January 9, 2024&lt;ref name="lifecycle-db3"&gt;{{cite web |title=Microsoft Product Lifecycle |url=https://support.microsoft.com/en-us/lifecycle/search?alpha=Windows%20server%202019 |work=Microsoft Support |publisher=[[Microsoft]] |accessdate=December 9, 2018 |archive-url=https://web.archive.org/web/20191002010419/https://support.microsoft.com/en-us/lifecycle/search?alph=windows%20server%202019 |archive-date=October 2, 2019 |url=status=live}}&lt;/ref&gt;&lt;br /&gt;Extended support until January 9, 2029&lt;ref name="lifecycle-db3" /&gt;
+| data8 = Mainstream support until January 9, 2024&lt;ref name="lifecycle-db3"&gt;{{cite web |title=Microsoft Product Lifecycle |url=https://support.microsoft.com/en-us/lifecycle/search?alpha=Windows%20server%202019 |work=Microsoft Support |publisher=[[Microsoft]] |accessdate=December 9, 2018 |archive-url=https://web.archive.org/web/20191002010419/https://support.microsoft.com/en-us/lifecycle/search?alph=windows%20server%202019 |archive-date=October 2, 2019 |url-status=live}}&lt;/ref&gt;&lt;br /&gt;Extended support until January 9, 2029&lt;ref name="lifecycle-db3" /&gt;
 }}
 
 Support for [[Windows 8]] without a service pack ended on January 12, 2016, requiring users to upgrade in order to continue receiving updates and support.&lt;ref name="lifecycle-db"&gt;{{cite web
@@ -745,7 +744,7 @@ In September 2019, Microsoft hid the option to create a local account during a f
 [[Category:Windows NT|10]]
 [[Category:X86-64 operating systems]]
 [[Category:Tablet operating systems]]</text>
-      <sha1>izyl2v53ek77hckcv8xghm8i49mc1c2</sha1>
+      <sha1>rn2t44jqppm4eoefgdmj6whe3ntm9uv</sha1>
     </revision>
   </page>
 </mediawiki>

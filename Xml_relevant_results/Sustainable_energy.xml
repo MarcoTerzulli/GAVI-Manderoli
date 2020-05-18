@@ -47,14 +47,15 @@
     <ns>0</ns>
     <id>1055890</id>
     <revision>
-      <id>957206221</id>
-      <parentid>957203922</parentid>
-      <timestamp>2020-05-17T16:42:30Z</timestamp>
+      <id>957247489</id>
+      <parentid>957206221</parentid>
+      <timestamp>2020-05-17T21:01:21Z</timestamp>
       <contributor>
-        <username>TheImaCow</username>
-        <id>38905475</id>
+        <username>HJ Mitchell</username>
+        <id>9336033</id>
       </contributor>
-      <comment>Rollback recent rev. by [[Special:Contributions/2A01:E0A:137:E920:EDAE:5269:9E47:2EA9|2A01:E0A:137:E920:EDAE:5269:9E47:2EA9]] ([[User_talk:2A01:E0A:137:E920:EDAE:5269:9E47:2EA9|talk]]) to rev. 956611562 by Materialscientist: vandalism [[WP:REDWARN|(RedWarn)]]</comment>
+      <minor/>
+      <comment>Protected "[[Sustainable energy]]": Persistent [[WP:Vandalism|vandalism]] ([Edit=Require autoconfirmed or confirmed access] (expires 21:01, 17 June 2020 (UTC)))</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="70159" xml:space="preserve">{{Redirect|Green power}}

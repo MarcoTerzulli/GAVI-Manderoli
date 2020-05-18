@@ -47,17 +47,17 @@
     <ns>0</ns>
     <id>50428730</id>
     <revision>
-      <id>952335686</id>
-      <parentid>951540130</parentid>
-      <timestamp>2020-04-21T18:44:50Z</timestamp>
+      <id>957249472</id>
+      <parentid>952335686</parentid>
+      <timestamp>2020-05-17T21:14:25Z</timestamp>
       <contributor>
-        <username>Cornerstonepicker</username>
-        <id>23174387</id>
+        <username>MagicatthemovieS</username>
+        <id>19507760</id>
       </contributor>
-      <comment>/* Background and composition */</comment>
+      <comment>/* External links */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="94857" xml:space="preserve">{{About|the Justin Timberlake song|other uses|Can't Stop Feeling (disambiguation)}}
+      <text bytes="94866" xml:space="preserve">{{About|the Justin Timberlake song|other uses|Can't Stop Feeling (disambiguation)}}
 {{Infobox song
 | name       = Can't Stop the Feeling!
 | cover      = Justin Timberlake - Can't Stop the Feeling.png
@@ -661,8 +661,8 @@ Credits adapted from the liner notes of the CD single of "Can't Stop the Feeling
 [[Category:Grammy Award for Best Song Written for Visual Media]]
 [[Category:Songs written for animated films]]
 [[Category:Songs written for films]]
-[[Category:Disco songs]]</text>
-      <sha1>d3isjj1oaabljqqvpls4upojf4ro8ki</sha1>
+[[Category:American disco songs]]</text>
+      <sha1>3f5gwy9hw0bfgshykgye5giliqt8idj</sha1>
     </revision>
   </page>
 </mediawiki>

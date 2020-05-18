@@ -47,18 +47,16 @@
     <ns>0</ns>
     <id>42647878</id>
     <revision>
-      <id>957163576</id>
-      <parentid>957153672</parentid>
-      <timestamp>2020-05-17T11:03:26Z</timestamp>
+      <id>957264520</id>
+      <parentid>957163576</parentid>
+      <timestamp>2020-05-17T23:01:42Z</timestamp>
       <contributor>
-        <username>JavaHurricane</username>
-        <id>37507540</id>
+        <ip>92.195.173.121</ip>
       </contributor>
-      <minor/>
-      <comment>Reverted edits by [[Special:Contribs/92.195.173.121|92.195.173.121]] ([[User talk:92.195.173.121|talk]]) to last version by GreenC bot</comment>
+      <comment>Undid revision 957163576 by [[Special:Contributions/JavaHurricane|JavaHurricane]] ([[User talk:JavaHurricane|talk]]). Rolled back duplicating edit. @JavaHurricane: Stop this, please; it's nonsensical.</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="23737" xml:space="preserve">{{Multiple issues|
+      <text bytes="22444" xml:space="preserve">{{Multiple issues|
 {{essay|date=May 2015}}
 {{original research|date=May 2015}}
 {{Cleanup|reason=content that belongs in other articles, if anywhere
@@ -83,8 +81,6 @@ Diabetes is a disease where an affected individual is unable to convert food int
 It is believed that much of the retinal vascular degeneration characteristic of diabetic retinopathy is due to impaired mitochondrial activity in the retina. [[Sod]]2 codes for a superoxide disputes enzyme, which scavenges free radicals and prevents oxidative damage to cells. LSD1 may play a major role in diabetic retinopathy through the downregulation of Sod2 in retinal vascular tissue, leading to oxidative damage in those cells. [[MMP-9]] is believed to be involved in cellular apoptosis, and is similarly downregulated, which may help to propagate the effects of diabetic retinopathy.&lt;ref name=Kowluru2013 /&gt;
 
 Several avenues to epigenetic treatment of diabetic retinopathy have been studied. One approach is to inhibit the methylation of the Sod2 and MMP-9. The DNMT inhibitors [[5-azacytidine]] and [[Decitabine|5-aza-20-deoxycytidine]] have both been approved by the FDA for the treatment of other conditions, and studies have examined the effects of those compounds on diabetic retinopathy, where they seem to inhibit these methylation patterns with some success at reducing symptoms. The DNA methylation inhibitor [[Zebularine]] has also been studied, although results are currently inconclusive. A second approach is to attempt to reduce the miRNAs observed at elevated levels in retinopathic patients, although the exact role of those miRNAs is still unclear. The Histone Acetyltransferase (HAT) inhibitors [[Epigallocatechin-3-gallate]], [[Vorinostat]], and [[Romidepsin]] have also been the subject of experimentation for this purpose, with some limited success.&lt;ref name=Kowluru2013 /&gt;  The possibility of using Small Interfering RNAs, or siRNAs, to target the miRNAs mentioned above has been discussed, but there are currently no known methods to do so. This method is somewhat hindered by the difficulty involved in delivering the siRNAs to the affected tissues.&lt;ref name=Kowluru2013 /&gt;
-
-Several avenues to epigenetic treatment of diabetic retinopathy have been studied. One approach is to inhibit the methylation of the Sod2 and MMP-9. The DNMT inhibitors [[5-azacytidine]] and [[Decitabine|5-aza-20-deoxycytidine]] have both been approved by the FDA for the treatment of other conditions, and studies have examined the effects of those compounds on diabetic retinopathy, where they seem to inhibit these methylation patterns with some success at reducing symptoms. The DNA methylation inhibitor [[Zebularine]] has also been studied, although results are currently inconclusive. A second approach is to attempt to reduce the miRNAs observed at elevated levels in retinopathic patients, although the exact role of those miRNAs is still unclear. The Histone Acetyltransferase (HAT) inhibitors [[Epigallocatechin-3-gallate]], [[Vorinostat]], and [[Romidepsin]] have also been the subject of experimentation for this purpose, with some limited success.&lt;ref name="Kowluru2013" /&gt; The possibility of using Small Interfering RNAs, or siRNAs, to target the miRNAs mentioned above has been discussed, but there are currently no known methods to do so. This method is somewhat hindered by the difficulty involved in delivering the siRNAs to the affected tissues.&lt;ref name="Kowluru2013" /&gt;
 
 Type 2 diabetes mellitus (T2DM) has many variations and factors that influence how it affects the body. DNA methylation is a process by which methyl groups attach to DNA structure causing the gene to not be expressed. This is thought to be an epigenetic cause of T2DM by causing the body to develop an insulin resistance and inhibit the production of beta cells in the pancreas.&lt;ref&gt;{{cite journal | vauthors = Zhou Z, Sun B, Li X, Zhu C | title = DNA methylation landscapes in the pathogenesis of type 2 diabetes mellitus | journal = Nutrition &amp; Metabolism | volume = 15 | issue = 1 | pages = 47 | date = 2018-06-28 | pmid = 29988495 | pmc = 6025823 | doi = 10.1186/s12986-018-0283-x }}&lt;/ref&gt; Because of the repressed genes the body does not regulate blood sugar transport to cells, causing a high concentration of glucose in the blood stream.
 
@@ -153,7 +149,7 @@ Research findings have demonstrated that schizophrenia is linked to numerous epi
 
 [[Category:Epigenetics]]
 [[Category:Genetic mapping]]</text>
-      <sha1>mhsndqv4q6iu0gdu1bs6u4muedccw1e</sha1>
+      <sha1>94teas8myk5yd9n7ctru34ymrirade8</sha1>
     </revision>
   </page>
 </mediawiki>

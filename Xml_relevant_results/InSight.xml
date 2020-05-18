@@ -47,17 +47,17 @@
     <ns>0</ns>
     <id>33930663</id>
     <revision>
-      <id>956171746</id>
-      <parentid>956169457</parentid>
-      <timestamp>2020-05-11T21:53:50Z</timestamp>
+      <id>957262693</id>
+      <parentid>956171746</parentid>
+      <timestamp>2020-05-17T22:46:21Z</timestamp>
       <contributor>
-        <username>Yarnalgo</username>
-        <id>1147343</id>
+        <username>Edigodiuss</username>
+        <id>32360186</id>
       </contributor>
-      <comment>Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/107.15.163.218|107.15.163.218]] ([[User talk:107.15.163.218|talk]]): Unnecessary code reformatting and added a blank convert template ([[WP:TW|TW]])</comment>
+      <minor/>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="95675" xml:space="preserve">{{Use dmy dates|date=October 2019}}
+      <text bytes="95676" xml:space="preserve">{{Use dmy dates|date=October 2019}}
 {{Other uses|Insight (disambiguation)}}
 {{short description|Mars lander, arrived November 2018}}
 {{Infobox spaceflight
@@ -452,7 +452,7 @@ In February 2020, the team reevaluated the risks of pushing the scoop directly a
  |image2=PIA19388-Mars-InSight-MarCO-CubeSats-20150612.jpg |caption2=MarCO CubeSats relaying data during ''InSight''{{'s}} landing (artist concept)
 }}
 {{Main|Mars Cube One}}
-The [[Mars Cube One]] (MarCO) spacecraft are a pair of 6U [[CubeSat]]s that piggybacked with the ''InSight'' mission to test CubeSat navigation and endurance in deep space, and to help relay real-time communications (with an eight-minute lightspeed delay)&lt;ref name="21Nov2018" /&gt; during the probe's [[entry, descent and landing]] (EDL) phase.&lt;ref&gt;{{cite news |url=http://www.space.com/29374-nasa-cubesat-rocket-launch-system.html |title=NASA Wants New Rocket Rides for Tiny CubeSats |work=Space.com |last=Wall |first=Mike |date=12 May 2015 |access-date=13 May 2015}}&lt;/ref&gt;&lt;ref name="Dean2015"&gt;{{cite news |url=http://www.floridatoday.com/story/tech/science/space/2015/05/16/nasa-seeks-launchers-smallest-satellites/27392049/ |title=NASA seeks launchers for smallest satellites |work=Florida Today |last=Dean |first=James |date=16 May 2015 |access-date=16 May 2015}}&lt;/ref&gt; The two 6U CubeSats, named MarCO A and B, are identical.&lt;ref&gt;{{cite news |url=http://www.airspacemag.com/daily-planet/cubesats-rescue-180955544/?no-ist |title=CubeSats to the Rescue? |work=Smithsonian Air &amp; Space |last=Schulze-Makuch |first=Dirk |date=9 June 2015 |access-date=9 June 2015}}&lt;/ref&gt; They were launched along with ''InSight'', but separated soon after reaching space,&lt;ref&gt;{{cite web|url=https://www.jpl.nasa.gov/cubesat/missions/marco.php|title=JPL {{!}} Cubesat {{!}} MarCO|website=www.jpl.nasa.gov|access-date=2018-12-09}}&lt;/ref&gt; and they flew as a pair for redundancy while flanking the lander.&lt;ref name="Mars Cube One MarCO" /&gt; They did not enter orbit, but flew past Mars during the EDL phase of the mission and relayed ''InSight''{{'s}} telemetry in real time.&lt;ref name="MarCO"&gt;{{cite news |url=http://www.space.com/29489-marco-cubesats-mars-landing-2016.html |title=Two Tiny 'CubeSats' Will Watch 2016 Mars Landing |work=Space.com |last=Messier |first=Douglas |date=27 May 2015 |access-date=27 May 2015}}&lt;/ref&gt;&lt;ref name="MarCO JPL"&gt;{{cite book |url=https://marscubesatworkshop.jpl.nasa.gov/static/files/presentation/Asmar-Matousek/07-MarsCubeWorkshop-MarCO-update.pdf |title=Mars Cube One (MarCO) – The First Planetary CubeSat Mission |publisher=NASA/Jet Propulsion Laboratory |last=Asmar |first=Sami |last2=Matousek |first2=Steve |date=20 November 2014 |access-date=27 May 2015 |archive-url=https://web.archive.org/web/20170125222036/https://marscubesatworkshop.jpl.nasa.gov/static/files/presentation/Asmar-Matousek/07-MarsCubeWorkshop-MarCO-update.pdf |archive-date=25 January 2017 |url-status=dead }}&lt;/ref&gt; The sucess of the MarCO spacecraft proved the viability of the cubesat platform for deep space missions and helped serve as a technical demonstration for potential future missions of a similar nature. On 5 February 2019, NASA reported that the CubeSats went silent, and are unlikely to be heard from again.&lt;ref name="NASA-20190205"&gt;{{cite web |last1=Good |first1=Andrew |last2=Wendel |first2=JoAnna |title=Beyond Mars, the Mini MarCO Spacecraft Fall Silent |url=https://www.jpl.nasa.gov/news/news.php?feature=7327 |date=5 February 2019 |work=[[NASA]] |accessdate=5 February 2019 }}&lt;/ref&gt;
+The [[Mars Cube One]] (MarCO) spacecraft are a pair of 6U [[CubeSat]]s that piggybacked with the ''InSight'' mission to test CubeSat navigation and endurance in deep space, and to help relay real-time communications (with an eight-minute lightspeed delay)&lt;ref name="21Nov2018" /&gt; during the probe's [[entry, descent and landing]] (EDL) phase.&lt;ref&gt;{{cite news |url=http://www.space.com/29374-nasa-cubesat-rocket-launch-system.html |title=NASA Wants New Rocket Rides for Tiny CubeSats |work=Space.com |last=Wall |first=Mike |date=12 May 2015 |access-date=13 May 2015}}&lt;/ref&gt;&lt;ref name="Dean2015"&gt;{{cite news |url=http://www.floridatoday.com/story/tech/science/space/2015/05/16/nasa-seeks-launchers-smallest-satellites/27392049/ |title=NASA seeks launchers for smallest satellites |work=Florida Today |last=Dean |first=James |date=16 May 2015 |access-date=16 May 2015}}&lt;/ref&gt; The two 6U CubeSats, named MarCO A and B, are identical.&lt;ref&gt;{{cite news |url=http://www.airspacemag.com/daily-planet/cubesats-rescue-180955544/?no-ist |title=CubeSats to the Rescue? |work=Smithsonian Air &amp; Space |last=Schulze-Makuch |first=Dirk |date=9 June 2015 |access-date=9 June 2015}}&lt;/ref&gt; They were launched along with ''InSight'', but separated soon after reaching space,&lt;ref&gt;{{cite web|url=https://www.jpl.nasa.gov/cubesat/missions/marco.php|title=JPL {{!}} Cubesat {{!}} MarCO|website=www.jpl.nasa.gov|access-date=2018-12-09}}&lt;/ref&gt; and they flew as a pair for redundancy while flanking the lander.&lt;ref name="Mars Cube One MarCO" /&gt; They did not enter orbit, but flew past Mars during the EDL phase of the mission and relayed ''InSight''{{'s}} telemetry in real time.&lt;ref name="MarCO"&gt;{{cite news |url=http://www.space.com/29489-marco-cubesats-mars-landing-2016.html |title=Two Tiny 'CubeSats' Will Watch 2016 Mars Landing |work=Space.com |last=Messier |first=Douglas |date=27 May 2015 |access-date=27 May 2015}}&lt;/ref&gt;&lt;ref name="MarCO JPL"&gt;{{cite book |url=https://marscubesatworkshop.jpl.nasa.gov/static/files/presentation/Asmar-Matousek/07-MarsCubeWorkshop-MarCO-update.pdf |title=Mars Cube One (MarCO) – The First Planetary CubeSat Mission |publisher=NASA/Jet Propulsion Laboratory |last=Asmar |first=Sami |last2=Matousek |first2=Steve |date=20 November 2014 |access-date=27 May 2015 |archive-url=https://web.archive.org/web/20170125222036/https://marscubesatworkshop.jpl.nasa.gov/static/files/presentation/Asmar-Matousek/07-MarsCubeWorkshop-MarCO-update.pdf |archive-date=25 January 2017 |url-status=dead }}&lt;/ref&gt; The success of the MarCO spacecraft proved the viability of the cubesat platform for deep space missions and helped serve as a technical demonstration for potential future missions of a similar nature. On 5 February 2019, NASA reported that the CubeSats went silent, and are unlikely to be heard from again.&lt;ref name="NASA-20190205"&gt;{{cite web |last1=Good |first1=Andrew |last2=Wendel |first2=JoAnna |title=Beyond Mars, the Mini MarCO Spacecraft Fall Silent |url=https://www.jpl.nasa.gov/news/news.php?feature=7327 |date=5 February 2019 |work=[[NASA]] |accessdate=5 February 2019 }}&lt;/ref&gt;
 * Mass: {{convert|13.5|kg|lb|0|abbr=on}} each.&lt;ref name="press kit 2018" /&gt;
 * Dimensions: {{convert|30|x|20|x|10|cm|abbr=on}} each
 * Each has a [[Reflective array antenna|reflectarray]] high gain antenna
@@ -555,7 +555,7 @@ PIA23349-Mars-InSightLander-RollingStonesRock-20181126.jpg|"Rolling Stones Rock"
 [[Category:Space probes launched in 2018]]
 [[Category:Soft landings on Mars]]
 [[Category:2018 on Mars]]</text>
-      <sha1>gd0awqlwrfgkuiqi5sqv8swb0xcqy07</sha1>
+      <sha1>8q9qabc685hga6plqnq6yh8hk8zseds</sha1>
     </revision>
   </page>
 </mediawiki>

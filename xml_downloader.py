@@ -19,9 +19,9 @@ def xml_download_single_file(page_name, xml_dir="Xml_relevant_results"):
         mkdir(xml_dir)
 
     url = "https://en.wikipedia.org/wiki/Special:Export/" + page_name
-    file_with_path = path.join(path.dirname(__file__), xml_dir, f"{page_name}.xml")
+    file_with_path = path.join(path.dirname(__file__), xml_dir, f"{page_name.replace(':', '-')}.xml")
 
-    print(f"Download of {page_name}.xml")
+    print(f"Download of {page_name.replace(':', '-')}.xml")
     try:
         open(file_with_path, 'wb').write(requests.get(url).content)
     except IOError:
@@ -51,9 +51,9 @@ def xml_download(xml_dir="Xml_relevant_results"):
                 if ".csv" not in title and "-----" not in title and len(title) > 1:
                     title = title.strip("\n")
                     url = "https://en.wikipedia.org/wiki/Special:Export/" + title
-                    file_with_path = path.join(path.dirname(__file__), xml_dir, f"{title}.xml")
+                    file_with_path = path.join(path.dirname(__file__), xml_dir, f"{title.replace(':', '-')}.xml")
 
-                    print(f"Download of {title}.xml")
+                    print(f"Download of {title.replace(':', '-')}.xml")
                     try:
                         open(file_with_path, 'wb').write(requests.get(url).content)
                     except IOError:

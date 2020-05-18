@@ -1,0 +1,107 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Template:Steve Jobs</title>
+    <ns>10</ns>
+    <id>36510019</id>
+    <revision>
+      <id>905260613</id>
+      <parentid>905260496</parentid>
+      <timestamp>2019-07-07T23:57:57Z</timestamp>
+      <contributor>
+        <username>Joey1niner</username>
+        <id>22222061</id>
+      </contributor>
+      <comment>swap</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1238" xml:space="preserve">{{Navbox
+| name  = Steve Jobs
+| title = [[Steve Jobs]]
+| state = {{{state|{{{1|autocollapse}}}}}}
+| image = [[File:Steve Jobs Headshot 2010-CROP.jpg|100px|right]]
+| listclass = hlist
+| group1 = Career
+| list1  = 
+*[[Timeline of Steve Jobs media|Timeline]]
+*[[Apple Inc.|Apple Computer]] 
+**[[History of Apple Inc.#1975–1985: Jobs and Wozniak|history]]
+*[[Macintosh#History|Macintosh]]
+*[[NeXT]]
+*[[Pixar]]
+*[[Steve Jobs#Return to Apple|Return to Apple]]
+
+| group2 = Legacy
+| list2  = 
+*[[List of artistic depictions of Steve Jobs|Artistic depictions]]
+**[[Steve Jobs (book)|official biography]]
+*[[Steve Jobs#Honors and awards|Honors and public recognition]]
+
+| group4 = Family
+| list4  = 
+*[[Laurene Powell Jobs]] (wife)
+*[[Mona Simpson]] (sister)
+*[[Chrisann Brennan]] (mother of his first child)
+*[[Lisa Brennan-Jobs]] (daughter)
+
+| group5 = Related
+| list5  = 
+*[[Stevenote]]
+*[[Reality distortion field]]
+*''[[Stay Hungry Stay Foolish]]'' (2008 book)
+*[[Jackling House]]
+*[[Seva Foundation]]
+*''[[The Son of a Migrant from Syria]]'' (2015 mural)
+*[[Venus (yacht)|''Venus'' yacht]]
+*[[1984 (advertisement)|''1984'' commercial]]
+*[[Think different]]
+*[[Steve Wozniak]]
+}}&lt;noinclude&gt;
+[[Category:Businesspeople templates]]
+&lt;/noinclude&gt;</text>
+      <sha1>btjb125lzente5ikwfdu3i7lel3kwiw</sha1>
+    </revision>
+  </page>
+</mediawiki>

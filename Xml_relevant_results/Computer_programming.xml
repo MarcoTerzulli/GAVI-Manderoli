@@ -47,17 +47,17 @@
     <ns>0</ns>
     <id>5311</id>
     <revision>
-      <id>957236431</id>
-      <parentid>957236113</parentid>
-      <timestamp>2020-05-17T19:49:39Z</timestamp>
+      <id>957254167</id>
+      <parentid>957236431</parentid>
+      <timestamp>2020-05-17T21:48:12Z</timestamp>
       <contributor>
-        <username>Scan123</username>
-        <id>39300513</id>
+        <username>TedColes</username>
+        <id>3397128</id>
       </contributor>
-      <comment>/* External links */</comment>
+      <minor/>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="26742" xml:space="preserve">{{short description|Process that leads from an original formulation of a computing problem to executable computer programs}}
+      <text bytes="26745" xml:space="preserve">{{short description|Process that leads from an original formulation of a computing problem to executable computer programs}}
 {{software development process}}
 
 '''Computer programming''' is the process of designing and building an [[executable]] [[computer program]] to accomplish a specific [[computing]] result. '''Programming''' involves tasks such as: analysis, generating [[algorithm]]s, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms in a chosen [[programming language]] (commonly referred to as '''coding''').&lt;ref&gt;{{cite web|url=http://yearofcodes.tumblr.com/what-is-coding|title=What is coding|author=Bebbington|first=Shaun|date=2014|year=2014|website=Tumblr|url-status=live|archive-url=https://web.archive.org/web/20200429195646/https://yearofcodes.tumblr.com/what-is-coding|archive-date=2020-04-29|accessdate=2014-03-03}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://yearofcodes.tumblr.com/what-is-programming|title=What is programming|author=Bebbington|first=Shaun|date=|year=2014|website=Tumblr|url-status=live|archive-url=https://web.archive.org/web/20200429195958/https://yearofcodes.tumblr.com/what-is-programming|archive-date=2020-04-29|accessdate=2014-03-03}}&lt;/ref&gt; The [[source code]] of a program is written in one or more languages that are intelligible to [[programmer]]s, rather than [[machine code]], which is directly executed by the [[central processing unit]]. The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an [[operating system]]) on a [[computer]], often for solving a given problem. The process of programming thus often requires expertise in several different subjects, including knowledge of the [[Domain (software engineering)|application domain]], specialized algorithms, and formal [[logic]].
@@ -219,7 +219,7 @@ Computer programmers are those who write computer software. Their jobs usually i
 *{{Wikiquote-inline|Programming}}
 &lt;!--Please see this URL before adding external links here: http://meta.wikimedia.org/wiki/When_should_I_link_externally--&gt;
 * {{curlie|Computers/Software/Software_Engineering/|Software engineering}}
-&lt;!--Please see this URL before adding external links here: https://www.rknaidunia.com/2020/04/7-easy-steps-to-create-computer-program.html
+&lt;!--Please see this URL before adding external links here: https://www.rknaidunia.com/2020/04/7-easy-steps-to-create-computer-program.html--&gt;
 
 {{Computer science}}
 {{Software engineering}}
@@ -230,7 +230,7 @@ Computer programmers are those who write computer software. Their jobs usually i
 [[Category:Computer programming| ]]
 [[Category:Computers|Programming]]
 [[Category:Computer Programming task force articles|Computer Programming task force]]</text>
-      <sha1>120764ck018a775qa6elw805s5alwwa</sha1>
+      <sha1>bkuhl5y4mvkum6ft2kqm3isaazotiok</sha1>
     </revision>
   </page>
 </mediawiki>

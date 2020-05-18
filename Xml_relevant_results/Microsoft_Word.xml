@@ -47,16 +47,16 @@
     <ns>0</ns>
     <id>20287</id>
     <revision>
-      <id>956785900</id>
-      <parentid>956434520</parentid>
-      <timestamp>2020-05-15T09:27:02Z</timestamp>
+      <id>957263306</id>
+      <parentid>956785900</parentid>
+      <timestamp>2020-05-17T22:51:35Z</timestamp>
       <contributor>
-        <ip>90.241.124.129</ip>
+        <ip>101.50.91.122</ip>
       </contributor>
       <comment>/* Word for Windows */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="71904" xml:space="preserve">{{short description|Word processor developed by Microsoft}}
+      <text bytes="71905" xml:space="preserve">{{short description|Word processor developed by Microsoft}}
 {{Use mdy dates|date=April 2017}}
 {{Infobox software
 | name = Microsoft Word
@@ -180,7 +180,7 @@ Word 2010 allows more customization of the Ribbon,&lt;ref name="pcmag_office2010
 
 Word 2016
 
-Word 2019 adds the dictate function, Old word documents can be transcoded into new documents unlocking word 2019s new features suc as converting to webpage and others
+Word 2019 adds the dictate function, Old word documents can be transcoded into new documents unlocking word 2019s new features such as converting to webpage and others
 
 ===Word for Mac===
 {{see also|Microsoft Office#Mac versions|label 1 = Microsoft Office § Mac versions}}The Mac was introduced January 24, 1984, and Microsoft introduced Word 1.0 for Mac a year later, on January 18, 1985. The DOS, Mac, and Windows versions are quite different from each other. Only the Mac version was [[WYSIWYG]] and used a graphical user interface, far ahead of the other platforms. Each platform restarted its version numbering at "1.0" (https://winworldpc.com/product/microsoft-word/1x-mac). There was no version 2 on the Mac, but version 3 came out on January 31, 1987, as described above. Word 4.0 came out on November 6, 1990, and added automatic linking with Excel, the ability to flow text around graphics and a WYSIWYG page view editing mode.
@@ -651,7 +651,7 @@ Despite its commercial success, it has also been argued in the scientific commun
 &lt;!--Misc.--&gt;
 [[Category:1983 software]]
 [[Category:Atari ST software]]</text>
-      <sha1>elfr3op12rphyfx7tgd5opyyftdsv4w</sha1>
+      <sha1>72d7uiuw5qvzmr1l7zxjh08eb1271bd</sha1>
     </revision>
   </page>
 </mediawiki>

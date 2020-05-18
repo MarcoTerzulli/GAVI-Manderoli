@@ -47,17 +47,17 @@
     <ns>0</ns>
     <id>23716</id>
     <revision>
-      <id>957237043</id>
-      <parentid>956164468</parentid>
-      <timestamp>2020-05-17T19:53:38Z</timestamp>
+      <id>957244002</id>
+      <parentid>957237043</parentid>
+      <timestamp>2020-05-17T20:39:14Z</timestamp>
       <contributor>
-        <username>Scan123</username>
-        <id>39300513</id>
+        <username>Alexf</username>
+        <id>55327</id>
       </contributor>
-      <comment>/* External links */</comment>
+      <comment>rm spam</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="25115" xml:space="preserve">{{about|people who write computer software}}
+      <text bytes="24981" xml:space="preserve">{{about|people who write computer software}}
 {{For|someone who performs coding in the social sciences|Coding (social sciences)}}
 {{For|someone who performs medical coding|Medical coding}}
 {{Redirect|Coder|the settlement in Pennsylvania|Coder, Pennsylvania}}
@@ -159,13 +159,12 @@ Enrollment in computer-related degrees in US has dropped recently{{when|date=May
 * The [[US Department of Labor]] description of:
 **[http://www.bls.gov/ooh/computer-and-information-technology/computer-programmers.htm Computer Programmers]
 ** [http://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm Software developer]
-** [https://www.rknaidunia.com/2020/04/7-easy-steps-to-create-computer-program.html Easy Steps to create a Computer Program in Hindi]
 
 [[Category:Computer occupations]]
 [[Category:Computer programmers]]
 [[Category:Computer science]]
 [[Category:People in information technology]]</text>
-      <sha1>16uzf5z61ku452o8wb9c58jwgw7u1pm</sha1>
+      <sha1>ir4sn12sb5ra3wiyceaohnhl8x4srz3</sha1>
     </revision>
   </page>
 </mediawiki>

@@ -47,18 +47,17 @@
     <ns>0</ns>
     <id>31646</id>
     <revision>
-      <id>957186755</id>
-      <parentid>957186714</parentid>
-      <timestamp>2020-05-17T14:24:30Z</timestamp>
+      <id>957251231</id>
+      <parentid>957186755</parentid>
+      <timestamp>2020-05-17T21:27:05Z</timestamp>
       <contributor>
-        <username>Dr. Kadzi</username>
-        <id>19234344</id>
+        <username>D.M. from Ukraine</username>
+        <id>6513537</id>
       </contributor>
-      <minor/>
-      <comment>Reverted edits by [[Special:Contributions/EnjoyYourLifeYouLive|EnjoyYourLifeYouLive]] ([[User talk:EnjoyYourLifeYouLive|talk]]) ([[WP:HG|HG]]) (3.4.10)</comment>
+      <comment>/* Clause 18: Implied Powers of Congress */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="131826" xml:space="preserve">{{short description|Portion of the US Constitution regarding Congress}}
+      <text bytes="131820" xml:space="preserve">{{short description|Portion of the US Constitution regarding Congress}}
 {{Use mdy dates|date=August 2017}}
 {{wikisource|Constitution of the United States of America#Article I|Article 1
  of the United States Constitution}}
@@ -339,8 +338,7 @@ This new attitude became firmly set into place in 1942. In ''[[Wickard v. Filbur
 
 In contrast to these rulings, the Supreme Court also continues to follow the precedent set by ''Wickard v. Filburn''. In ''[[Gonzales v. Raich]]'' it ruled that the Commerce Clause granted Congress the authority to criminalize the production and use of home-grown [[cannabis (drug)|cannabis]] even where states approve its use for [[medical cannabis|medicinal purposes]]. The court held that, as with the agricultural production in the earlier case, home-grown cannabis is a legitimate subject of federal regulation because it competes with marijuana that moves in interstate commerce.
 
-===Clause 18: Implied Powers of Congress===
-====Other powers of Congress====
+===Other powers of Congress===
 [[File:USS Bon Homme Richard (CVA-31) underway in the Gulf of Tonkin on 2 November 1964.jpg|thumb| alt=Aircraft carrier at sea.|Congress authorizes defense spending such as the purchase of the [[USS Bon Homme Richard (CV-31)|USS ''Bon Homme Richard'']].]]
 
 Congress may establish uniform laws relating to [[naturalization]] and [[bankruptcy]]. It may also coin money, regulate the value of American or foreign currency and punish counterfeiters. Congress may fix the standards of weights and measures. Furthermore, Congress may establish [[Postal Clause|post offices and post roads]] (the roads, however, need not be exclusively for the conveyance of mail). Congress may promote the progress of science and useful arts by granting [[United States copyright law|copyrights]] and [[United States patent law|patents]] of limited duration. Section eight, clause eight of Article One, known as the [[Copyright Clause]], is the only instance of the word "right" used in the original constitution (though the word does appear in several Amendments).&lt;ref&gt;[[Michael Novak|Novak, Michael]] (1996). The fire of invention, the fuel of interest: On intellectual property. Washington D.C.: The American Enterprise Institute Press.&lt;/ref&gt; Though perpetual copyrights and patents are prohibited, the Supreme Court has ruled in ''[[Eldred v. Ashcroft]]'' (2003) that repeated extensions to the term of copyright do not constitute perpetual copyright; also note that this is the only power granted where the means to accomplish its stated purpose is specifically provided for. Courts inferior to the Supreme Court may be established by Congress.
@@ -349,7 +347,7 @@ Congress has several powers related to war and the armed forces. Under the [[War
 
 Congress has the exclusive right to legislate "in all cases whatsoever" for the nation's capital, the [[Washington, D.C.|District of Columbia]]. Congress chooses to devolve some of such authority to the elected [[Mayor of Washington, D.C.|mayor]] and [[Council of the District of Columbia|council]] of District of Columbia. Nevertheless, Congress remains free to enact any legislation for the District so long as constitutionally permissible, to overturn any legislation by the city government, and technically to revoke the city government at any time. Congress may also exercise such jurisdiction over land purchased from the states for the erection of forts and other buildings.
 
-====Necessary and Proper====
+====Clause 18: Implied Powers of Congress (Necessary and Proper)====
 {{Main|Necessary and Proper Clause}}
 {{quote|The Congress shall have Power [...] To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government of the United States, or in any Department or Officer thereof.}}
 Finally, Congress has the power to do whatever is "necessary and proper" to carry out its enumerated powers and, crucially, all others vested in it. This has been interpreted to authorize criminal prosecution of those whose actions have a "substantial effect" on interstate commerce in ''Wickard v. Filburn''; however, [[Thomas Jefferson]], in the [[Kentucky Resolutions]], supported by [[James Madison]], maintained that a penal power could not be inferred from a power to regulate, and that the only penal powers were for [[treason]], [[counterfeiting]], [[piracy]] and [[felony]] on the [[high seas]], and offenses against the [[law of nations]].
@@ -442,7 +440,7 @@ There have been a number of [[Supreme Court of the United States|Supreme Court]]
 [[Category:Articles of the United States Constitution|1]]
 [[Category:Article One of the United States Constitution|*]]
 [[Category:Legislative branch of the United States government]]</text>
-      <sha1>3sukf2amyjwlo8jvvmbdq15tun7nqp7</sha1>
+      <sha1>ed8d4coe0blafrf08kw73komivpf6i7</sha1>
     </revision>
   </page>
 </mediawiki>

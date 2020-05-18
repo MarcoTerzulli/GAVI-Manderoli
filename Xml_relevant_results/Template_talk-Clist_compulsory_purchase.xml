@@ -1,0 +1,84 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.31</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Template talk:Clist compulsory purchase</title>
+    <ns>11</ns>
+    <id>63364464</id>
+    <revision>
+      <id>947473641</id>
+      <parentid>946894476</parentid>
+      <timestamp>2020-03-26T15:04:41Z</timestamp>
+      <contributor>
+        <username>Pppery</username>
+        <id>28032115</id>
+      </contributor>
+      <minor/>
+      <comment>/* How you, WilliamJE, can resolve this */ Fixing discussion format</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5291" xml:space="preserve">==Recent spate of reverting==
+Please have the courtesy to desist while I read the historic user talk page archive you have linked.—[[User:S Marshall|&lt;b style="font-family: Verdana; color: Maroon;"&gt;S&amp;nbsp;Marshall&lt;/b&gt;]]&amp;nbsp;&lt;small&gt;[[User talk:S Marshall|T]]/[[Special:Contributions/S Marshall|C]]&lt;/small&gt; 17:01, 13 March 2020 (UTC)
+*...and now I've read it. Hardly a resounding consensus, hardly recent, hardly convincing. You could try RFC if you wish to persist.—[[User:S Marshall|&lt;b style="font-family: Verdana; color: Maroon;"&gt;S&amp;nbsp;Marshall&lt;/b&gt;]]&amp;nbsp;&lt;small&gt;[[User talk:S Marshall|T]]/[[Special:Contributions/S Marshall|C]]&lt;/small&gt; 17:06, 13 March 2020 (UTC)
+**Per [[WP:NAV]]. 'Navigation templates '''do not provide''' [[WP:external links|external links]] to other websites.'[[User:WilliamJE|...William]], is the complaint department really on [[User talk:WilliamJE|the roof?]] 15:02, 22 March 2020 (UTC)
+***No.  The Manual of Style's broad-brush, one-size-fits-all rules are very unhelpful and have historically been disregarded in law case-list templates.  I certainly do not think it is appropriate to remove the external links.  I have restored the stable version.  WilliamJE, you and I don't communicate effectively with each other and I do not expect to be able reach consensus with you.  Go to RFC if you wish to persist.—[[User:S Marshall|&lt;b style="font-family: Verdana; color: Maroon;"&gt;S&amp;nbsp;Marshall&lt;/b&gt;]]&amp;nbsp;&lt;small&gt;[[User talk:S Marshall|T]]/[[Special:Contributions/S Marshall|C]]&lt;/small&gt; 16:03, 22 March 2020 (UTC)
+****You were told[https://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive922#Conflict_between_myself_and_WilliamJE] at ANI 4 years ago, 'We do have a Manual of Style for a reason, and while exceptions can and should be made, there should be a reason for those exceptions'. MOS applies.[[User:WilliamJE|...William]], is the complaint department really on [[User talk:WilliamJE|the roof?]] 16:36, 22 March 2020 (UTC)
+*****You remember this matter so well that you can drag up individual diffs from four years ago. Therefore I'm not going to explain the reasons for the exception to you again. This is also the last time that I will ask you to stop reverting.—[[User:S Marshall|&lt;b style="font-family: Verdana; color: Maroon;"&gt;S&amp;nbsp;Marshall&lt;/b&gt;]]&amp;nbsp;&lt;small&gt;[[User talk:S Marshall|T]]/[[Special:Contributions/S Marshall|C]]&lt;/small&gt; 17:43, 22 March 2020 (UTC)
+
+==How you, WilliamJE, can resolve this==
+In your capacity as the expert on our manual of style, you can bring this cycle to a permanent end by taking the following steps:
+# Go to our article on [[Compulsory purchase in England and Wales]].
+# Find wherever in the article where external links ''are'' allowed, per the MOS.
+# Insert the external links there.
+# Then, and only then, remove them from this template.
+
+Simples.—[[User:S Marshall|&lt;b style="font-family: Verdana; color: Maroon;"&gt;S&amp;nbsp;Marshall&lt;/b&gt;]]&amp;nbsp;&lt;small&gt;[[User talk:S Marshall|T]]/[[Special:Contributions/S Marshall|C]]&lt;/small&gt; 19:51, 22 March 2020 (UTC)
+*You can do that. MOS applies.[[User:WilliamJE|...William]], is the complaint department really on [[User talk:WilliamJE|the roof?]] 20:44, 22 March 2020 (UTC)
+**But I haven't read the manual of style, and I won't.  You're the one who cares about it, not me.  I'm content for you to move those external links to whatever place you think is appropriate provided the reader can find them.  But that's not your behaviour.  For the past several years your behaviour has been to remove the external links.  Then I put them somewhere else and you remove them again.&lt;p&gt;I find it incredibly frustrating that you don't understand how disruptive this is.&lt;p&gt;If they're in the wrong place, you may move them, or (much preferably) you can just bugger off and do something else, but you absolutely may not remove them and leave the article less informative.  Capsice?—[[User:S Marshall|&lt;b style="font-family: Verdana; color: Maroon;"&gt;S&amp;nbsp;Marshall&lt;/b&gt;]]&amp;nbsp;&lt;small&gt;[[User talk:S Marshall|T]]/[[Special:Contributions/S Marshall|C]]&lt;/small&gt; 21:44, 22 March 2020 (UTC)
+***Following NAV isn't disruptive. You're being rude and violating CIVIL by telling me to bugger off.  I didn't hear it isn't an excuse for what you're doing. It's been quoted, been pointed to multiple times. You couldn't even take this discussion to somewhere where someone else would chime in. Nobody comes to template talk pages. Go to NAV's talk page but you're afraid of being rejected like you have in the past, {{ping|ScrapIronIV}} and keep using language like asshattery, ridiculous, pathetic, fuckint timesink, and so on.[[User:WilliamJE|...William]], is the complaint department really on [[User talk:WilliamJE|the roof?]] 00:57, 23 March 2020 (UTC)
+****Yes, on this occasion I've allowed my extreme anger at your behaviour to spill over into incivility.  I should not have done that, and I will try to be less frank in future.  You may follow NAV by moving the external links to the correct place.  Do not remove them and leave it up to me to clean up your mess.—[[User:S Marshall|&lt;b style="font-family: Verdana; color: Maroon;"&gt;S&amp;nbsp;Marshall&lt;/b&gt;]]&amp;nbsp;&lt;small&gt;[[User talk:S Marshall|T]]/[[Special:Contributions/S Marshall|C]]&lt;/small&gt; 01:14, 23 March 2020 (UTC)</text>
+      <sha1>45x4bv4hxvlwnyg2zxkrc55t7e4o3df</sha1>
+    </revision>
+  </page>
+</mediawiki>
