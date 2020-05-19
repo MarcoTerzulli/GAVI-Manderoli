@@ -36,3 +36,8 @@ class WikiSearcherModule:
 
         # Restituisco la lista dei risultati
         return results
+
+    @staticmethod
+    def get_article_url(title):
+        relative_url = "".join([c if c != " " else "_" for c in title])
+        return "https://en.wikipedia.org/wiki/" + relative_url

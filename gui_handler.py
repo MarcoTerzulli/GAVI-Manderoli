@@ -3,6 +3,7 @@ from whoosh.searching import Results
 from tkscrolledframe import ScrolledFrame
 import webbrowser
 
+
 class GuiHandler:
     def __init__(self, searcher):
         self.__searcher = searcher
@@ -99,7 +100,7 @@ class GuiHandler:
 
             # DEBUG
             debug = False
-            if debug:
+            if(debug):
                 print(f"\nResults for: {query_text}\n")
 
                 if len(query_results) == 0:
@@ -133,14 +134,9 @@ class GuiHandler:
     def _url_open(url):
         webbrowser.open(url, new=2)
 
-    @staticmethod
-    def _url_generator(title):
-        relative_url = "".join([c if c != " " else "_" for c in title])
-        return "https://en.wikipedia.org/wiki/" + relative_url
-
     def _label_result_on_click(self, event):
         title = self.__label_dict[event.widget]
-        self._url_open(self._url_generator(title))
+        self._url_open(self.__searcher.get_article_url(title))
         print(f"DEBUG: click su {title}")
 
     def _add_label_result(self, father_frame, article_title=None, *args, **kwargs):
