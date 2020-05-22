@@ -26,14 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="CORREZIONE FILE CSV MUCH ADO ABOUT NOTHING">
-      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_WRITELOCK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_j1eumxnb69tc24bb.seg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wiki_index/_MAIN_1.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Much ado about nothing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Much ado about nothing.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/relevant_sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/relevant_sample.txt" afterDir="false" />
     </list>
+    <list id="ecadc0af-41af-45e6-abda-29fd1bc3cbac" name="CORREZIONE FILE CSV MUCH ADO ABOUT NOTHING" comment="" />
     <list id="fc7a01d0-1e3d-4f27-a648-6b1090c65af2" name="FIX EVALUATION" comment="" />
     <list id="087778e9-bdfa-4d74-bdb0-aa009848e58b" name="Prototipo valutatore (solo precision a 10 livelli di recall)" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -130,9 +125,6 @@
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -230,6 +222,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="" />
+      <changelist id="ecadc0af-41af-45e6-abda-29fd1bc3cbac" name="CORREZIONE FILE CSV MUCH ADO ABOUT NOTHING" comment="" />
       <created>1588796519550</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -307,6 +300,7 @@
       <workItem from="1590181731426" duration="108000" />
       <workItem from="1590181850788" duration="98000" />
       <workItem from="1590181956782" duration="82000" />
+      <workItem from="1590185429172" duration="320000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
@@ -455,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590185231866</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="CORREZIONE FILE CSV MUCH ADO ABOUT NOTHING">
+      <created>1590185483069</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1590185483069</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -575,14 +576,14 @@
     </state>
     <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1589745557906" />
     <state x="-666" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1590169399591" />
-    <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser" timestamp="1590183176339">
+    <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser" timestamp="1590185453104">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser/0.27.1366.741@0.27.1366.741" timestamp="1590183176339" />
-    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1590185234928">
+    <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser/0.27.1366.741@0.27.1366.741" timestamp="1590185453104" />
+    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1590185485942">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1590185234928" />
+    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1590185485942" />
     <state x="429" y="89" width="498" height="623" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589396680429">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
