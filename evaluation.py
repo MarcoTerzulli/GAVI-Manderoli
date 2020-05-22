@@ -60,8 +60,7 @@ class WikiEvaluator:
                 # Se un risultato è rilevante aggiungo un valore di precision allalista
                 # precision = Numero_risultati_rilevanti_recuperati/Posizione_risultato_rilevante_attuale
                 self.__recall_levels_dict[query].append((len(self.__recall_levels_dict[query]) + 1) / (res.rank + 1))
-            else:
-                print(res['title'])
+
 
 
 

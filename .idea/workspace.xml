@@ -221,6 +221,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="" />
+      <changelist id="4a6ba8bc-9344-4a58-bf21-83f7c4197dcc" name="Prototipo valutatore (solo precision a 10 livelli di recall)" comment="" />
       <created>1588796519550</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -293,7 +294,8 @@
       <workItem from="1590094524954" duration="1818000" />
       <workItem from="1590163039490" duration="3682000" />
       <workItem from="1590167848395" duration="7328000" />
-      <workItem from="1590180996764" duration="341000" />
+      <workItem from="1590178171915" duration="4000" />
+      <workItem from="1590178197436" duration="147000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
@@ -421,35 +423,7 @@
       <option name="project" value="LOCAL" />
       <updated>1590177264296</updated>
     </task>
-    <task id="LOCAL-00019" summary="Prototipo valutatore (solo precision a 10 livelli di recall)">
-      <created>1590178095605</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1590178095605</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Prototipo valutatore (solo precision a 10 livelli di recall)">
-      <created>1590180545165</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1590180545166</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Prototipo valutatore (solo precision a 10 livelli di recall)">
-      <created>1590180635091</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1590180635091</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Prototipo valutatore (solo precision a 10 livelli di recall)">
-      <created>1590181280262</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1590181280262</updated>
-    </task>
-    <option name="localTasksCounter" value="23" />
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -502,10 +476,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="416" y="146" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1590164642224" />
-    <state x="100" y="127" width="1166" height="541" key="DiffContextDialog" timestamp="1589398053590">
+    <state x="-532" y="27" width="1166" height="541" maximized="true" key="DiffContextDialog" timestamp="1590180537210">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="100" y="127" width="1166" height="541" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1589398053590" />
+    <state x="-532" y="27" width="1166" height="541" maximized="true" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1590180537210" />
     <state width="1320" height="218" key="GridCell.Tab.0.bottom" timestamp="1590177328547">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -538,27 +512,35 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1320" height="218" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1590177328548" />
-    <state x="132" y="86" width="1092" height="629" key="MergeDialog" timestamp="1589324862866">
+    <state x="132" y="86" width="1092" height="629" key="MergeDialog" timestamp="1590178532339">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="132" y="86" width="1092" height="629" key="MergeDialog/0.27.1366.741@0.27.1366.741" timestamp="1589324862866" />
+    <state x="132" y="86" width="1092" height="629" key="MergeDialog/0.27.1366.741@0.27.1366.741" timestamp="1590178532339" />
+    <state x="502" y="145" width="640" height="623" key="RollbackChangesDialog" timestamp="1590178880923">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="502" y="145" width="640" height="623" key="RollbackChangesDialog/0.27.1366.741@0.27.1366.741" timestamp="1590178880923" />
     <state x="-666" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1590169399591">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1589745557906" />
     <state x="-666" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1590169399591" />
-    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1590177269231">
+    <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser" timestamp="1590177952070">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1590177269231" />
+    <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser/0.27.1366.741@0.27.1366.741" timestamp="1590177952070" />
+    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1590178099495">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1590178099495" />
     <state x="429" y="89" width="498" height="623" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589396680429">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="429" y="89" width="498" height="623" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1589396680429" />
-    <state x="458" y="311" width="450" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590164490322">
+    <state x="458" y="311" width="450" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590178505062">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="458" y="311" width="450" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1590164490322" />
+    <state x="458" y="311" width="450" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1590178505062" />
     <state x="924" y="202" width="712" height="996" key="find.popup" timestamp="1589647978011">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -571,17 +553,6 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="408" y="287" width="540" height="227" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1366.741@0.27.1366.741" timestamp="1589125637120" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/evaluation.py</url>
-          <line>48</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GAVI_Manderoli$Main.coverage" NAME="Main Coverage Results" MODIFIED="1589038410695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
