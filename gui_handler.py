@@ -1,4 +1,6 @@
 from tkinter import *
+from tkinter.font import *
+
 from whoosh.searching import Results
 from tkscrolledframe import ScrolledFrame
 import webbrowser
@@ -12,7 +14,8 @@ class GuiHandler:
     def _gui_initializer(self):
         # dichiarazione colori
         self.__color_background = "#f0f0f0"  # "#ffffff"
-        self.__color_status_bar = "#f5f5f5"
+        self.__color_status_bar = "#f0f0f0"
+        self.__font_size_default = 10
 
         self.__window = Tk()
         self.__window.title("WikiSearch")
@@ -43,15 +46,15 @@ class GuiHandler:
         # ************************************************************************
         # ******************************* CENTER *********************************
         # ************************************************************************
-        self.__frame_scrolled = ScrolledFrame(self.__window)
+        self.__frame_scrolled = ScrolledFrame(self.__window, bg=self.__color_background, scrollbars="vertical")
         self.__frame_scrolled.bind_arrow_keys(self.__window)
         self.__frame_scrolled.bind_scroll_wheel(self.__window)
 
         self.__frame_center_query_result = self.__frame_scrolled.display_widget(Frame)
 
         self.__frame_scrolled.pack(
-            fill=BOTH,
-            expand=True
+           fill=BOTH,
+           expand=True
         )
 
         # ************************************************************************
@@ -76,7 +79,12 @@ class GuiHandler:
 
         if len(query_text) > 0:
             # pulizia frame e dizionario label
-            self.__frame_center_query_result = self.__frame_scrolled.display_widget(Frame)
+            #self.__frame_center_query_result = self.__frame_scrolled.display_widget(Frame)
+            #self.__frame_center_query_result = Frame(self.__frame_scrolled, bg=self.__color_background)
+
+            for widget in self.__frame_center_query_result.winfo_children():
+                widget.destroy()
+
             self.__label_dict = dict()
 
             # elaborazione query
@@ -87,7 +95,8 @@ class GuiHandler:
                 self._add_label_result(father_frame=self.__frame_center_query_result,
                                        text=f"La ricerca di - {query_text} - non ha prodotto risultati.",
                                        bg=self.__color_background,
-                                       justify=LEFT)
+                                       justify=LEFT,
+                                       font=Font(size=self.__font_size_default))
             else:
                 for res in query_results[:10]:
                     label_text = f"{res['title']}"
@@ -95,7 +104,9 @@ class GuiHandler:
                                            father_frame=self.__frame_center_query_result,
                                            text=label_text,
                                            bg=self.__color_background,
-                                           justify=LEFT)
+                                           justify=LEFT,
+                                           cursor="hand2",
+                                           font=Font(size=self.__font_size_default))
 
     def gui_loader(self):
         self.__window.mainloop()
@@ -108,6 +119,12 @@ class GuiHandler:
         title = self.__label_dict[event.widget]
         self._url_open(self.__searcher.get_article_url(title))
 
+    def _label_on_enter(self, event):
+        event.widget.configure(fg="blue", font=Font(size=self.__font_size_default, underline=1))
+
+    def _label_on_leave(self, event):
+        event.widget.configure(fg="black", font=Font(size=self.__font_size_default, underline=0))
+
     def _add_label_result(self, father_frame, article_title=None, *args, **kwargs):
         label_result = Label(father_frame, *args, **kwargs)
 
@@ -115,6 +132,9 @@ class GuiHandler:
         # link)
         if article_title is not None:
             label_result.bind("<Button-1>", self._label_result_on_click)
+            label_result.bind("<Enter>", self._label_on_enter)
+            label_result.bind("<Leave>", self._label_on_leave)
+
             # memorizzo il "riferimento" lable ed il titolo corrispondente, per la gestione dell'evento click
             self.__label_dict[label_result] = article_title
 
