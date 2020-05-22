@@ -5,7 +5,6 @@
 """
 from whoosh.index import EmptyIndexError
 
-from evaluation import WikiEvaluator
 from indexing import WikiIndexerModule
 from configuration import xml_file
 from searching import WikiSearcherModule
@@ -34,4 +33,5 @@ except EmptyIndexError:
 # Caricamento della gui
 print("LOADING THE GUI")
 GuiHandler(searcher).gui_loader()
+
 

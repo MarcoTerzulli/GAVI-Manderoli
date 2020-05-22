@@ -16,20 +16,27 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:1.0.3" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Prototipo valutatore (solo precision a 10 livelli di recall)">
-      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_9okj629a32fa7ue2.seg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_WRITELOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_vge62btd5ribaenx.seg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Wiki_index/_MAIN_1.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relevant_sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/relevant_sample.txt" afterDir="false" />
     </list>
-    <list id="087778e9-bdfa-4d74-bdb0-aa009848e58b" name="Prototipo valutatore (solo precision a 10 livelli di recall)" comment="" />
+    <list id="087778e9-bdfa-4d74-bdb0-aa009848e58b" name="Prototipo valutatore (solo precision a 10 livelli di recall)" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +52,30 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="18" end1="19" start2="18" end2="25" changelist="087778e9-bdfa-4d74-bdb0-aa009848e58b" />
+        <range start1="22" end1="23" start2="28" end2="28" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
+        <range start1="24" end1="24" start2="29" end2="30" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
+        <range start1="25" end1="28" start2="31" end2="31" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
+        <range start1="30" end1="30" start2="33" end2="37" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
+        <range start1="31" end1="32" start2="38" end2="38" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
+        <range start1="47" end1="47" start2="53" end2="54" changelist="087778e9-bdfa-4d74-bdb0-aa009848e58b" />
+        <range start1="76" end1="77" start2="83" end2="84" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
+        <range start1="99" end1="100" start2="106" end2="107" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
+        <range start1="109" end1="110" start2="116" end2="117" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
+        <range start1="118" end1="119" start2="125" end2="126" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
+        <range start1="122" end1="125" start2="129" end2="129" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
+        <range start1="131" end1="132" start2="135" end2="136" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
+        <range start1="208" end1="208" start2="212" end2="213" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
+        <range start1="212" end1="213" start2="217" end2="217" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
+        <range start1="447" end1="448" start2="451" end2="464" changelist="087778e9-bdfa-4d74-bdb0-aa009848e58b" />
+        <range start1="563" end1="564" start2="579" end2="580" changelist="087778e9-bdfa-4d74-bdb0-aa009848e58b" />
+      </ranges>
+    </file>
   </component>
   <component name="ProjectId" id="1bY68O1pcS3YOyup0fc4iso6HxT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -74,7 +105,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.evaluation">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,6 +128,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="evaluation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GAVI-Manderoli" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,28 +158,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_file_set_xml_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GAVI-Manderoli" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_file_set_xml_generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.evaluation" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.test_queries_results_order_generator (1)" />
         <item itemvalue="Python.title_extractor" />
         <item itemvalue="Python.test_xml_merger3 (1)" />
-        <item itemvalue="Python.test_file_set_xml_generator" />
       </list>
     </recent_temporary>
   </component>
@@ -445,7 +473,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="1.0.3" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -561,6 +601,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GAVI_Manderoli$Main.coverage" NAME="Main Coverage Results" MODIFIED="1589038410695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GAVI_Manderoli$main.coverage" NAME="main Coverage Results" MODIFIED="1590177881528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GAVI_Manderoli$main.coverage" NAME="main Coverage Results" MODIFIED="1590181482820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

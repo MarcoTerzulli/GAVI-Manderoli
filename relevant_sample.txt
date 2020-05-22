@@ -71,9 +71,7 @@ Non-linear_least_squares
 Weighted_least_squares
 Generalized_least_squares
 Robust_regression
-Total_sum_of_squares
-Least_mean_squares_filter
-Simultaneous_equations_model
+
 
 ---Microsoft.csv
 Microsoft
@@ -122,9 +120,6 @@ Hollywood_(British_TV_series)
 Once_Upon_a_Time_in_Hollywood
 Hollywood_Hills
 Classical_Hollywood_cinema
-Hollywood_(Bukowski_novel)
-Mayor_of_Hollywood
-Hollywood_blacklist
 
 ---US Constitution.csv
 Constitution_of_the_United_States

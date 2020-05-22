@@ -38,17 +38,17 @@ class WikiEvaluator:
                         if query is not None:
                             # Allora valuto i valori di precision per la query precedente, prima di procedere
                             self.__eval_query(query, rel_res, n_results)
-                        # Inizializzo la stringa/lista dei risultati rilevanti alla nuova query
-                        rel_res = ""
+                        # Inizializzo il dizionario dei risultati rilevanti alla nuova query
+                        rel_res = dict()
                         # Ricavo il titolo della nuova query
                         query = clean_line[3:-4]
                     # Se la riga ottenuta dal file non è una query la inserisco tra i risultati rilevanti alla query
                     elif rel_res is not None:
-                        rel_res += " " + "".join([c if c != "_" else " " for c in clean_line])
+                        rel_res["".join([c if c != "_" else " " for c in clean_line])] = True
 
         return self.__recall_levels_dict
 
-    def __eval_query(self, query, rel_res="", n_results=100):
+    def __eval_query(self, query, rel_res=dict(), n_results=100):
         # Eseguo la query indicata
         results = self.__searcher.commit_query(query, n_results)
         # Inizializzo la lista della precision a "n" livelli di recall per la query indicata
@@ -56,7 +56,7 @@ class WikiEvaluator:
 
         for res in results:
             # Controllo la rilevanza di ogni risultato
-            if rel_res.find(str(res['title'])) != -1:
+            if rel_res.get(res['title']) is not None:
                 # Se un risultato è rilevante aggiungo un valore di precision allalista
                 # precision = Numero_risultati_rilevanti_recuperati/Posizione_risultato_rilevante_attuale
                 self.__recall_levels_dict[query].append((len(self.__recall_levels_dict[query]) + 1) / (res.rank + 1))
@@ -65,7 +65,7 @@ class WikiEvaluator:
 # esecuzione e stampa dei valori di recall
 results = WikiEvaluator().precision_recall_levels()
 for key, value in results.items():
-    print(f"{key}: {value}")
+    print(f"{key}: {value}\n {len(value)}")
 
 
 
