@@ -26,9 +26,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="CORREZIONE FILE CSV MUCH ADO ABOUT NOTHING">
-      <change beforePath="$PROJECT_DIR$/relevant_sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/relevant_sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_WRITELOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_a357rsus5gqd75iu.seg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/_MAIN_1.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queries_results_order/Mean Average Precision.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Queries_results_order/Mean Average Precision.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queries_results_order/Much ado about nothing.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Queries_results_order/Much ado about nothing.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/test_relevant_titles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Test_queries_csv_files/test_relevant_titles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relevant_articles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/relevant_articles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_file_set_xml.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test_file_set_xml.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_relevant_titles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test_relevant_titles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_xml_merger.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_xml_merger.py" afterDir="false" />
     </list>
-    <list id="ecadc0af-41af-45e6-abda-29fd1bc3cbac" name="CORREZIONE FILE CSV MUCH ADO ABOUT NOTHING" comment="" />
     <list id="fc7a01d0-1e3d-4f27-a648-6b1090c65af2" name="FIX EVALUATION" comment="" />
     <list id="087778e9-bdfa-4d74-bdb0-aa009848e58b" name="Prototipo valutatore (solo precision a 10 livelli di recall)" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,28 +110,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="evaluation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GAVI-Manderoli" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,13 +129,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_file_set_xml_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GAVI-Manderoli" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_file_set_xml_generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test_queries_results_order_generator (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -162,20 +167,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_xml_merger3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_xml_downloader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_xml_merger3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_xml_downloader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,20 +186,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="title_extractor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_xml_merger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_queries_csv_files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_queries_csv_files/title_extractor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_xml_merger.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,10 +208,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.evaluation" />
         <item itemvalue="Python.test_queries_results_order_generator (1)" />
-        <item itemvalue="Python.title_extractor" />
-        <item itemvalue="Python.test_xml_merger3 (1)" />
+        <item itemvalue="Python.test_xml_merger" />
+        <item itemvalue="Python.test_file_set_xml_generator" />
+        <item itemvalue="Python.test_xml_downloader" />
       </list>
     </recent_temporary>
   </component>
@@ -519,9 +518,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="320" y="198" width="716" height="406" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1589034629711" />
-    <state x="416" y="146" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590164642224">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="780" y="225" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590186988205">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
+    <state x="780" y="225" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1590186988205" />
     <state x="416" y="146" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1590164642224" />
     <state x="949" y="207" key="#main" timestamp="1590181735979">
       <screen x="0" y="0" width="2560" height="1400" />
