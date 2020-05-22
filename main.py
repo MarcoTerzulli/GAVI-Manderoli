@@ -33,9 +33,5 @@ except EmptyIndexError:
 
 # Caricamento della gui
 print("LOADING THE GUI")
-gui = GuiHandler(searcher)
-gui.gui_loader()
+GuiHandler(searcher).gui_loader()
 
-evaluator = WikiEvaluator()
-rec_levels = evaluator.precision_recall_levels()
-print(rec_levels)

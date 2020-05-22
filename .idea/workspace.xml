@@ -19,18 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Prototipo valutatore (solo precision a 10 livelli di recall)" />
-    <list id="087778e9-bdfa-4d74-bdb0-aa009848e58b" name="Prototipo valutatore (solo precision a 10 livelli di recall)" comment="">
+    <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Prototipo valutatore (solo precision a 10 livelli di recall)">
+      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_9okj629a32fa7ue2.seg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_WRITELOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/_MAIN_1.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/test_relevant_titles.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/title_extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_queries_csv_files/title_extractor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui_handler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/old_xml_set.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/relevant_sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/relevant_sample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
+    <list id="087778e9-bdfa-4d74-bdb0-aa009848e58b" name="Prototipo valutatore (solo precision a 10 livelli di recall)" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -221,7 +220,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="" />
-      <changelist id="4a6ba8bc-9344-4a58-bf21-83f7c4197dcc" name="Prototipo valutatore (solo precision a 10 livelli di recall)" comment="" />
       <created>1588796519550</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -296,6 +294,9 @@
       <workItem from="1590167848395" duration="7328000" />
       <workItem from="1590178171915" duration="4000" />
       <workItem from="1590178197436" duration="147000" />
+      <workItem from="1590181731426" duration="108000" />
+      <workItem from="1590181850788" duration="98000" />
+      <workItem from="1590181956782" duration="82000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
@@ -476,6 +477,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="416" y="146" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1590164642224" />
+    <state x="949" y="207" key="#main" timestamp="1590181735979">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="949" y="207" key="#main/0.0.2560.1400@0.0.2560.1400" timestamp="1590181735979" />
     <state x="-532" y="27" width="1166" height="541" maximized="true" key="DiffContextDialog" timestamp="1590180537210">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

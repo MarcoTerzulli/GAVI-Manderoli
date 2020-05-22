@@ -62,6 +62,10 @@ class WikiEvaluator:
                 self.__recall_levels_dict[query].append((len(self.__recall_levels_dict[query]) + 1) / (res.rank + 1))
 
 
+# esecuzione e stampa dei valori di recall
+results = WikiEvaluator().precision_recall_levels()
+for key, value in results.items():
+    print(f"{key}: {value}")
 
 
 
