@@ -4,6 +4,8 @@
 @author: riccardo
 """
 from whoosh.index import EmptyIndexError
+
+from evaluation import WikiEvaluator
 from indexing import WikiIndexerModule
 from configuration import xml_file
 from searching import WikiSearcherModule
@@ -33,3 +35,7 @@ except EmptyIndexError:
 print("LOADING THE GUI")
 gui = GuiHandler(searcher)
 gui.gui_loader()
+
+evaluator = WikiEvaluator()
+rec_levels = evaluator.precision_recall_levels()
+print(rec_levels)

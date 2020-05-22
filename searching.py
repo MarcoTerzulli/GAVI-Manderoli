@@ -27,12 +27,12 @@ class WikiSearcherModule:
         # Ottento un oggetto in grado che parsi le quary fornitegli e le indirizzi al campo "content" del nostro schema
         self.__parser = QueryParser("content", schema=self.__index.schema)
 
-    def commit_query(self, query_text):
+    def commit_query(self, query_text, n_results=10):
 
         # Parso la stringa contenente il testo rappresentante la query
         query = self.__parser.parse(str(query_text))
         # Eseguo la query attraverso il searcher creato in precedenza
-        results: Results = self.__searcher.search(query)
+        results: Results = self.__searcher.search(query, limit=n_results)
 
         # Restituisco la lista dei risultati
         return results
