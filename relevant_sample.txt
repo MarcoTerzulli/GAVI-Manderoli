@@ -24,7 +24,6 @@ Francoist_Spain
 German_involvement_in_the_Spanish_Civil_War
 
 ---Mean Average Precision.csv
-Mean_average_precision
 Evaluation_measures_(information_retrieval)
 Precision_and_recall
 Mean_reciprocal_rank
@@ -34,6 +33,7 @@ Information_retrieval
 Weighted_arithmetic_mean
 Learning_to_rank
 Mean_absolute_error
+Symmetric_mean_absolute_percentage_error
 
 
 ---Madam I'm Adam.csv
