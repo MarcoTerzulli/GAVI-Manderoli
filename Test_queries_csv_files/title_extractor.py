@@ -36,7 +36,7 @@ filepool = {
 with open("test_relevant_titles.txt", "w") as w_file:
 
     for filename in filepool:
-        w_file.write("\n---"+filename.split(sep=" ")[-1]+"\n")
+        w_file.write("\n---"+"".join(word + " " for word in filename.split(sep=" ")[1:])+"\n")
         
         table = pd.read_csv(filename, sep=";") 
         urls = table["Url"].astype(str) 

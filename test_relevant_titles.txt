@@ -1,9 +1,9 @@
 
----Horus.csv
+-Horus.csv
 Eye_of_Horus
 Horus
 Eye_of_Ra
-Talk%3AEye_of_Horus
+Talk:Eye_of_Horus
 Eye_of_Horus_(video_game)
 Litany_of_the_Eye_of_Horus
 File:Eye_of_Horus_bw.svg
@@ -11,34 +11,7 @@ Osiris_myth
 Set_(deity)
 Thoth
 Osiris
-Four_sons_of_Horus
-Eye_of_Providence
-Gods_of_Egypt_(film)
-File:HorusEye.png
-Ra
-Hathor
-Wadjet
-Hamsa
-File_talk:Wedjat_(Udjat)_Eye_of_Horus_pendant.jpg
-Isis
-Numbers_in_Egyptian_mythology
-Anubis
-Atum
-Gate_deities_of_the_underworld
-Egyptian_fraction
-Uraeus
-Bastet
-Metternich_Stela
-Duat
-Hemen
-Aten
-Geb
-Souls_of_Pe_and_Nekhen
-Serekh
-Sekhmet
-Joseph_Smith_Hypocephalus
-Bennu
-Mehit
+
 
 ---robots.csv
 Mars_rover

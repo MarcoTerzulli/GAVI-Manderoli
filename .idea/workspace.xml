@@ -20,11 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Sono riuscito a creare il file xml unico porca madonna">
-      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_1xh10n5lfye3x0q6.seg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_WRITELOCK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wiki_index/_MAIN_1.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui_handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/title_extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_queries_csv_files/title_extractor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_relevant_titles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test_relevant_titles.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.title_extractor">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,6 +97,9 @@
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -178,20 +181,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="xml_downloader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="title_extractor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_queries_csv_files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xml_downloader.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_queries_csv_files/title_extractor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.title_extractor" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.test_xml_merger3 (1)" />
         <item itemvalue="Python.test_file_set_xml_generator" />
         <item itemvalue="Python.test_queries_results_order_generator (1)" />
-        <item itemvalue="Python.xml_downloader" />
       </list>
     </recent_temporary>
   </component>
@@ -286,6 +286,7 @@
       <workItem from="1589886348719" duration="122000" />
       <workItem from="1589886481297" duration="5000" />
       <workItem from="1590094524954" duration="1818000" />
+      <workItem from="1590163039490" duration="754000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
