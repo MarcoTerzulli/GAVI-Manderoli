@@ -230,7 +230,7 @@ Mayan
 Maya_religion
 Mayan_languages
 
----Do gees see god.csv
+---Do geese see god.csv
 The_Palindromist
 Palindrome
 David_Slade

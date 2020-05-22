@@ -25,18 +25,17 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Prototipo valutatore (solo precision a 10 livelli di recall)">
+    <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="CORREZIONE FILE CSV MUCH ADO ABOUT NOTHING">
       <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_WRITELOCK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_vge62btd5ribaenx.seg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_j1eumxnb69tc24bb.seg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Wiki_index/_MAIN_1.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Much ado about nothing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Much ado about nothing.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/relevant_sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/relevant_sample.txt" afterDir="false" />
     </list>
-    <list id="087778e9-bdfa-4d74-bdb0-aa009848e58b" name="Prototipo valutatore (solo precision a 10 livelli di recall)" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list id="fc7a01d0-1e3d-4f27-a648-6b1090c65af2" name="FIX EVALUATION" comment="" />
+    <list id="087778e9-bdfa-4d74-bdb0-aa009848e58b" name="Prototipo valutatore (solo precision a 10 livelli di recall)" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,29 +52,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/.idea/workspace.xml">
-      <ranges>
-        <range start1="18" end1="19" start2="18" end2="25" changelist="087778e9-bdfa-4d74-bdb0-aa009848e58b" />
-        <range start1="22" end1="23" start2="28" end2="28" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
-        <range start1="24" end1="24" start2="29" end2="30" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
-        <range start1="25" end1="28" start2="31" end2="31" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
-        <range start1="30" end1="30" start2="33" end2="37" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
-        <range start1="31" end1="32" start2="38" end2="38" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
-        <range start1="47" end1="47" start2="53" end2="54" changelist="087778e9-bdfa-4d74-bdb0-aa009848e58b" />
-        <range start1="76" end1="77" start2="83" end2="84" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
-        <range start1="99" end1="100" start2="106" end2="107" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
-        <range start1="109" end1="110" start2="116" end2="117" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
-        <range start1="118" end1="119" start2="125" end2="126" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
-        <range start1="122" end1="125" start2="129" end2="129" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
-        <range start1="131" end1="132" start2="135" end2="136" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
-        <range start1="208" end1="208" start2="212" end2="213" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
-        <range start1="212" end1="213" start2="217" end2="217" changelist="fccb87ca-2f69-498b-be46-c79444cdc486" />
-        <range start1="447" end1="448" start2="451" end2="464" changelist="087778e9-bdfa-4d74-bdb0-aa009848e58b" />
-        <range start1="563" end1="564" start2="579" end2="580" changelist="087778e9-bdfa-4d74-bdb0-aa009848e58b" />
-      </ranges>
-    </file>
   </component>
   <component name="ProjectId" id="1bY68O1pcS3YOyup0fc4iso6HxT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -105,7 +81,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.evaluation">
+  <component name="RunManager" selected="Python.main">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,6 +108,9 @@
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -151,6 +130,9 @@
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -234,8 +216,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.evaluation" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.evaluation" />
         <item itemvalue="Python.test_queries_results_order_generator (1)" />
         <item itemvalue="Python.title_extractor" />
         <item itemvalue="Python.test_xml_merger3 (1)" />
@@ -452,7 +434,28 @@
       <option name="project" value="LOCAL" />
       <updated>1590177264296</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="FIX EVALUATION">
+      <created>1590183120674</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1590183120674</updated>
+    </task>
+    <task id="LOCAL-00020" summary="FIX EVALUATION">
+      <created>1590183220866</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1590183220866</updated>
+    </task>
+    <task id="LOCAL-00021" summary="CORREZIONE FILE CSV MUCH ADO ABOUT NOTHING">
+      <created>1590185231866</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1590185231866</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -506,7 +509,9 @@
     <MESSAGE value="Sono riuscito a creare il file xml unico porca madonna" />
     <MESSAGE value="Adattato file extractor" />
     <MESSAGE value="Prototipo valutatore (solo precision a 10 livelli di recall)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prototipo valutatore (solo precision a 10 livelli di recall)" />
+    <MESSAGE value="FIX EVALUATION" />
+    <MESSAGE value="CORREZIONE FILE CSV MUCH ADO ABOUT NOTHING" />
+    <option name="LAST_COMMIT_MESSAGE" value="CORREZIONE FILE CSV MUCH ADO ABOUT NOTHING" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="198" width="716" height="406" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589034629711">
@@ -570,14 +575,14 @@
     </state>
     <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1589745557906" />
     <state x="-666" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1590169399591" />
-    <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser" timestamp="1590177952070">
+    <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser" timestamp="1590183176339">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser/0.27.1366.741@0.27.1366.741" timestamp="1590177952070" />
-    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1590178099495">
+    <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser/0.27.1366.741@0.27.1366.741" timestamp="1590183176339" />
+    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1590185234928">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1590178099495" />
+    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1590185234928" />
     <state x="429" y="89" width="498" height="623" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589396680429">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

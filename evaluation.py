@@ -48,7 +48,7 @@ class WikiEvaluator:
 
         return self.__recall_levels_dict
 
-    def __eval_query(self, query, rel_res=dict(), n_results=100):
+    def __eval_query(self, query, rel_res=None, n_results=100):
         # Eseguo la query indicata
         results = self.__searcher.commit_query(query, n_results)
         # Inizializzo la lista della precision a "n" livelli di recall per la query indicata
@@ -56,13 +56,13 @@ class WikiEvaluator:
 
         for res in results:
             # Controllo la rilevanza di ogni risultato
-            if rel_res.get(res['title']) is not None:
+            if rel_res is not None and rel_res.get(res['title']) is not None:
                 # Se un risultato è rilevante aggiungo un valore di precision allalista
                 # precision = Numero_risultati_rilevanti_recuperati/Posizione_risultato_rilevante_attuale
                 self.__recall_levels_dict[query].append((len(self.__recall_levels_dict[query]) + 1) / (res.rank + 1))
 
 
-# esecuzione e stampa dei valori di recall
+# esecuzione e stampa dei valori di precision sui livelli di recall definiti per ogni query (num risultati rilevanti)
 results = WikiEvaluator().precision_recall_levels()
 for key, value in results.items():
     print(f"{key}: {value}\n {len(value)}")
