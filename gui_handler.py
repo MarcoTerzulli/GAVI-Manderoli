@@ -90,42 +90,12 @@ class GuiHandler:
                                        justify=LEFT)
             else:
                 for res in query_results[:10]:
-                    label_text = f"{res['title']}    | Score: {res.score}\nDescrizione fdsdsdfsfsfddffffsfsd"
-
+                    label_text = f"{res['title']}"
                     self._add_label_result(article_title=res['title'],
                                            father_frame=self.__frame_center_query_result,
                                            text=label_text,
                                            bg=self.__color_background,
                                            justify=LEFT)
-
-            # DEBUG
-            debug = False
-            if(debug):
-                print(f"\nResults for: {query_text}\n")
-
-                if len(query_results) == 0:
-                    print("NESSUN RISULTATO")
-                    self._add_label_result(father_frame=self.__frame_center_query_result,
-                                           text=f"La ricerca di - {query_text} - non ha prodotto risultati.",
-                                           bg=self.__color_background,
-                                           justify=LEFT)
-                else:
-                    for x in query_results[:10]:
-                        print(f"--Pos: {x.rank} Score:{x.score}\n"
-                              f"Title: {x['title']} Id: {x['identifier']}\n"
-                              f"Content: {x['content'][:256]}")
-
-                    for res in query_results[:10]:
-                        label_text = f"{res['title']}    | Score: {res.score}\nDescrizione fdsdsdfsfsfddffffsfsd"
-
-                        self._add_label_result(article_title=res['title'],
-                                               father_frame=self.__frame_center_query_result,
-                                               text=label_text,
-                                               bg=self.__color_background,
-                                               justify=LEFT)
-
-                print("\n==========================================================")
-            # FINE DEBUG
 
     def gui_loader(self):
         self.__window.mainloop()
@@ -137,7 +107,6 @@ class GuiHandler:
     def _label_result_on_click(self, event):
         title = self.__label_dict[event.widget]
         self._url_open(self.__searcher.get_article_url(title))
-        print(f"DEBUG: click su {title}")
 
     def _add_label_result(self, father_frame, article_title=None, *args, **kwargs):
         label_result = Label(father_frame, *args, **kwargs)
