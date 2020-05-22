@@ -70,7 +70,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.title_extractor">
+  <component name="RunManager" selected="Python.test_queries_results_order_generator (1)">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,9 +141,6 @@
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -202,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_queries_results_order_generator (1)" />
         <item itemvalue="Python.title_extractor" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.test_xml_merger3 (1)" />
         <item itemvalue="Python.test_file_set_xml_generator" />
-        <item itemvalue="Python.test_queries_results_order_generator (1)" />
       </list>
     </recent_temporary>
   </component>
