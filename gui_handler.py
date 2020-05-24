@@ -15,6 +15,7 @@ class GuiHandler:
         # dichiarazione colori
         self.__color_background = "#f0f0f0"  # "#ffffff"
         self.__color_status_bar = "#f0f0f0"
+        self.__color_results = "#f3f3f3"
         self.__font_size_default = 10
 
         self.__window = Tk()
@@ -46,11 +47,13 @@ class GuiHandler:
         # ************************************************************************
         # ******************************* CENTER *********************************
         # ************************************************************************
-        self.__frame_scrolled = ScrolledFrame(self.__window, bg=self.__color_background, scrollbars="vertical")
+        self.__frame_scrolled = ScrolledFrame(self.__window, bg=self.__color_results, scrollbars="vertical")
         self.__frame_scrolled.bind_arrow_keys(self.__window)
         self.__frame_scrolled.bind_scroll_wheel(self.__window)
 
         self.__frame_center_query_result = self.__frame_scrolled.display_widget(Frame)
+        self.__frame_center_query_result.configure(bg=self.__color_results)
+        self.__frame_center_query_result.pack(fill=BOTH, expand=True)
 
         self.__frame_scrolled.pack(
            fill=BOTH,
@@ -94,7 +97,7 @@ class GuiHandler:
             if len(query_results) == 0:
                 self._add_label_result(father_frame=self.__frame_center_query_result,
                                        text=f"La ricerca di - {query_text} - non ha prodotto risultati.",
-                                       bg=self.__color_background,
+                                       bg=self.__color_results,
                                        justify=LEFT,
                                        font=Font(size=self.__font_size_default))
             else:
@@ -103,7 +106,7 @@ class GuiHandler:
                     self._add_label_result(article_title=res['title'],
                                            father_frame=self.__frame_center_query_result,
                                            text=label_text,
-                                           bg=self.__color_background,
+                                           bg=self.__color_results,
                                            justify=LEFT,
                                            cursor="hand2",
                                            font=Font(size=self.__font_size_default))
