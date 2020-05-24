@@ -1,3 +1,7 @@
+from datetime import datetime
+from os import mkdir
+from os import path
+
 from configuration import benchmark_relevant_results_file
 from searching import WikiSearcherModule
 
@@ -91,7 +95,7 @@ class WikiEvaluator:
                 # Controllo la rilevanza di ogni risultato
                 if relevant_results is not None and relevant_results.get(res['title']) is not None:
                     relevant_results.pop(res['title'])
-                    # Se un risultato è rilevante aggiungo un valore di precision allalista
+                    # Se un risultato è rilevante aggiungo un valore di precision alla lista
                     # precision = Numero_risultati_rilevanti_recuperati/Posizione_risultato_rilevante_attuale
                     self.__precision_recall_dict[query].\
                         append(round((len(self.__precision_recall_dict[query]) + 1) / (res.rank + 1), 3))
@@ -99,17 +103,61 @@ class WikiEvaluator:
                     if len(relevant_results) < 1:
                         break
 
-            print(relevant_results)
+            # print(relevant_results)
 
 
-# esecuzione e stampa dei valori di precision sui livelli di recall definiti per ogni query (num risultati rilevanti)
-evaluator = WikiEvaluator()
-precision = evaluator.precision_at_recall_levels(1147)
-avg_precision = evaluator.average_precision(1147)
-mean_avg_p = evaluator.mean_average_precision()
-for key, value in precision.items():
-    print(f"{key}: {value}\nRelevant results retrieved: {len(value)}")
-    print(f"Avg precision for {key}: {avg_precision[key]}")
-    print("\n")
+# calcolo dei valori di precision: stampa a video e scrittura su file csv; i file cvs vengono memorizzati in una cartella
+# data e sono nominati col timestamp di generazione
+def print_and_write_results(res_dir="Test_evaluation_csv_output", description=""):
+    evaluator = WikiEvaluator()
+    precision = evaluator.precision_at_recall_levels(1147)
+    avg_precision = evaluator.average_precision(1147)
+    mean_avg_p = evaluator.mean_average_precision()
 
-print(f"MEAN AVERAGE PRECISION: {mean_avg_p}")
+    try:
+        assert type(res_dir) is str
+    except AssertionError:
+        raise TypeError
+
+    try:
+        assert res_dir != ""
+    except AssertionError:
+        raise ValueError
+
+    if not path.exists(res_dir):
+        mkdir(res_dir)
+
+    dt_string = datetime.now().strftime("%Y-%m-%d_%H.%M.%S")
+    if description is not None and description != "":
+        description = f" - {description}"
+
+    file_name = f"{dt_string} Evaluation{description}.csv"
+    file_with_path = path.join(path.dirname(__file__), res_dir, f"{file_name}")
+
+    with open(file_with_path, "w") as out_file:
+        out_file.write("\"Query\";\"0.1\";\"0.2\";\"0.3\";\"0.4\";\"0.5\";\"0.6\";\"0.7\";\"0.8\";\"0.9\";\"1"
+                       "\";\"Relevant results retrieved\";\"AVG Precision\";\"Mean Average Precision\"\n")
+
+        for key, value in precision.items():
+            print(f"{key}: {value}\nRelevant results retrieved: {len(value)}")
+            print(f"Avg precision for {key}: {avg_precision[key]}")
+            print("\n")
+
+            out_file.write(f"\"{key}\";")
+
+            # scrivo le percentuali di precision
+            for v_value in value:
+                out_file.write(f"\"{v_value}\";")
+
+            # se ci sono meno di 10 risultati rilevanti, metto i restanti livelli a 0
+            i = 0
+            while len(value) + i < 10:
+                out_file.write("\"0\";")
+                i += 1
+
+            out_file.write(f"\"{len(value)}\";\"{avg_precision[key]}\";\"{mean_avg_p}\"\n")
+
+        print(f"MEAN AVERAGE PRECISION: {mean_avg_p}")
+
+
+print_and_write_results(description="")
