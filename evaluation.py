@@ -68,7 +68,7 @@ class WikiEvaluator:
         if self.__precision_recall_dict is None:
             self.precision_at_recall_levels(n_results)
         for query, val in self.__precision_recall_dict.items():
-            self.__average_precision_dict[query] = sum(val)/n_relevant
+            self.__average_precision_dict[query] = round(sum(val)/n_relevant, 3)
 
         return self.__average_precision_dict
 
@@ -76,7 +76,7 @@ class WikiEvaluator:
         if self.__average_precision_dict is None:
             self.average_precision(n_results, n_relevant)
         self.__mean_avg_precision = \
-            sum([avg_p for avg_p in self.__average_precision_dict.values()])/len(self.__average_precision_dict)
+            round(sum([avg_p for avg_p in self.__average_precision_dict.values()])/len(self.__average_precision_dict), 3)
         return self.__mean_avg_precision
 
     def __eval_query(self, query, relevant_results=None, n_results=100):
@@ -94,7 +94,7 @@ class WikiEvaluator:
                     # Se un risultato è rilevante aggiungo un valore di precision allalista
                     # precision = Numero_risultati_rilevanti_recuperati/Posizione_risultato_rilevante_attuale
                     self.__precision_recall_dict[query].\
-                        append((len(self.__precision_recall_dict[query]) + 1) / (res.rank + 1))
+                        append(round((len(self.__precision_recall_dict[query]) + 1) / (res.rank + 1), 3))
 
                     if len(relevant_results) < 1:
                         break
