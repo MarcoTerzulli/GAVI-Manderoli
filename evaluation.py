@@ -298,7 +298,7 @@ class WikiEvaluatorPrinter:
         print(self.__evaluator.r_recall(1147))
 
     # stampa il grafico di una query identificata dal query number (0-29)
-    def plot_graph(self, query_number=0):
+    def plot_graph_of_query_precision_levels(self, query_number=0):
         assert 0 <= query_number < 30
 
         query_name = get_dict_nth_key(self.__precision_queries, query_number)
@@ -316,7 +316,7 @@ class WikiEvaluatorPrinter:
 
         plt.plot(x_points, y_precision_standard, label="Precision \"Standard\"")  # precision "standard"
         plt.plot(x_points, y_precision_media_livello, label="Precision Media")  # precision media per livello
-        plt.plot(x_points, y_deviazione_standard_livello, label="Deviazione Standard")  # deviazione standard livello
+        # plt.plot(x_points, y_deviazione_standard_livello, label="Deviazione Standard")  # deviazione standard livello
 
         plt.legend()
         plt.xlabel("Recall")
@@ -328,4 +328,4 @@ class WikiEvaluatorPrinter:
 
 wiki_printer = WikiEvaluatorPrinter()
 wiki_printer.print_and_write_results(description="")
-wiki_printer.plot_graph(0)
+wiki_printer.plot_graph_of_query_precision_levels(0)
