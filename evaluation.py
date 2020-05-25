@@ -6,6 +6,8 @@ from statistics import stdev
 
 from configuration import benchmark_relevant_results_file
 from searching import WikiSearcherModule
+import matplotlib.pyplot as plt
+import numpy as np
 
 
 class WikiEvaluator:
@@ -80,7 +82,7 @@ class WikiEvaluator:
         if self.__precision_recall_dict is None:
             self.precision_at_recall_levels(n_results)
         for query, val in self.__precision_recall_dict.items():
-            self.__average_precision_dict[query] = round(sum(val)/n_relevant, 3)
+            self.__average_precision_dict[query] = round(sum(val) / n_relevant, 3)
 
         return self.__average_precision_dict
 
@@ -88,7 +90,8 @@ class WikiEvaluator:
         if self.__average_precision_dict is None:
             self.average_precision(n_results, n_relevant)
         self.__mean_avg_precision = \
-            round(sum([avg_p for avg_p in self.__average_precision_dict.values()])/len(self.__average_precision_dict), 3)
+            round(sum([avg_p for avg_p in self.__average_precision_dict.values()]) / len(self.__average_precision_dict),
+                  3)
         return self.__mean_avg_precision
 
     def mean_precision_for_rec_level(self, n_results=100):
@@ -96,8 +99,6 @@ class WikiEvaluator:
         # funzione
         if self.__precision_recall_dict is None:
             self.precision_at_recall_levels(n_results)
-
-
 
         # Divisore, è il numero di query complessivo
         divider = 0
@@ -123,7 +124,7 @@ class WikiEvaluator:
         for summation in summations_list:
             self.__mean_precision_for_level_list.append((summation / divider).__round__(3))
 
-        return self.__mean_precision_for_level_list,self.__stdev_list
+        return self.__mean_precision_for_level_list, self.__stdev_list
 
     def precision_stdev_for_level(self, n_results=100):
         if self.__precision_recall_dict is None:
@@ -177,7 +178,7 @@ class WikiEvaluator:
                             for res in results[:10]:
                                 if relevant_results.get(res['title']) is not None:
                                     recalled += 1
-                            self.__r_recall[query] = (recalled/10)
+                            self.__r_recall[query] = (recalled / 10)
                         ### FINE ZONA ORIGINALE ###
 
                         # Inizializzo il dizionario dei risultati rilevanti alla nuova query
@@ -203,7 +204,7 @@ class WikiEvaluator:
                     relevant_results.pop(res['title'])
                     # Se un risultato è rilevante aggiungo un valore di precision alla lista
                     # precision = Numero_risultati_rilevanti_recuperati/Posizione_risultato_rilevante_attuale
-                    self.__precision_recall_dict[query].\
+                    self.__precision_recall_dict[query]. \
                         append(round((len(self.__precision_recall_dict[query]) + 1) / (res.rank + 1), 3))
 
                     if len(relevant_results) < 1:
@@ -212,66 +213,107 @@ class WikiEvaluator:
             # print(relevant_results)
 
 
-# calcolo dei valori di precision: stampa a video e scrittura su file csv; i file cvs vengono memorizzati in una cartella
-# data e sono nominati col timestamp di generazione
-def print_and_write_results(res_dir="Test_evaluation_csv_output", description=""):
-    evaluator = WikiEvaluator()
-    precision = evaluator.precision_at_recall_levels(1147)
-    avg_precision = evaluator.average_precision(1147)
-    mean_avg_p = evaluator.mean_average_precision()
-
-    try:
-        assert type(res_dir) is str
-    except AssertionError:
-        raise TypeError
-
-    try:
-        assert res_dir != ""
-    except AssertionError:
-        raise ValueError
-
-    if not path.exists(res_dir):
-        mkdir(res_dir)
-
-    dt_string = datetime.now().strftime("%Y-%m-%d_%H.%M.%S")
-    if description is not None and description != "":
-        description = f" - {description}"
-
-    file_name = f"{dt_string} Evaluation{description}.csv"
-    file_with_path = path.join(path.dirname(__file__), res_dir, f"{file_name}")
-
-    with open(file_with_path, "w") as out_file:
-        out_file.write("\"Query\";\"0.1\";\"0.2\";\"0.3\";\"0.4\";\"0.5\";\"0.6\";\"0.7\";\"0.8\";\"0.9\";\"1"
-                       "\";\"Relevant results retrieved\";\"AVG Precision\";\"Mean Average Precision\"\n")
-
-        for key, value in precision.items():
-            print(f"{key}: {value}\nRelevant results retrieved: {len(value)}")
-            print(f"Avg precision for {key}: {avg_precision[key]}")
-            print("\n")
-
-            out_file.write(f"\"{key}\";")
-
-            # scrivo le percentuali di precision
-            for v_value in value:
-                out_file.write(f"\"{v_value}\";")
-
-            # se ci sono meno di 10 risultati rilevanti, metto i restanti livelli a 0
-            i = 0
-            while len(value) + i < 10:
-                out_file.write("\"0\";")
-                i += 1
-
-            out_file.write(f"\"{len(value)}\";\"{avg_precision[key]}\";\"{mean_avg_p}\"\n")
-
-        print(f"MEAN AVERAGE PRECISION: {mean_avg_p}")
+def get_dict_nth_key(dictionary, n=0):
+    if n < 0:
+        n += len(dictionary)
+    for i, key in enumerate(dictionary.keys()):
+        if i == n:
+            return key
+    raise IndexError("dictionary index out of range")
 
 
-print_and_write_results(description="")
+def get_dict_nth_value(dictionary, n=0):
+    if n < 0:
+        n += len(dictionary)
+    for i, value in enumerate(dictionary.values()):
+        if i == n:
+            return value
+    raise IndexError("dictionary index out of range")
 
-ev = WikiEvaluator()
-print(f"Precision media per livello: {ev.mean_precision_for_rec_level(1147)}\n"
-      f"Deviazione standard  per livello: {ev.precision_stdev_for_level(1147)}\n"
-      f"Deviazione standard average precision: {stdev(ev.average_precision(1147).values())}")
 
-r_rec = ev.r_recall(1147)
-print(r_rec)
+class WikiEvaluatorPrinter:
+
+    def __init__(self):
+        self.__evaluator = WikiEvaluator()
+        self.__precision_queries = self.__evaluator.precision_at_recall_levels(1147)
+        self.__avg_precision = self.__evaluator.average_precision(1147)
+        self.__mean_avg_p = self.__evaluator.mean_average_precision()
+
+    # calcolo dei valori di precision: stampa a video e scrittura su file csv; i file cvs vengono memorizzati in una
+    # cartella data e sono nominati col timestamp di generazione
+    def print_and_write_results(self, res_dir="Test_evaluation_csv_output", description=""):
+
+        try:
+            assert type(res_dir) is str
+        except AssertionError:
+            raise TypeError
+
+        try:
+            assert res_dir != ""
+        except AssertionError:
+            raise ValueError
+
+        if not path.exists(res_dir):
+            mkdir(res_dir)
+
+        dt_string = datetime.now().strftime("%Y-%m-%d_%H.%M.%S")
+        if description is not None and description != "":
+            description = f" - {description}"
+
+        file_name = f"{dt_string} Evaluation{description}.csv"
+        file_with_path = path.join(path.dirname(__file__), res_dir, f"{file_name}")
+
+        with open(file_with_path, "w") as out_file:
+            out_file.write("\"Query\";\"0.1\";\"0.2\";\"0.3\";\"0.4\";\"0.5\";\"0.6\";\"0.7\";\"0.8\";\"0.9\";\"1"
+                           "\";\"Relevant results retrieved\";\"AVG Precision\"\n")
+
+            for key, value in self.__precision_queries.items():
+                out_file.write(f"\"{key}\";")
+
+                # scrivo le percentuali di precision
+                for v_value in value:
+                    out_file.write(f"\"{v_value}\";")
+
+                # se ci sono meno di 10 risultati rilevanti, metto i restanti livelli a 0
+                i = 0
+                while len(value) + i < 10:
+                    out_file.write("\"0\";")
+                    i += 1
+
+                out_file.write(f"\"{len(value)}\";\"{self.__avg_precision[key]}\"\n")
+
+                # print(f"{key}: {value}\nRelevant results retrieved: {len(value)}")
+                # print(f"Avg precision for {key}: {self.__avg_precision[key]}")
+                # print("\n")
+
+        print(f"MEAN AVERAGE PRECISION: {self.__mean_avg_p}\n")
+
+        print(f"Precision media per livello: {self.__evaluator.mean_precision_for_rec_level(1147)}\n"
+              f"Deviazione standard  per livello: {self.__evaluator.precision_stdev_for_level(1147)}\n"
+              f"Deviazione standard average precision: {stdev(self.__evaluator.average_precision(1147).values())}")
+
+        print(self.__evaluator.r_recall(1147))
+
+    # stampa il grafico di una query identificata dal query number (0-29)
+    def plot_graph(self, query_number=0):
+        assert 0 <= query_number < 30
+
+        query_name = get_dict_nth_key(self.__precision_queries, query_number)
+        # estraggo i punti per gli assi
+        x_points = np.linspace(0.1, 1, 10)
+        y_points = get_dict_nth_value(self.__precision_queries, query_number)
+
+        # in caso vi siano meno di 10 elementi, metto gli altri a zero
+        i = 0
+        while len(y_points) + i < 10:
+            y_points.append(0)
+            i += 1
+
+        plt.plot(x_points, y_points, label=query_name)
+        plt.legend()
+        plt.show()
+
+
+wiki_printer = WikiEvaluatorPrinter()
+wiki_printer.print_and_write_results(description="")
+wiki_printer.plot_graph(0)
