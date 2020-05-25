@@ -2,6 +2,8 @@ from datetime import datetime
 from os import mkdir
 from os import path
 
+from statistics import stdev
+
 from configuration import benchmark_relevant_results_file
 from searching import WikiSearcherModule
 
@@ -20,6 +22,12 @@ class WikiEvaluator:
         self.__average_precision_dict = None
         # Variabile che conterrà il valore di mean average precision sul set di query
         self.__mean_avg_precision = None
+        # Lista delle medie tra query dei valori di precisione su ogni livello di recall (media per colonne)
+        self.__mean_precision_for_level_list = None
+        # Lista dei valori di deviazione standard sui valori medi di precisione su livello di recall
+        self.__stdev_list = None
+        # r_recall con r = 10
+        self.__r_recall = None
 
     def precision_at_recall_levels(self, n_results=100):
         """
@@ -82,6 +90,104 @@ class WikiEvaluator:
         self.__mean_avg_precision = \
             round(sum([avg_p for avg_p in self.__average_precision_dict.values()])/len(self.__average_precision_dict), 3)
         return self.__mean_avg_precision
+
+    def mean_precision_for_rec_level(self, n_results=100):
+        # Se i valori di precision per livello di recall di ogni query non sono già stati valutati chiamo la relativa
+        # funzione
+        if self.__precision_recall_dict is None:
+            self.precision_at_recall_levels(n_results)
+
+
+
+        # Divisore, è il numero di query complessivo
+        divider = 0
+        # Lista delle sommatorie per ogni valore di recall (sum(Pi) con "i" che varia da 1 a num_query)
+        summations_list = []
+        # Per ogni query prendo la lista dei valori di precision su n livelli di recall relativa ad essa
+        for values_list in self.__precision_recall_dict.values():
+            divider += 1
+            position = 0
+            # Per ogni livello di recall relativo alla query ne prendo la precision
+            for value in values_list:
+                # Sommo la precision di questa query ai valori di precision appartenenti allo stesso livello
+                # ottenuti dalle altre query
+                try:
+                    summations_list[position] += value
+                except IndexError:
+                    summations_list.append(value)
+                finally:
+                    position += 1
+
+        self.__mean_precision_for_level_list = []
+        # Per ogni livello di recall divido la sua sommatoria di precision per il numero di query considerate
+        for summation in summations_list:
+            self.__mean_precision_for_level_list.append((summation / divider).__round__(3))
+
+        return self.__mean_precision_for_level_list,self.__stdev_list
+
+    def precision_stdev_for_level(self, n_results=100):
+        if self.__precision_recall_dict is None:
+            self.precision_at_recall_levels(n_results)
+
+        self.__stdev_list = []
+
+        # Calcolo la devizione standard sulle colonne della tabella di precision su n livelli di recall
+        # (le colonne sono i livelli di recall)
+        columns = []
+        for values_list in self.__precision_recall_dict.values():
+            position = 0
+            for value in values_list:
+                try:
+                    columns[position].append(value)
+                except IndexError:
+                    columns.append([value])
+                finally:
+                    position += 1
+
+        for column in columns:
+            self.__stdev_list.append(stdev(column).__round__(3))
+
+        return self.__stdev_list
+
+    def r_recall(self, n_results=100):
+        """
+        ATTENZIONE: CODICE RIPETUTO PRESO DA precision_at_recall_levels E __eval_query, zona originale di questo
+        metodo flaggata appositamente
+        """
+
+        # Apro il file contenente le query ed i loro risultati rilevanti
+        with open(self.__relevant_results_file) as relevant_res_file:
+            # Inizialmente la query "attuale" e la "lista" dei risultati rilevanti sono nulli
+            query = None
+            relevant_results = None
+            self.__r_recall = dict()
+            for line in relevant_res_file:
+                # Pulisco la linea del file dai "whitespaces"
+                clean_line = line.rstrip()
+                if clean_line != "":
+
+                    # Se la linea contiene la stringa di una query...
+                    if clean_line[0] == "-":
+
+                        ### ZONA ORIGINALE ###
+                        # ESEGUO LA QUERY INDICATA E NE CALCOLO LA R-PRECISION CON R=10
+                        if query is not None:
+                            recalled = 0
+                            results = self.__searcher.commit_query(query, n_results)
+                            for res in results[:10]:
+                                if relevant_results.get(res['title']) is not None:
+                                    recalled += 1
+                            self.__r_recall[query] = (recalled/10)
+                        ### FINE ZONA ORIGINALE ###
+
+                        # Inizializzo il dizionario dei risultati rilevanti alla nuova query
+                        relevant_results = dict()
+                        # Ricavo il titolo della nuova query
+                        query = clean_line[3:-4]
+                    # Se la riga ottenuta dal file non è una query la inserisco tra i risultati rilevanti alla query
+                    elif relevant_results is not None:
+                        relevant_results["".join([c if c != "_" else " " for c in clean_line])] = True
+            return self.__r_recall
 
     def __eval_query(self, query, relevant_results=None, n_results=100):
         # Eseguo l'operazione soltanto se la query non è nulla
@@ -161,3 +267,11 @@ def print_and_write_results(res_dir="Test_evaluation_csv_output", description=""
 
 
 print_and_write_results(description="")
+
+ev = WikiEvaluator()
+print(f"Precision media per livello: {ev.mean_precision_for_rec_level(1147)}\n"
+      f"Deviazione standard  per livello: {ev.precision_stdev_for_level(1147)}\n"
+      f"Deviazione standard average precision: {stdev(ev.average_precision(1147).values())}")
+
+r_rec = ev.r_recall(1147)
+print(r_rec)

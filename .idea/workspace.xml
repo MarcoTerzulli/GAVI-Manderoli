@@ -26,12 +26,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Teoricamente dovrei aver implementato tutte le valutazioni fondamentali riportate sulle slide">
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-24_14.08.57 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-24_14.20.29 Evaluation - prova and.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_3wu0a580y6k1ad2d.seg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.26.16 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.26.27 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.29.02 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.31.09 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.34.04 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.41.30 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.58.07 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.01.46 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.18.58 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.20.01 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.20.19 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.21.33 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.22.29 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.22.57 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.23.02 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.24.46 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.25.47 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.29.58 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.29.59 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.41.00 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.42.29 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.42.52 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.47.46 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.48.51 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.52.40 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_02.08.40 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_02.08.53 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_02.09.25 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_02.09.53 Evaluation.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_WRITELOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_hocqrdst25kp3llh.seg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Wiki_index/_MAIN_1.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation.py" afterDir="false" />
     </list>
     <list id="fc7a01d0-1e3d-4f27-a648-6b1090c65af2" name="FIX EVALUATION" comment="" />
@@ -50,6 +76,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3c9bc1089ece591573dcc23af5f929e49d592eff" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
   </component>
@@ -108,6 +139,9 @@
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -127,6 +161,9 @@
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -210,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.evaluation" />
-        <item itemvalue="Python.gui_handler" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.test_queries_results_order_generator (1)" />
         <item itemvalue="Python.test_xml_merger" />
+        <item itemvalue="Python.test_queries_results_order_generator (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.gui_handler" />
+        <item itemvalue="Python.evaluation" />
       </list>
     </recent_temporary>
   </component>
@@ -307,6 +344,7 @@
       <workItem from="1590275057299" duration="7183000" />
       <workItem from="1590317772405" duration="557000" />
       <workItem from="1590318643662" duration="4210000" />
+      <workItem from="1590359320737" duration="6720000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
@@ -555,38 +593,38 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="-532" y="27" width="1166" height="541" maximized="true" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1590180537210" />
-    <state width="1320" height="218" key="GridCell.Tab.0.bottom" timestamp="1590177328547">
+    <state width="1320" height="218" key="GridCell.Tab.0.bottom" timestamp="1590362577208">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="218" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1590177328547" />
-    <state width="1320" height="218" key="GridCell.Tab.0.center" timestamp="1590177328546">
+    <state width="1320" height="218" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1590362577208" />
+    <state width="1320" height="218" key="GridCell.Tab.0.center" timestamp="1590362577207">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="218" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1590177328546" />
-    <state width="1320" height="218" key="GridCell.Tab.0.left" timestamp="1590177328546">
+    <state width="1320" height="218" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1590362577207" />
+    <state width="1320" height="218" key="GridCell.Tab.0.left" timestamp="1590362577207">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="218" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1590177328546" />
-    <state width="1320" height="218" key="GridCell.Tab.0.right" timestamp="1590177328546">
+    <state width="1320" height="218" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1590362577207" />
+    <state width="1320" height="218" key="GridCell.Tab.0.right" timestamp="1590362577208">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="218" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1590177328546" />
-    <state width="1320" height="218" key="GridCell.Tab.1.bottom" timestamp="1590177328548">
+    <state width="1320" height="218" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1590362577208" />
+    <state width="1320" height="218" key="GridCell.Tab.1.bottom" timestamp="1590362577209">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="218" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1590177328548" />
-    <state width="1320" height="218" key="GridCell.Tab.1.center" timestamp="1590177328547">
+    <state width="1320" height="218" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1590362577209" />
+    <state width="1320" height="218" key="GridCell.Tab.1.center" timestamp="1590362577208">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="218" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1590177328547" />
-    <state width="1320" height="218" key="GridCell.Tab.1.left" timestamp="1590177328547">
+    <state width="1320" height="218" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1590362577208" />
+    <state width="1320" height="218" key="GridCell.Tab.1.left" timestamp="1590362577208">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="218" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1590177328547" />
-    <state width="1320" height="218" key="GridCell.Tab.1.right" timestamp="1590177328548">
+    <state width="1320" height="218" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1590362577208" />
+    <state width="1320" height="218" key="GridCell.Tab.1.right" timestamp="1590362577208">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="218" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1590177328548" />
+    <state width="1320" height="218" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1590362577208" />
     <state x="132" y="86" width="1092" height="629" key="MergeDialog" timestamp="1590178532339">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -632,5 +670,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GAVI_Manderoli$Main.coverage" NAME="Main Coverage Results" MODIFIED="1589038410695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GAVI_Manderoli$main.coverage" NAME="main Coverage Results" MODIFIED="1590181482820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GAVI_Manderoli$evaluation.coverage" NAME="evaluation Coverage Results" MODIFIED="1590362575705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
