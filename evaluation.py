@@ -124,7 +124,7 @@ class WikiEvaluator:
         for summation in summations_list:
             self.__mean_precision_for_level_list.append((summation / divider).__round__(3))
 
-        return self.__mean_precision_for_level_list, self.__stdev_list
+        return self.__mean_precision_for_level_list  # , self.__stdev_list
 
     def precision_stdev_for_level(self, n_results=100):
         if self.__precision_recall_dict is None:
@@ -238,6 +238,9 @@ class WikiEvaluatorPrinter:
         self.__precision_queries = self.__evaluator.precision_at_recall_levels(1147)
         self.__avg_precision = self.__evaluator.average_precision(1147)
         self.__mean_avg_p = self.__evaluator.mean_average_precision()
+        self.__mean_precision_for_level_list = self.__evaluator.mean_precision_for_rec_level(1147)
+        self.__stdev_list = self.__evaluator.precision_stdev_for_level(1147)
+        self.__average_precision_dict = stdev(self.__evaluator.average_precision(1147).values())
 
     # calcolo dei valori di precision: stampa a video e scrittura su file csv; i file cvs vengono memorizzati in una
     # cartella data e sono nominati col timestamp di generazione
@@ -288,9 +291,9 @@ class WikiEvaluatorPrinter:
 
         print(f"MEAN AVERAGE PRECISION: {self.__mean_avg_p}\n")
 
-        print(f"Precision media per livello: {self.__evaluator.mean_precision_for_rec_level(1147)}\n"
-              f"Deviazione standard  per livello: {self.__evaluator.precision_stdev_for_level(1147)}\n"
-              f"Deviazione standard average precision: {stdev(self.__evaluator.average_precision(1147).values())}")
+        print(f"Precision media per livello: {self.__mean_precision_for_level_list}\n"
+              f"Deviazione standard  per livello: {self.__stdev_list}\n"
+              f"Deviazione standard average precision: {self.__average_precision_dict}")
 
         print(self.__evaluator.r_recall(1147))
 
@@ -301,16 +304,25 @@ class WikiEvaluatorPrinter:
         query_name = get_dict_nth_key(self.__precision_queries, query_number)
         # estraggo i punti per gli assi
         x_points = np.linspace(0.1, 1, 10)
-        y_points = get_dict_nth_value(self.__precision_queries, query_number)
+        y_precision_standard = get_dict_nth_value(self.__precision_queries, query_number)
+        y_precision_media_livello = self.__mean_precision_for_level_list
+        y_deviazione_standard_livello = self.__stdev_list
 
-        # in caso vi siano meno di 10 elementi, metto gli altri a zero
+        # in caso nella precision standard vi siano meno di 10 elementi, metto gli altri a zero
         i = 0
-        while len(y_points) + i < 10:
-            y_points.append(0)
+        while len(y_precision_standard) + i < 10:
+            y_precision_standard.append(0)
             i += 1
 
-        plt.plot(x_points, y_points, label=query_name)
+        plt.plot(x_points, y_precision_standard, label="Precision \"Standard\"")  # precision "standard"
+        plt.plot(x_points, y_precision_media_livello, label="Precision Media")  # precision media per livello
+        plt.plot(x_points, y_deviazione_standard_livello, label="Deviazione Standard")  # deviazione standard livello
+
         plt.legend()
+        plt.xlabel("Recall")
+        plt.ylabel("Precision")
+        plt.title(query_name)
+
         plt.show()
 
 
