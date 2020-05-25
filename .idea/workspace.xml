@@ -46,6 +46,7 @@
       <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.15.13 Evaluation.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.17.23 Evaluation.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.17.49 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.20.06 Evaluation.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_1loaqqt099v66rlu.seg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_WRITELOCK" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Wiki_index/_MAIN_1.toc" afterDir="false" />
@@ -896,7 +897,7 @@
       <workItem from="1590318643662" duration="4210000" />
       <workItem from="1590359320737" duration="6720000" />
       <workItem from="1590428047818" duration="1403000" />
-      <workItem from="1590429460245" duration="1359000" />
+      <workItem from="1590429460245" duration="1632000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
