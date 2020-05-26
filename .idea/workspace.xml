@@ -26,50 +26,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Inserita la deviazione standard nel grafico">
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_14.28.10 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_14.38.28 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-27_01.07.36 Evaluation.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation.py" afterDir="false" />
     </list>
     <list id="fc7a01d0-1e3d-4f27-a648-6b1090c65af2" name="FIX EVALUATION" comment="" />
-    <list id="95ba094c-7be2-4226-9901-418b794a207b" name="Inserita la deviazione standard nel grafico" comment="">
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.26.16 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.26.27 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.29.02 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.31.09 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.34.04 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.41.30 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.58.07 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.01.46 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.18.58 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.20.01 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.20.19 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.21.33 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.22.29 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.22.57 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.23.02 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.24.46 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.25.47 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.29.58 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.29.59 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.41.00 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.42.29 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.42.52 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.47.46 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.48.51 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.52.40 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_02.08.40 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_02.08.53 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_02.09.25 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_02.09.53 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_00.53.48 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_00.56.33 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_00.57.27 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_00.58.24 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_388ev4wo36nnpd2j.seg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_WRITELOCK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wiki_index/_MAIN_1.toc" afterDir="false" />
-    </list>
+    <list id="95ba094c-7be2-4226-9901-418b794a207b" name="Inserita la deviazione standard nel grafico" comment="" />
     <list id="087778e9-bdfa-4d74-bdb0-aa009848e58b" name="Prototipo valutatore (solo precision a 10 livelli di recall)" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -360,6 +322,7 @@
       <workItem from="1590493417959" duration="409000" />
       <workItem from="1590495016078" duration="939000" />
       <workItem from="1590496061445" duration="739000" />
+      <workItem from="1590534605689" duration="1913000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
