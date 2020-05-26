@@ -26,22 +26,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Inserita la deviazione standard nel grafico">
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.00.41 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.04.50 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.06.08 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.06.54 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.08.17 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.08.38 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.12.52 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.12.56 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.14.05 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.16.46 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.18.13 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.18.28 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.18.42 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.18.54 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.20.44 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_14.24.53 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_WRITELOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_cz3itqi5gq5gaese.seg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/_MAIN_1.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-24_14.08.57 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-24_14.20.29 Evaluation - prova and.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_19.36.06 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_19.41.21 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_19.48.03 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.00.01 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.03.04 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.03.36 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.04.02 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.04.23 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.04.32 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.07.12 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.08.12 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.08.31 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.08.56 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.10.38 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.11.38 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.12.31 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.12.51 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.15.13 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.17.23 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.17.49 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_20.20.06 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_23.38.02 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_23.42.40 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_23.45.09 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_23.54.13 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_00.03.20 Evaluation.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation.py" afterDir="false" />
     </list>
     <list id="fc7a01d0-1e3d-4f27-a648-6b1090c65af2" name="FIX EVALUATION" comment="" />
     <list id="087778e9-bdfa-4d74-bdb0-aa009848e58b" name="Prototipo valutatore (solo precision a 10 livelli di recall)" comment="" />
@@ -88,7 +108,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -122,9 +142,6 @@
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -334,6 +351,7 @@
       <workItem from="1590444688268" duration="56000" />
       <workItem from="1590446376158" duration="2992000" />
       <workItem from="1590493417959" duration="409000" />
+      <workItem from="1590495016078" duration="939000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
@@ -630,10 +648,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="502" y="145" width="640" height="623" key="RollbackChangesDialog/0.27.1366.741@0.27.1366.741" timestamp="1590178880923" />
-    <state x="782" y="346" width="1022" height="737" key="SettingsEditor" timestamp="1590429565491">
+    <state x="782" y="346" width="1022" height="737" key="SettingsEditor" timestamp="1590495466191">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1590429565491" />
+    <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1590495466191" />
     <state x="-666" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1590169399591" />
     <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser" timestamp="1590185453104">
       <screen x="0" y="27" width="1366" height="741" />
@@ -665,8 +683,8 @@
     <state x="408" y="287" width="540" height="227" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1366.741@0.27.1366.741" timestamp="1589125637120" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GAVI_Manderoli$evaluation.coverage" NAME="evaluation Coverage Results" MODIFIED="1590362575705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GAVI_Manderoli$Main.coverage" NAME="Main Coverage Results" MODIFIED="1589038410695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GAVI_Manderoli$main.coverage" NAME="main Coverage Results" MODIFIED="1590181482820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GAVI_Manderoli$evaluation.coverage" NAME="evaluation Coverage Results" MODIFIED="1590362575705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
