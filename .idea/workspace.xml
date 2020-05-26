@@ -42,8 +42,47 @@
       <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.18.54 Evaluation.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.20.44 Evaluation.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation.py" afterDir="false" />
     </list>
     <list id="fc7a01d0-1e3d-4f27-a648-6b1090c65af2" name="FIX EVALUATION" comment="" />
+    <list id="95ba094c-7be2-4226-9901-418b794a207b" name="Inserita la deviazione standard nel grafico" comment="">
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.26.16 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.26.27 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.29.02 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.31.09 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.34.04 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.41.30 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_00.58.07 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.01.46 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.18.58 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.20.01 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.20.19 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.21.33 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.22.29 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.22.57 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.23.02 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.24.46 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.25.47 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.29.58 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.29.59 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.41.00 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.42.29 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.42.52 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.47.46 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.48.51 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_01.52.40 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_02.08.40 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_02.08.53 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_02.09.25 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-25_02.09.53 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_00.53.48 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_00.56.33 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_00.57.27 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_00.58.24 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_388ev4wo36nnpd2j.seg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_WRITELOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/_MAIN_1.toc" afterDir="false" />
+    </list>
     <list id="087778e9-bdfa-4d74-bdb0-aa009848e58b" name="Prototipo valutatore (solo precision a 10 livelli di recall)" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,9 +161,6 @@
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -244,6 +280,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="" />
+      <changelist id="95ba094c-7be2-4226-9901-418b794a207b" name="Inserita la deviazione standard nel grafico" comment="" />
       <created>1588796519550</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -333,7 +370,8 @@
       <workItem from="1590441151606" duration="2266000" />
       <workItem from="1590444688268" duration="56000" />
       <workItem from="1590446376158" duration="2992000" />
-      <workItem from="1590493417959" duration="409000" />
+      <workItem from="1590493417959" duration="1297000" />
+      <workItem from="1590533194760" duration="650000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
@@ -510,7 +548,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590449355644</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Inserita la deviazione standard nel grafico">
+      <created>1590493866114</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1590493866114</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Inserita la deviazione standard nel grafico">
+      <created>1590494008648</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1590494008648</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -635,14 +687,14 @@
     </state>
     <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1590429565491" />
     <state x="-666" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1590169399591" />
-    <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser" timestamp="1590185453104">
+    <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser" timestamp="1590493896839">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser/0.27.1366.741@0.27.1366.741" timestamp="1590185453104" />
-    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1590449360522">
+    <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser/0.27.1366.741@0.27.1366.741" timestamp="1590493896839" />
+    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1590494010492">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1590449360522" />
+    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1590494010492" />
     <state x="429" y="89" width="498" height="623" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589396680429">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

@@ -172,13 +172,7 @@ class WikiEvaluator:
 
                         ### ZONA ORIGINALE ###
                         # ESEGUO LA QUERY INDICATA E NE CALCOLO LA R-PRECISION CON R=10
-                        if query is not None:
-                            recalled = 0
-                            results = self.__searcher.commit_query(query, n_results)
-                            for res in results[:10]:
-                                if relevant_results.get(res['title']) is not None:
-                                    recalled += 1
-                            self.__r_recall[query] = (recalled / 10)
+                        self.__eval_r_recall_query(query, relevant_results, n_results)
                         ### FINE ZONA ORIGINALE ###
 
                         # Inizializzo il dizionario dei risultati rilevanti alla nuova query
@@ -188,7 +182,17 @@ class WikiEvaluator:
                     # Se la riga ottenuta dal file non è una query la inserisco tra i risultati rilevanti alla query
                     elif relevant_results is not None:
                         relevant_results["".join([c if c != "_" else " " for c in clean_line])] = True
+            self.__eval_r_recall_query(query, relevant_results, n_results)
             return self.__r_recall
+
+    def __eval_r_recall_query(self, query, relevant_results=None, n_results=100):
+        if query is not None:
+            recalled = 0
+            results = self.__searcher.commit_query(query, n_results)
+            for res in results[:10]:
+                if relevant_results.get(res['title']) is not None:
+                    recalled += 1
+            self.__r_recall[query] = (recalled / 10)
 
     def __eval_query(self, query, relevant_results=None, n_results=100):
         # Eseguo l'operazione soltanto se la query non è nulla
@@ -345,3 +349,5 @@ class WikiEvaluatorPrinter:
 wiki_printer = WikiEvaluatorPrinter()
 wiki_printer.print_and_write_results(description="")
 wiki_printer.plot_graph_of_query_precision_levels(10)
+wiki_eval = WikiEvaluator()
+print(wiki_eval.r_recall(1147).__len__())
