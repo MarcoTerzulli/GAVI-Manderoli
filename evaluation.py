@@ -323,10 +323,9 @@ class WikiEvaluatorPrinter:
             y_lower_deviazione_standard_livello.append(mean - st_dev)
 
         # in caso nella precision standard vi siano meno di 10 elementi, metto gli altri a zero
-        i = 0
-        while len(y_precision_standard) + i < 10:
-            y_precision_standard.append(0)
-            i += 1
+        if len(y_precision_standard) < 10:
+            for _ in range(10 - len(y_precision_standard)):
+                y_precision_standard.append(0)
 
         plt.plot(x_points, y_precision_standard, '-', label="Precision")  # precision "standard"
         plt.plot(x_points, y_precision_media_livello, '-', label="Precision Media")  # precision media per livello
@@ -344,4 +343,4 @@ class WikiEvaluatorPrinter:
 wiki_printer = WikiEvaluatorPrinter()
 wiki_printer.csv_write_results(description="")
 wiki_printer.console_write_results()
-wiki_printer.plot_graph_of_query_precision_levels(10)
+wiki_printer.plot_graph_of_query_precision_levels(26)
