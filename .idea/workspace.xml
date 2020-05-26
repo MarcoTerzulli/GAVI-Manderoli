@@ -26,21 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Inserita la deviazione standard nel grafico">
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.00.41 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.04.50 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.06.08 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.06.54 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.08.17 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.08.38 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.12.52 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.12.56 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.14.05 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.16.46 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.18.13 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.18.28 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.18.42 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.18.54 Evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.20.44 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_14.28.10 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_14.38.28 Evaluation.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation.py" afterDir="false" />
     </list>
@@ -127,7 +114,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -370,8 +357,9 @@
       <workItem from="1590441151606" duration="2266000" />
       <workItem from="1590444688268" duration="56000" />
       <workItem from="1590446376158" duration="2992000" />
-      <workItem from="1590493417959" duration="1297000" />
-      <workItem from="1590533194760" duration="650000" />
+      <workItem from="1590493417959" duration="409000" />
+      <workItem from="1590495016078" duration="939000" />
+      <workItem from="1590496061445" duration="739000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
@@ -682,10 +670,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="502" y="145" width="640" height="623" key="RollbackChangesDialog/0.27.1366.741@0.27.1366.741" timestamp="1590178880923" />
-    <state x="782" y="346" width="1022" height="737" key="SettingsEditor" timestamp="1590429565491">
+    <state x="782" y="346" width="1022" height="737" key="SettingsEditor" timestamp="1590495466191">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1590429565491" />
+    <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1590495466191" />
     <state x="-666" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1590169399591" />
     <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser" timestamp="1590493896839">
       <screen x="0" y="27" width="1366" height="741" />
@@ -717,8 +705,8 @@
     <state x="408" y="287" width="540" height="227" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1366.741@0.27.1366.741" timestamp="1589125637120" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GAVI_Manderoli$evaluation.coverage" NAME="evaluation Coverage Results" MODIFIED="1590362575705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GAVI_Manderoli$Main.coverage" NAME="Main Coverage Results" MODIFIED="1589038410695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GAVI_Manderoli$main.coverage" NAME="main Coverage Results" MODIFIED="1590181482820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GAVI_Manderoli$evaluation.coverage" NAME="evaluation Coverage Results" MODIFIED="1590362575705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

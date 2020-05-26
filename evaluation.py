@@ -246,10 +246,9 @@ class WikiEvaluatorPrinter:
         self.__stdev_list = self.__evaluator.precision_stdev_for_level(1147)
         self.__average_precision_dict = stdev(self.__evaluator.average_precision(1147).values())
 
-    # calcolo dei valori di precision: stampa a video e scrittura su file csv; i file cvs vengono memorizzati in una
+    # scrittura su file csv dei valori di precision per le query; i file cvs vengono memorizzati in una
     # cartella data e sono nominati col timestamp di generazione
-    def print_and_write_results(self, res_dir="Test_evaluation_csv_output", description=""):
-
+    def csv_write_results(self, res_dir="Test_evaluation_csv_output", description=""):
         try:
             assert type(res_dir) is str
         except AssertionError:
@@ -289,32 +288,34 @@ class WikiEvaluatorPrinter:
 
                 out_file.write(f"\"{len(value)}\";\"{self.__avg_precision[key]}\"\n")
 
-                # print(f"{key}: {value}\nRelevant results retrieved: {len(value)}")
-                # print(f"Avg precision for {key}: {self.__avg_precision[key]}")
-                # print("\n")
+    # stampa console dei di precision per le query ecc
+    def console_write_results(self):
+        for key, value in self.__precision_queries.items():
+            print(f"{key}: {value}\nRelevant results retrieved: {len(value)}")
+            print(f"Avg precision for {key}: {self.__avg_precision[key]}\n")
 
-        print(f"MEAN AVERAGE PRECISION: {self.__mean_avg_p}\n")
-
+        print(f"\nMean Average Precision: {self.__mean_avg_p}\n")
         print(f"Precision media per livello: {self.__mean_precision_for_level_list}\n"
               f"Deviazione standard  per livello: {self.__stdev_list}\n"
               f"Deviazione standard average precision: {self.__average_precision_dict}")
 
-        print(self.__evaluator.r_recall(1147))
+        print(f"\n{self.__evaluator.r_recall(1147)}")
 
     # stampa il grafico di una query identificata dal query number (0-29)
     def plot_graph_of_query_precision_levels(self, query_number=0):
-        assert 0 <= query_number < 30
+        try:
+            assert 0 <= query_number < 30
+        except AssertionError:
+            raise ValueError
 
         query_name = get_dict_nth_key(self.__precision_queries, query_number)
         # estraggo i punti per gli assi
         x_points = np.linspace(0.1, 1, 10)
         y_precision_standard = get_dict_nth_value(self.__precision_queries, query_number)
-        if len(y_precision_standard) < 10:
-            for _ in range(10 - len(y_precision_standard)):
-                y_precision_standard.append(0)
         y_precision_media_livello = self.__mean_precision_for_level_list
         y_upper_deviazione_standard_livello = []
         y_lower_deviazione_standard_livello = []
+
         if len(self.__stdev_list) != len(self.__mean_precision_for_level_list):
             print("ERRORE: La dimensione del vettore della deviazione standard non coincide con"
                   " il vettore dei valori medi")
@@ -325,13 +326,10 @@ class WikiEvaluatorPrinter:
             y_upper_deviazione_standard_livello.append(mean + st_dev)
             y_lower_deviazione_standard_livello.append(mean - st_dev)
 
-
-
         # in caso nella precision standard vi siano meno di 10 elementi, metto gli altri a zero
-        i = 0
-        while len(y_precision_standard) + i < 10:
-            y_precision_standard.append(0)
-            i += 1
+        if len(y_precision_standard) < 10:
+            for _ in range(10 - len(y_precision_standard)):
+                y_precision_standard.append(0)
 
         plt.plot(x_points, y_precision_standard, '-', label="Precision")  # precision "standard"
         plt.plot(x_points, y_precision_media_livello, '-', label="Precision Media")  # precision media per livello
@@ -347,7 +345,6 @@ class WikiEvaluatorPrinter:
 
 
 wiki_printer = WikiEvaluatorPrinter()
-wiki_printer.print_and_write_results(description="")
-wiki_printer.plot_graph_of_query_precision_levels(10)
-wiki_eval = WikiEvaluator()
-print(wiki_eval.r_recall(1147).__len__())
+wiki_printer.csv_write_results(description="")
+wiki_printer.console_write_results()
+wiki_printer.plot_graph_of_query_precision_levels(26)
