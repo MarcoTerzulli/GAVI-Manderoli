@@ -25,9 +25,23 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Teoricamente dovrei aver implementato tutte le valutazioni fondamentali riportate sulle slide">
+    <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Inserita la deviazione standard nel grafico">
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.00.41 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.04.50 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.06.08 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.06.54 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.08.17 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.08.38 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.12.52 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.12.56 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.14.05 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.16.46 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.18.13 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.18.28 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.18.42 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.18.54 Evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_evaluation_csv_output/2020-05-26_01.20.44 Evaluation.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation.py" afterDir="false" />
     </list>
     <list id="fc7a01d0-1e3d-4f27-a648-6b1090c65af2" name="FIX EVALUATION" comment="" />
     <list id="087778e9-bdfa-4d74-bdb0-aa009848e58b" name="Prototipo valutatore (solo precision a 10 livelli di recall)" comment="" />
@@ -318,6 +332,8 @@
       <workItem from="1590429460245" duration="1632000" />
       <workItem from="1590441151606" duration="2266000" />
       <workItem from="1590444688268" duration="56000" />
+      <workItem from="1590446376158" duration="2992000" />
+      <workItem from="1590493417959" duration="409000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
@@ -487,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590279325763</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Inserita la deviazione standard nel grafico">
+      <created>1590449355644</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1590449355644</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -545,7 +568,8 @@
     <MESSAGE value="CORREZIONE FILE CSV MUCH ADO ABOUT NOTHING" />
     <MESSAGE value="Piccolo fix alla lista dei file rilevanti e piccola modifica di evaluation.py" />
     <MESSAGE value="Teoricamente dovrei aver implementato tutte le valutazioni fondamentali riportate sulle slide" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teoricamente dovrei aver implementato tutte le valutazioni fondamentali riportate sulle slide" />
+    <MESSAGE value="Inserita la deviazione standard nel grafico" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inserita la deviazione standard nel grafico" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="198" width="716" height="406" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589034629711">
@@ -615,10 +639,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser/0.27.1366.741@0.27.1366.741" timestamp="1590185453104" />
-    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1590279328684">
+    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1590449360522">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1590279328684" />
+    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1590449360522" />
     <state x="429" y="89" width="498" height="623" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589396680429">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -641,8 +665,8 @@
     <state x="408" y="287" width="540" height="227" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1366.741@0.27.1366.741" timestamp="1589125637120" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/GAVI_Manderoli$evaluation.coverage" NAME="evaluation Coverage Results" MODIFIED="1590362575705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GAVI_Manderoli$Main.coverage" NAME="Main Coverage Results" MODIFIED="1589038410695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GAVI_Manderoli$main.coverage" NAME="main Coverage Results" MODIFIED="1590181482820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GAVI_Manderoli$evaluation.coverage" NAME="evaluation Coverage Results" MODIFIED="1590362575705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

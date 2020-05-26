@@ -305,8 +305,23 @@ class WikiEvaluatorPrinter:
         # estraggo i punti per gli assi
         x_points = np.linspace(0.1, 1, 10)
         y_precision_standard = get_dict_nth_value(self.__precision_queries, query_number)
+        if len(y_precision_standard) < 10:
+            for _ in range(10 - len(y_precision_standard)):
+                y_precision_standard.append(0)
         y_precision_media_livello = self.__mean_precision_for_level_list
-        y_deviazione_standard_livello = self.__stdev_list
+        y_upper_deviazione_standard_livello = []
+        y_lower_deviazione_standard_livello = []
+        if len(self.__stdev_list) != len(self.__mean_precision_for_level_list):
+            print("ERRORE: La dimensione del vettore della deviazione standard non coincide con"
+                  " il vettore dei valori medi")
+
+        for i in range(min(len(self.__stdev_list), len(self.__mean_precision_for_level_list))):
+            mean = self.__mean_precision_for_level_list[i]
+            st_dev = self.__stdev_list[i]
+            y_upper_deviazione_standard_livello.append(mean + st_dev)
+            y_lower_deviazione_standard_livello.append(mean - st_dev)
+
+
 
         # in caso nella precision standard vi siano meno di 10 elementi, metto gli altri a zero
         i = 0
@@ -314,9 +329,10 @@ class WikiEvaluatorPrinter:
             y_precision_standard.append(0)
             i += 1
 
-        plt.plot(x_points, y_precision_standard, label="Precision \"Standard\"")  # precision "standard"
-        plt.plot(x_points, y_precision_media_livello, label="Precision Media")  # precision media per livello
-        # plt.plot(x_points, y_deviazione_standard_livello, label="Deviazione Standard")  # deviazione standard livello
+        plt.plot(x_points, y_precision_standard, '-', label="Precision")  # precision "standard"
+        plt.plot(x_points, y_precision_media_livello, '-', label="Precision Media")  # precision media per livello
+        plt.plot(x_points, y_upper_deviazione_standard_livello, 'r:', label="Deviazione Standard")  # deviazione standard livello
+        plt.plot(x_points, y_lower_deviazione_standard_livello, 'r:')
 
         plt.legend()
         plt.xlabel("Recall")
@@ -328,4 +344,4 @@ class WikiEvaluatorPrinter:
 
 wiki_printer = WikiEvaluatorPrinter()
 wiki_printer.print_and_write_results(description="")
-wiki_printer.plot_graph_of_query_precision_levels(0)
+wiki_printer.plot_graph_of_query_precision_levels(10)
