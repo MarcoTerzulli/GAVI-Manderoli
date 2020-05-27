@@ -82,7 +82,7 @@ class WikiEvaluator:
         if self.__precision_recall_dict is None:
             self.precision_at_recall_levels(n_results)
         for query, val in self.__precision_recall_dict.items():
-            self.__average_precision_dict[query] = round(sum(val) / n_relevant, 3)
+            self.__average_precision_dict[query] = sum(val) / n_relevant
 
         return self.__average_precision_dict
 
@@ -90,8 +90,7 @@ class WikiEvaluator:
         if self.__average_precision_dict is None:
             self.average_precision(n_results, n_relevant)
         self.__mean_avg_precision = \
-            round(sum([avg_p for avg_p in self.__average_precision_dict.values()]) / len(self.__average_precision_dict),
-                  3)
+            sum([avg_p for avg_p in self.__average_precision_dict.values()]) / len(self.__average_precision_dict)
         return self.__mean_avg_precision
 
     def mean_precision_for_rec_level(self, n_results=100):
@@ -122,7 +121,7 @@ class WikiEvaluator:
         self.__mean_precision_for_level_list = []
         # Per ogni livello di recall divido la sua sommatoria di precision per il numero di query considerate
         for summation in summations_list:
-            self.__mean_precision_for_level_list.append((summation / divider).__round__(3))
+            self.__mean_precision_for_level_list.append((summation / divider))
 
         return self.__mean_precision_for_level_list  # , self.__stdev_list
 
@@ -146,7 +145,7 @@ class WikiEvaluator:
                     position += 1
 
         for column in columns:
-            self.__stdev_list.append(stdev(column).__round__(3))
+            self.__stdev_list.append(stdev(column))
 
         return self.__stdev_list
 
@@ -209,7 +208,7 @@ class WikiEvaluator:
                     # Se un risultato è rilevante aggiungo un valore di precision alla lista
                     # precision = Numero_risultati_rilevanti_recuperati/Posizione_risultato_rilevante_attuale
                     self.__precision_recall_dict[query]. \
-                        append(round((len(self.__precision_recall_dict[query]) + 1) / (res.rank + 1), 3))
+                        append((len(self.__precision_recall_dict[query]) + 1) / (res.rank + 1))
 
                     if len(relevant_results) < 1:
                         break
@@ -243,12 +242,12 @@ class WikiEvaluatorPrinter:
 
     def __init__(self):
         self.__evaluator = WikiEvaluator()
-        self.__precision_queries = self.__evaluator.precision_at_recall_levels(1147)
-        self.__avg_precision = self.__evaluator.average_precision(1147)
+        self.__precision_queries_dict = self.__evaluator.precision_at_recall_levels(1147)
+        self.__avg_precision_dict = self.__evaluator.average_precision(1147)
         self.__mean_avg_precision = self.__evaluator.mean_average_precision()
         self.__mean_precision_for_level_list = self.__evaluator.mean_precision_for_rec_level(1147)
-        self.__stdev_list = self.__evaluator.precision_stdev_for_level(1147)
-        self.__average_precision_dict = stdev(self.__evaluator.average_precision(1147).values())
+        self.__stdev_for_level = self.__evaluator.precision_stdev_for_level(1147)
+        self.__stedv_average_precision = stdev(self.__evaluator.average_precision(1147).values())
         self.__r_recall = self.__evaluator.r_recall(1147)
 
         # sort del dizionario con i valori di recall
@@ -281,7 +280,7 @@ class WikiEvaluatorPrinter:
             out_file.write("\"Query\";\"0.1\";\"0.2\";\"0.3\";\"0.4\";\"0.5\";\"0.6\";\"0.7\";\"0.8\";\"0.9\";\"1"
                            "\";\"Relevant results retrieved\";\"AVG Precision\"\n")
 
-            for key, value in self.__precision_queries.items():
+            for key, value in self.__precision_queries_dict.items():
                 out_file.write(f"\"{key}\";")
 
                 # scrivo le percentuali di precision
@@ -294,18 +293,18 @@ class WikiEvaluatorPrinter:
                     out_file.write("\"0\";")
                     i += 1
 
-                out_file.write(f"\"{len(value)}\";\"{self.__avg_precision[key]}\"\n")
+                out_file.write(f"\"{len(value)}\";\"{self.__avg_precision_dict[key]}\"\n")
 
     # stampa console dei di precision per le query ecc
     def console_write_results(self):
-        for key, value in self.__precision_queries.items():
+        for key, value in self.__precision_queries_dict.items():
             print(f"{key}: {value}\nRelevant results retrieved: {len(value)}")
-            print(f"Avg precision for {key}: {self.__avg_precision[key]}\n")
+            print(f"Avg precision for {key}: {self.__avg_precision_dict[key]}\n")
 
         print(f"\nMean Average Precision: {self.__mean_avg_precision}\n")
         print(f"Precision media per livello: {self.__mean_precision_for_level_list}\n"
-              f"Deviazione standard  per livello: {self.__stdev_list}\n"
-              f"Deviazione standard average precision: {self.__average_precision_dict}")
+              f"Deviazione standard  per livello: {self.__stdev_for_level}\n"
+              f"Deviazione standard average precision: {self.__stedv_average_precision}")
 
         print(f"\n{self.__evaluator.r_recall(1147)}")
 
@@ -316,21 +315,21 @@ class WikiEvaluatorPrinter:
         except AssertionError:
             raise ValueError
 
-        query_name = get_dict_nth_key(self.__precision_queries, query_number)
+        query_name = get_dict_nth_key(self.__precision_queries_dict, query_number)
         # estraggo i punti per gli assi
         x_points = np.linspace(0.1, 1, 10)
-        y_precision_standard = get_dict_nth_value(self.__precision_queries, query_number)
+        y_precision_standard = get_dict_nth_value(self.__precision_queries_dict, query_number)
         y_precision_media_livello = self.__mean_precision_for_level_list
         y_upper_deviazione_standard_livello = []
         y_lower_deviazione_standard_livello = []
 
-        if len(self.__stdev_list) != len(self.__mean_precision_for_level_list):
+        if len(self.__stdev_for_level) != len(self.__mean_precision_for_level_list):
             print("ERRORE: La dimensione del vettore della deviazione standard non coincide con"
                   " il vettore dei valori medi")
 
-        for i in range(min(len(self.__stdev_list), len(self.__mean_precision_for_level_list))):
+        for i in range(min(len(self.__stdev_for_level), len(self.__mean_precision_for_level_list))):
             mean = self.__mean_precision_for_level_list[i]
-            st_dev = self.__stdev_list[i]
+            st_dev = self.__stdev_for_level[i]
             y_upper_deviazione_standard_livello.append(mean + st_dev)
             y_lower_deviazione_standard_livello.append(mean - st_dev)
 
@@ -354,7 +353,7 @@ class WikiEvaluatorPrinter:
     # stampa il grafico di una query identificata dal query number (0-29)
     def plot_graph_of_query_avg_vs_map(self):
 
-        x_dict = self.__r_recall
+        x_dict = dict(self.__r_recall)
         x_dict['MEAN AVERAGE PRECISION'] = self.__mean_avg_precision
         x_dict = sort_dict(x_dict, True)
 
@@ -386,6 +385,6 @@ class WikiEvaluatorPrinter:
 
 wiki_printer = WikiEvaluatorPrinter()
 #wiki_printer.csv_write_results(description="")
-wiki_printer.console_write_results()
+#wiki_printer.console_write_results()
 #wiki_printer.plot_graph_of_query_precision_levels(26)
 wiki_printer.plot_graph_of_query_avg_vs_map()
