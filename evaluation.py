@@ -353,7 +353,7 @@ class WikiEvaluatorPrinter:
     # stampa il grafico di una query identificata dal query number (0-29)
     def plot_graph_of_query_avg_vs_map(self):
 
-        x_dict = dict(self.__r_recall)
+        x_dict = dict(self.__avg_precision_dict)
         x_dict['MEAN AVERAGE PRECISION'] = self.__mean_avg_precision
         x_dict = sort_dict(x_dict, True)
 
@@ -377,8 +377,8 @@ class WikiEvaluatorPrinter:
 
         plt.legend()
         plt.xticks(x_points, bar_labels, rotation='vertical')
-        plt.ylabel("Average Precision")
-        plt.title("Average Precision vs Mean Average Precision")
+        plt.ylabel("Precision")
+        plt.title("Queries\' Average Precision vs Mean Average Precision")
 
         plt.show()
 

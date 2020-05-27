@@ -323,6 +323,7 @@
       <workItem from="1590496061445" duration="739000" />
       <workItem from="1590534605689" duration="1913000" />
       <workItem from="1590536654929" duration="1735000" />
+      <workItem from="1590565685364" duration="99000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
@@ -633,10 +634,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="502" y="145" width="640" height="623" key="RollbackChangesDialog/0.27.1366.741@0.27.1366.741" timestamp="1590178880923" />
-    <state x="782" y="346" width="1022" height="737" key="SettingsEditor" timestamp="1590495466191">
+    <state x="782" y="346" width="1022" height="737" key="SettingsEditor" timestamp="1590565695064">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1590495466191" />
+    <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1590565695064" />
     <state x="-666" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1590169399591" />
     <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser" timestamp="1590493896839">
       <screen x="0" y="27" width="1366" height="741" />
