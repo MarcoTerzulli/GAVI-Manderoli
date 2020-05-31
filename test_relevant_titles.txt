@@ -713,7 +713,7 @@ q:Steve_Jobs
 Steve_Jobs_(disambiguation)
 Category:Steve_Jobs
 Timeline_of_Steve_Jobs_media
-Archive_1
+Archive_1 # NON ESISTE
 List_of_artistic_depictions_of_Steve_Jobs
 Book:Steve_Jobs
 The_Second_Coming_of_Steve_Jobs

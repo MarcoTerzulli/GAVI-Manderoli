@@ -310,10 +310,10 @@ Steve_Jobs_(book)
 Steve_Jobs_(disambiguation)
 Category:Steve_Jobs
 Timeline_of_Steve_Jobs_media
-Archive_1
 List_of_artistic_depictions_of_Steve_Jobs
 Book:Steve_Jobs
 The_Second_Coming_of_Steve_Jobs
+Category:Books_about_Steve_Jobs
 
 ---Triple Cross.csv
 Triple_Cross_(1966_film)
