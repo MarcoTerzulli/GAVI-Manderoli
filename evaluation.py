@@ -40,7 +40,7 @@ class WikiEvaluator:
         self.__precision_recall_dict = dict()
 
         # Apro il file contenente le query ed i loro risultati rilevanti
-        with open(self.__relevant_results_file) as relevant_res_file:
+        with open(self.__relevant_results_file, encoding='utf-8') as relevant_res_file:
             # Inizialmente la query "attuale" e la "lista" dei risultati rilevanti sono nulli
             query = None
             relevant_results = None
@@ -156,7 +156,7 @@ class WikiEvaluator:
         """
 
         # Apro il file contenente le query ed i loro risultati rilevanti
-        with open(self.__relevant_results_file) as relevant_res_file:
+        with open(self.__relevant_results_file, encoding='utf-8') as relevant_res_file:
             # Inizialmente la query "attuale" e la "lista" dei risultati rilevanti sono nulli
             query = None
             relevant_results = None
@@ -463,5 +463,5 @@ wiki_printer = WikiEvaluatorPrinter()
 # wiki_printer.csv_write_results(description="")
 # wiki_printer.console_write_results()
 wiki_printer.plot_graph_of_query_precision_levels(1)
-#wiki_printer.plot_graph_of_query_avg_precision_vs_map()
-#wiki_printer.plot_graph_of_query_rrecall_vs_avg_recall()
+wiki_printer.plot_graph_of_query_avg_precision_vs_map()
+wiki_printer.plot_graph_of_query_rrecall_vs_avg_recall()
