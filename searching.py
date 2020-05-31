@@ -5,7 +5,7 @@
 """
 
 from whoosh.index import EmptyIndexError, open_dir
-from whoosh.qparser import QueryParser
+from whoosh.qparser import OrGroup, QueryParser
 from whoosh.searching import Results
 
 from configuration import index_dir
@@ -25,7 +25,7 @@ class WikiSearcherModule:
         # Ottengo un oggetto searcher dall'indice appena aperto
         self.__searcher = self.__index.searcher()
         # Ottento un oggetto in grado che parsi le quary fornitegli e le indirizzi al campo "content" del nostro schema
-        self.__parser = QueryParser("content", schema=self.__index.schema)
+        self.__parser = QueryParser("content", schema=self.__index.schema, group=OrGroup)
 
     def commit_query(self, query_text, n_results=10):
 
