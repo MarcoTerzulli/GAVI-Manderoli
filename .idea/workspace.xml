@@ -150,9 +150,6 @@
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -325,6 +322,7 @@
       <workItem from="1590536654929" duration="1735000" />
       <workItem from="1590565685364" duration="99000" />
       <workItem from="1590945661449" duration="442000" />
+      <workItem from="1590947106035" duration="6264000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
@@ -595,6 +593,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="-532" y="27" width="1166" height="541" maximized="true" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1590180537210" />
+    <state x="1008" y="378" key="FileChooserDialogImpl" timestamp="1590949899299">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1008" y="378" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1590949899299" />
     <state width="1320" height="218" key="GridCell.Tab.0.bottom" timestamp="1590362577208">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -635,10 +637,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="502" y="145" width="640" height="623" key="RollbackChangesDialog/0.27.1366.741@0.27.1366.741" timestamp="1590178880923" />
-    <state x="782" y="346" width="1022" height="737" key="SettingsEditor" timestamp="1590565695064">
+    <state x="782" y="346" width="1022" height="737" key="SettingsEditor" timestamp="1590949858022">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1590565695064" />
+    <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1590949858022" />
     <state x="-666" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1590169399591" />
     <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser" timestamp="1590493896839">
       <screen x="0" y="27" width="1366" height="741" />
