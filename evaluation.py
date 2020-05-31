@@ -213,7 +213,8 @@ class WikiEvaluator:
                     if len(relevant_results) < 1:
                         break
 
-            # print(relevant_results)
+            print(f"{query}")
+            print(relevant_results)
 
 
 def get_dict_nth_key(dictionary, n=0):
@@ -413,7 +414,7 @@ class WikiEvaluatorPrinter:
 
         x_dict = dict(self.__r_recall_dict)
         avg_recall = mean(self.__r_recall_dict[k] for k in self.__r_recall_dict)
-        x_dict['AVERAGE RECALL'] = avg_recall
+        x_dict['AVERAGE 10-RECALL'] = avg_recall
         x_dict = sort_dict(x_dict, True)
 
         deviazione_standard = stdev(self.__r_recall_dict.values())
@@ -446,14 +447,14 @@ class WikiEvaluatorPrinter:
 
         bar_list = plt.bar(x_points, y_bar_heights, width=0.8, color=['orange'])
         plt.plot(x_points, y_man_points, 'r:', label="Average Recall", linewidth=2)
-        bar_list[bar_labels.index('AVERAGE RECALL')].set_color('r')  # coloro la barra della avg
+        bar_list[bar_labels.index('AVERAGE 10-RECALL')].set_color('r')  # coloro la barra della avg
         plt.plot(x_points, y_up_stedev_points, 'g:', label="Standard Deviation", linewidth=2)  # upper stdev
         plt.plot(x_points, y_low_stedev_points, 'g:', linewidth=2)  # upper stdev
 
         plt.legend()
         plt.xticks(x_points, bar_labels, rotation='vertical')
         plt.ylabel("R Recall")
-        plt.title("Queries\' R Recall vs Average Recall")
+        plt.title("Queries\' R Recall vs Average 10-Recall")
 
         plt.show()
 
@@ -461,6 +462,6 @@ class WikiEvaluatorPrinter:
 wiki_printer = WikiEvaluatorPrinter()
 # wiki_printer.csv_write_results(description="")
 # wiki_printer.console_write_results()
-wiki_printer.plot_graph_of_query_precision_levels(17)
-# wiki_printer.plot_graph_of_query_avg_precision_vs_map()
-# wiki_printer.plot_graph_of_query_rrecall_vs_avg_recall()
+wiki_printer.plot_graph_of_query_precision_levels(1)
+#wiki_printer.plot_graph_of_query_avg_precision_vs_map()
+#wiki_printer.plot_graph_of_query_rrecall_vs_avg_recall()

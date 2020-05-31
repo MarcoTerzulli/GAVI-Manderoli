@@ -26,6 +26,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Inserita la deviazione standard nel grafico">
+      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_1loaqqt099v66rlu.seg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_WRITELOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_cz3itqi5gq5gaese.seg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wiki_index/_MAIN_1.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation.py" afterDir="false" />
     </list>
@@ -150,6 +154,9 @@
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -323,6 +330,7 @@
       <workItem from="1590565685364" duration="99000" />
       <workItem from="1590945661449" duration="442000" />
       <workItem from="1590947106035" duration="6264000" />
+      <workItem from="1590953950160" duration="3073000" />
     </task>
     <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
       <created>1588986373660</created>
@@ -662,9 +670,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="924" y="202" width="712" height="996" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1589647978011" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1590172119480">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="648" y="117" width="1260" height="1281" key="search.everywhere.popup" timestamp="1590954632043">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
+    <state x="648" y="117" width="1260" height="1281" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1590954632043" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1590172119480" />
     <state x="408" y="287" width="540" height="227" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1589125637120">
       <screen x="0" y="27" width="1366" height="741" />
