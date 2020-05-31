@@ -213,7 +213,7 @@ class WikiEvaluator:
                     if len(relevant_results) < 1:
                         break
 
-            print(f"{query}")
+            print(query)
             print(relevant_results)
 
 

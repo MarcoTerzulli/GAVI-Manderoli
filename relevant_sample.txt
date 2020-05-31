@@ -19,7 +19,7 @@ Background_of_the_Spanish_Civil_War
 Republican_faction_(Spanish_Civil_War)
 Category:Spanish_Civil_War
 Final_offensive_of_the_Spanish_Civil_War
-1938-39_in_the_Spanish_Civil_War
+1938–39_in_the_Spanish_Civil_War
 Francoist_Spain
 German_involvement_in_the_Spanish_Civil_War
 
@@ -63,7 +63,7 @@ List_of_programming_languages
 ---Least Squares.csv
 Least_squares
 Linear_least_squares
-Category:Least_squares
+Category:Least squares
 Ordinary_least_squares
 Regularized_least_squares
 Total_least_squares
@@ -159,15 +159,15 @@ Politics_of_Tuscany
 
 ---Financial meltdown.csv
 Financial_crisis
-Financial_crisis_of_2007-08
+Financial crisis of 2007–08
 Great_Recession
-List_of_economic_crises
-2008-2011_Icelandic_financial_crisis
+List of economic crises
+2008–2011 Icelandic financial crisis
 Global_financial_crisis_in_September_2008
 Subprime_mortgage_crisis
-Panic_of_1825
+Panic of 1825
 Financial_Crisis_Inquiry_Commission
-Panic_of_1857
+Panic of 1857
 
 ---Mars robots.csv
 Mars_rover
@@ -256,14 +256,14 @@ Apple
 
 ---Read the manual.csv
 RTFM
-Owner’s_manual
-Owner’s_Manual_(TV_series)
+Owner's_manual
+Owner's Manual (TV series)
 The_Manual
 Talk:RTFM
 User_guide
-Wikipedia:Simplified_Manual_of_Style
+Wikipedia:Simplified Manual of Style
 Manual_for_Streets
-Training_manual
+Training manual
 Quickstart_guide
 
 ---Solar energy.csv
@@ -320,7 +320,7 @@ Triple_Cross_(1966_film)
 Triple_Cross
 The_Triple_Cross
 Joe_Palooka_in_Triple_Cross
-Triple_Crossed_(film)
+Triple Crossed (film)
 Papal_cross
 Triple_product
 Eddie_Chapman
