@@ -491,8 +491,6 @@ class WikiEvaluatorPrinter:
             x_imported_dict['MEAN AVERAGE PRECISION'] = self.__imported_mean_avg_precision
             x_imported_dict = sort_dict_in_same_order_of_another(x_dict, x_imported_dict)
 
-            print(f"\nVecchia {self.__imported_mean_avg_precision}, nuova {self.__mean_avg_precision}\n")
-
             y_imported_bar_heights = []
             y_imported_man_points = []
 
@@ -510,17 +508,13 @@ class WikiEvaluatorPrinter:
                 y_man_points.append(self.__mean_avg_precision)
 
             x_points = list(range(1, (len(x_dict)) * 2 + 1, 2))
-            imported_x_points = list(range(2, (len(x_dict) + 1) * 2, 2))
-
-            print(x_points)
-            print(len(x_points))
-            print(len(imported_x_points))
+            x_imported_points = list(range(2, (len(x_dict) + 1) * 2, 2))
 
             bar_list = plt.bar(x_points, y_bar_heights, width=0.8, color=['orange'])
             plt.plot(list(range(1, (len(x_dict) + 1) * 2)), y_man_points, 'r:', label="Mean Average Precision", linewidth=2)  # precision "standard"
             bar_list[bar_labels.index('MEAN AVERAGE PRECISION')].set_color('r')  # coloro la barra della man
 
-            imported_bar_list = plt.bar(imported_x_points, y_imported_bar_heights, width=-0.8,  align='edge', color=['#0277BD'])
+            imported_bar_list = plt.bar(x_imported_points, y_imported_bar_heights, width=-0.8,  align='edge', color=['#0277BD'])
             plt.plot(list(range(1, (len(x_dict) + 1) * 2)), y_imported_man_points, 'b:', label="Mean Average Precision Precedente",
                      linewidth=1)  # precision "standard"
             imported_bar_list[bar_labels.index('MEAN AVERAGE PRECISION')].set_color('b')  # coloro la barra della man
@@ -548,7 +542,7 @@ class WikiEvaluatorPrinter:
         x_points = list(range(1, len(x_dict) + 1))
         y_bar_heights = []
         bar_labels = []
-        y_man_points = []
+        y_avg_points = []
         y_up_stedev_points = []
         y_low_stedev_points = []
 
@@ -559,7 +553,7 @@ class WikiEvaluatorPrinter:
 
         # popolamento della lista dei punti in y per la man (tutti uguali)
         for _ in range(1, len(x_dict) + 1):
-            y_man_points.append(avg_recall)
+            y_avg_points.append(avg_recall)
 
         # popolamento della lista dei punti in y per la up stedev (tutti uguali)
         for _ in range(1, len(x_dict) + 1):
@@ -569,11 +563,48 @@ class WikiEvaluatorPrinter:
         for _ in range(1, len(x_dict) + 1):
             y_low_stedev_points.append(lowerstdev)
 
-        bar_list = plt.bar(x_points, y_bar_heights, width=0.8, color=['orange'])
-        plt.plot(x_points, y_man_points, 'r:', label="Average Recall", linewidth=2)
-        bar_list[bar_labels.index('AVERAGE 10-RECALL')].set_color('r')  # coloro la barra della avg
-        plt.plot(x_points, y_up_stedev_points, 'g:', label="Standard Deviation", linewidth=2)  # upper stdev
-        plt.plot(x_points, y_low_stedev_points, 'g:', linewidth=2)  # upper stdev
+        if not compare_with_imported_data:
+            bar_list = plt.bar(x_points, y_bar_heights, width=0.8, color=['orange'])
+            plt.plot(x_points, y_avg_points, 'r:', label="Average Recall", linewidth=2)
+            bar_list[bar_labels.index('AVERAGE 10-RECALL')].set_color('r')  # coloro la barra della avg
+            plt.plot(x_points, y_up_stedev_points, 'g:', label="Standard Deviation", linewidth=2)  # upper stdev
+            plt.plot(x_points, y_low_stedev_points, 'g:', linewidth=2)  # upper stdev
+        else:
+            x_imported_dict = dict(self.__imported_r_recall_dict)
+            imported_avg_recall = mean(self.__imported_r_recall_dict[k] for k in self.__imported_r_recall_dict)
+            x_imported_dict['AVERAGE 10-RECALL'] = imported_avg_recall
+            x_imported_dict = sort_dict(x_imported_dict, True)
+
+            y_imported_bar_heights = []
+            y_imported_avg_points = []
+
+            x_points = list(range(1, (len(x_dict)) * 2 + 1, 2))
+            x_imported_points = list(range(2, (len(x_dict) + 1) * 2, 2))
+
+            # popolamento delle altezze delle barre e delle rispettive labels
+            for key, value in x_imported_dict.items():
+                y_imported_bar_heights.append(value)
+
+            # popolamento della lista dei punti in y per la man (tutti uguali)
+            for _ in range(1, (len(x_imported_dict) + 1) * 2):
+                y_imported_avg_points.append(imported_avg_recall)
+
+            # popolamento della lista dei punti in y per la man (tutti uguali)
+            y_avg_points = []
+            for _ in range(1, (len(x_imported_dict) + 1) * 2):
+                y_avg_points.append(avg_recall)
+
+            bar_list = plt.bar(x_points, y_bar_heights, width=0.8, color=['orange'])
+            plt.plot(list(range(1, (len(x_dict) + 1) * 2)), y_avg_points, 'r:', label="Average Recall", linewidth=2)
+            bar_list[bar_labels.index('AVERAGE 10-RECALL')].set_color('r')  # coloro la barra della avg
+
+            imported_bar_list = plt.bar(x_imported_points, y_imported_bar_heights, width=-0.8, align='edge',
+                                        color=['#0277BD'])
+            plt.plot(list(range(1, (len(x_dict) + 1) * 2)), y_imported_avg_points, 'b:',
+                     label="Average Recall",
+                     linewidth=1)  # precision "standard"
+            imported_bar_list[bar_labels.index('AVERAGE 10-RECALL')].set_color('b')  # coloro la barra della man
+
 
         plt.legend()
         plt.xticks(x_points, bar_labels, rotation='vertical')
@@ -587,10 +618,11 @@ wiki_printer = WikiEvaluatorPrinter()
 #wiki_printer.csv_write_precision_at_recall_levels(description="0_AND")
 #wiki_printer.export_evaluation_data(description="AND")
 # wiki_printer.console_write_results()
-wiki_printer.plot_graph_of_query_precision_levels(1)
-wiki_printer.plot_graph_of_queries_avg_precision_vs_map()
-wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall()
+#wiki_printer.plot_graph_of_query_precision_levels(1)
+#wiki_printer.plot_graph_of_queries_avg_precision_vs_map()
+#wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall()
 
-#wiki_printer.import_evaluation_data("2020-06-02_21.29.11 0_AND - Data Export.dat")
+wiki_printer.import_evaluation_data("2020-06-02_21.29.11 0_AND - Data Export.dat")
 #wiki_printer.plot_graph_of_query_precision_levels(13, True)
 #wiki_printer.plot_graph_of_queries_avg_precision_vs_map(True)
+wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall(True)
