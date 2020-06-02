@@ -8,6 +8,7 @@ from configuration import benchmark_relevant_results_file
 from searching import WikiSearcherModule
 import matplotlib.pyplot as plt
 import numpy as np
+import pickle
 
 
 class WikiEvaluator:
@@ -254,9 +255,18 @@ class WikiEvaluatorPrinter:
         # sort del dizionario con i valori di recall
         self.__r_recall_dict = sort_dict(self.__r_recall_dict, True)
 
+        # strutture dati per eventuale import
+        self.imported_precision_queries_dict = None
+        self.imported_avg_precision_dict = None
+        self.imported_mean_avg_precision = None
+        self.imported_mean_precision_for_level_list = None
+        self.imported_stdev_for_level_list = None
+        self.imported_stedv_average_precision = None
+        self.imported_r_recall_dict = None
+
     # scrittura su file csv dei valori di precision per le query; i file cvs vengono memorizzati in una
     # cartella data e sono nominati col timestamp di generazione
-    def csv_write_results(self, res_dir="Test_evaluation_csv_output", description=""):
+    def csv_write_precision_at_recall_levels(self, res_dir="Test_evaluation_output", description=""):
         try:
             assert type(res_dir) is str
         except AssertionError:
@@ -272,9 +282,9 @@ class WikiEvaluatorPrinter:
 
         dt_string = datetime.now().strftime("%Y-%m-%d_%H.%M.%S")
         if description is not None and description != "":
-            description = f" - {description}"
+            description = f"{description} - "
 
-        file_name = f"{dt_string} Evaluation{description}.csv"
+        file_name = f"{dt_string} {description}Precision_At_Recall_Levels.csv"
         file_with_path = path.join(path.dirname(__file__), res_dir, f"{file_name}")
 
         with open(file_with_path, "w") as out_file:
@@ -308,6 +318,61 @@ class WikiEvaluatorPrinter:
               f"Deviazione standard average precision: {self.__stedv_average_precision}")
 
         print(f"\n{self.__evaluator.r_recall(1147)}")
+
+    # scrittura su file di tutti i valori calcolati dall'evaluation. Si utilizza un dizionario per rendere più facile
+    # la successiva importazione
+    def export_evaluation_data(self, res_dir="Test_evaluation_output", description=""):
+        try:
+            assert type(res_dir) is str
+        except AssertionError:
+            raise TypeError
+
+        try:
+            assert res_dir != ""
+        except AssertionError:
+            raise ValueError
+
+        if not path.exists(res_dir):
+            mkdir(res_dir)
+
+        # creazione file di output
+        dt_string = datetime.now().strftime("%Y-%m-%d_%H.%M.%S")
+        if description is not None and description != "":
+            description = f"{description} - "
+
+        file_name = f"{dt_string} {description}Data Export.dat"
+        file_with_path = path.join(path.dirname(__file__), res_dir, f"{file_name}")
+
+        # creazione dizionario per export
+        data = {'precision_queries_dict': self.__precision_queries_dict,
+                'avg_precision_dict': self.__avg_precision_dict,
+                'mean_avg_precision': self.__mean_avg_precision,
+                'mean_precision_for_level_list': self.__mean_precision_for_level_list,
+                'stdev_for_level_list': self.__stdev_for_level_list,
+                'stedv_average_precision': self.__stedv_average_precision,
+                'r_recall_dict': self.__r_recall_dict}
+
+        with open(file_with_path, "wb") as out_file:
+            pickle.dump(data, out_file)
+
+        print("\nDATA EXPORTED SUCCESSFULLY")
+
+    # impott da file di tutti i valori calcolati dall'evaluation
+    def import_evaluation_data(self, file_name, res_dir="Test_evaluation_output", description=""):
+        file_with_path = path.join(path.dirname(__file__), res_dir, f"{file_name}")
+
+        with open(file_with_path, "rb") as in_file:
+            data = pickle.load(in_file)
+
+        self.imported_precision_queries_dict = data['precision_queries_dict']
+        self.imported_avg_precision_dict = data['avg_precision_dict']
+        self.imported_mean_avg_precision = data['mean_avg_precision']
+        self.imported_mean_precision_for_level_list = data['mean_precision_for_level_list']
+        self.imported_stdev_for_level_list = data['stdev_for_level_list']
+        self.imported_stedv_average_precision = data['stedv_average_precision']
+        self.imported_r_recall_dict = data['r_recall_dict']
+
+        print("\nDATA IMPORTED SUCCESSFULLY")
 
     # stampa il grafico di una query identificata dal query number (0-29)
     def plot_graph_of_query_precision_levels(self, query_number=0):
@@ -361,8 +426,8 @@ class WikiEvaluatorPrinter:
 
         plt.show()
 
-    # stampa il grafico di una query identificata dal query number (0-29)
-    def plot_graph_of_query_avg_precision_vs_map(self):
+    # stampa il grafico della avg precision confrontato alla map
+    def plot_graph_of_queries_avg_precision_vs_map(self):
 
         x_dict = dict(self.__avg_precision_dict)
         x_dict['MEAN AVERAGE PRECISION'] = self.__mean_avg_precision
@@ -409,8 +474,8 @@ class WikiEvaluatorPrinter:
 
         plt.show()
 
-    # stampa il grafico di una query identificata dal query number (0-29)
-    def plot_graph_of_query_rrecall_vs_avg_recall(self):
+    # stampa il grafico delle r recall confrontato alla media delle r recall
+    def plot_graph_of_queries_rrecall_vs_avg_recall(self):
 
         x_dict = dict(self.__r_recall_dict)
         avg_recall = mean(self.__r_recall_dict[k] for k in self.__r_recall_dict)
@@ -460,8 +525,11 @@ class WikiEvaluatorPrinter:
 
 
 wiki_printer = WikiEvaluatorPrinter()
-# wiki_printer.csv_write_results(description="")
+# wiki_printer.csv_write_precision_at_recall_levels(description="OR")
+# wiki_printer.export_evaluation_data(description="OR")
 # wiki_printer.console_write_results()
-wiki_printer.plot_graph_of_query_precision_levels(1)
-wiki_printer.plot_graph_of_query_avg_precision_vs_map()
-wiki_printer.plot_graph_of_query_rrecall_vs_avg_recall()
+#wiki_printer.plot_graph_of_query_precision_levels(1)
+#wiki_printer.plot_graph_of_queries_avg_precision_vs_map()
+#wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall()
+
+wiki_printer.import_evaluation_data("2020-06-02_20.55.39 OR - Data Export.dat")
