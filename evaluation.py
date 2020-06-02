@@ -224,7 +224,7 @@ def get_dict_nth_key(dictionary, n=0):
     for i, key in enumerate(dictionary.keys()):
         if i == n:
             return key
-    raise IndexError("dictionary index out of range")
+    raise IndexError("Dictionary index out of range")
 
 
 def get_dict_nth_value(dictionary, n=0):
@@ -233,11 +233,20 @@ def get_dict_nth_value(dictionary, n=0):
     for i, value in enumerate(dictionary.values()):
         if i == n:
             return value
-    raise IndexError("dictionary index out of range")
+    raise IndexError("Dictionary index out of range")
 
 
 def sort_dict(dictionary, revers=False):
     return {k: v for k, v in sorted(dictionary.items(), key=lambda item: item[1], reverse=revers)}
+
+def sort_dict_in_same_order_of_another(dictionary_original, dictionary_unordered):
+    if dictionary_original.__len__() != dictionary_unordered.__len__():
+        raise IndexError("Dictionaries must have the same number of items")
+    else:
+        new_dict = {}
+        for key in dictionary_original:
+            new_dict[key] = dictionary_unordered[key]
+        return new_dict
 
 
 class WikiEvaluatorPrinter:
@@ -256,13 +265,13 @@ class WikiEvaluatorPrinter:
         self.__r_recall_dict = sort_dict(self.__r_recall_dict, True)
 
         # strutture dati per eventuale import
-        self.imported_precision_queries_dict = None
-        self.imported_avg_precision_dict = None
-        self.imported_mean_avg_precision = None
-        self.imported_mean_precision_for_level_list = None
-        self.imported_stdev_for_level_list = None
-        self.imported_stedv_average_precision = None
-        self.imported_r_recall_dict = None
+        self.__imported_precision_queries_dict = None
+        self.__imported_avg_precision_dict = None
+        self.__imported_mean_avg_precision = None
+        self.__imported_mean_precision_for_level_list = None
+        self.__imported_stdev_for_level_list = None
+        self.__imported_stedv_average_precision = None
+        self.__imported_r_recall_dict = None
 
     # scrittura su file csv dei valori di precision per le query; i file cvs vengono memorizzati in una
     # cartella data e sono nominati col timestamp di generazione
@@ -364,18 +373,18 @@ class WikiEvaluatorPrinter:
         with open(file_with_path, "rb") as in_file:
             data = pickle.load(in_file)
 
-        self.imported_precision_queries_dict = data['precision_queries_dict']
-        self.imported_avg_precision_dict = data['avg_precision_dict']
-        self.imported_mean_avg_precision = data['mean_avg_precision']
-        self.imported_mean_precision_for_level_list = data['mean_precision_for_level_list']
-        self.imported_stdev_for_level_list = data['stdev_for_level_list']
-        self.imported_stedv_average_precision = data['stedv_average_precision']
-        self.imported_r_recall_dict = data['r_recall_dict']
+        self.__imported_precision_queries_dict = data['precision_queries_dict']
+        self.__imported_avg_precision_dict = data['avg_precision_dict']
+        self.__imported_mean_avg_precision = data['mean_avg_precision']
+        self.__imported_mean_precision_for_level_list = data['mean_precision_for_level_list']
+        self.__imported_stdev_for_level_list = data['stdev_for_level_list']
+        self.__imported_stedv_average_precision = data['stedv_average_precision']
+        self.__imported_r_recall_dict = data['r_recall_dict']
 
         print("\nDATA IMPORTED SUCCESSFULLY")
 
     # stampa il grafico di una query identificata dal query number (0-29)
-    def plot_graph_of_query_precision_levels(self, query_number=0):
+    def plot_graph_of_query_precision_levels(self, query_number=0, compare_with_imported_data=False):
         try:
             assert 0 <= query_number < 30
         except AssertionError:
@@ -386,18 +395,14 @@ class WikiEvaluatorPrinter:
         x_points = np.linspace(0.1, 1, 10)
         y_precision_standard = get_dict_nth_value(self.__precision_queries_dict, query_number)
         # y_precision_media_livello = self.__mean_precision_for_level_list
-        y_upper_deviazione_standard_livello = []
-        y_lower_deviazione_standard_livello = []
+        # y_upper_deviazione_standard_livello = []
+        # y_lower_deviazione_standard_livello = []
 
-        if len(self.__stdev_for_level_list) != len(self.__mean_precision_for_level_list):
-            print("ERRORE: La dimensione del vettore della deviazione standard non coincide con"
-                  " il vettore dei valori medi")
-
-        for i in range(min(len(self.__stdev_for_level_list), len(self.__mean_precision_for_level_list))):
-            mean = self.__mean_precision_for_level_list[i]
-            st_dev = self.__stdev_for_level_list[i]
-            y_upper_deviazione_standard_livello.append(mean + st_dev)
-            y_lower_deviazione_standard_livello.append(mean - st_dev)
+        #for i in range(min(len(self.__stdev_for_level_list), len(self.__mean_precision_for_level_list))):
+            #    mean = self.__mean_precision_for_level_list[i]
+            #    st_dev = self.__stdev_for_level_list[i]
+            #    y_upper_deviazione_standard_livello.append(mean + st_dev)
+        #    y_lower_deviazione_standard_livello.append(mean - st_dev)
 
         # in caso nella precision standard vi siano meno di 10 elementi, metto gli altri a zero
         if len(y_precision_standard) < 10:
@@ -414,20 +419,33 @@ class WikiEvaluatorPrinter:
         # plt.plot(x_points, y_lower_deviazione_standard_livello, 'r:')
         # plt.plot(x_points, self.__mean_precision_for_level_list, '-', label="Precision Media Completa")  # precision media per livello
 
+        # eventuale caricamento e stampa dei dati importati
+        if compare_with_imported_data:
+            y_imported_precision_standard = get_dict_nth_value(self.__imported_precision_queries_dict, query_number)
+
+            if len(y_imported_precision_standard) < 10:
+                for _ in range(10 - len(y_imported_precision_standard)):
+                    y_imported_precision_standard.append(0)
+
+            y_imported_precision_media_livello = [(self.__imported_mean_precision_for_level_list[i] * 30 -
+                                                   y_imported_precision_standard[i]) / 29 for i in range(10)]
+
+            plt.plot(x_points, y_imported_precision_standard, ':', label="Precision Precedente")  # precision "standard"
+            plt.plot(x_points, y_imported_precision_media_livello, ':',
+                     label=f"Precision Media Precedente senza {query_name}")  # precision media per livello
+
         plt.legend()
         plt.xlabel("Recall")
         plt.ylabel("Precision")
         plt.title(query_name)
 
-        # ax.set_xticks(numpy.arange(0, 1, 0.1))
-        # plt.scatter(x_points, y_precision_standard)
         plt.xticks(np.arange(0.1, 1.1, 0.1))
         plt.grid(color='#CCCCCC')
 
         plt.show()
 
     # stampa il grafico della avg precision confrontato alla map
-    def plot_graph_of_queries_avg_precision_vs_map(self):
+    def plot_graph_of_queries_avg_precision_vs_map(self, compare_with_imported_data=False):
 
         x_dict = dict(self.__avg_precision_dict)
         x_dict['MEAN AVERAGE PRECISION'] = self.__mean_avg_precision
@@ -461,11 +479,52 @@ class WikiEvaluatorPrinter:
         for _ in range(1, len(x_dict) + 1):
             y_low_stedev_points.append(lowerstdev)
 
-        bar_list = plt.bar(x_points, y_bar_heights, width=0.8, color=['orange'])
-        plt.plot(x_points, y_man_points, 'r:', label="Mean Average Precision", linewidth=2)  # precision "standard"
-        bar_list[bar_labels.index('MEAN AVERAGE PRECISION')].set_color('r')  # coloro la barra della man
-        plt.plot(x_points, y_up_stedev_points, 'g:', label="Standard Deviation", linewidth=2)  # upper stdev
-        plt.plot(x_points, y_low_stedev_points, 'g:', linewidth=2)  # upper stdev
+        if not compare_with_imported_data:
+            bar_list = plt.bar(x_points, y_bar_heights, width=0.8, color=['orange'])
+            plt.plot(x_points, y_man_points, 'r:', label="Mean Average Precision", linewidth=2)  # precision "standard"
+            bar_list[bar_labels.index('MEAN AVERAGE PRECISION')].set_color('r')  # coloro la barra della man
+
+            plt.plot(x_points, y_up_stedev_points, 'g:', label="Standard Deviation", linewidth=2)  # upper stdev
+            plt.plot(x_points, y_low_stedev_points, 'g:', linewidth=2)  # upper stdev
+        else:
+            x_imported_dict = dict(self.__imported_avg_precision_dict)
+            x_imported_dict['MEAN AVERAGE PRECISION'] = self.__imported_mean_avg_precision
+            x_imported_dict = sort_dict_in_same_order_of_another(x_dict, x_imported_dict)
+
+            print(f"\nVecchia {self.__imported_mean_avg_precision}, nuova {self.__mean_avg_precision}\n")
+
+            y_imported_bar_heights = []
+            y_imported_man_points = []
+
+            # popolamento delle altezze delle barre e delle rispettive labels
+            for key, value in x_imported_dict.items():
+                y_imported_bar_heights.append(value)
+
+            # popolamento della lista dei punti in y per la man (tutti uguali)
+            for _ in range(1, (len(x_imported_dict) + 1) * 2):
+                y_imported_man_points.append(self.__imported_mean_avg_precision)
+
+            # popolamento della lista dei punti in y per la man (tutti uguali)
+            y_man_points = []
+            for _ in range(1, (len(x_dict) + 1) * 2):
+                y_man_points.append(self.__mean_avg_precision)
+
+            x_points = list(range(1, (len(x_dict)) * 2 + 1, 2))
+            imported_x_points = list(range(2, (len(x_dict) + 1) * 2, 2))
+
+            print(x_points)
+            print(len(x_points))
+            print(len(imported_x_points))
+
+            bar_list = plt.bar(x_points, y_bar_heights, width=0.8, color=['orange'])
+            plt.plot(list(range(1, (len(x_dict) + 1) * 2)), y_man_points, 'r:', label="Mean Average Precision", linewidth=2)  # precision "standard"
+            bar_list[bar_labels.index('MEAN AVERAGE PRECISION')].set_color('r')  # coloro la barra della man
+
+            imported_bar_list = plt.bar(imported_x_points, y_imported_bar_heights, width=-0.8,  align='edge', color=['#0277BD'])
+            plt.plot(list(range(1, (len(x_dict) + 1) * 2)), y_imported_man_points, 'b:', label="Mean Average Precision Precedente",
+                     linewidth=1)  # precision "standard"
+            imported_bar_list[bar_labels.index('MEAN AVERAGE PRECISION')].set_color('b')  # coloro la barra della man
+
 
         plt.legend()
         plt.xticks(x_points, bar_labels, rotation='vertical')
@@ -475,7 +534,7 @@ class WikiEvaluatorPrinter:
         plt.show()
 
     # stampa il grafico delle r recall confrontato alla media delle r recall
-    def plot_graph_of_queries_rrecall_vs_avg_recall(self):
+    def plot_graph_of_queries_rrecall_vs_avg_recall(self, compare_with_imported_data=False):
 
         x_dict = dict(self.__r_recall_dict)
         avg_recall = mean(self.__r_recall_dict[k] for k in self.__r_recall_dict)
@@ -525,11 +584,13 @@ class WikiEvaluatorPrinter:
 
 
 wiki_printer = WikiEvaluatorPrinter()
-# wiki_printer.csv_write_precision_at_recall_levels(description="OR")
-# wiki_printer.export_evaluation_data(description="OR")
+#wiki_printer.csv_write_precision_at_recall_levels(description="0_AND")
+#wiki_printer.export_evaluation_data(description="AND")
 # wiki_printer.console_write_results()
-#wiki_printer.plot_graph_of_query_precision_levels(1)
-#wiki_printer.plot_graph_of_queries_avg_precision_vs_map()
-#wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall()
+wiki_printer.plot_graph_of_query_precision_levels(1)
+wiki_printer.plot_graph_of_queries_avg_precision_vs_map()
+wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall()
 
-wiki_printer.import_evaluation_data("2020-06-02_20.55.39 OR - Data Export.dat")
+#wiki_printer.import_evaluation_data("2020-06-02_21.29.11 0_AND - Data Export.dat")
+#wiki_printer.plot_graph_of_query_precision_levels(13, True)
+#wiki_printer.plot_graph_of_queries_avg_precision_vs_map(True)
