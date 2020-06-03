@@ -601,7 +601,7 @@ class WikiEvaluatorPrinter:
             imported_bar_list = plt.bar(x_imported_points, y_imported_bar_heights, width=-0.8, align='edge',
                                         color=['#0277BD'])
             plt.plot(list(range(1, (len(x_dict) + 1) * 2)), y_imported_avg_points, 'b:',
-                     label="Average Recall",
+                     label="Average Recall Precedente",
                      linewidth=1)  # precision "standard"
             imported_bar_list[bar_labels.index('AVERAGE 11-RECALL')].set_color('b')  # coloro la barra della man
 
@@ -615,14 +615,14 @@ class WikiEvaluatorPrinter:
 
 
 wiki_printer = WikiEvaluatorPrinter()
-#wiki_printer.csv_write_precision_at_recall_levels(description="0_AND")
-#wiki_printer.export_evaluation_data(description="AND")
+wiki_printer.csv_write_precision_at_recall_levels(description="2_Stemming")
+wiki_printer.export_evaluation_data(description="2_Stemming")
 # wiki_printer.console_write_results()
 #wiki_printer.plot_graph_of_query_precision_levels(1)
 #wiki_printer.plot_graph_of_queries_avg_precision_vs_map()
 #wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall()
 
-wiki_printer.import_evaluation_data("2020-06-02_21.29.11 0_AND - Data Export.dat")
+wiki_printer.import_evaluation_data("2020-06-02_20.55.39 1_OR - Data Export.dat")
 wiki_printer.plot_graph_of_query_precision_levels(2, True)
 wiki_printer.plot_graph_of_query_precision_levels(14, True)
 wiki_printer.plot_graph_of_query_precision_levels(13, True)
