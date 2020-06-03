@@ -532,7 +532,7 @@ class WikiEvaluatorPrinter:
 
         x_dict = dict(self.__r_recall_dict)
         avg_recall = mean(self.__r_recall_dict[k] for k in self.__r_recall_dict)
-        x_dict['AVERAGE 10-RECALL'] = avg_recall
+        x_dict['AVERAGE 11-RECALL'] = avg_recall
         x_dict = sort_dict(x_dict, True)
 
         deviazione_standard = stdev(self.__r_recall_dict.values())
@@ -566,14 +566,14 @@ class WikiEvaluatorPrinter:
         if not compare_with_imported_data:
             bar_list = plt.bar(x_points, y_bar_heights, width=0.8, color=['orange'])
             plt.plot(x_points, y_avg_points, 'r:', label="Average Recall", linewidth=2)
-            bar_list[bar_labels.index('AVERAGE 10-RECALL')].set_color('r')  # coloro la barra della avg
+            bar_list[bar_labels.index('AVERAGE 11-RECALL')].set_color('r')  # coloro la barra della avg
             plt.plot(x_points, y_up_stedev_points, 'g:', label="Standard Deviation", linewidth=2)  # upper stdev
             plt.plot(x_points, y_low_stedev_points, 'g:', linewidth=2)  # upper stdev
         else:
             x_imported_dict = dict(self.__imported_r_recall_dict)
             imported_avg_recall = mean(self.__imported_r_recall_dict[k] for k in self.__imported_r_recall_dict)
-            x_imported_dict['AVERAGE 10-RECALL'] = imported_avg_recall
-            x_imported_dict = sort_dict(x_imported_dict, True)
+            x_imported_dict['AVERAGE 11-RECALL'] = imported_avg_recall
+            x_imported_dict = sort_dict_in_same_order_of_another(x_dict, x_imported_dict)
 
             y_imported_bar_heights = []
             y_imported_avg_points = []
@@ -596,20 +596,20 @@ class WikiEvaluatorPrinter:
 
             bar_list = plt.bar(x_points, y_bar_heights, width=0.8, color=['orange'])
             plt.plot(list(range(1, (len(x_dict) + 1) * 2)), y_avg_points, 'r:', label="Average Recall", linewidth=2)
-            bar_list[bar_labels.index('AVERAGE 10-RECALL')].set_color('r')  # coloro la barra della avg
+            bar_list[bar_labels.index('AVERAGE 11-RECALL')].set_color('r')  # coloro la barra della avg
 
             imported_bar_list = plt.bar(x_imported_points, y_imported_bar_heights, width=-0.8, align='edge',
                                         color=['#0277BD'])
             plt.plot(list(range(1, (len(x_dict) + 1) * 2)), y_imported_avg_points, 'b:',
                      label="Average Recall",
                      linewidth=1)  # precision "standard"
-            imported_bar_list[bar_labels.index('AVERAGE 10-RECALL')].set_color('b')  # coloro la barra della man
+            imported_bar_list[bar_labels.index('AVERAGE 11-RECALL')].set_color('b')  # coloro la barra della man
 
 
         plt.legend()
         plt.xticks(x_points, bar_labels, rotation='vertical')
         plt.ylabel("R Recall")
-        plt.title("Queries\' R Recall vs Average 10-Recall")
+        plt.title("Queries\' 11 Recall vs Average 11-Recall")
 
         plt.show()
 
@@ -618,13 +618,14 @@ wiki_printer = WikiEvaluatorPrinter()
 #wiki_printer.csv_write_precision_at_recall_levels(description="0_AND")
 #wiki_printer.export_evaluation_data(description="AND")
 # wiki_printer.console_write_results()
-wiki_printer.plot_graph_of_query_precision_levels(1)
-wiki_printer.plot_graph_of_query_precision_levels(14)
-wiki_printer.plot_graph_of_query_precision_levels(24)
-wiki_printer.plot_graph_of_queries_avg_precision_vs_map()
-wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall()
+#wiki_printer.plot_graph_of_query_precision_levels(1)
+#wiki_printer.plot_graph_of_queries_avg_precision_vs_map()
+#wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall()
 
 wiki_printer.import_evaluation_data("2020-06-02_21.29.11 0_AND - Data Export.dat")
-#wiki_printer.plot_graph_of_query_precision_levels(13, True)
+wiki_printer.plot_graph_of_query_precision_levels(2, True)
+wiki_printer.plot_graph_of_query_precision_levels(14, True)
+wiki_printer.plot_graph_of_query_precision_levels(13, True)
 wiki_printer.plot_graph_of_queries_avg_precision_vs_map(True)
 wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall(True)
+#wiki_printer.plot_graph_of_query_precision_levels(14)

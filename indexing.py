@@ -9,7 +9,6 @@ from os import path
 
 from sys import exit
 
-from whoosh.analysis import StemmingAnalyzer
 from whoosh.fields import TEXT, ID, Schema
 from whoosh.index import create_in
 
@@ -56,7 +55,7 @@ def index_writer_init(idx_dir="Wiki_index"):
     # Creazione dello schema dei documenti da indicizzare
     schema: Schema = Schema(title=TEXT(stored=True),
                             identifier=ID(stored=True, unique=True),
-                            content=TEXT(stored=True, analyzer=StemmingAnalyzer()))
+                            content=TEXT(stored=True))
 
     # Verifica dell'esistenza della cartella dell'indice
     if not path.exists(idx_dir):
