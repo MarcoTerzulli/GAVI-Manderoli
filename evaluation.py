@@ -601,7 +601,7 @@ class WikiEvaluatorPrinter:
             imported_bar_list = plt.bar(x_imported_points, y_imported_bar_heights, width=-0.8, align='edge',
                                         color=['#0277BD'])
             plt.plot(list(range(1, (len(x_dict) + 1) * 2)), y_imported_avg_points, 'b:',
-                     label="Average Recall",
+                     label="Average Recall Precedente",
                      linewidth=1)  # precision "standard"
             imported_bar_list[bar_labels.index('AVERAGE 11-RECALL')].set_color('b')  # coloro la barra della man
 
