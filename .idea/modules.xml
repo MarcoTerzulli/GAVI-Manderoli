@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" filepath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Tirocinio/Tirocinio_ScriptPython/.idea/Tirocinio_ScriptPython.iml" filepath="$PROJECT_DIR$/../../../Tirocinio/Tirocinio_ScriptPython/.idea/Tirocinio_ScriptPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Tirocinio/Tirocinio_triennale/.idea/Tirocinio_triennale.iml" filepath="$PROJECT_DIR$/../../../Tirocinio/Tirocinio_triennale/.idea/Tirocinio_triennale.iml" />
     </modules>
   </component>
 </project>

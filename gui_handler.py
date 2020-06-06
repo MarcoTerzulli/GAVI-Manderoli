@@ -53,12 +53,13 @@ class GuiHandler:
 
         self.__frame_center_query_result = self.__frame_scrolled.display_widget(Frame)
         self.__frame_center_query_result.configure(bg=self.__color_results)
-        self.__frame_center_query_result.pack(fill=BOTH, expand=True)
 
         self.__frame_scrolled.pack(
            fill=BOTH,
            expand=True
         )
+
+
 
         # ************************************************************************
         # ******************************* BOTTOM *********************************
@@ -77,6 +78,9 @@ class GuiHandler:
         # valore: titolo del risultato (servirà per generare l'url della pagina da aprire nel browser)
         self.__label_dict = dict()
 
+        # Label per query expansion
+        self.__label_more = dict()
+
     def _search_event(self, event=None):
         query_text = self.__entry_query.get()
 
@@ -85,31 +89,14 @@ class GuiHandler:
             #self.__frame_center_query_result = self.__frame_scrolled.display_widget(Frame)
             #self.__frame_center_query_result = Frame(self.__frame_scrolled, bg=self.__color_background)
 
-            for widget in self.__frame_center_query_result.winfo_children():
-                widget.destroy()
-
             self.__label_dict = dict()
+            self.__label_more = dict()
 
             # elaborazione query
             query_results: Results = self.__searcher.commit_query(query_text)
 
             # caricamento dei risultati nella gui
-            if len(query_results) == 0:
-                self._add_label_result(father_frame=self.__frame_center_query_result,
-                                       text=f"La ricerca di - {query_text} - non ha prodotto risultati.",
-                                       bg=self.__color_results,
-                                       justify=LEFT,
-                                       font=Font(size=self.__font_size_default))
-            else:
-                for res in query_results[:10]:
-                    label_text = f"{res['title']}"
-                    self._add_label_result(article_title=res['title'],
-                                           father_frame=self.__frame_center_query_result,
-                                           text=label_text,
-                                           bg=self.__color_results,
-                                           justify=LEFT,
-                                           cursor="hand2",
-                                           font=Font(size=self.__font_size_default))
+            self.__results_management(query_text, query_results)
 
     def gui_loader(self):
         self.__window.mainloop()
@@ -125,8 +112,14 @@ class GuiHandler:
     def _label_on_enter(self, event):
         event.widget.configure(fg="blue", font=Font(size=self.__font_size_default, underline=1))
 
+    def _label_more_on_enter(self, event):
+        event.widget.configure(fg="#c99c00", font=Font(size=self.__font_size_default-2, underline=1))
+
     def _label_on_leave(self, event):
         event.widget.configure(fg="black", font=Font(size=self.__font_size_default, underline=0))
+
+    def _label_more_on_leave(self, event):
+        event.widget.configure(fg="black", font=Font(size=self.__font_size_default-2, underline=0))
 
     def _add_label_result(self, father_frame, article_title=None, *args, **kwargs):
         label_result = Label(father_frame, *args, **kwargs)
@@ -141,4 +134,53 @@ class GuiHandler:
             # memorizzo il "riferimento" lable ed il titolo corrispondente, per la gestione dell'evento click
             self.__label_dict[label_result] = article_title
 
-        label_result.pack(anchor="w")
+        label_result.pack(anchor="w", expand=True)
+
+    def _add_label_more_like_this(self, father_frame, bounded_result, *args, **kwargs):
+        label_more_like_this = Label(father_frame, *args, **kwargs)
+
+        label_more_like_this.bind("<Button-1>", self._label_more_like_this_on_click)
+        label_more_like_this.bind("<Enter>", self._label_more_on_enter)
+        label_more_like_this.bind("<Leave>", self._label_more_on_leave)
+
+        self.__label_more[label_more_like_this] = bounded_result
+
+        label_more_like_this.pack(anchor="w", expand=True)
+
+    def _label_more_like_this_on_click(self, event):
+        base_res = self.__label_more[event.widget]
+        new_res = self.__searcher.get_similar_articles(base_res)
+        self.__results_management(base_res['title']+" (EXPANSION)", new_res)
+
+    def __results_management(self, query_text, query_results):
+
+        for widget in self.__frame_center_query_result.winfo_children():
+            widget.destroy()
+
+        if len(query_results) == 0:
+            self._add_label_result(father_frame=self.__frame_center_query_result,
+                                   text=f"La ricerca di - {query_text} - non ha prodotto risultati.",
+                                   bg=self.__color_results,
+                                   justify=LEFT,
+                                   font=Font(size=self.__font_size_default))
+        else:
+            for res in query_results[:10]:
+                label_text = f"{res['title']}"
+                self._add_label_result(article_title=res['title'],
+                                       father_frame=self.__frame_center_query_result,
+                                       text=label_text,
+                                       bg=self.__color_results,
+                                       justify=LEFT,
+                                       cursor="hand2",
+                                       font=Font(size=self.__font_size_default))
+
+                self._add_label_more_like_this(self.__frame_center_query_result,
+                                               res,
+                                               text="More like this\n",
+                                               bg=self.__color_results,
+                                               justify=LEFT,
+                                               cursor="hand2",
+                                               font=Font(size=self.__font_size_default-2))
+            Label(self.__frame_center_query_result, bg=self.__color_results, text=((" "*1000)+("\n"*30)), justify=LEFT).pack()
+
+

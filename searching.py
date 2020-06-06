@@ -6,7 +6,7 @@
 
 from whoosh.index import EmptyIndexError, open_dir
 from whoosh.qparser import OrGroup, QueryParser
-from whoosh.searching import Results
+from whoosh.searching import Results, Hit
 
 from configuration import index_dir
 
@@ -37,6 +37,16 @@ class WikiSearcherModule:
 
         # Restituisco la lista dei risultati
         return results
+
+    @staticmethod
+    def get_similar_articles(base_result):
+
+        try:
+            assert isinstance(base_result, Hit)
+        except AssertionError:
+            raise TypeError
+
+        return base_result.more_like_this('content')
 
     @staticmethod
     def get_article_url(title):
