@@ -91,7 +91,7 @@ class GuiHandler:
             self.__label_dict = dict()
 
             # elaborazione query
-            query_results: Results = self.__searcher.commit_query(query_text)
+            query_results: Results = self.__searcher.commit_query_with_disambiguation(query_text)
 
             # caricamento dei risultati nella gui
             if len(query_results) == 0:
