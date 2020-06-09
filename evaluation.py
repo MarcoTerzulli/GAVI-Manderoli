@@ -616,7 +616,7 @@ class WikiEvaluatorPrinter:
 
 wiki_printer = WikiEvaluatorPrinter()
 wiki_printer.csv_write_precision_at_recall_levels(description="3_Keyword Extraction")
-wiki_printer.export_evaluation_data(description="2_Keyword Extraction")
+wiki_printer.export_evaluation_data(description="3_Keyword Extraction")
 # wiki_printer.console_write_results()
 
 wiki_printer.import_evaluation_data("2020-06-09_07.44.24 2_Stemming - Data Export.dat")
