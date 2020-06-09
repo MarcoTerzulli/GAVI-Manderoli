@@ -615,17 +615,16 @@ class WikiEvaluatorPrinter:
 
 
 wiki_printer = WikiEvaluatorPrinter()
-wiki_printer.csv_write_precision_at_recall_levels(description="2_Stemming")
-wiki_printer.export_evaluation_data(description="2_Stemming")
+wiki_printer.csv_write_precision_at_recall_levels(description="3_Keyword Extraction")
+wiki_printer.export_evaluation_data(description="2_Keyword Extraction")
 # wiki_printer.console_write_results()
-#wiki_printer.plot_graph_of_query_precision_levels(1)
-wiki_printer.plot_graph_of_queries_avg_precision_vs_map()
-wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall()
 
-wiki_printer.import_evaluation_data("2020-06-02_20.55.39 1_OR - Data Export.dat")
+wiki_printer.import_evaluation_data("2020-06-09_07.44.24 2_Stemming - Data Export.dat")
 wiki_printer.plot_graph_of_query_precision_levels(2, True)
 wiki_printer.plot_graph_of_query_precision_levels(14, True)
 wiki_printer.plot_graph_of_query_precision_levels(13, True)
 wiki_printer.plot_graph_of_queries_avg_precision_vs_map(True)
 wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall(True)
+wiki_printer.plot_graph_of_queries_avg_precision_vs_map()
+wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall()
 #wiki_printer.plot_graph_of_query_precision_levels(14)
