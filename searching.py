@@ -3,13 +3,16 @@
 """
 @author: riccardo
 """
-
+import nltk
 from whoosh.index import EmptyIndexError, open_dir
 from whoosh.qparser import OrGroup, QueryParser
 from whoosh.searching import Results
 from nltk.wsd import lesk
 from nltk import word_tokenize, pos_tag
 from nltk.corpus import stopwords
+#nltk.download('punkt')
+#nltk.download('averaged_perceptron_tagger')
+#nltk.download('wordnet')
 
 from configuration import index_dir
 
