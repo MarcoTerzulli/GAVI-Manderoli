@@ -188,7 +188,7 @@ class WikiEvaluator:
     def __eval_r_recall_query(self, query, relevant_results=None, n_results=100):
         if query is not None:
             recalled = 0
-            results = self.__searcher.commit_query(query, n_results)
+            results = self.__searcher.commit_query_with_disambiguation(query, n_results)
             for res in results[:10]:
                 if relevant_results.get(res['title']) is not None:
                     recalled += 1
@@ -198,7 +198,7 @@ class WikiEvaluator:
         # Eseguo l'operazione soltanto se la query non è nulla
         if query is not None:
             # Eseguo la query indicata
-            results = self.__searcher.commit_query(query, n_results)
+            results = self.__searcher.commit_query_with_disambiguation(query, n_results)
             # Inizializzo la lista della precision a "n" livelli di recall per la query indicata
             self.__precision_recall_dict[query] = []
 
