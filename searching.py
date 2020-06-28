@@ -51,12 +51,19 @@ class WikiSearcherModule:
         for tt in tagged_tokens:
             if tt[1] in {'NN', 'NNS', 'NNP', 'NNPS'}:
                 noun_synonym = lesk(tokens, tt[0], 'n')
+                if noun_synonym is None:
+                    noun_synonym = tt[0]
+                print(query_synonym)
 
-                if noun_synonym is not None:
+                if noun_synonym is not None and type(noun_synonym) is not str:
                     query_synonym.append("".join(
                         [c if c != "_" else " " for c in noun_synonym.name().split(sep='.')[0]]))
+                elif noun_synonym is not None:
+                    query_synonym.append(" "+noun_synonym)
 
-        expanded_query = query_text+"".join([" "+noun_synonym+" " for noun_synonym in query_synonym])
+            else:
+                query_synonym.append((" "+tt[0]))
+        expanded_query = "".join([" "+noun_synonym+" " for noun_synonym in query_synonym])
         print(expanded_query)
         return self.commit_query(expanded_query, n_results)
 
