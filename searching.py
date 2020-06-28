@@ -54,7 +54,7 @@ class WikiSearcherModule:
 
                 if noun_synonym is not None:
                     query_synonym.append("".join([c if c != "_" else " " for c in noun_synonym.name().split(sep='.')[0]]))
-        expanded_query = query_text+"".join([" "+noun_synonym+" " for noun_synonym in query_synonym])
+        expanded_query = "".join([" "+noun_synonym+" " for noun_synonym in query_synonym])
         print(expanded_query)
         return self.commit_query(expanded_query, n_results)
 
