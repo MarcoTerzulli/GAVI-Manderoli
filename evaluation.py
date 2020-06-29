@@ -206,9 +206,6 @@ class WikiEvaluator:
                     recalled += 1
             return recalled/10
 
-
-
-
     def __eval_query(self, query, relevant_results=None, n_results=100):
         # Eseguo l'operazione soltanto se la query non è nulla
         if query is not None:
@@ -274,10 +271,11 @@ class WikiEvaluatorPrinter:
         self.__mean_precision_for_level_list = self.__evaluator.mean_precision_for_rec_level(1147)
         self.__stdev_for_level_list = self.__evaluator.precision_stdev_for_level(1147)
         self.__stedv_average_precision = stdev(self.__evaluator.average_precision(1147).values())
-        self.__r_recall_dict = self.__evaluator.r_recall(1147)
+        self.__r_recall_dict, self.__r_recall_mlt_dict = self.__evaluator.r_recall(1147)
 
         # sort del dizionario con i valori di recall
         self.__r_recall_dict = sort_dict(self.__r_recall_dict, True)
+        self.__r_recall_mlt_dict = sort_dict(self.__r_recall_mlt_dict, True)
 
         # strutture dati per eventuale import
         self.__imported_precision_queries_dict = None
@@ -628,6 +626,71 @@ class WikiEvaluatorPrinter:
 
         plt.show()
 
+    # stampa il grafico delle r recall confrontato alla media delle r recall
+    def plot_graph_of_queries_rrecall_vs_avg_recall_expanded(self):
+
+        x_mlt_dict = dict(self.__r_recall_mlt_dict)
+        mlt_avg_recall = mean(self.__r_recall_mlt_dict[k] for k in self.__r_recall_mlt_dict)
+        x_mlt_dict['AVERAGE 11-RECALL'] = mlt_avg_recall
+        x_mlt_dict = sort_dict(x_mlt_dict, True)
+
+        x_points = list(range(1, len(x_mlt_dict) + 1))
+        y_mlt_bar_heights = []
+        bar_labels = []
+        y_mlt_avg_points = []
+
+        # popolamento delle altezze delle barre e delle rispettive labels
+        for key, value in x_mlt_dict.items():
+            bar_labels.append(key)
+            y_mlt_bar_heights.append(value)
+
+        # popolamento della lista dei punti in y per la man (tutti uguali)
+        #for _ in range(1, len(x_mlt_dict) + 1):
+        #    y_mlt_avg_points.append(mlt_avg_recall)
+
+        x_dict = dict(self.__r_recall_dict)
+        avg_recall = mean(self.__r_recall_dict[k] for k in self.__r_recall_dict)
+        x_dict['AVERAGE 11-RECALL'] = avg_recall
+        x_dict = sort_dict_in_same_order_of_another(x_mlt_dict, x_dict)
+
+        y_bar_heights = []
+        y_avg_points = []
+
+        x_mlt_points = list(range(1, (len(x_mlt_dict)) * 2 + 1, 2))
+        x_points = list(range(2, (len(x_mlt_dict) + 1) * 2, 2))
+
+        # popolamento delle altezze delle barre e delle rispettive labels
+        for key, value in x_dict.items():
+            y_bar_heights.append(value)
+
+        # popolamento della lista dei punti in y per la man (tutti uguali)
+        for _ in range(1, (len(x_mlt_dict) + 1) * 2):
+            y_mlt_avg_points.append(mlt_avg_recall)
+
+        # popolamento della lista dei punti in y per la man (tutti uguali)
+        y_avg_points = []
+        for _ in range(1, (len(x_mlt_dict) + 1) * 2):
+            y_avg_points.append(avg_recall)
+
+        bar_list = plt.bar(x_mlt_points, y_mlt_bar_heights, width=0.8, color=['orange'])
+        plt.plot(list(range(1, (len(x_mlt_dict) + 1) * 2)), y_mlt_avg_points, 'r:', label="Average Recall Expanded",
+                 linewidth=2)
+        bar_list[bar_labels.index('AVERAGE 11-RECALL')].set_color('r')  # coloro la barra della avg
+
+        imported_bar_list = plt.bar(x_points, y_bar_heights, width=-0.8, align='edge',
+                                    color=['#0277BD'])
+        plt.plot(list(range(1, (len(x_mlt_dict) + 1) * 2)), y_avg_points, 'b:',
+                 label="Average Recall",
+                 linewidth=1)  # precision "standard"
+        imported_bar_list[bar_labels.index('AVERAGE 11-RECALL')].set_color('b')  # coloro la barra della man
+
+        plt.legend()
+        plt.xticks(x_points, bar_labels, rotation='vertical')
+        plt.ylabel("R Recall")
+        plt.title("Queries\' 11 Recall vs Average 11-Recall")
+
+        plt.show()
+
 
 wiki_printer = WikiEvaluatorPrinter()
 #wiki_printer.csv_write_precision_at_recall_levels(description="3_Keyword Extraction")
@@ -635,11 +698,12 @@ wiki_printer = WikiEvaluatorPrinter()
 # wiki_printer.console_write_results()
 
 wiki_printer.import_evaluation_data("2020-06-09_07.44.24 2_Stemming - Data Export.dat")
-wiki_printer.plot_graph_of_query_precision_levels(1, True)
-wiki_printer.plot_graph_of_query_precision_levels(14, True)
-wiki_printer.plot_graph_of_query_precision_levels(19, True)
-wiki_printer.plot_graph_of_queries_avg_precision_vs_map(True)
-wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall(True)
-wiki_printer.plot_graph_of_queries_avg_precision_vs_map()
-wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall()
+#wiki_printer.plot_graph_of_query_precision_levels(1, True)
+#wiki_printer.plot_graph_of_query_precision_levels(14, True)
+#wiki_printer.plot_graph_of_query_precision_levels(19, True)
+#wiki_printer.plot_graph_of_queries_avg_precision_vs_map(True)
+#wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall(True)
+#wiki_printer.plot_graph_of_queries_avg_precision_vs_map()
+#wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall()
+wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall_expanded()
 #wiki_printer.plot_graph_of_query_precision_levels(14)
