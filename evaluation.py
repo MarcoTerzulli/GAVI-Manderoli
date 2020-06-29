@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pickle
 
+res_for_expansion = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 
 class WikiEvaluator:
 
@@ -31,6 +32,7 @@ class WikiEvaluator:
         self.__stdev_list = None
         # r_recall con r = 10
         self.__r_recall = None
+        self.__r_recall_mlt = None
 
     def precision_at_recall_levels(self, n_results=100):
         """
@@ -162,6 +164,8 @@ class WikiEvaluator:
             query = None
             relevant_results = None
             self.__r_recall = dict()
+            self.__r_recall_mlt = dict()
+            res_for_exp = res_for_expansion.copy()
             for line in relevant_res_file:
                 # Pulisco la linea del file dai "whitespaces"
                 clean_line = line.rstrip()
@@ -172,7 +176,12 @@ class WikiEvaluator:
 
                         ### ZONA ORIGINALE ###
                         # ESEGUO LA QUERY INDICATA E NE CALCOLO LA R-PRECISION CON R=10
-                        self.__eval_r_recall_query(query, relevant_results, n_results)
+                        if query is not None:
+                            results = self.__searcher.commit_query(query, n_results)
+                            self.__r_recall[query] = self.__eval_r_recall_query(results, relevant_results, n_results)
+                            results = self.__searcher.get_similar_articles(results[res_for_exp.pop()])
+                            print(results)
+                            self.__r_recall_mlt[query] = self.__eval_r_recall_query(results, relevant_results, n_results)
                         ### FINE ZONA ORIGINALE ###
 
                         # Inizializzo il dizionario dei risultati rilevanti alla nuova query
@@ -182,17 +191,23 @@ class WikiEvaluator:
                     # Se la riga ottenuta dal file non è una query la inserisco tra i risultati rilevanti alla query
                     elif relevant_results is not None:
                         relevant_results["".join([c if c != "_" else " " for c in clean_line])] = True
-            self.__eval_r_recall_query(query, relevant_results, n_results)
-            return self.__r_recall
-
-    def __eval_r_recall_query(self, query, relevant_results=None, n_results=100):
-        if query is not None:
-            recalled = 0
             results = self.__searcher.commit_query(query, n_results)
+            self.__r_recall[query] = self.__eval_r_recall_query(results, relevant_results, n_results)
+            results = self.__searcher.get_similar_articles(results[res_for_exp.pop()])
+            print(results)
+            self.__r_recall_mlt[query] = self.__eval_r_recall_query(results, relevant_results, n_results)
+            return self.__r_recall, self.__r_recall_mlt
+
+    def __eval_r_recall_query(self, results, relevant_results=None, n_results=100):
+        if results is not None:
+            recalled = 0
             for res in results[:10]:
                 if relevant_results.get(res['title']) is not None:
                     recalled += 1
-            self.__r_recall[query] = (recalled / 10)
+            return recalled/10
+
+
+
 
     def __eval_query(self, query, relevant_results=None, n_results=100):
         # Eseguo l'operazione soltanto se la query non è nulla
