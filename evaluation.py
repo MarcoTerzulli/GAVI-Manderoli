@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pickle
 
-res_for_expansion = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+res_for_expansion = [2, 0, 0, 0, 3, 0, 1, 0, 10, 0, 5, 0, 4, 6, 1, 2, 5, 0, 0, 0, 0, 4, 9, 1, 3, 2, 0, 0, 0, 0]
 
 class WikiEvaluator:
 
@@ -152,7 +152,7 @@ class WikiEvaluator:
 
         return self.__stdev_list
 
-    def r_recall(self, n_results=100):
+    def r_recall(self, n_results=100, res_for_exp=[0]*30):
         """
         ATTENZIONE: CODICE RIPETUTO PRESO DA precision_at_recall_levels E __eval_query, zona originale di questo
         metodo flaggata appositamente
@@ -163,9 +163,9 @@ class WikiEvaluator:
             # Inizialmente la query "attuale" e la "lista" dei risultati rilevanti sono nulli
             query = None
             relevant_results = None
+            res_for_exp_cp = res_for_exp.copy()
             self.__r_recall = dict()
             self.__r_recall_mlt = dict()
-            res_for_exp = res_for_expansion.copy()
             for line in relevant_res_file:
                 # Pulisco la linea del file dai "whitespaces"
                 clean_line = line.rstrip()
@@ -179,8 +179,7 @@ class WikiEvaluator:
                         if query is not None:
                             results = self.__searcher.commit_query(query, n_results)
                             self.__r_recall[query] = self.__eval_r_recall_query(results, relevant_results, n_results)
-                            results = self.__searcher.get_similar_articles(results[res_for_exp.pop()])
-                            print(results)
+                            results = self.__searcher.get_similar_articles(results[res_for_exp_cp.pop(0)])
                             self.__r_recall_mlt[query] = self.__eval_r_recall_query(results, relevant_results, n_results)
                         ### FINE ZONA ORIGINALE ###
 
@@ -193,8 +192,7 @@ class WikiEvaluator:
                         relevant_results["".join([c if c != "_" else " " for c in clean_line])] = True
             results = self.__searcher.commit_query(query, n_results)
             self.__r_recall[query] = self.__eval_r_recall_query(results, relevant_results, n_results)
-            results = self.__searcher.get_similar_articles(results[res_for_exp.pop()])
-            print(results)
+            results = self.__searcher.get_similar_articles(results[res_for_exp_cp.pop()])
             self.__r_recall_mlt[query] = self.__eval_r_recall_query(results, relevant_results, n_results)
             return self.__r_recall, self.__r_recall_mlt
 
@@ -205,6 +203,35 @@ class WikiEvaluator:
                 if relevant_results.get(res['title']) is not None:
                     recalled += 1
             return recalled/10
+
+    def best_expansions_finder(self):
+        res_for_exp = [0]*30
+        best_expansions = res_for_exp.copy()
+        _, best_r_recall = self.r_recall(res_for_exp=res_for_exp)
+        print(len(best_r_recall))
+
+        for i in range(1, 11):
+            print(f"Iterazione: {i}")
+            res_for_exp = [i]*30
+            _, new_r_recall = self.r_recall(res_for_exp=res_for_exp)
+            j = 0
+            for query, score in new_r_recall.items():
+                if j >= 30:
+                    break
+                if score > best_r_recall[query]:
+                    print(f"{query}: {best_r_recall[query]}-->{score}")
+                    best_r_recall[query] = score
+                    best_expansions[j] = res_for_exp[j]
+                j += 1
+            print("\n\n")
+
+        print(best_expansions)
+        i = 0
+        for query, score in best_r_recall.items():
+            print(f"{query}- score: {score} expansion on: {best_expansions[i]}")
+            i = i + 1
+        print(best_expansions)
+
 
     def __eval_query(self, query, relevant_results=None, n_results=100):
         # Eseguo l'operazione soltanto se la query non è nulla
@@ -225,9 +252,6 @@ class WikiEvaluator:
 
                     if len(relevant_results) < 1:
                         break
-
-            print(query)
-            print(relevant_results)
 
 
 def get_dict_nth_key(dictionary, n=0):
@@ -271,7 +295,7 @@ class WikiEvaluatorPrinter:
         self.__mean_precision_for_level_list = self.__evaluator.mean_precision_for_rec_level(1147)
         self.__stdev_for_level_list = self.__evaluator.precision_stdev_for_level(1147)
         self.__stedv_average_precision = stdev(self.__evaluator.average_precision(1147).values())
-        self.__r_recall_dict, self.__r_recall_mlt_dict = self.__evaluator.r_recall(1147)
+        self.__r_recall_dict, self.__r_recall_mlt_dict = self.__evaluator.r_recall(1147,res_for_exp=res_for_expansion)
 
         # sort del dizionario con i valori di recall
         self.__r_recall_dict = sort_dict(self.__r_recall_dict, True)
@@ -704,6 +728,7 @@ wiki_printer.import_evaluation_data("2020-06-09_07.44.24 2_Stemming - Data Expor
 #wiki_printer.plot_graph_of_queries_avg_precision_vs_map(True)
 #wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall(True)
 #wiki_printer.plot_graph_of_queries_avg_precision_vs_map()
-#wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall()
+wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall()
 wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall_expanded()
 #wiki_printer.plot_graph_of_query_precision_levels(14)
+
