@@ -8,6 +8,7 @@ from whoosh.highlight import UppercaseFormatter
 from whoosh.index import EmptyIndexError, open_dir
 from whoosh.qparser import OrGroup, QueryParser
 from whoosh.searching import Results, Hit
+from whoosh.scoring import BM25F
 import re
 
 from configuration import index_dir
@@ -25,7 +26,7 @@ class WikiSearcherModule:
             self.__index = open_dir("Wiki_index")
 
         # Ottengo un oggetto searcher dall'indice appena aperto
-        self.__searcher = self.__index.searcher()
+        self.__searcher = self.__index.searcher(weighting=BM25F(B=0.75, K1=1.2))
         # Ottento un oggetto in grado che parsi le quary fornitegli e le indirizzi al campo "content" del nostro schema
         self.__parser = QueryParser("content", schema=self.__index.schema, group=OrGroup)
         #self.__parser = QueryParser("content", schema=self.__index.schema)

@@ -169,7 +169,7 @@ class GuiHandler:
 
     def _highlight_formatter(self, highlight_text):
         new_text = ''
-        max_char = 90
+        max_char = 83
         for line in highlight_text.splitlines():
             i = 0
             while i * max_char < line.__len__():
