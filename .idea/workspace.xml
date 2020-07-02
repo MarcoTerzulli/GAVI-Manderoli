@@ -26,8 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfd82261-b50d-4873-987d-89b985891572" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui_handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +148,7 @@
       <workItem from="1593705715118" duration="1007000" />
       <workItem from="1593706743292" duration="7351000" />
       <workItem from="1593720101325" duration="1859000" />
-      <workItem from="1593722272477" duration="1607000" />
+      <workItem from="1593722272477" duration="2537000" />
     </task>
     <task id="LOCAL-00001" summary="Aggiunto metodo per generare snippet">
       <created>1593715244513</created>
@@ -194,25 +193,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="Aggiunto metodo per generare snippet" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2505" height="285" key="GridCell.Tab.0.bottom" timestamp="1593724524327">
+    <state width="2505" height="285" key="GridCell.Tab.0.bottom" timestamp="1593724682984">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2505" height="285" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1593724524327" />
+    <state width="2505" height="285" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1593724682984" />
     <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1593715137622" />
-    <state width="2505" height="285" key="GridCell.Tab.0.center" timestamp="1593724524326">
+    <state width="2505" height="285" key="GridCell.Tab.0.center" timestamp="1593724682983">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2505" height="285" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1593724524326" />
+    <state width="2505" height="285" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1593724682983" />
     <state width="1320" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1593715137622" />
-    <state width="2505" height="285" key="GridCell.Tab.0.left" timestamp="1593724524326">
+    <state width="2505" height="285" key="GridCell.Tab.0.left" timestamp="1593724682983">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2505" height="285" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1593724524326" />
+    <state width="2505" height="285" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1593724682983" />
     <state width="1320" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1593715137621" />
-    <state width="2505" height="285" key="GridCell.Tab.0.right" timestamp="1593724524326">
+    <state width="2505" height="285" key="GridCell.Tab.0.right" timestamp="1593724682983">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2505" height="285" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1593724524326" />
+    <state width="2505" height="285" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1593724682983" />
     <state width="1320" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1593721864117" />
     <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1593715248502" />
     <state x="458" y="311" width="450" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593721960489">

@@ -722,13 +722,13 @@ wiki_printer = WikiEvaluatorPrinter()
 # wiki_printer.console_write_results()
 
 wiki_printer.import_evaluation_data("2020-06-09_07.44.24 2_Stemming - Data Export.dat")
-#wiki_printer.plot_graph_of_query_precision_levels(1, True)
-#wiki_printer.plot_graph_of_query_precision_levels(14, True)
-#wiki_printer.plot_graph_of_query_precision_levels(19, True)
-#wiki_printer.plot_graph_of_queries_avg_precision_vs_map(True)
-#wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall(True)
-#wiki_printer.plot_graph_of_queries_avg_precision_vs_map()
-wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall()
-wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall_expanded()
-#wiki_printer.plot_graph_of_query_precision_levels(14)
+#wiki_printer.plot_graph_of_query_precision_levels(1, True)             # stampa precision at recall per una query a scelta onfrontata alla lettura da export
+#wiki_printer.plot_graph_of_query_precision_levels(14, True)            # stampa precision at recall per una query a scelta onfrontata alla lettura da export
+#wiki_printer.plot_graph_of_query_precision_levels(19, True)            # stampa precision at recall per una query a scelta onfrontata alla lettura da export
+#wiki_printer.plot_graph_of_queries_avg_precision_vs_map(True)          # stampa avg prec vs map confrontata alla lettura da export
+#wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall(True)         # stampa rrecall vs avg recall confrontata alla lettura da export
+#wiki_printer.plot_graph_of_queries_avg_precision_vs_map()              # stampa avg prec vs map dell'iterazione attuale
+wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall()              # stampa rrecall vs avg recall dell'iterazione attuale
+wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall_expanded()     # stampa rrecall vs rrecall con query exp dell'iterazione attuale
+#wiki_printer.plot_graph_of_query_precision_levels(14)                  # stampa precision at recall per una query a scelta
 
