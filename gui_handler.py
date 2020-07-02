@@ -16,7 +16,7 @@ class GuiHandler:
         self.__color_background = "#f0f0f0"  # "#ffffff"
         self.__color_status_bar = "#f0f0f0"
         self.__color_results = "#f3f3f3"
-        self.__font_size_default = 10
+        self.__font_size_default = 11
 
         self.__window = Tk()
         self.__window.title("WikiSearch")
@@ -110,16 +110,16 @@ class GuiHandler:
         self._url_open(self.__searcher.get_article_url(title))
 
     def _label_on_enter(self, event):
-        event.widget.configure(fg="blue", font=Font(size=self.__font_size_default, underline=1))
+        event.widget.configure(fg="#003c8f", font=Font(size=self.__font_size_default, underline=1, weight='bold'))
 
     def _label_more_on_enter(self, event):
-        event.widget.configure(fg="#c99c00", font=Font(size=self.__font_size_default-2, underline=1))
+        event.widget.configure(fg="#a98274", font=Font(size=self.__font_size_default-1, underline=1))
 
     def _label_on_leave(self, event):
-        event.widget.configure(fg="black", font=Font(size=self.__font_size_default, underline=0))
+        event.widget.configure(fg="blue", font=Font(size=self.__font_size_default, underline=0, weight='bold'))
 
     def _label_more_on_leave(self, event):
-        event.widget.configure(fg="black", font=Font(size=self.__font_size_default-2, underline=0))
+        event.widget.configure(fg="#795548", font=Font(size=self.__font_size_default-1, underline=0))
 
     def _add_label_result(self, father_frame, article_title=None, *args, **kwargs):
         label_result = Label(father_frame, *args, **kwargs)
@@ -147,6 +147,17 @@ class GuiHandler:
 
         label_more_like_this.pack(anchor="w", expand=True)
 
+    def _add_label_highlight(self, father_frame, bounded_result, *args, **kwargs):
+        label_highlight = Label(father_frame, *args, **kwargs)
+
+        #label_highlight.bind("<Button-1>", self._label_more_like_this_on_click)
+        #label_highlight.bind("<Enter>", self._label_more_on_enter)
+        #label_highlight.bind("<Leave>", self._label_more_on_leave)
+
+        #self.__label_more[label_more_like_this] = bounded_result
+
+        label_highlight.pack(anchor="w", expand=True)
+
     def _label_more_like_this_on_click(self, event):
         base_res = self.__label_more[event.widget]
         new_res = self.__searcher.get_similar_articles(base_res)
@@ -172,7 +183,16 @@ class GuiHandler:
                                        bg=self.__color_results,
                                        justify=LEFT,
                                        cursor="hand2",
-                                       font=Font(size=self.__font_size_default))
+                                       font=Font(size=self.__font_size_default, weight='bold'),
+                                       fg="blue")
+
+                self._add_label_highlight(self.__frame_center_query_result,
+                                          res,
+                                          text=self.__searcher.get_result_highlights(res),
+                                          bg=self.__color_results,
+                                          justify=LEFT,
+                                          cursor="hand2",
+                                          font=Font(size=self.__font_size_default-2))
 
                 self._add_label_more_like_this(self.__frame_center_query_result,
                                                res,
@@ -180,7 +200,8 @@ class GuiHandler:
                                                bg=self.__color_results,
                                                justify=LEFT,
                                                cursor="hand2",
-                                               font=Font(size=self.__font_size_default-2))
+                                               font=Font(size=self.__font_size_default-1),
+                                               fg='#795548')
             Label(self.__frame_center_query_result, bg=self.__color_results, text=((" "*1000)+("\n"*30)), justify=LEFT).pack()
 
 
