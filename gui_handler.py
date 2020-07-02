@@ -205,6 +205,7 @@ class GuiHandler:
                                                cursor="hand2",
                                                font=Font(size=self.__font_size_default-1),
                                                fg=self.__color_more_like_this_font)
+                print(self.__searcher.get_result_highlights(res)+"\n\n")
             Label(self.__frame_center_query_result, bg=self.__color_results_background, text=((" " * 1000) + ("\n" * 30)), justify=LEFT).pack()
 
 

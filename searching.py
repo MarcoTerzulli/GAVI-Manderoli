@@ -3,7 +3,8 @@
 """
 @author: riccardo
 """
-
+from whoosh import highlight
+from whoosh.highlight import UppercaseFormatter
 from whoosh.index import EmptyIndexError, open_dir
 from whoosh.qparser import OrGroup, QueryParser
 from whoosh.searching import Results, Hit
@@ -49,10 +50,9 @@ class WikiSearcherModule:
         return self.__results_setup(base_result.more_like_this('content'))
 
     def get_result_highlights(self, result):
-        cleaned_content = result['content']
-        highlights = self.__cleanhtml(result.highlights('content', text=cleaned_content, top=5))
-        highlights = highlights
-        print(highlights)
+        highlights = self.__cleanhtml(result.highlights('content', top=3))
+        highlights.format()
+
         return highlights
 
     @staticmethod
@@ -68,7 +68,9 @@ class WikiSearcherModule:
 
     @staticmethod
     def __results_setup(results):
-        results.fragmenter.charlimit = 500
-        results.fragmenter.surround = 50
+        results.fragmenter.charlimit = None
+        results.fragmenter.surround = 20
+        results.formatter = UppercaseFormatter()
+        results.order = highlight.SCORE
 
         return results
