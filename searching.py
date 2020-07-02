@@ -26,7 +26,7 @@ class WikiSearcherModule:
             self.__index = open_dir("Wiki_index")
 
         # Ottengo un oggetto searcher dall'indice appena aperto
-        self.__searcher = self.__index.searcher(weighting=BM25F(B=0.75, K1=1.2))
+        self.__searcher = self.__index.searcher(weighting=BM25F(B=0.50, K1=0.1))
         # Ottento un oggetto in grado che parsi le quary fornitegli e le indirizzi al campo "content" del nostro schema
         self.__parser = QueryParser("content", schema=self.__index.schema, group=OrGroup)
         #self.__parser = QueryParser("content", schema=self.__index.schema)

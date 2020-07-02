@@ -26,11 +26,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd82261-b50d-4873-987d-89b985891572" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui_handler.py" afterDir="false" />
+    <list default="true" id="bfd82261-b50d-4873-987d-89b985891572" name="Default Changelist" comment="Caratteri massimi snippet cambiati">
+      <change beforePath="$PROJECT_DIR$/evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/searching.py" beforeDir="false" afterPath="$PROJECT_DIR$/searching.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +61,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.evaluation">
     <configuration name="evaluation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,8 +130,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.evaluation" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.searching" />
       </list>
     </recent_temporary>
@@ -170,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593722026647</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Caratteri massimi snippet cambiati">
+      <created>1593725881890</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593725881890</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,41 +207,42 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aggiunto metodo per generare snippet" />
     <MESSAGE value="Miglioramento snippet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Miglioramento snippet" />
+    <MESSAGE value="Caratteri massimi snippet cambiati" />
+    <option name="LAST_COMMIT_MESSAGE" value="Caratteri massimi snippet cambiati" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1320" height="172" key="GridCell.Tab.0.bottom" timestamp="1593725822563">
+    <state width="1320" height="224" key="GridCell.Tab.0.bottom" timestamp="1593728629199">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="2505" height="285" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1593724682984" />
-    <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1593725822563" />
-    <state width="1320" height="172" key="GridCell.Tab.0.center" timestamp="1593725822561">
+    <state width="1320" height="224" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1593728629199" />
+    <state width="1320" height="224" key="GridCell.Tab.0.center" timestamp="1593728629198">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="2505" height="285" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1593724682983" />
-    <state width="1320" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1593725822561" />
-    <state width="1320" height="172" key="GridCell.Tab.0.left" timestamp="1593725822561">
+    <state width="1320" height="224" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1593728629198" />
+    <state width="1320" height="224" key="GridCell.Tab.0.left" timestamp="1593728629197">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="2505" height="285" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1593724682983" />
-    <state width="1320" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1593725822561" />
-    <state width="1320" height="172" key="GridCell.Tab.0.right" timestamp="1593725822562">
+    <state width="1320" height="224" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1593728629197" />
+    <state width="1320" height="224" key="GridCell.Tab.0.right" timestamp="1593728629198">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="2505" height="285" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1593724682983" />
-    <state width="1320" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1593725822562" />
-    <state x="278" y="119" key="Vcs.Push.Dialog.v2" timestamp="1593722029744">
+    <state width="1320" height="224" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1593728629198" />
+    <state x="278" y="119" key="Vcs.Push.Dialog.v2" timestamp="1593725884707">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1593722029744" />
+    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1593725884707" />
     <state x="458" y="311" width="450" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593725290620">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="458" y="311" width="450" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1593725290620" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/GAVI_Manderoli$main.coverage" NAME="main Coverage Results" MODIFIED="1593725822539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GAVI_Manderoli$main.coverage" NAME="main Coverage Results" MODIFIED="1593725928232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GAVI_Manderoli$searching.coverage" NAME="searching Coverage Results" MODIFIED="1593707020841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GAVI_Manderoli$evaluation.coverage" NAME="evaluation Coverage Results" MODIFIED="1593725427667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GAVI_Manderoli$evaluation.coverage" NAME="evaluation Coverage Results" MODIFIED="1593728629180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

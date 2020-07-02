@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pickle
 
-res_for_expansion = [2, 0, 0, 0, 3, 0, 1, 0, 10, 0, 5, 0, 4, 6, 1, 2, 5, 0, 0, 0, 0, 4, 9, 1, 3, 2, 0, 0, 0, 0]
+res_for_expansion = [0, 1, 0, 1, 2, 0, 2, 1, 5, 2, 8, 2, 2, 5, 9, 4, 2, 0, 1, 0, 0, 8, 9, 2, 4, 10, 2, 5, 7, 1]
 
 class WikiEvaluator:
 
@@ -531,6 +531,8 @@ class WikiEvaluatorPrinter:
             y_imported_bar_heights = []
             y_imported_man_points = []
 
+            print(f"miglioramento map:{self.__mean_avg_precision - self.__imported_mean_avg_precision}")
+
             # popolamento delle altezze delle barre e delle rispettive labels
             for key, value in x_imported_dict.items():
                 y_imported_bar_heights.append(value)
@@ -617,6 +619,8 @@ class WikiEvaluatorPrinter:
 
             x_points = list(range(1, (len(x_dict)) * 2 + 1, 2))
             x_imported_points = list(range(2, (len(x_dict) + 1) * 2, 2))
+
+            print(f"miglioramento average r-recall: {avg_recall - imported_avg_recall}")
 
             # popolamento delle altezze delle barre e delle rispettive labels
             for key, value in x_imported_dict.items():
@@ -725,10 +729,12 @@ wiki_printer.import_evaluation_data("2020-06-09_07.44.24 2_Stemming - Data Expor
 #wiki_printer.plot_graph_of_query_precision_levels(1, True)             # stampa precision at recall per una query a scelta onfrontata alla lettura da export
 #wiki_printer.plot_graph_of_query_precision_levels(14, True)            # stampa precision at recall per una query a scelta onfrontata alla lettura da export
 #wiki_printer.plot_graph_of_query_precision_levels(19, True)            # stampa precision at recall per una query a scelta onfrontata alla lettura da export
-#wiki_printer.plot_graph_of_queries_avg_precision_vs_map(True)          # stampa avg prec vs map confrontata alla lettura da export
-#wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall(True)         # stampa rrecall vs avg recall confrontata alla lettura da export
+wiki_printer.plot_graph_of_queries_avg_precision_vs_map(True)          # stampa avg prec vs map confrontata alla lettura da export
+wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall(True)         # stampa rrecall vs avg recall confrontata alla lettura da export
 #wiki_printer.plot_graph_of_queries_avg_precision_vs_map()              # stampa avg prec vs map dell'iterazione attuale
-wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall()              # stampa rrecall vs avg recall dell'iterazione attuale
+#wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall()              # stampa rrecall vs avg recall dell'iterazione attuale
 wiki_printer.plot_graph_of_queries_rrecall_vs_avg_recall_expanded()     # stampa rrecall vs rrecall con query exp dell'iterazione attuale
 #wiki_printer.plot_graph_of_query_precision_levels(14)                  # stampa precision at recall per una query a scelta
 
+evaluator = WikiEvaluator()
+evaluator.best_expansions_finder()
