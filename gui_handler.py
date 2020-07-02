@@ -190,12 +190,14 @@ class GuiHandler:
                                        font=Font(size=self.__font_size_default, weight='bold'),
                                        fg=self.__color_results_font)
 
-                self._add_label_highlight(self.__frame_center_query_result,
-                                          res,
-                                          text=self.__searcher.get_result_highlights(res),
-                                          bg=self.__color_results_background,
-                                          justify=LEFT,
-                                          font=Font(size=self.__font_size_default-2))
+                __highlight_text = self.__searcher.get_result_highlights(res)
+                if __highlight_text.__len__() > 0:
+                    self._add_label_highlight(self.__frame_center_query_result,
+                                              res,
+                                              text=__highlight_text,
+                                              bg=self.__color_results_background,
+                                              justify=LEFT,
+                                              font=Font(size=self.__font_size_default - 2))
 
                 self._add_label_more_like_this(self.__frame_center_query_result,
                                                res,
