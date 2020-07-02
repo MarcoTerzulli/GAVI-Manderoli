@@ -20,141 +20,56 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:1.0.3" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:1.4.0" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Sistemato il file &quot;relevant sample&quot;">
-      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_WRITELOCK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wiki_index/MAIN_imzjllpetpdr6400.seg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wiki_index/_MAIN_1.toc" afterDir="false" />
+    <list default="true" id="bfd82261-b50d-4873-987d-89b985891572" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    <list default="true" id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="Inserita la deviazione standard nel grafico">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui_handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searching.py" beforeDir="false" afterPath="$PROJECT_DIR$/searching.py" afterDir="false" />
     </list>
-    <list id="fc7a01d0-1e3d-4f27-a648-6b1090c65af2" name="FIX EVALUATION" comment="" />
-    <list id="95ba094c-7be2-4226-9901-418b794a207b" name="Inserita la deviazione standard nel grafico" comment="" />
-    <list id="087778e9-bdfa-4d74-bdb0-aa009848e58b" name="Prototipo valutatore (solo precision a 10 livelli di recall)" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" show_ignored="true" />
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="3c9bc1089ece591573dcc23af5f929e49d592eff" />
+        <entry key="$PROJECT_DIR$" value="1.3.0" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="HARD" />
   </component>
-  <component name="ProjectId" id="1bY68O1pcS3YOyup0fc4iso6HxT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1e8aGtmhpRKmGpvkHpw1Zo78MeA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Tirocinio/Adapted_Dataset/labeling_script.py" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.evaluation">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="GAVI-Manderoli" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="evaluation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GAVI-Manderoli" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="gui_handler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GAVI-Manderoli" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui_handler.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -163,14 +78,14 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_queries_results_order_generator (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="searching" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GAVI-Manderoli" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,31 +98,9 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_queries_results_order_generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/searching.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_xml_merger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GAVI-Manderoli" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_xml_merger.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -216,11 +109,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.evaluation" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.test_xml_merger" />
-        <item itemvalue="Python.test_queries_results_order_generator (1)" />
-        <item itemvalue="Python.gui_handler" />
+        <item itemvalue="Python.searching" />
       </list>
     </recent_temporary>
   </component>
@@ -229,326 +119,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fccb87ca-2f69-498b-be46-c79444cdc486" name="Default Changelist" comment="" />
-      <changelist id="95ba094c-7be2-4226-9901-418b794a207b" name="Inserita la deviazione standard nel grafico" comment="" />
-      <created>1588796519550</created>
+      <changelist id="bfd82261-b50d-4873-987d-89b985891572" name="Default Changelist" comment="" />
+      <created>1593705582587</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1588796519550</updated>
-      <workItem from="1588796522994" duration="1010000" />
-      <workItem from="1588964826854" duration="172000" />
-      <workItem from="1588965430370" duration="3537000" />
-      <workItem from="1588973037880" duration="12353000" />
-      <workItem from="1589026880367" duration="5508000" />
-      <workItem from="1589033265638" duration="4083000" />
-      <workItem from="1589038307042" duration="397000" />
-      <workItem from="1589051161296" duration="329000" />
-      <workItem from="1589051539848" duration="72000" />
-      <workItem from="1589051659815" duration="120000" />
-      <workItem from="1589053434623" duration="868000" />
-      <workItem from="1589061168290" duration="21000" />
-      <workItem from="1589061747683" duration="29000" />
-      <workItem from="1589061974081" duration="24000" />
-      <workItem from="1589120814529" duration="6027000" />
-      <workItem from="1589132059398" duration="169000" />
-      <workItem from="1589132967094" duration="615000" />
-      <workItem from="1589151819173" duration="5871000" />
-      <workItem from="1589315165951" duration="3067000" />
-      <workItem from="1589318626494" duration="3648000" />
-      <workItem from="1589327732883" duration="180000" />
-      <workItem from="1589327920450" duration="1308000" />
-      <workItem from="1589329293658" duration="351000" />
-      <workItem from="1589329693969" duration="352000" />
-      <workItem from="1589330061261" duration="212000" />
-      <workItem from="1589330586217" duration="1892000" />
-      <workItem from="1589332495276" duration="3476000" />
-      <workItem from="1589335983278" duration="1206000" />
-      <workItem from="1589337282415" duration="29000" />
-      <workItem from="1589337634695" duration="193000" />
-      <workItem from="1589359796572" duration="612000" />
-      <workItem from="1589363891400" duration="3375000" />
-      <workItem from="1589367391310" duration="68000" />
-      <workItem from="1589375830694" duration="323000" />
-      <workItem from="1589376194277" duration="203000" />
-      <workItem from="1589376577810" duration="170000" />
-      <workItem from="1589393043988" duration="2084000" />
-      <workItem from="1589396231818" duration="1818000" />
-      <workItem from="1589398187585" duration="615000" />
-      <workItem from="1589481551029" duration="1044000" />
-      <workItem from="1589577526810" duration="1237000" />
-      <workItem from="1589579078652" duration="1685000" />
-      <workItem from="1589584056506" duration="47000" />
-      <workItem from="1589585751152" duration="611000" />
-      <workItem from="1589588248606" duration="2506000" />
-      <workItem from="1589639820988" duration="7070000" />
-      <workItem from="1589646958804" duration="41000" />
-      <workItem from="1589647028110" duration="366000" />
-      <workItem from="1589647714584" duration="20000" />
-      <workItem from="1589647849319" duration="165000" />
-      <workItem from="1589661027500" duration="53000" />
-      <workItem from="1589661123535" duration="4925000" />
-      <workItem from="1589666809625" duration="5885000" />
-      <workItem from="1589745526021" duration="4067000" />
-      <workItem from="1589749607029" duration="1738000" />
-      <workItem from="1589751552355" duration="2096000" />
-      <workItem from="1589754106091" duration="22000" />
-      <workItem from="1589755935419" duration="4162000" />
-      <workItem from="1589760120506" duration="262000" />
-      <workItem from="1589760568952" duration="119000" />
-      <workItem from="1589884015602" duration="61000" />
-      <workItem from="1589884211554" duration="33000" />
-      <workItem from="1589884313794" duration="926000" />
-      <workItem from="1589886348719" duration="122000" />
-      <workItem from="1589886481297" duration="5000" />
-      <workItem from="1590094524954" duration="1818000" />
-      <workItem from="1590163039490" duration="3682000" />
-      <workItem from="1590167848395" duration="7328000" />
-      <workItem from="1590178171915" duration="4000" />
-      <workItem from="1590178197436" duration="147000" />
-      <workItem from="1590181731426" duration="108000" />
-      <workItem from="1590181850788" duration="98000" />
-      <workItem from="1590181956782" duration="82000" />
-      <workItem from="1590185429172" duration="320000" />
-      <workItem from="1590188900414" duration="2299000" />
-      <workItem from="1590261145927" duration="906000" />
-      <workItem from="1590275057299" duration="7183000" />
-      <workItem from="1590317772405" duration="557000" />
-      <workItem from="1590318643662" duration="4210000" />
-      <workItem from="1590359320737" duration="6720000" />
-      <workItem from="1590428047818" duration="1403000" />
-      <workItem from="1590429460245" duration="1632000" />
-      <workItem from="1590441151606" duration="2266000" />
-      <workItem from="1590444688268" duration="56000" />
-      <workItem from="1590446376158" duration="2992000" />
-      <workItem from="1590493417959" duration="409000" />
-      <workItem from="1590495016078" duration="939000" />
-      <workItem from="1590496061445" duration="739000" />
-      <workItem from="1590534605689" duration="1913000" />
-      <workItem from="1590536654929" duration="1735000" />
-      <workItem from="1590565685364" duration="99000" />
-      <workItem from="1590945661449" duration="442000" />
-      <workItem from="1590947106035" duration="6264000" />
-      <workItem from="1590953950160" duration="3073000" />
-      <workItem from="1590959855445" duration="1546000" />
+      <updated>1593705582587</updated>
+      <workItem from="1593705587589" duration="108000" />
+      <workItem from="1593705715118" duration="1007000" />
+      <workItem from="1593706743292" duration="7037000" />
     </task>
-    <task id="LOCAL-00001" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
-      <created>1588986373660</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1588986373660</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)">
-      <created>1588986688772</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1588986688772</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py) + commenti">
-      <created>1588987235966</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1588987235966</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Aggiunta file variabili di configurazione e modulo searching.py">
-      <created>1589125352854</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1589125352855</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Aggiunta file variabili di configurazione e modulo searching.py">
-      <created>1589125650918</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1589125650918</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Aggiunta file variabili di configurazione e modulo searching.py">
-      <created>1589125716440</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1589125716440</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Creato WikiIndexerModule (interfaccia di alto livello che gestisce la creazione dell'indice: parsing,scrittura), uniti i moduli parsing.py e indexing.py (ora esiste solo indexing.py), spero si capisca, mi sto addormentando :'(">
-      <created>1589157278843</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1589157278844</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Migliorata la riutilizzabilità di &quot;indexing.py&quot; + aggiunti controlli e gestione errori">
-      <created>1589314494686</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1589314494686</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Migliorata la riutilizzabilità di &quot;indexing.py&quot; + aggiunti controlli e gestione errori">
-      <created>1589325214413</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1589325214413</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Aggiunta creazione ed inserimento link durante l'indicizzazione delle pagine, aggiunto filtro alle pagine sulla base di un set nel file configuration.py, gestite diverse situazioni di errore">
-      <created>1589385832150</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1589385832150</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Aggiunta creazione ed inserimento link durante l'indicizzazione delle pagine, aggiunto filtro alle pagine sulla base di un set nel file configuration.py, gestite diverse situazioni di errore + BUGFIX">
-      <created>1589388133316</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1589388133316</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Aggiunta creazione ed inserimento link durante l'indicizzazione delle pagine, aggiunto filtro alle pagine sulla base di un set nel file configuration.py, gestite diverse situazioni di errore + BUGFIX">
-      <created>1589388156635</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1589388156635</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Eliminato l'url dai dati delle pagine indicizzate, resa sicuro il metodo che genera l'url">
-      <created>1589394944365</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1589394944365</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Ora funziona anche con i file compressi &quot;.bz2&quot;, bisogna solo aggiornare la lista delle pagine rilevanti e lanciare">
-      <created>1589397874731</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1589397874731</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Sono riuscito a creare il file xml unico porca madonna">
-      <created>1589672617038</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1589672617038</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Adattato file extractor">
-      <created>1590163827987</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1590163827987</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Prototipo valutatore (solo precision a 10 livelli di recall)">
-      <created>1590175630841</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1590175630841</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Prototipo valutatore (solo precision a 10 livelli di recall)">
-      <created>1590177264296</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1590177264296</updated>
-    </task>
-    <task id="LOCAL-00019" summary="FIX EVALUATION">
-      <created>1590183120674</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1590183120674</updated>
-    </task>
-    <task id="LOCAL-00020" summary="FIX EVALUATION">
-      <created>1590183220866</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1590183220866</updated>
-    </task>
-    <task id="LOCAL-00021" summary="CORREZIONE FILE CSV MUCH ADO ABOUT NOTHING">
-      <created>1590185231866</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1590185231866</updated>
-    </task>
-    <task id="LOCAL-00022" summary="CORREZIONE FILE CSV MUCH ADO ABOUT NOTHING">
-      <created>1590185483069</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1590185483069</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Piccolo fix alla lista dei file rilevanti e piccola modifica di evaluation.py">
-      <created>1590191336603</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1590191336603</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Teoricamente dovrei aver implementato tutte le valutazioni fondamentali riportate sulle slide">
-      <created>1590279325763</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1590279325763</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Inserita la deviazione standard nel grafico">
-      <created>1590449355644</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1590449355644</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Inserita la deviazione standard nel grafico">
-      <created>1590493866114</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1590493866114</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Inserita la deviazione standard nel grafico">
-      <created>1590494008648</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1590494008648</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Inserita la deviazione standard nel grafico">
-      <created>1590959606175</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1590959606176</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Sistemato il file &quot;relevant sample&quot;">
-      <created>1590959700403</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1590959700403</updated>
-    </task>
-    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
-  </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
-      </list>
-    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -561,7 +144,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="1.0.3" />
+                        <option value="1.4.0" />
                       </list>
                     </value>
                   </entry>
@@ -574,125 +157,26 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py)" />
-    <MESSAGE value="Rifacimento file Indexing.py e Parsing.py (ex xml_parsing.py) + commenti" />
-    <MESSAGE value="Aggiunta file variabili di configurazione e modulo searching.py" />
-    <MESSAGE value="Creato WikiIndexerModule (interfaccia di alto livello che gestisce la creazione dell'indice: parsing,scrittura), uniti i moduli parsing.py e indexing.py (ora esiste solo indexing.py), spero si capisca, mi sto addormentando :'(" />
-    <MESSAGE value="Migliorata la riutilizzabilità di &quot;indexing.py&quot; + aggiunti controlli e gestione errori" />
-    <MESSAGE value="Aggiunta creazione ed inserimento link durante l'indicizzazione delle pagine, aggiunto filtro alle pagine sulla base di un set nel file configuration.py, gestite diverse situazioni di errore" />
-    <MESSAGE value="Aggiunta creazione ed inserimento link durante l'indicizzazione delle pagine, aggiunto filtro alle pagine sulla base di un set nel file configuration.py, gestite diverse situazioni di errore + BUGFIX" />
-    <MESSAGE value="Eliminato l'url dai dati delle pagine indicizzate, resa sicuro il metodo che genera l'url" />
-    <MESSAGE value="Ora funziona anche con i file compressi &quot;.bz2&quot;, bisogna solo aggiornare la lista delle pagine rilevanti e lanciare" />
-    <MESSAGE value="Sono riuscito a creare il file xml unico porca madonna" />
-    <MESSAGE value="Adattato file extractor" />
-    <MESSAGE value="Prototipo valutatore (solo precision a 10 livelli di recall)" />
-    <MESSAGE value="FIX EVALUATION" />
-    <MESSAGE value="CORREZIONE FILE CSV MUCH ADO ABOUT NOTHING" />
-    <MESSAGE value="Piccolo fix alla lista dei file rilevanti e piccola modifica di evaluation.py" />
-    <MESSAGE value="Teoricamente dovrei aver implementato tutte le valutazioni fondamentali riportate sulle slide" />
-    <MESSAGE value="Inserita la deviazione standard nel grafico" />
-    <MESSAGE value="Sistemato il file &quot;relevant sample&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sistemato il file &quot;relevant sample&quot;" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="198" width="716" height="406" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589034629711">
+    <state width="1320" height="172" key="GridCell.Tab.0.bottom" timestamp="1593715137622">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="320" y="198" width="716" height="406" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1589034629711" />
-    <state x="780" y="225" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590186988205">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="780" y="225" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1590186988205" />
-    <state x="416" y="146" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1590164642224" />
-    <state x="506" y="27" width="659" height="741" key="#main" timestamp="1590959875828">
+    <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1593715137622" />
+    <state width="1320" height="172" key="GridCell.Tab.0.center" timestamp="1593715137622">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="949" y="207" key="#main/0.0.2560.1400@0.0.2560.1400" timestamp="1590181735979" />
-    <state x="506" y="27" width="659" height="741" key="#main/0.27.1366.741@0.27.1366.741" timestamp="1590959875828" />
-    <state x="-532" y="27" width="1166" height="541" maximized="true" key="DiffContextDialog" timestamp="1590180537210">
+    <state width="1320" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1593715137622" />
+    <state width="1320" height="172" key="GridCell.Tab.0.left" timestamp="1593715137621">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="-532" y="27" width="1166" height="541" maximized="true" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1590180537210" />
-    <state width="1320" height="218" key="GridCell.Tab.0.bottom" timestamp="1590362577208">
+    <state width="1320" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1593715137621" />
+    <state width="1320" height="172" key="GridCell.Tab.0.right" timestamp="1593715137622">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="218" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1590362577208" />
-    <state width="1320" height="218" key="GridCell.Tab.0.center" timestamp="1590362577207">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state width="1320" height="218" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1590362577207" />
-    <state width="1320" height="218" key="GridCell.Tab.0.left" timestamp="1590362577207">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state width="1320" height="218" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1590362577207" />
-    <state width="1320" height="218" key="GridCell.Tab.0.right" timestamp="1590362577208">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state width="1320" height="218" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1590362577208" />
-    <state width="1320" height="218" key="GridCell.Tab.1.bottom" timestamp="1590362577209">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state width="1320" height="218" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1590362577209" />
-    <state width="1320" height="218" key="GridCell.Tab.1.center" timestamp="1590362577208">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state width="1320" height="218" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1590362577208" />
-    <state width="1320" height="218" key="GridCell.Tab.1.left" timestamp="1590362577208">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state width="1320" height="218" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1590362577208" />
-    <state width="1320" height="218" key="GridCell.Tab.1.right" timestamp="1590362577208">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state width="1320" height="218" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1590362577208" />
-    <state x="132" y="86" width="1092" height="629" key="MergeDialog" timestamp="1590178532339">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="132" y="86" width="1092" height="629" key="MergeDialog/0.27.1366.741@0.27.1366.741" timestamp="1590178532339" />
-    <state x="502" y="145" width="640" height="623" key="RollbackChangesDialog" timestamp="1590178880923">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="502" y="145" width="640" height="623" key="RollbackChangesDialog/0.27.1366.741@0.27.1366.741" timestamp="1590178880923" />
-    <state x="782" y="346" width="1022" height="737" key="SettingsEditor" timestamp="1590949858022">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="782" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1590949858022" />
-    <state x="-666" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1590169399591" />
-    <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser" timestamp="1590959627173">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="527" y="311" width="302" height="179" key="VCS.ChangelistChooser/0.27.1366.741@0.27.1366.741" timestamp="1590959627173" />
-    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1590959703396">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="278" y="119" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1590959703396" />
-    <state x="429" y="89" width="498" height="623" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589396680429">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="429" y="89" width="498" height="623" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1589396680429" />
-    <state x="458" y="311" width="450" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590959557743">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="458" y="311" width="450" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1590959557743" />
-    <state x="924" y="202" width="712" height="996" key="find.popup" timestamp="1589647978011">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="924" y="202" width="712" height="996" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1589647978011" />
-    <state x="648" y="117" width="1260" height="1281" key="search.everywhere.popup" timestamp="1590954632043">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="648" y="117" width="1260" height="1281" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1590954632043" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1590172119480" />
-    <state x="408" y="287" width="540" height="227" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1589125637120">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="408" y="287" width="540" height="227" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1366.741@0.27.1366.741" timestamp="1589125637120" />
+    <state width="1320" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1593715137622" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/GAVI_Manderoli$evaluation.coverage" NAME="evaluation Coverage Results" MODIFIED="1590362575705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GAVI_Manderoli$Main.coverage" NAME="Main Coverage Results" MODIFIED="1589038410695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GAVI_Manderoli$main.coverage" NAME="main Coverage Results" MODIFIED="1590181482820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GAVI_Manderoli$main.coverage" NAME="main Coverage Results" MODIFIED="1593715203817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GAVI_Manderoli$searching.coverage" NAME="searching Coverage Results" MODIFIED="1593707020841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
