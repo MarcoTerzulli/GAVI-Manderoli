@@ -25,7 +25,7 @@ class GuiHandler:
         self.__window = Tk()
         self.__window.title("WikiSearch")
         self.__window.geometry("600x400")
-        self.__window.minsize("400", "200")
+        self.__window.minsize("550", "200")
         self.__window.configure(bg=self.__color_window_background)
 
         # ************************************************************************
@@ -167,6 +167,21 @@ class GuiHandler:
         new_res = self.__searcher.get_similar_articles(base_res)
         self.__results_management(base_res['title']+" (EXPANSION)", new_res)
 
+    def _highlight_formatter(self, highlight_text):
+        new_text = ''
+        max_char = 90
+        for line in highlight_text.splitlines():
+            i = 0
+            while i * max_char < line.__len__():
+                new_text += line[i*max_char : (i+1)*max_char] + '\n'
+                i+=1
+
+        # rimuovo l'ultimo newline
+        if new_text[-1] == '\n':
+            new_text = new_text[:new_text.__len__() -1]
+
+        return new_text
+
     def __results_management(self, query_text, query_results):
 
         for widget in self.__frame_center_query_result.winfo_children():
@@ -191,6 +206,7 @@ class GuiHandler:
                                        fg=self.__color_results_font)
 
                 __highlight_text = self.__searcher.get_result_highlights(res)
+                __highlight_text = self._highlight_formatter(__highlight_text)
                 if __highlight_text.__len__() > 0:
                     self._add_label_highlight(self.__frame_center_query_result,
                                               res,
