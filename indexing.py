@@ -1,19 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@author: riccardo
-"""
 
+import xml.sax as sax
 from os import mkdir
 from os import path
-
 from sys import exit
 
 from whoosh.analysis import StemmingAnalyzer
 from whoosh.fields import TEXT, ID, Schema
 from whoosh.index import create_in
-
-import xml.sax as sax
 
 from configuration import index_dir, relevant_pages
 
@@ -22,6 +17,7 @@ class WikiIndexerModule:
     """
     Modulo di gestione del parsing e dell'indicizzazione
     """
+
     def __init__(self):
         # Creo il parser SAX
         self.__parser = sax.make_parser()
@@ -82,11 +78,11 @@ class WikiHandler(sax.handler.ContentHandler):
         e che si troverà nell'ultima poszione
         """
         sax.handler.ContentHandler.__init__(self)
-        self.__current_element = []     # Posizione dell' elemento attuale nel documento
-        self.__title = None             # Titolo della pagina Wikipedia
-        self.__id = None                # Identificatore numerico della pagina Wikipedia
-        self.__redirect = None          # Titolo della pagina di destinazione del redirect
-        self.__text = ""                # Contenuto della pagina Wikipedia
+        self.__current_element = []  # Posizione dell' elemento attuale nel documento
+        self.__title = None  # Titolo della pagina Wikipedia
+        self.__id = None  # Identificatore numerico della pagina Wikipedia
+        self.__redirect = None  # Titolo della pagina di destinazione del redirect
+        self.__text = ""  # Contenuto della pagina Wikipedia
 
         # Writer per l'indice del documento xml che si vuole parsare
         self.__idx_writer = None

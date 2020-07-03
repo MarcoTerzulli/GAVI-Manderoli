@@ -1,9 +1,9 @@
+import webbrowser
 from tkinter import *
 from tkinter.font import *
 
-from whoosh.searching import Results
 from tkscrolledframe import ScrolledFrame
-import webbrowser
+from whoosh.searching import Results
 
 
 class GuiHandler:
@@ -36,7 +36,6 @@ class GuiHandler:
         self.__frame_top_query_input = Frame(bg=self.__color_window_background)
         self.__frame_top_query_input.pack(side=TOP)
 
-
         # creazione campi e bottoni per l'immissione delle query
         self.__entry_query = Entry(master=self.__frame_top_query_input, width=50)
         self.__entry_query.bind('<Return>', self._search_event)
@@ -59,11 +58,9 @@ class GuiHandler:
         self.__frame_center_query_result.configure(bg=self.__color_results_background)
 
         self.__frame_scrolled.pack(
-           fill=BOTH,
-           expand=True
+            fill=BOTH,
+            expand=True
         )
-
-
 
         # ************************************************************************
         # ******************************* BOTTOM *********************************
@@ -90,8 +87,8 @@ class GuiHandler:
 
         if len(query_text) > 0:
             # pulizia frame e dizionario label
-            #self.__frame_center_query_result = self.__frame_scrolled.display_widget(Frame)
-            #self.__frame_center_query_result = Frame(self.__frame_scrolled, bg=self.__color_background)
+            # self.__frame_center_query_result = self.__frame_scrolled.display_widget(Frame)
+            # self.__frame_center_query_result = Frame(self.__frame_scrolled, bg=self.__color_background)
 
             self.__label_dict = dict()
             self.__label_more = dict()
@@ -114,16 +111,20 @@ class GuiHandler:
         self._url_open(self.__searcher.get_article_url(title))
 
     def _label_on_enter(self, event):
-        event.widget.configure(fg=self.__color_results_font_hover, font=Font(size=self.__font_size_default, underline=1, weight='bold'))
+        event.widget.configure(fg=self.__color_results_font_hover,
+                               font=Font(size=self.__font_size_default, underline=1, weight='bold'))
 
     def _label_more_on_enter(self, event):
-        event.widget.configure(fg=self.__color_more_like_this_font_hover, font=Font(size=self.__font_size_default-1, underline=1))
+        event.widget.configure(fg=self.__color_more_like_this_font_hover,
+                               font=Font(size=self.__font_size_default - 1, underline=1))
 
     def _label_on_leave(self, event):
-        event.widget.configure(fg=self.__color_results_font, font=Font(size=self.__font_size_default, underline=0, weight='bold'))
+        event.widget.configure(fg=self.__color_results_font,
+                               font=Font(size=self.__font_size_default, underline=0, weight='bold'))
 
     def _label_more_on_leave(self, event):
-        event.widget.configure(fg=self.__color_more_like_this_font, font=Font(size=self.__font_size_default-1, underline=0))
+        event.widget.configure(fg=self.__color_more_like_this_font,
+                               font=Font(size=self.__font_size_default - 1, underline=0))
 
     def _add_label_result(self, father_frame, article_title=None, *args, **kwargs):
         label_result = Label(father_frame, *args, **kwargs)
@@ -154,18 +155,18 @@ class GuiHandler:
     def _add_label_highlight(self, father_frame, bounded_result, *args, **kwargs):
         label_highlight = Label(father_frame, *args, **kwargs)
 
-        #label_highlight.bind("<Button-1>", self._label_more_like_this_on_click)
-        #label_highlight.bind("<Enter>", self._label_more_on_enter)
-        #label_highlight.bind("<Leave>", self._label_more_on_leave)
+        # label_highlight.bind("<Button-1>", self._label_more_like_this_on_click)
+        # label_highlight.bind("<Enter>", self._label_more_on_enter)
+        # label_highlight.bind("<Leave>", self._label_more_on_leave)
 
-        #self.__label_more[label_more_like_this] = bounded_result
+        # self.__label_more[label_more_like_this] = bounded_result
 
         label_highlight.pack(anchor="w", expand=True)
 
     def _label_more_like_this_on_click(self, event):
         base_res = self.__label_more[event.widget]
         new_res = self.__searcher.get_similar_articles(base_res)
-        self.__results_management(base_res['title']+" (EXPANSION)", new_res)
+        self.__results_management(base_res['title'] + " (EXPANSION)", new_res)
 
     def _highlight_formatter(self, highlight_text):
         new_text = ''
@@ -173,12 +174,12 @@ class GuiHandler:
         for line in highlight_text.splitlines():
             i = 0
             while i * max_char < line.__len__():
-                new_text += line[i*max_char : (i+1)*max_char] + '\n'
-                i+=1
+                new_text += line[i * max_char: (i + 1) * max_char] + '\n'
+                i += 1
 
         # rimuovo l'ultimo newline
         if new_text[-1] == '\n':
-            new_text = new_text[:new_text.__len__() -1]
+            new_text = new_text[:new_text.__len__() - 1]
 
         return new_text
 
@@ -221,9 +222,8 @@ class GuiHandler:
                                                bg=self.__color_results_background,
                                                justify=LEFT,
                                                cursor="hand2",
-                                               font=Font(size=self.__font_size_default-1),
+                                               font=Font(size=self.__font_size_default - 1),
                                                fg=self.__color_more_like_this_font)
-                print(self.__searcher.get_result_highlights(res)+"\n\n")
-            Label(self.__frame_center_query_result, bg=self.__color_results_background, text=((" " * 1000) + ("\n" * 30)), justify=LEFT).pack()
-
-
+                print(self.__searcher.get_result_highlights(res) + "\n\n")
+            Label(self.__frame_center_query_result, bg=self.__color_results_background,
+                  text=((" " * 1000) + ("\n" * 30)), justify=LEFT).pack()

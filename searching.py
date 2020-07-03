@@ -1,15 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@author: riccardo
-"""
+
+import re
+
 from whoosh import highlight
 from whoosh.highlight import UppercaseFormatter
 from whoosh.index import EmptyIndexError, open_dir
 from whoosh.qparser import OrGroup, QueryParser
-from whoosh.searching import Results, Hit
 from whoosh.scoring import BM25F
-import re
+from whoosh.searching import Results, Hit
 
 from configuration import index_dir
 
@@ -29,7 +28,6 @@ class WikiSearcherModule:
         self.__searcher = self.__index.searcher(weighting=BM25F(B=0.50, K1=0.1))
         # Ottento un oggetto in grado che parsi le quary fornitegli e le indirizzi al campo "content" del nostro schema
         self.__parser = QueryParser("content", schema=self.__index.schema, group=OrGroup)
-        #self.__parser = QueryParser("content", schema=self.__index.schema)
 
     def commit_query(self, query_text, n_results=10):
 

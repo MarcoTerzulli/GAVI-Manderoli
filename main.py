@@ -1,15 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@author: riccardo
-"""
+
+from bz2 import BZ2File
+
 from whoosh.index import EmptyIndexError
 
-from indexing import WikiIndexerModule
 from configuration import xml_file
-from searching import WikiSearcherModule
 from gui_handler import GuiHandler
-from bz2 import BZ2File
+from indexing import WikiIndexerModule
+from searching import WikiSearcherModule
 
 # Verifico che main.py sia stato invocato come main del nostro programma
 try:
@@ -33,5 +32,3 @@ except EmptyIndexError:
 # Caricamento della gui
 print("LOADING THE GUI")
 GuiHandler(searcher).gui_loader()
-
-
