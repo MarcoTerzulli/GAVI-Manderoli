@@ -51,7 +51,8 @@ class WikiSearcherModule:
         return self.__results_setup(base_result.more_like_this('content'))
 
     def get_result_highlights(self, result):
-        highlights = self.__cleanhtml(result.highlights('content', top=3))
+        # Il parametro top definisce quanti "frammenti" restituire
+        highlights = self.__cleanhtml(result.highlights('content', top=2))
         highlights.format()
 
         return highlights
@@ -69,7 +70,9 @@ class WikiSearcherModule:
 
     @staticmethod
     def __results_setup(results):
+        # Charlimit indica entro quanti caratteri dall'inizio del file possono essere cercati frammenti
         results.fragmenter.charlimit = None
+        # Surround definisce la dimensione del contesto attorno al termine metchato per il frammento (snippet)
         results.fragmenter.surround = 20
         results.formatter = UppercaseFormatter()
         results.order = highlight.SCORE
