@@ -1,5 +1,5 @@
 # GAVI-Manderoli
-Progetto d'esame di Gestione dell'Informazione. A cura di Riccardo Mescoli e Marco Terzulli.
+Exam project of Gestione dell'Informazione. Developed by Riccardo Mescoli and Marco Terzulli.
 
 
 ## Getting Started
@@ -17,41 +17,58 @@ What things you need to install the software and how to install them
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+Unpack the zip archive and install the following libraries.
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+Whoosh installation
 
 ```
-until finished
+pip3 install whoosh
+```
+
+tkscrolledframe installation (needed by the GUI)
+
+```
+pip3 install tkscrolledframe
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+## Running the project
 
-Explain how to run the automated tests for this system
+You can either use the provided index or generate a new one.
 
-### Break down into end to end tests
+### Running using the provided index
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
+Simply run the project within an IDE or a terminal
 
 ```
-Give an example
+python main.py
 ```
+
+The GUI will be loaded.
+
+### Running generating a new index
+
+Delete the Wiki_index folder. Run the project within an IDE or a terminal 
+
+```
+python main.py
+```
+
+The indexing log will be printed in the console or terminal in real time.
+After the index is commited, the GUI will be loaded.
+
+### Submitting a query
+
+After the GUI is loaded, you will be able to submit the queries using the textbox in the top of the page. You can simply press the Enter button of the keyboard or left-click on the Search button with your mouse.
+
+### Opening a result
+
+After you have submitted a valid query, you can left-click on the result titles to open the respective Wikipedia article in your default browser.
+
+### Query Expansion
+
+After you have submitted a valid query, you can search for similar articles by left-click on the "More like this" button of a result.
 
 ## Deployment
 
@@ -59,9 +76,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [JetBrains Pycharm](https://www.jetbrains.com/pycharm/) - The IDE used for development and testing
+* [JetBrains Pycharm](https://www.jetbrains.com/pycharm/) - The IDE we used for development and testing
 * [Python](https://www.python.org/) - Programming Language
-* [Whoosh](https://pypi.org/project/Whoosh/) - Full Text Indexing and Search
+* [Whoosh](https://pypi.org/project/Whoosh/) - Used for Information Retrieval
 
 ## Authors
 

@@ -29,7 +29,6 @@
     <list default="true" id="bfd82261-b50d-4873-987d-89b985891572" name="Default Changelist" comment="Caratteri massimi snippet cambiati">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui_handler.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +154,7 @@
       <workItem from="1593818392137" duration="218000" />
       <workItem from="1593818874379" duration="844000" />
       <workItem from="1593870649931" duration="617000" />
-      <workItem from="1593874697596" duration="432000" />
+      <workItem from="1593874697596" duration="677000" />
     </task>
     <task id="LOCAL-00001" summary="Aggiunto metodo per generare snippet">
       <created>1593715244513</created>
