@@ -77,7 +77,12 @@ After you have submitted a valid query, you can search for similar articles by l
 * [Python](https://www.python.org/) - Programming Language
 * [Whoosh](https://pypi.org/project/Whoosh/) - Used for Information Retrieval
 
+
 ## Authors
 
 * **Riccardo Mescoli** 
 * **Marco Terzulli** 
+
+## Known Issues
+
+* After pressing the "More like this" button, the scrollbar position remains the same and the page is not bringed back to the start position. You have to manually scroll the page to see the first results.
