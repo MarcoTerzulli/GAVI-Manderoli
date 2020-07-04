@@ -1,5 +1,5 @@
 # GAVI-Manderoli
-Exam project of Gestione dell'Informazione. Developed by Riccardo Mescoli and Marco Terzulli.
+Exam project of Gestione dell'Informazione. Developed by **Riccardo Mescoli** and **Marco Terzulli**.
 
 
 ## Getting Started
@@ -70,9 +70,6 @@ After you have submitted a valid query, you can left-click on the result titles 
 
 After you have submitted a valid query, you can search for similar articles by left-click on the "More like this" button of a result.
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
@@ -82,7 +79,5 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
+* **Riccardo Mescoli** 
+* **Marco Terzulli** 
