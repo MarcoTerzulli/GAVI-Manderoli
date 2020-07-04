@@ -1,5 +1,5 @@
 # GAVI-Manderoli
-Exam project of Gestione dell'Informazione. Developed by **Riccardo Mescoli** and **Marco Terzulli**.
+Exam project of *Gestione dell'Informazione*. Developed by **Riccardo Mescoli** and **Marco Terzulli**.
 
 
 ## Getting Started
@@ -37,7 +37,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 You can either use the provided index or generate a new one.
 
-### Running using the provided index
+### Using the provided index
 
 Simply run the project within an IDE or a terminal
 
@@ -47,7 +47,7 @@ python main.py
 
 The GUI will be loaded.
 
-### Running generating a new index
+### Generating a new index
 
 Delete the Wiki_index folder. Run the project within an IDE or a terminal 
 
