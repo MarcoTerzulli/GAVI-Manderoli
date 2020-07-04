@@ -13,6 +13,7 @@ What things you need to install the software and how to install them
 ```
 * A Windows or Linux or MacOS based machine
 * Python 3.7+
+* Python Pip3
 ```
 
 ### Installing
