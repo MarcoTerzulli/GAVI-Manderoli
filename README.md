@@ -1,4 +1,4 @@
-# GAVI-Manderoli
+# WikiSearch - Exam project of Gestione dell'Informazione
 Exam project of *Gestione dell'Informazione*. Developed by **Riccardo Mescoli** and **Marco Terzulli**.
 
 
@@ -21,12 +21,14 @@ What things you need to install the software and how to install them
 Unpack the zip archive and install the following libraries.
 
 *Whoosh* installation
+Run the following command in a terminal:
 
 ```
 pip3 install whoosh
 ```
 
 *tkscrolledframe* installation (needed by the GUI)
+Run the following command in a terminal:
 
 ```
 pip3 install tkscrolledframe
@@ -85,4 +87,4 @@ After you have submitted a valid query, you can search for similar articles by l
 
 ## Known Issues
 
-* After pressing the "More like this" button under a result, the scrollbar position remains the same and the page is not bringed back to the start position. You have to manually scroll the page to see the first results.
+* After pressing the "More like this" button of a result, the scrollbar position remains the same and the page is not bringed back to the start position. You have to manually scroll the page to see the first results.
