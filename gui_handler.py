@@ -87,9 +87,6 @@ class GuiHandler:
 
         if len(query_text) > 0:
             # pulizia frame e dizionario label
-            # self.__frame_center_query_result = self.__frame_scrolled.display_widget(Frame)
-            # self.__frame_center_query_result = Frame(self.__frame_scrolled, bg=self.__color_background)
-
             self.__label_dict = dict()
             self.__label_more = dict()
 
@@ -154,13 +151,6 @@ class GuiHandler:
 
     def _add_label_highlight(self, father_frame, bounded_result, *args, **kwargs):
         label_highlight = Label(father_frame, *args, **kwargs)
-
-        # label_highlight.bind("<Button-1>", self._label_more_like_this_on_click)
-        # label_highlight.bind("<Enter>", self._label_more_on_enter)
-        # label_highlight.bind("<Leave>", self._label_more_on_leave)
-
-        # self.__label_more[label_more_like_this] = bounded_result
-
         label_highlight.pack(anchor="w", expand=True)
 
     def _label_more_like_this_on_click(self, event):
@@ -190,7 +180,7 @@ class GuiHandler:
 
         if len(query_results) == 0:
             self._add_label_result(father_frame=self.__frame_center_query_result,
-                                   text=f"La ricerca di - {query_text} - non ha prodotto risultati.",
+                                   text=f"Your search - {query_text} - did not match any documents.",
                                    bg=self.__color_results_background,
                                    justify=LEFT,
                                    font=Font(size=self.__font_size_default))
@@ -224,6 +214,5 @@ class GuiHandler:
                                                cursor="hand2",
                                                font=Font(size=self.__font_size_default - 1),
                                                fg=self.__color_more_like_this_font)
-                print(self.__searcher.get_result_highlights(res) + "\n\n")
             Label(self.__frame_center_query_result, bg=self.__color_results_background,
                   text=((" " * 1000) + ("\n" * 30)), justify=LEFT).pack()

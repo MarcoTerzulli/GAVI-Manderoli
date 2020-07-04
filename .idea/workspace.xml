@@ -27,99 +27,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfd82261-b50d-4873-987d-89b985891572" name="Default Changelist" comment="Caratteri massimi snippet cambiati">
-      <change beforePath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GAVI-Manderoli.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/99 balloons.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Apple.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Computer Programming.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/DNA.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Do gees see god.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Epigenetics.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Eye of Horus.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Financial meltdown.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Hollywood.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Justin Timberlake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Least Squares.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Madam I'm Adam.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Mars robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Maya.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Mean Average Precision.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Microsoft.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Much ado about nothing.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Page six.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Physics Nobel Prizes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Precision.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Read the manual.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Roman Empire.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Solar energy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Spanish Civil War.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Statistical Significance.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Steve Jobs.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/The Maya.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Triple Cross.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/Tuscany.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries_results_order/US Constitution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_evaluation_output/2020-06-02_20.55.39 1_OR - Data Export.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_evaluation_output/2020-06-02_20.55.39 1_OR - Precision_At_Recall_Levels.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_evaluation_output/2020-06-02_21.29.11 0_AND - Data Export.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_evaluation_output/2020-06-02_21.29.11 0_AND - Precision_At_Recall_Levels.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_evaluation_output/2020-06-09_07.44.24 2_Stemming - Data Export.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_evaluation_output/2020-06-09_07.44.24 2_Stemming - Precision_At_Recall_Levels.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_evaluation_output/2020-06-09_08.24.25 3_Keyword Extraction - Data Export.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_evaluation_output/2020-06-09_08.24.25 3_Keyword Extraction - Precision_At_Recall_Levels.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_evaluation_output/2020-07-03_00.46.26 3b_Word Sense Disambiguation V1 - Data Export.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_evaluation_output/2020-07-03_00.46.26 3b_Word Sense Disambiguation V1 - Precision_At_Recall_Levels.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_evaluation_output/2020-07-03_01.00.13 3b_Word Sense Disambiguation V1 - Data Export.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_evaluation_output/2020-07-03_01.00.13 3b_Word Sense Disambiguation V1 - Precision_At_Recall_Levels.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org 99 balloons.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Apple.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Computer Programming.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org DNA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Do gees see god.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Epigenetics.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Eye of Horus.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Financial meltdown.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Hollywood.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Justin Timberlake.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Least Squares.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Madam I'm Adam.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Mars robots.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Maya.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Mean Average Precision.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Microsoft.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Much ado about nothing.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Page six.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Physics Nobel Prizes.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Precision.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Read the manual.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Roman Empire.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Solar energy.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Spanish Civil War.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Statistical Significance.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Steve Jobs.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org The Maya.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Triple Cross.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org Tuscany.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/siteen.wikipedia.org US Constitution.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/test_relevant_titles.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_queries_csv_files/test_title_extractor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/evaluation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gui_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui_handler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/indexing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/old_xml_file_explor_DEBUG.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/old_xml_set.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/old_xml_snippet.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/old_xml_test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/searching.py" beforeDir="false" afterPath="$PROJECT_DIR$/searching.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_file_set_xml.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_file_set_xml_generator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_queries_results_order_generator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_relevant_titles.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_xml_downloader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_xml_merger.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tirocinio-Multitraccia-DB/TEST_Import_Export" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -243,6 +153,9 @@
       <workItem from="1593720101325" duration="1859000" />
       <workItem from="1593722272477" duration="2537000" />
       <workItem from="1593818392137" duration="218000" />
+      <workItem from="1593818874379" duration="844000" />
+      <workItem from="1593870649931" duration="617000" />
+      <workItem from="1593874697596" duration="432000" />
     </task>
     <task id="LOCAL-00001" summary="Aggiunto metodo per generare snippet">
       <created>1593715244513</created>
@@ -307,6 +220,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="949" y="207" key="#main/0.0.2560.1400@0.0.2560.1400" timestamp="1593818399615" />
+    <state x="1008" y="397" key="FileChooserDialogImpl" timestamp="1593870662924">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1008" y="397" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1593870662924" />
     <state width="2505" height="285" key="GridCell.Tab.0.bottom" timestamp="1593818609270">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
