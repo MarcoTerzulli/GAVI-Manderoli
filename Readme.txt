@@ -59,7 +59,7 @@ After you have submitted a valid query, you can left-click on the result titles 
 
 Query Expansion
 ---------------
-After you have submitted a valid query, you can search for similar articles by left-click on the "More like this" button of a result.
+After you have submitted a valid query, you can search for similar articles by left-clicking on the "More like this" button of a result.
 
 
 ==========
