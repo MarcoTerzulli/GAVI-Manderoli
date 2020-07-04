@@ -85,4 +85,4 @@ After you have submitted a valid query, you can search for similar articles by l
 
 ## Known Issues
 
-* After pressing the "More like this" button, the scrollbar position remains the same and the page is not bringed back to the start position. You have to manually scroll the page to see the first results.
+* After pressing the "More like this" button under a result, the scrollbar position remains the same and the page is not bringed back to the start position. You have to manually scroll the page to see the first results.
