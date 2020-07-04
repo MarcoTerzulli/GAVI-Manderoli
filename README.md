@@ -20,14 +20,14 @@ What things you need to install the software and how to install them
 
 1. Unpack the zip archive and install the following libraries.
 
-2. *Whoosh* installation
+2. *Whoosh* installation.
 Run the following command in a terminal:
 
 ```
 pip3 install whoosh
 ```
 
-3. *tkscrolledframe* installation (needed by the GUI)
+3. *tkscrolledframe* installation (needed by the GUI).
 Run the following command in a terminal:
 
 ```
