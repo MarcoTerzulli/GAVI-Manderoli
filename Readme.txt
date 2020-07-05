@@ -28,6 +28,12 @@ pip3 install whoosh
 Run the following command in a terminal:
 pip3 install tkscrolledframe
 
+4. LINUX ONLY tkinter installation (needed by the GUI).
+On some Linux distributions tkinter module will not be installed by default with Python3.
+Run the following command in a terminal as SuperUser:
+apt-get install python3-tk
+
+
 
 ===================
 Running the project
@@ -38,6 +44,8 @@ Using the provided index
 ------------------------
 Simply run the project within an IDE or a terminal:
 python main.py
+or 
+python3 main.py
 
 The GUI will be loaded.
 
@@ -49,6 +57,8 @@ Generating a new index
 ----------------------
 Delete the Wiki_index folder. Run the project within an IDE or a terminal:
 python main.py
+or 
+python3 main.py
 
 The indexing log will be printed in the console or terminal in real time.
 After the index is commited, the GUI will be loaded.
