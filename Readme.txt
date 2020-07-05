@@ -88,4 +88,4 @@ Known Issues
 * After pressing the "More like this" button of a result, the scrollbar position remains the same and the page is not bringed back to the start position. 
 You have to manually scroll the page to see the first results.
 * Pressing the left and right arrow keys of the keyboard will horizontally scroll the page, but a horizontal scrollbar is not going to appear.
-  This also happens if these keys are pressed in the query textbox.
+  This also happens if these keys are pressed inside the query textbox.
