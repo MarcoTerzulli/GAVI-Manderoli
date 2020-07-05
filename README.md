@@ -47,9 +47,10 @@ Simply run the project within an IDE or a terminal
 python main.py
 ```
 
-The GUI will be loaded.
+The GUI will be loaded.<br />
 **Common issue**: the previous command could raise an error (such as *"ValueError: unsupported pickle protocol*). 
-Whoosh indexes are operating system dependent; follow the next step to generate a new index.
+Whoosh indexes are operating system dependent: you are probably using a different than the one was used to generate it. 
+Follow the next step to generate a new index.
 
 ### Generating a new index
 
