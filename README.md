@@ -20,21 +20,21 @@ What things you need to install the software and how to install them
 
 1. Unpack the zip archive and install the following libraries.
 
-2. *Whoosh* installation.
+2. *Whoosh* installation.<br />
 Run the following command in a terminal:
 
 ```
 pip3 install whoosh
 ```
 
-3. *tkscrolledframe* installation (needed by the GUI).
+3. *tkscrolledframe* installation (needed by the GUI).<br />
 Run the following command in a terminal:
 
 ```
 pip3 install tkscrolledframe
 ```
 
-4. **Linux Only** *tkinter* installation (needed by the GUI).
+4. **Linux Only** *tkinter* installation (needed by the GUI).<br />
 On some Linux distributions tkinter module will not be installed by default with Python3.<br />
 Run the following command in a terminal as SuperUser:
 
@@ -76,7 +76,7 @@ or
 python3 main.py
 ```
 
-The indexing log will be printed in the console or terminal in real time.
+The indexing log will be printed in the console or terminal in real time.<br />
 After the index is commited, the GUI will be loaded.
 
 ### Submitting a query
