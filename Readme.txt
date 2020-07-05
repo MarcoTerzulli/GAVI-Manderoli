@@ -41,7 +41,7 @@ python main.py
 
 The GUI will be loaded.
 
-Common issue: the previous command could raise an error (such as "ValueError: unsupported pickle protocol). 
+Common issue: the previous command could raise an error (such as "ValueError: unsupported pickle protocol"). 
 Whoosh indexes are operating system dependent: you are probably using a different than the one was used to generate it. 
 Follow the next step to generate a new index.
 
@@ -87,3 +87,5 @@ Known Issues
 ============
 * After pressing the "More like this" button of a result, the scrollbar position remains the same and the page is not bringed back to the start position. 
 You have to manually scroll the page to see the first results.
+* Pressing the left and right arrow keys of the keyboard will horizontally scroll the page, but a horizontal scrollbar is not going to appear.
+  This also happens if these keys are pressed in the query textbox.
