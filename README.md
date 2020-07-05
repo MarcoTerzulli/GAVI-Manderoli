@@ -49,7 +49,7 @@ python main.py
 
 The GUI will be loaded.<br />
 **Common issue**: the previous command could raise an error (such as *"ValueError: unsupported pickle protocol*). 
-Whoosh indexes are operating system dependent: you are probably using a different than the one was used to generate it. 
+Whoosh indexes are operating system dependent: you are probably using a different operating system than the one was used to generate it. 
 Follow the next step to generate a new index.
 
 ### Generating a new index
