@@ -4,7 +4,7 @@ Exam project of *Gestione dell'Informazione*. Developed by **Riccardo Mescoli** 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for evaluation and testing purposes.
 
 ### Prerequisites
 
@@ -48,6 +48,8 @@ python main.py
 ```
 
 The GUI will be loaded.
+**Common issue**: the previous command could raise an error (such as *"ValueError: unsupported pickle protocol*). 
+Whoosh indexes are operating system dependent; follow the next step to generate a new index.
 
 ### Generating a new index
 
@@ -62,7 +64,8 @@ After the index is commited, the GUI will be loaded.
 
 ### Submitting a query
 
-After the GUI is loaded, you will be able to submit the queries using the textbox in the top of the page. You can simply press the Enter button of the keyboard or left-click on the Search button with your mouse.
+After the GUI is loaded, you will be able to submit the queries using the textbox in the top of the page. 
+You can simply press the Enter button of the keyboard or left-click on the Search button with your mouse.
 
 ### Opening a result
 

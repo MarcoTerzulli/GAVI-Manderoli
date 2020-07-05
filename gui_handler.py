@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import webbrowser
 from tkinter import *
 from tkinter.font import *
