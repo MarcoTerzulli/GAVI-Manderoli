@@ -49,7 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tirocinio-Multitraccia-DB/TEST_Import_Export" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -154,6 +154,7 @@
       <workItem from="1593874697596" duration="677000" />
       <workItem from="1593949694701" duration="2189000" />
       <workItem from="1594037007464" duration="9000" />
+      <workItem from="1594069714581" duration="1073000" />
     </task>
     <task id="LOCAL-00001" summary="Aggiunto metodo per generare snippet">
       <created>1593715244513</created>
@@ -222,25 +223,25 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1008" y="397" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1594037015156" />
-    <state width="2505" height="285" key="GridCell.Tab.0.bottom" timestamp="1593955802056">
+    <state width="2505" height="285" key="GridCell.Tab.0.bottom" timestamp="1594069961775">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2505" height="285" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1593955802056" />
+    <state width="2505" height="285" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1594069961775" />
     <state width="1320" height="224" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1593728629199" />
-    <state width="2505" height="285" key="GridCell.Tab.0.center" timestamp="1593955802056">
+    <state width="2505" height="285" key="GridCell.Tab.0.center" timestamp="1594069961775">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2505" height="285" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1593955802056" />
+    <state width="2505" height="285" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1594069961775" />
     <state width="1320" height="224" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1593728629198" />
-    <state width="2505" height="285" key="GridCell.Tab.0.left" timestamp="1593955802056">
+    <state width="2505" height="285" key="GridCell.Tab.0.left" timestamp="1594069961775">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2505" height="285" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1593955802056" />
+    <state width="2505" height="285" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1594069961775" />
     <state width="1320" height="224" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1593728629197" />
-    <state width="2505" height="285" key="GridCell.Tab.0.right" timestamp="1593955802056">
+    <state width="2505" height="285" key="GridCell.Tab.0.right" timestamp="1594069961775">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2505" height="285" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1593955802056" />
+    <state width="2505" height="285" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1594069961775" />
     <state width="1320" height="224" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1593728629198" />
     <state x="278" y="119" key="Vcs.Push.Dialog.v2" timestamp="1593725884707">
       <screen x="0" y="27" width="1366" height="741" />
@@ -250,6 +251,17 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="458" y="311" width="450" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1593725290620" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/indexing.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GAVI_Manderoli$searching.coverage" NAME="searching Coverage Results" MODIFIED="1593707020841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
