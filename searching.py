@@ -2,6 +2,9 @@
 # -*- coding: utf-8 -*-
 
 import re
+import shutil
+import sys
+from pathlib import Path
 
 from whoosh import highlight
 from whoosh.highlight import UppercaseFormatter
@@ -21,8 +24,18 @@ class WikiSearcherModule:
         try:
             self.__index = open_dir(index_dir)
         except (NameError, EmptyIndexError):
-            print("Warning: trying to open index's directory using the default directory name")
+            print("Warning: index not found. Trying to open index's directory using the default directory name")
             self.__index = open_dir("Wiki_index")
+        except (ValueError):
+            print("Warning: trying to read an unsupported index")
+            index_dir_path = Path(index_dir)
+            if index_dir_path.exists() and index_dir_path.is_dir():
+                shutil.rmtree(index_dir_path)
+                raise (EmptyIndexError)
+            else:
+                print(
+                    "ERROR: unable to delete \"Wiki_index\" directory. Please remove it manually and re-run the project")
+                sys.exit(-2)
 
         # Ottengo un oggetto searcher dall'indice appena aperto
         self.__searcher = self.__index.searcher(weighting=BM25F(B=0.50, K1=0.1))
